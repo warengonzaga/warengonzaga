@@ -36,11 +36,11 @@ Wanna see some of my future projects? Join today!
 ## :computer: Github Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#26](https://github.com//trackercli/covid19-tracker-cli/issues/26) in [trackercli/covid19-tracker-cli](https://github.com//trackercli/covid19-tracker-cli)
-2. 🗣 Commented on [#1096](https://github.com//animate-css/animate.css/issues/1096) in [animate-css/animate.css](https://github.com//animate-css/animate.css)
-3. 🗣 Commented on [#1097](https://github.com//animate-css/animate.css/issues/1097) in [animate-css/animate.css](https://github.com//animate-css/animate.css)
+1. 💪 Opened PR [#295](https://github.com//abhisheknaiidu/awesome-github-profile-readme/pull/295) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
+2. 🗣 Commented on [#26](https://github.com//trackercli/covid19-tracker-cli/issues/26) in [trackercli/covid19-tracker-cli](https://github.com//trackercli/covid19-tracker-cli)
+3. 🗣 Commented on [#1096](https://github.com//animate-css/animate.css/issues/1096) in [animate-css/animate.css](https://github.com//animate-css/animate.css)
 4. 🗣 Commented on [#1097](https://github.com//animate-css/animate.css/issues/1097) in [animate-css/animate.css](https://github.com//animate-css/animate.css)
-5. 🗣 Commented on [#1043](https://github.com//animate-css/animate.css/issues/1043) in [animate-css/animate.css](https://github.com//animate-css/animate.css)
+5. 🗣 Commented on [#1097](https://github.com//animate-css/animate.css/issues/1097) in [animate-css/animate.css](https://github.com//animate-css/animate.css)
 <!--END_SECTION:activity-->
 
 ## :zap: Github Stats
