@@ -17,8 +17,7 @@ I'm a part time open source developer and cybersecurity researcher from the Phil
 ## :earth_asia: My Community
 
 Wanna see some of my future projects? Join today!
-
-[![Community](https://discordapp.com/api/guilds/659684980137656340/widget.png?style=banner2)](https://bmc.xyz/l/wgofficialds)
+[![Community](https://discordapp.com/api/guilds/659684980137656340/widget.png?style=banner2)](https://bmc.xyz/l/wgofficialds) [![Community](https://discordapp.com/api/guilds/694612151444439081/widget.png?style=banner2)](https://discord.gg/6Gzxwtt)
 
 ---
 
