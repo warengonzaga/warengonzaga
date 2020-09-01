@@ -1,4 +1,4 @@
-# Hi, I'm Waren Gonzaga :coffee::computer::bulb:<3
+# Hi, I'm Waren Gonzaga (:coffee::computer::bulb::heart:)
 
 I'm a part time open source developer and cybersecurity researcher from the Philippines!
 
