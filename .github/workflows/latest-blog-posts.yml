@@ -1,5 +1,4 @@
 name: Latest Blog Posts
-
 on:
   schedule:
     # Runs every hour
@@ -7,9 +6,8 @@ on:
 
 jobs:
   update-readme-with-blog:
-    runs-on: ubuntu-latest
     name: Update this repo's README with latest blog posts
-    
+    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
