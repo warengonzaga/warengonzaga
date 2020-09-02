@@ -36,18 +36,18 @@ Wanna see some of my future projects? Join today!
 - [Animate.css v4 Update!](https://dev.to/warengonzaga/animate-css-v4-update-18m8)
 - [An open-source curl-based command line tracker for coronavirus or covid-19 with historical chart.](https://dev.to/warengonzaga/an-open-source-curl-based-command-line-tracker-for-coronavirus-or-covid-19-with-historical-chart-3op9)
 - [CURL request without protocol on expressJS server?](https://dev.to/warengonzaga/curl-request-without-protocol-on-expressjs-server-32op)
-- [How to Track Coronavirus Cases on Command Line](https://warengonzaga.com/coronavirus-tracker-on-command-line/)
-- [WiFi Passview for Windows OS](https://warengonzaga.com/wifi-passview-for-windows-os/)
+- [Coding Style?](https://dev.to/warengonzaga/coding-style-3p36)
+- [What are the challenges you encounter while learning computer programming?](https://dev.to/warengonzaga/what-are-the-challenges-you-encounter-while-learning-computer-programming-1ma3)
 <!-- BLOG-POST-LIST:END -->
 
 ## :computer: Github Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#295](https://github.com//abhisheknaiidu/awesome-github-profile-readme/pull/295) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
-2. 🗣 Commented on [#26](https://github.com//trackercli/covid19-tracker-cli/issues/26) in [trackercli/covid19-tracker-cli](https://github.com//trackercli/covid19-tracker-cli)
-3. 🗣 Commented on [#1096](https://github.com//animate-css/animate.css/issues/1096) in [animate-css/animate.css](https://github.com//animate-css/animate.css)
-4. 🗣 Commented on [#1097](https://github.com//animate-css/animate.css/issues/1097) in [animate-css/animate.css](https://github.com//animate-css/animate.css)
-5. 🗣 Commented on [#1097](https://github.com//animate-css/animate.css/issues/1097) in [animate-css/animate.css](https://github.com//animate-css/animate.css)
+1. 💪 Opened PR [#101](https://github.com//coderjojo/creative-profile-readme/pull/101) in [coderjojo/creative-profile-readme](https://github.com//coderjojo/creative-profile-readme)
+2. ❗️ Opened issue [#5048](https://github.com//timburgan/timburgan/issues/5048) in [timburgan/timburgan](https://github.com//timburgan/timburgan)
+3. 💪 Opened PR [#295](https://github.com//abhisheknaiidu/awesome-github-profile-readme/pull/295) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
+4. 🗣 Commented on [#26](https://github.com//trackercli/covid19-tracker-cli/issues/26) in [trackercli/covid19-tracker-cli](https://github.com//trackercli/covid19-tracker-cli)
+5. 🗣 Commented on [#1096](https://github.com//animate-css/animate.css/issues/1096) in [animate-css/animate.css](https://github.com//animate-css/animate.css)
 <!--END_SECTION:activity-->
 
 ## :zap: Github Stats
