@@ -43,11 +43,11 @@ Wanna see some of my future projects? Join today!
 ## :computer: Github Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#101](https://github.com//coderjojo/creative-profile-readme/pull/101) in [coderjojo/creative-profile-readme](https://github.com//coderjojo/creative-profile-readme)
-2. ❗️ Opened issue [#5048](https://github.com//timburgan/timburgan/issues/5048) in [timburgan/timburgan](https://github.com//timburgan/timburgan)
-3. 💪 Opened PR [#295](https://github.com//abhisheknaiidu/awesome-github-profile-readme/pull/295) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
-4. 🗣 Commented on [#26](https://github.com//trackercli/covid19-tracker-cli/issues/26) in [trackercli/covid19-tracker-cli](https://github.com//trackercli/covid19-tracker-cli)
-5. 🗣 Commented on [#1096](https://github.com//animate-css/animate.css/issues/1096) in [animate-css/animate.css](https://github.com//animate-css/animate.css)
+1. 💪 Opened PR [#4](https://github.com//jkga/me/pull/4) in [jkga/me](https://github.com//jkga/me)
+2. 💪 Opened PR [#101](https://github.com//coderjojo/creative-profile-readme/pull/101) in [coderjojo/creative-profile-readme](https://github.com//coderjojo/creative-profile-readme)
+3. ❗️ Opened issue [#5048](https://github.com//timburgan/timburgan/issues/5048) in [timburgan/timburgan](https://github.com//timburgan/timburgan)
+4. 💪 Opened PR [#295](https://github.com//abhisheknaiidu/awesome-github-profile-readme/pull/295) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
+5. 🗣 Commented on [#26](https://github.com//trackercli/covid19-tracker-cli/issues/26) in [trackercli/covid19-tracker-cli](https://github.com//trackercli/covid19-tracker-cli)
 <!--END_SECTION:activity-->
 
 ## :trophy: Github Awards
