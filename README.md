@@ -15,6 +15,13 @@ I'm a part time open source developer and cybersecurity researcher from the Phil
 
 [![Spotify](https://readme-spotify.warengonzaga.com/api/spotify)](https://open.spotify.com/user/vmt7lpqdatuelp2chw7ur2p2l)
 
+## :computer: Popular Projecs
+
+![COVID-19 Tracker CLI](https://readme-stats.warengonzaga.com/api/pin/?username=trackercli&repo=covid19-tracker-cli&show_owner=true) ![DaisyJS](https://readme-stats.warengonzaga.com/api/pin/?username=warengonzaga&repo=daisy.js&show_owner=true)<!-- 1st Line -->
+![WiFi Passview](https://readme-stats.warengonzaga.com/api/pin/?username=warengonzaga&repo=wifi-passview&show_owner=true) ![WP Disease Tracker](https://readme-stats.warengonzaga.com/api/pin/?username=warengonzaga&repo=wp-disease-tracker&show_owner=true)<!-- 2nd Line -->
+![ChillRadio Discord Bot](https://readme-stats.warengonzaga.com/api/pin/?username=warengonzaga&repo=chillradio-discord-bot&show_owner=true) ![WRN Cleaner](https://readme-stats.warengonzaga.com/api/pin/?username=warengonzaga&repo=wrn-cleaner&show_owner=true)<!-- 3rd Line -->
+![EmilyCSS](https://readme-stats.warengonzaga.com/api/pin/?username=warengonzaga&repo=emily.css&show_owner=true) ![ImNayeonCSS](https://readme-stats.warengonzaga.com/api/pin/?username=warengonzaga&repo=imnayeon.css&show_owner=true)<!-- 4th Line -->
+
 ## :wrench: Technologies
 
 ![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS3](https://img.icons8.com/color/30/css3.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)![NodeJS](https://img.icons8.com/color/30/nodejs.png)![PHP](https://img.icons8.com/color/30/php.png)![WordPress](https://img.icons8.com/color/30/wordpress.png)![SASS](https://img.icons8.com/color/30/sass.png)![NPM](https://img.icons8.com/color/30/npm.png)![Github](https://img.icons8.com/material-outlined/30/github.png)![Bitbucket](https://img.icons8.com/color/30/bitbucket.png)![Gitlab](https://img.icons8.com/color/30/gitlab.png)![Git](https://img.icons8.com/color/30/git.png)![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)![VueJS](https://img.icons8.com/color/30/vue-js.png)![Flutter](https://img.icons8.com/color/30/flutter.png)![ReactJS](https://img.icons8.com/color/30/react-native.png)![AngularJS](https://img.icons8.com/color/30/angularjs.png)![Windows](https://img.icons8.com/color/30/windows-10.png)![Ubuntu](https://img.icons8.com/color/30/ubuntu--v1.png)![Linux](https://img.icons8.com/color/30/linux.png)![Kali Linux](https://img.icons8.com/color/30/kali-linux.png)![Console](https://img.icons8.com/color/30/console.png)
@@ -25,8 +32,8 @@ I'm a part time open source developer and cybersecurity researcher from the Phil
 
 Wanna see some of my future projects? Join today!
 
-[![Community](https://discordapp.com/api/guilds/659684980137656340/widget.png?style=banner2)](https://bmc.xyz/l/wgofficialds)
-[![Community](https://discordapp.com/api/guilds/694612151444439081/widget.png?style=banner2)](https://discord.gg/6Gzxwtt)
+[![Community](https://discordapp.com/api/guilds/659684980137656340/widget.png?style=banner2)](https://discord.io/warengonzaga)
+[![Community](https://discordapp.com/api/guilds/694612151444439081/widget.png?style=banner2)](https://discord.io/trackercli)
 
 ---
 
@@ -60,4 +67,11 @@ Wanna see some of my future projects? Join today!
 
 ---
 
-:computer: with :heart: by **Waren Gonzaga** with **YHWH**
+:computer: with :heart: by **Waren Gonzaga** with **YHWH** :pray:
+
+[personal website]: https://warengonzaga.com
+[business website]: https://warengonzaga.co
+[facebook]: https://facebook.com/warengonzagaofficial
+[twitter]: https://twitter.com/warengonzaga
+[instagram]: https://instagram.com/warengonzagaofficial
+[youtube]: https://youtube.com/warengonzaga
