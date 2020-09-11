@@ -15,12 +15,14 @@ I'm a part time open source developer and cybersecurity researcher from the Phil
 
 [![Spotify](https://readme-spotify.warengonzaga.com/api/spotify)](https://open.spotify.com/user/vmt7lpqdatuelp2chw7ur2p2l)
 
-## :computer: Popular Projecs
+## :computer: Popular Projects
 
 ![COVID-19 Tracker CLI](https://readme-stats.warengonzaga.com/api/pin/?username=trackercli&repo=covid19-tracker-cli&show_owner=true) ![DaisyJS](https://readme-stats.warengonzaga.com/api/pin/?username=warengonzaga&repo=daisy.js&show_owner=true)<!-- 1st Line -->
 ![WiFi Passview](https://readme-stats.warengonzaga.com/api/pin/?username=warengonzaga&repo=wifi-passview&show_owner=true) ![WP Disease Tracker](https://readme-stats.warengonzaga.com/api/pin/?username=warengonzaga&repo=wp-disease-tracker&show_owner=true)<!-- 2nd Line -->
 ![ChillRadio Discord Bot](https://readme-stats.warengonzaga.com/api/pin/?username=warengonzaga&repo=chillradio-discord-bot&show_owner=true) ![WRN Cleaner](https://readme-stats.warengonzaga.com/api/pin/?username=warengonzaga&repo=wrn-cleaner&show_owner=true)<!-- 3rd Line -->
 ![EmilyCSS](https://readme-stats.warengonzaga.com/api/pin/?username=warengonzaga&repo=emily.css&show_owner=true) ![ImNayeonCSS](https://readme-stats.warengonzaga.com/api/pin/?username=warengonzaga&repo=imnayeon.css&show_owner=true)<!-- 4th Line -->
+
+[More projects...](https://github.com/warengonzaga/?tab=repositories)
 
 ## :wrench: Technologies
 
