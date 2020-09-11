@@ -17,10 +17,10 @@ I'm a part time open source developer and cybersecurity researcher from the Phil
 
 ## :computer: Popular Projects
 
-![COVID-19 Tracker CLI](https://readme-stats.warengonzaga.com/api/pin/?username=trackercli&repo=covid19-tracker-cli) ![DaisyJS](https://readme-stats.warengonzaga.com/api/pin/?username=warengonzaga&repo=daisy.js)<!-- 1st Line -->
-![WiFi Passview](https://readme-stats.warengonzaga.com/api/pin/?username=warengonzaga&repo=wifi-passview) ![WP Disease Tracker](https://readme-stats.warengonzaga.com/api/pin/?username=warengonzaga&repo=wp-disease-tracker)<!-- 2nd Line -->
-![ChillRadio Discord Bot](https://readme-stats.warengonzaga.com/api/pin/?username=warengonzaga&repo=chillradio-discord-bot) ![WRN Cleaner](https://readme-stats.warengonzaga.com/api/pin/?username=warengonzaga&repo=wrn-cleaner)<!-- 3rd Line -->
-![EmilyCSS](https://readme-stats.warengonzaga.com/api/pin/?username=warengonzaga&repo=emily.css) ![ImNayeonCSS](https://readme-stats.warengonzaga.com/api/pin/?username=warengonzaga&repo=imnayeon.css)<!-- 4th Line -->
+[![COVID-19 Tracker CLI](https://readme-stats.warengonzaga.com/api/pin/?username=trackercli&repo=covid19-tracker-cli)](https://github.com/trackercli/covid19-tracker-cli) [![DaisyJS](https://readme-stats.warengonzaga.com/api/pin/?username=warengonzaga&repo=daisy.js)](https://github.com/warengonzaga/daisy.js)<!-- 1st Line -->
+[![WiFi Passview](https://readme-stats.warengonzaga.com/api/pin/?username=warengonzaga&repo=wifi-passview)](https://github.com/warengonzaga/wifi-passview) [![WP Disease Tracker](https://readme-stats.warengonzaga.com/api/pin/?username=warengonzaga&repo=wp-disease-tracker)](https://github.com/warengonzaga/wp-disease-tracker)<!-- 2nd Line -->
+[![ChillRadio Discord Bot](https://readme-stats.warengonzaga.com/api/pin/?username=warengonzaga&repo=chillradio-discord-bot)](https://github.com/warengonzaga/chillradio-discord-bot) [![WRN Cleaner](https://readme-stats.warengonzaga.com/api/pin/?username=warengonzaga&repo=wrn-cleaner)](https://github.com/warengonzaga/wrn-cleaner)<!-- 3rd Line -->
+[![EmilyCSS](https://readme-stats.warengonzaga.com/api/pin/?username=warengonzaga&repo=emily.css)](https://github.com/warengonzaga/emily.css) [![ImNayeonCSS](https://readme-stats.warengonzaga.com/api/pin/?username=warengonzaga&repo=imnayeon.css)](https://github.com/warengonzaga/imnayeon.css)<!-- 4th Line -->
 
 [More projects...](https://github.com/warengonzaga/?tab=repositories)
 
