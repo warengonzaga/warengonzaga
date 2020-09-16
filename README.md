@@ -52,11 +52,11 @@ Wanna see some of my future projects? Join today!
 ## :computer: Github Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#477](https://github.com//mapbox/node-pre-gyp/issues/477) in [mapbox/node-pre-gyp](https://github.com//mapbox/node-pre-gyp)
-2. ❗️ Opened issue [#5401](https://github.com//timburgan/timburgan/issues/5401) in [timburgan/timburgan](https://github.com//timburgan/timburgan)
+1. 🗣 Commented on [#2](https://github.com//trackercli/pse-tracker-cli/issues/2) in [trackercli/pse-tracker-cli](https://github.com//trackercli/pse-tracker-cli)
+2. 🗣 Commented on [#2](https://github.com//trackercli/pse-tracker-cli/issues/2) in [trackercli/pse-tracker-cli](https://github.com//trackercli/pse-tracker-cli)
 3. 🗣 Commented on [#477](https://github.com//mapbox/node-pre-gyp/issues/477) in [mapbox/node-pre-gyp](https://github.com//mapbox/node-pre-gyp)
-4. 🗣 Commented on [#471](https://github.com//mapbox/node-pre-gyp/issues/471) in [mapbox/node-pre-gyp](https://github.com//mapbox/node-pre-gyp)
-5. 🗣 Commented on [#196](https://github.com//abhisheknaiidu/awesome-github-profile-readme/issues/196) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
+4. ❗️ Opened issue [#5401](https://github.com//timburgan/timburgan/issues/5401) in [timburgan/timburgan](https://github.com//timburgan/timburgan)
+5. 🗣 Commented on [#477](https://github.com//mapbox/node-pre-gyp/issues/477) in [mapbox/node-pre-gyp](https://github.com//mapbox/node-pre-gyp)
 <!--END_SECTION:activity-->
 
 ## :trophy: Github Awards
