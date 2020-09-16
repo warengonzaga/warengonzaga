@@ -1,4 +1,4 @@
-# Hi, I'm Waren Gonzaga (:coffee::computer::bulb::heart:)
+# Hi, I'm Waren Gonzaga (:coffee::computer::bulb::heart:) [![HitCount](http://hits.dwyl.com/warengonzaga/warengonzaga.svg)](http://hits.dwyl.com/warengonzaga/warengonzaga)
 
 I'm a part time open source developer and cybersecurity researcher from the Philippines!
 
