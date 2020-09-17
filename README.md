@@ -52,11 +52,11 @@ Wanna see some of my future projects? Join today!
 ## :computer: Github Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#16](https://github.com//timotejroiko/discord.js-light/issues/16) in [timotejroiko/discord.js-light](https://github.com//timotejroiko/discord.js-light)
-2. ❗️ Opened issue [#16](https://github.com//timotejroiko/discord.js-light/issues/16) in [timotejroiko/discord.js-light](https://github.com//timotejroiko/discord.js-light)
-3. 🗣 Commented on [#2](https://github.com//trackercli/pse-tracker-cli/issues/2) in [trackercli/pse-tracker-cli](https://github.com//trackercli/pse-tracker-cli)
-4. 🗣 Commented on [#2](https://github.com//trackercli/pse-tracker-cli/issues/2) in [trackercli/pse-tracker-cli](https://github.com//trackercli/pse-tracker-cli)
-5. 🗣 Commented on [#477](https://github.com//mapbox/node-pre-gyp/issues/477) in [mapbox/node-pre-gyp](https://github.com//mapbox/node-pre-gyp)
+1. ❗️ Closed issue [#16](https://github.com//timotejroiko/discord.js-light/issues/16) in [timotejroiko/discord.js-light](https://github.com//timotejroiko/discord.js-light)
+2. 🗣 Commented on [#16](https://github.com//timotejroiko/discord.js-light/issues/16) in [timotejroiko/discord.js-light](https://github.com//timotejroiko/discord.js-light)
+3. 🗣 Commented on [#16](https://github.com//timotejroiko/discord.js-light/issues/16) in [timotejroiko/discord.js-light](https://github.com//timotejroiko/discord.js-light)
+4. ❗️ Opened issue [#16](https://github.com//timotejroiko/discord.js-light/issues/16) in [timotejroiko/discord.js-light](https://github.com//timotejroiko/discord.js-light)
+5. 🗣 Commented on [#2](https://github.com//trackercli/pse-tracker-cli/issues/2) in [trackercli/pse-tracker-cli](https://github.com//trackercli/pse-tracker-cli)
 <!--END_SECTION:activity-->
 
 ## :trophy: Github Awards
