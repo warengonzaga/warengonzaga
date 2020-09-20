@@ -52,11 +52,11 @@ Wanna see some of my future projects? Join today!
 ## :computer: Github Activities
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#16](https://github.com//timotejroiko/discord.js-light/issues/16) in [timotejroiko/discord.js-light](https://github.com//timotejroiko/discord.js-light)
-2. 🗣 Commented on [#16](https://github.com//timotejroiko/discord.js-light/issues/16) in [timotejroiko/discord.js-light](https://github.com//timotejroiko/discord.js-light)
-3. 🗣 Commented on [#16](https://github.com//timotejroiko/discord.js-light/issues/16) in [timotejroiko/discord.js-light](https://github.com//timotejroiko/discord.js-light)
-4. ❗️ Opened issue [#16](https://github.com//timotejroiko/discord.js-light/issues/16) in [timotejroiko/discord.js-light](https://github.com//timotejroiko/discord.js-light)
-5. 🗣 Commented on [#2](https://github.com//trackercli/pse-tracker-cli/issues/2) in [trackercli/pse-tracker-cli](https://github.com//trackercli/pse-tracker-cli)
+1. 🗣 Commented on [#1009](https://github.com//animate-css/animate.css/issues/1009) in [animate-css/animate.css](https://github.com//animate-css/animate.css)
+2. 🗣 Commented on [#1119](https://github.com//animate-css/animate.css/issues/1119) in [animate-css/animate.css](https://github.com//animate-css/animate.css)
+3. 🗣 Commented on [#1118](https://github.com//animate-css/animate.css/issues/1118) in [animate-css/animate.css](https://github.com//animate-css/animate.css)
+4. 💪 Opened PR [#1120](https://github.com//animate-css/animate.css/pull/1120) in [animate-css/animate.css](https://github.com//animate-css/animate.css)
+5. ❗️ Closed issue [#16](https://github.com//timotejroiko/discord.js-light/issues/16) in [timotejroiko/discord.js-light](https://github.com//timotejroiko/discord.js-light)
 <!--END_SECTION:activity-->
 
 ## :trophy: Github Awards
