@@ -54,11 +54,11 @@ Wanna see some of my future projects? Join today!
 ## :computer: Github Activities
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#5401](https://github.com//timburgan/timburgan/issues/5401) in [timburgan/timburgan](https://github.com//timburgan/timburgan)
-2. 🗣 Commented on [#477](https://github.com//mapbox/node-pre-gyp/issues/477) in [mapbox/node-pre-gyp](https://github.com//mapbox/node-pre-gyp)
-3. 🗣 Commented on [#471](https://github.com//mapbox/node-pre-gyp/issues/471) in [mapbox/node-pre-gyp](https://github.com//mapbox/node-pre-gyp)
-4. 🗣 Commented on [#196](https://github.com//abhisheknaiidu/awesome-github-profile-readme/issues/196) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
-5. 💪 Opened PR [#1108](https://github.com//animate-css/animate.css/pull/1108) in [animate-css/animate.css](https://github.com//animate-css/animate.css)
+1. 🗣 Commented on [#1009](https://github.com//animate-css/animate.css/issues/1009) in [animate-css/animate.css](https://github.com//animate-css/animate.css)
+2. 🗣 Commented on [#1119](https://github.com//animate-css/animate.css/issues/1119) in [animate-css/animate.css](https://github.com//animate-css/animate.css)
+3. 🗣 Commented on [#1118](https://github.com//animate-css/animate.css/issues/1118) in [animate-css/animate.css](https://github.com//animate-css/animate.css)
+4. 💪 Opened PR [#1120](https://github.com//animate-css/animate.css/pull/1120) in [animate-css/animate.css](https://github.com//animate-css/animate.css)
+5. ❗️ Closed issue [#16](https://github.com//timotejroiko/discord.js-light/issues/16) in [timotejroiko/discord.js-light](https://github.com//timotejroiko/discord.js-light)
 <!--END_SECTION:activity-->
 
 ## :trophy: Github Awards
