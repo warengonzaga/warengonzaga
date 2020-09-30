@@ -54,9 +54,9 @@ Wanna see some of my future projects? Join today!
 ## :computer: Github Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#28](https://github.com/alexmigf/stock-locations-for-woocommerce/issues/28) in [alexmigf/stock-locations-for-woocommerce](https://github.com/alexmigf/stock-locations-for-woocommerce)
-2. 🗣 Commented on [#28](https://github.com/alexmigf/stock-locations-for-woocommerce/issues/28) in [alexmigf/stock-locations-for-woocommerce](https://github.com/alexmigf/stock-locations-for-woocommerce)
-3. 🗣 Commented on [#28](https://github.com/alexmigf/stock-locations-for-woocommerce/issues/28) in [alexmigf/stock-locations-for-woocommerce](https://github.com/alexmigf/stock-locations-for-woocommerce)
+1. 🗣 Commented on [#29](https://github.com/alexmigf/stock-locations-for-woocommerce/issues/29) in [alexmigf/stock-locations-for-woocommerce](https://github.com/alexmigf/stock-locations-for-woocommerce)
+2. 💪 Opened PR [#29](https://github.com/alexmigf/stock-locations-for-woocommerce/pull/29) in [alexmigf/stock-locations-for-woocommerce](https://github.com/alexmigf/stock-locations-for-woocommerce)
+3. 🗣 Commented on [#1131](https://github.com/animate-css/animate.css/issues/1131) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
 4. 🗣 Commented on [#28](https://github.com/alexmigf/stock-locations-for-woocommerce/issues/28) in [alexmigf/stock-locations-for-woocommerce](https://github.com/alexmigf/stock-locations-for-woocommerce)
 5. 🗣 Commented on [#28](https://github.com/alexmigf/stock-locations-for-woocommerce/issues/28) in [alexmigf/stock-locations-for-woocommerce](https://github.com/alexmigf/stock-locations-for-woocommerce)
 <!--END_SECTION:activity-->
