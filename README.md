@@ -54,11 +54,11 @@ Wanna see some of my future projects? Join today!
 ## :computer: Github Activities
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#28](https://github.com/alexmigf/stock-locations-for-woocommerce/issues/28) in [alexmigf/stock-locations-for-woocommerce](https://github.com/alexmigf/stock-locations-for-woocommerce)
-2. 🗣 Commented on [#50](https://github.com/vanila-io/wireflow/issues/50) in [vanila-io/wireflow](https://github.com/vanila-io/wireflow)
-3. ❗️ Opened issue [#6](https://github.com/vanila-io/wireflow-homepage/issues/6) in [vanila-io/wireflow-homepage](https://github.com/vanila-io/wireflow-homepage)
-4. 🗣 Commented on [#50](https://github.com/vanila-io/wireflow/issues/50) in [vanila-io/wireflow](https://github.com/vanila-io/wireflow)
-5. 🗣 Commented on [#1126](https://github.com/animate-css/animate.css/issues/1126) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+1. 🗣 Commented on [#28](https://github.com/alexmigf/stock-locations-for-woocommerce/issues/28) in [alexmigf/stock-locations-for-woocommerce](https://github.com/alexmigf/stock-locations-for-woocommerce)
+2. 🗣 Commented on [#28](https://github.com/alexmigf/stock-locations-for-woocommerce/issues/28) in [alexmigf/stock-locations-for-woocommerce](https://github.com/alexmigf/stock-locations-for-woocommerce)
+3. 🗣 Commented on [#28](https://github.com/alexmigf/stock-locations-for-woocommerce/issues/28) in [alexmigf/stock-locations-for-woocommerce](https://github.com/alexmigf/stock-locations-for-woocommerce)
+4. 🗣 Commented on [#28](https://github.com/alexmigf/stock-locations-for-woocommerce/issues/28) in [alexmigf/stock-locations-for-woocommerce](https://github.com/alexmigf/stock-locations-for-woocommerce)
+5. 🗣 Commented on [#28](https://github.com/alexmigf/stock-locations-for-woocommerce/issues/28) in [alexmigf/stock-locations-for-woocommerce](https://github.com/alexmigf/stock-locations-for-woocommerce)
 <!--END_SECTION:activity-->
 
 ## :trophy: Github Awards
