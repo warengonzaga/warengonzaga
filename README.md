@@ -44,11 +44,11 @@ Wanna see some of my future projects? Join today!
 ## :newspaper: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Codespaces](https://dev.to/warengonzaga/github-codespaces-1i8k)
 - [Animate.css v4 Update!](https://dev.to/warengonzaga/animate-css-v4-update-18m8)
 - [An open-source curl-based command line tracker for coronavirus or covid-19 with historical chart.](https://dev.to/warengonzaga/an-open-source-curl-based-command-line-tracker-for-coronavirus-or-covid-19-with-historical-chart-3op9)
 - [CURL request without protocol on expressJS server?](https://dev.to/warengonzaga/curl-request-without-protocol-on-expressjs-server-32op)
 - [How to Track Coronavirus Cases on Command Line](https://warengonzaga.com/coronavirus-tracker-on-command-line/)
-- [WiFi Passview for Windows OS](https://warengonzaga.com/wifi-passview-for-windows-os/)
 <!-- BLOG-POST-LIST:END -->
 
 ## :computer: Github Activities
