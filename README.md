@@ -54,11 +54,11 @@ Wanna see some of my future projects? Join today!
 ## :computer: Github Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#348](https://github.com/jayehernandez/letra-extension/pull/348) in [jayehernandez/letra-extension](https://github.com/jayehernandez/letra-extension)
-2. ❗️ Closed issue [#30](https://github.com/alexmigf/stock-locations-for-woocommerce/issues/30) in [alexmigf/stock-locations-for-woocommerce](https://github.com/alexmigf/stock-locations-for-woocommerce)
-3. 🗣 Commented on [#30](https://github.com/alexmigf/stock-locations-for-woocommerce/issues/30) in [alexmigf/stock-locations-for-woocommerce](https://github.com/alexmigf/stock-locations-for-woocommerce)
-4. ❗️ Opened issue [#30](https://github.com/alexmigf/stock-locations-for-woocommerce/issues/30) in [alexmigf/stock-locations-for-woocommerce](https://github.com/alexmigf/stock-locations-for-woocommerce)
-5. 🗣 Commented on [#29](https://github.com/alexmigf/stock-locations-for-woocommerce/issues/29) in [alexmigf/stock-locations-for-woocommerce](https://github.com/alexmigf/stock-locations-for-woocommerce)
+1. 🗣 Commented on [#6](https://github.com/vanila-io/wireflow-homepage/issues/6) in [vanila-io/wireflow-homepage](https://github.com/vanila-io/wireflow-homepage)
+2. 🗣 Commented on [#348](https://github.com/jayehernandez/letra-extension/issues/348) in [jayehernandez/letra-extension](https://github.com/jayehernandez/letra-extension)
+3. 💪 Opened PR [#348](https://github.com/jayehernandez/letra-extension/pull/348) in [jayehernandez/letra-extension](https://github.com/jayehernandez/letra-extension)
+4. ❗️ Closed issue [#30](https://github.com/alexmigf/stock-locations-for-woocommerce/issues/30) in [alexmigf/stock-locations-for-woocommerce](https://github.com/alexmigf/stock-locations-for-woocommerce)
+5. 🗣 Commented on [#30](https://github.com/alexmigf/stock-locations-for-woocommerce/issues/30) in [alexmigf/stock-locations-for-woocommerce](https://github.com/alexmigf/stock-locations-for-woocommerce)
 <!--END_SECTION:activity-->
 
 ## :trophy: Github Awards
