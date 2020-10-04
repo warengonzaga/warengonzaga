@@ -54,11 +54,11 @@ Wanna see some of my future projects? Join today!
 ## :computer: Github Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#47](https://github.com/trackercli/covid19-tracker-cli/issues/47) in [trackercli/covid19-tracker-cli](https://github.com/trackercli/covid19-tracker-cli)
-2. 🗣 Commented on [#52](https://github.com/jayehernandez/letra-extension/issues/52) in [jayehernandez/letra-extension](https://github.com/jayehernandez/letra-extension)
-3. 🗣 Commented on [#348](https://github.com/jayehernandez/letra-extension/issues/348) in [jayehernandez/letra-extension](https://github.com/jayehernandez/letra-extension)
-4. 🗣 Commented on [#6](https://github.com/vanila-io/wireflow-homepage/issues/6) in [vanila-io/wireflow-homepage](https://github.com/vanila-io/wireflow-homepage)
-5. 🗣 Commented on [#348](https://github.com/jayehernandez/letra-extension/issues/348) in [jayehernandez/letra-extension](https://github.com/jayehernandez/letra-extension)
+1. 🗣 Commented on [#348](https://github.com/jayehernandez/letra-extension/issues/348) in [jayehernandez/letra-extension](https://github.com/jayehernandez/letra-extension)
+2. 🎉 Merged PR [#1](https://github.com/WarenGonzaga/letra-extension/pull/1) in [WarenGonzaga/letra-extension](https://github.com/WarenGonzaga/letra-extension)
+3. 💪 Opened PR [#1](https://github.com/WarenGonzaga/letra-extension/pull/1) in [WarenGonzaga/letra-extension](https://github.com/WarenGonzaga/letra-extension)
+4. 🗣 Commented on [#47](https://github.com/trackercli/covid19-tracker-cli/issues/47) in [trackercli/covid19-tracker-cli](https://github.com/trackercli/covid19-tracker-cli)
+5. 🗣 Commented on [#52](https://github.com/jayehernandez/letra-extension/issues/52) in [jayehernandez/letra-extension](https://github.com/jayehernandez/letra-extension)
 <!--END_SECTION:activity-->
 
 ## :trophy: Github Awards
