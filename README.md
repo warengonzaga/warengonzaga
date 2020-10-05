@@ -54,11 +54,11 @@ Wanna see some of my future projects? Join today!
 ## :computer: Github Activities
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#47](https://github.com/trackercli/covid19-tracker-cli/issues/47) in [trackercli/covid19-tracker-cli](https://github.com/trackercli/covid19-tracker-cli)
-2. 🗣 Commented on [#47](https://github.com/trackercli/covid19-tracker-cli/issues/47) in [trackercli/covid19-tracker-cli](https://github.com/trackercli/covid19-tracker-cli)
-3. 🗣 Commented on [#348](https://github.com/jayehernandez/letra-extension/issues/348) in [jayehernandez/letra-extension](https://github.com/jayehernandez/letra-extension)
-4. 🎉 Merged PR [#1](https://github.com/WarenGonzaga/letra-extension/pull/1) in [WarenGonzaga/letra-extension](https://github.com/WarenGonzaga/letra-extension)
-5. 💪 Opened PR [#1](https://github.com/WarenGonzaga/letra-extension/pull/1) in [WarenGonzaga/letra-extension](https://github.com/WarenGonzaga/letra-extension)
+1. 🗣 Commented on [#47](https://github.com/trackercli/covid19-tracker-cli/issues/47) in [trackercli/covid19-tracker-cli](https://github.com/trackercli/covid19-tracker-cli)
+2. ❗️ Opened issue [#48](https://github.com/trackercli/covid19-tracker-cli/issues/48) in [trackercli/covid19-tracker-cli](https://github.com/trackercli/covid19-tracker-cli)
+3. ❗️ Closed issue [#47](https://github.com/trackercli/covid19-tracker-cli/issues/47) in [trackercli/covid19-tracker-cli](https://github.com/trackercli/covid19-tracker-cli)
+4. 🗣 Commented on [#47](https://github.com/trackercli/covid19-tracker-cli/issues/47) in [trackercli/covid19-tracker-cli](https://github.com/trackercli/covid19-tracker-cli)
+5. 🗣 Commented on [#348](https://github.com/jayehernandez/letra-extension/issues/348) in [jayehernandez/letra-extension](https://github.com/jayehernandez/letra-extension)
 <!--END_SECTION:activity-->
 
 ## :trophy: Github Awards
