@@ -44,21 +44,21 @@ Wanna see some of my future projects? Join today!
 ## :newspaper: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Codespaces](https://dev.to/warengonzaga/github-codespaces-1i8k)
 - [Animate.css v4 Update!](https://dev.to/warengonzaga/animate-css-v4-update-18m8)
 - [An open-source curl-based command line tracker for coronavirus or covid-19 with historical chart.](https://dev.to/warengonzaga/an-open-source-curl-based-command-line-tracker-for-coronavirus-or-covid-19-with-historical-chart-3op9)
 - [CURL request without protocol on expressJS server?](https://dev.to/warengonzaga/curl-request-without-protocol-on-expressjs-server-32op)
-- [How to Track Coronavirus Cases on Command Line](https://warengonzaga.com/coronavirus-tracker-on-command-line/)
-- [WiFi Passview for Windows OS](https://warengonzaga.com/wifi-passview-for-windows-os/)
+- [Coding Style?](https://dev.to/warengonzaga/coding-style-3p36)
 <!-- BLOG-POST-LIST:END -->
 
 ## :computer: Github Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1009](https://github.com//animate-css/animate.css/issues/1009) in [animate-css/animate.css](https://github.com//animate-css/animate.css)
-2. 🗣 Commented on [#1119](https://github.com//animate-css/animate.css/issues/1119) in [animate-css/animate.css](https://github.com//animate-css/animate.css)
-3. 🗣 Commented on [#1118](https://github.com//animate-css/animate.css/issues/1118) in [animate-css/animate.css](https://github.com//animate-css/animate.css)
-4. 💪 Opened PR [#1120](https://github.com//animate-css/animate.css/pull/1120) in [animate-css/animate.css](https://github.com//animate-css/animate.css)
-5. ❗️ Closed issue [#16](https://github.com//timotejroiko/discord.js-light/issues/16) in [timotejroiko/discord.js-light](https://github.com//timotejroiko/discord.js-light)
+1. 💪 Opened PR [#53](https://github.com/PufferPanel/templates/pull/53) in [PufferPanel/templates](https://github.com/PufferPanel/templates)
+2. 🗣 Commented on [#47](https://github.com/trackercli/covid19-tracker-cli/issues/47) in [trackercli/covid19-tracker-cli](https://github.com/trackercli/covid19-tracker-cli)
+3. ❗️ Opened issue [#48](https://github.com/trackercli/covid19-tracker-cli/issues/48) in [trackercli/covid19-tracker-cli](https://github.com/trackercli/covid19-tracker-cli)
+4. ❗️ Closed issue [#47](https://github.com/trackercli/covid19-tracker-cli/issues/47) in [trackercli/covid19-tracker-cli](https://github.com/trackercli/covid19-tracker-cli)
+5. 🗣 Commented on [#47](https://github.com/trackercli/covid19-tracker-cli/issues/47) in [trackercli/covid19-tracker-cli](https://github.com/trackercli/covid19-tracker-cli)
 <!--END_SECTION:activity-->
 
 ## :trophy: Github Awards
