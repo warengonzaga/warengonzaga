@@ -54,11 +54,11 @@ Wanna see some of my future projects? Join today!
 ## :computer: Github Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/PufferPanel/documentation/pull/2) in [PufferPanel/documentation](https://github.com/PufferPanel/documentation)
-2. 🗣 Commented on [#1](https://github.com/WarenGonzaga/buymeacoffee.js/issues/1) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
-3. 💪 Opened PR [#53](https://github.com/PufferPanel/templates/pull/53) in [PufferPanel/templates](https://github.com/PufferPanel/templates)
-4. 🗣 Commented on [#47](https://github.com/trackercli/covid19-tracker-cli/issues/47) in [trackercli/covid19-tracker-cli](https://github.com/trackercli/covid19-tracker-cli)
-5. ❗️ Opened issue [#48](https://github.com/trackercli/covid19-tracker-cli/issues/48) in [trackercli/covid19-tracker-cli](https://github.com/trackercli/covid19-tracker-cli)
+1. ❗️ Opened issue [#932](https://github.com/PufferPanel/PufferPanel/issues/932) in [PufferPanel/PufferPanel](https://github.com/PufferPanel/PufferPanel)
+2. 🗣 Commented on [#920](https://github.com/PufferPanel/PufferPanel/issues/920) in [PufferPanel/PufferPanel](https://github.com/PufferPanel/PufferPanel)
+3. 💪 Opened PR [#2](https://github.com/PufferPanel/documentation/pull/2) in [PufferPanel/documentation](https://github.com/PufferPanel/documentation)
+4. 🗣 Commented on [#1](https://github.com/WarenGonzaga/buymeacoffee.js/issues/1) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
+5. 💪 Opened PR [#53](https://github.com/PufferPanel/templates/pull/53) in [PufferPanel/templates](https://github.com/PufferPanel/templates)
 <!--END_SECTION:activity-->
 
 ## :trophy: Github Awards
