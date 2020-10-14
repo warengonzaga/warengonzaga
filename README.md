@@ -54,11 +54,11 @@ Wanna see some of my future projects? Join today!
 ## :computer: Github Activities
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#932](https://github.com/PufferPanel/PufferPanel/issues/932) in [PufferPanel/PufferPanel](https://github.com/PufferPanel/PufferPanel)
-2. 🗣 Commented on [#920](https://github.com/PufferPanel/PufferPanel/issues/920) in [PufferPanel/PufferPanel](https://github.com/PufferPanel/PufferPanel)
-3. 💪 Opened PR [#2](https://github.com/PufferPanel/documentation/pull/2) in [PufferPanel/documentation](https://github.com/PufferPanel/documentation)
-4. 🗣 Commented on [#1](https://github.com/WarenGonzaga/buymeacoffee.js/issues/1) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
-5. 💪 Opened PR [#53](https://github.com/PufferPanel/templates/pull/53) in [PufferPanel/templates](https://github.com/PufferPanel/templates)
+1. 🗣 Commented on [#85](https://github.com/mastercake10/TimeIsMoney/issues/85) in [mastercake10/TimeIsMoney](https://github.com/mastercake10/TimeIsMoney)
+2. ❗️ Opened issue [#932](https://github.com/PufferPanel/PufferPanel/issues/932) in [PufferPanel/PufferPanel](https://github.com/PufferPanel/PufferPanel)
+3. 🗣 Commented on [#920](https://github.com/PufferPanel/PufferPanel/issues/920) in [PufferPanel/PufferPanel](https://github.com/PufferPanel/PufferPanel)
+4. 💪 Opened PR [#2](https://github.com/PufferPanel/documentation/pull/2) in [PufferPanel/documentation](https://github.com/PufferPanel/documentation)
+5. 🗣 Commented on [#1](https://github.com/WarenGonzaga/buymeacoffee.js/issues/1) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
 <!--END_SECTION:activity-->
 
 ## :trophy: Github Awards
