@@ -54,11 +54,11 @@ Wanna see some of my future projects? Join today!
 ## :computer: Github Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#143](https://github.com/all-contributors/all-contributors/issues/143) in [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors)
-2. 🗣 Commented on [#264](https://github.com/saadpasta/developerFolio/issues/264) in [saadpasta/developerFolio](https://github.com/saadpasta/developerFolio)
-3. 🗣 Commented on [#165](https://github.com/saadpasta/developerFolio/issues/165) in [saadpasta/developerFolio](https://github.com/saadpasta/developerFolio)
-4. 🗣 Commented on [#195](https://github.com/saadpasta/developerFolio/issues/195) in [saadpasta/developerFolio](https://github.com/saadpasta/developerFolio)
-5. 🗣 Commented on [#213](https://github.com/saadpasta/developerFolio/issues/213) in [saadpasta/developerFolio](https://github.com/saadpasta/developerFolio)
+1. 🗣 Commented on [#260](https://github.com/saadpasta/developerFolio/issues/260) in [saadpasta/developerFolio](https://github.com/saadpasta/developerFolio)
+2. 🗣 Commented on [#260](https://github.com/saadpasta/developerFolio/issues/260) in [saadpasta/developerFolio](https://github.com/saadpasta/developerFolio)
+3. 🗣 Commented on [#260](https://github.com/saadpasta/developerFolio/issues/260) in [saadpasta/developerFolio](https://github.com/saadpasta/developerFolio)
+4. 🗣 Commented on [#190](https://github.com/saadpasta/developerFolio/issues/190) in [saadpasta/developerFolio](https://github.com/saadpasta/developerFolio)
+5. 🗣 Commented on [#165](https://github.com/saadpasta/developerFolio/issues/165) in [saadpasta/developerFolio](https://github.com/saadpasta/developerFolio)
 <!--END_SECTION:activity-->
 
 ## :trophy: Github Awards
