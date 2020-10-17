@@ -54,11 +54,11 @@ Wanna see some of my future projects? Join today!
 ## :computer: Github Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8](https://github.com/mahowa/Covid-19-d3/issues/8) in [mahowa/Covid-19-d3](https://github.com/mahowa/Covid-19-d3)
-2. 🗣 Commented on [#3](https://github.com/mahowa/Covid-19-d3/issues/3) in [mahowa/Covid-19-d3](https://github.com/mahowa/Covid-19-d3)
-3. 🗣 Commented on [#213](https://github.com/saadpasta/developerFolio/issues/213) in [saadpasta/developerFolio](https://github.com/saadpasta/developerFolio)
+1. 🗣 Commented on [#143](https://github.com/all-contributors/all-contributors/issues/143) in [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors)
+2. 🗣 Commented on [#8](https://github.com/mahowa/Covid-19-d3/issues/8) in [mahowa/Covid-19-d3](https://github.com/mahowa/Covid-19-d3)
+3. 🗣 Commented on [#3](https://github.com/mahowa/Covid-19-d3/issues/3) in [mahowa/Covid-19-d3](https://github.com/mahowa/Covid-19-d3)
 4. 🗣 Commented on [#213](https://github.com/saadpasta/developerFolio/issues/213) in [saadpasta/developerFolio](https://github.com/saadpasta/developerFolio)
-5. 🗣 Commented on [#3](https://github.com/mahowa/Covid-19-d3/issues/3) in [mahowa/Covid-19-d3](https://github.com/mahowa/Covid-19-d3)
+5. 🗣 Commented on [#213](https://github.com/saadpasta/developerFolio/issues/213) in [saadpasta/developerFolio](https://github.com/saadpasta/developerFolio)
 <!--END_SECTION:activity-->
 
 ## :trophy: Github Awards
