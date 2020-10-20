@@ -54,11 +54,11 @@ Wanna see some of my future projects? Join today!
 ## :computer: Github Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#163](https://github.com/mjkaufer/Messer/issues/163) in [mjkaufer/Messer](https://github.com/mjkaufer/Messer)
-2. ❗️ Opened issue [#37](https://github.com/alexmigf/stock-locations-for-woocommerce/issues/37) in [alexmigf/stock-locations-for-woocommerce](https://github.com/alexmigf/stock-locations-for-woocommerce)
-3. 🗣 Commented on [#35](https://github.com/alexmigf/stock-locations-for-woocommerce/issues/35) in [alexmigf/stock-locations-for-woocommerce](https://github.com/alexmigf/stock-locations-for-woocommerce)
-4. 🗣 Commented on [#3](https://github.com/mahowa/Covid-19-d3/issues/3) in [mahowa/Covid-19-d3](https://github.com/mahowa/Covid-19-d3)
-5. 🗣 Commented on [#27](https://github.com/alexmigf/stock-locations-for-woocommerce/issues/27) in [alexmigf/stock-locations-for-woocommerce](https://github.com/alexmigf/stock-locations-for-woocommerce)
+1. ❗️ Opened issue [#2](https://github.com/WarenGonzaga/buymeacoffee.js/issues/2) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
+2. 🗣 Commented on [#163](https://github.com/mjkaufer/Messer/issues/163) in [mjkaufer/Messer](https://github.com/mjkaufer/Messer)
+3. ❗️ Opened issue [#37](https://github.com/alexmigf/stock-locations-for-woocommerce/issues/37) in [alexmigf/stock-locations-for-woocommerce](https://github.com/alexmigf/stock-locations-for-woocommerce)
+4. 🗣 Commented on [#35](https://github.com/alexmigf/stock-locations-for-woocommerce/issues/35) in [alexmigf/stock-locations-for-woocommerce](https://github.com/alexmigf/stock-locations-for-woocommerce)
+5. 🗣 Commented on [#3](https://github.com/mahowa/Covid-19-d3/issues/3) in [mahowa/Covid-19-d3](https://github.com/mahowa/Covid-19-d3)
 <!--END_SECTION:activity-->
 
 ## :trophy: Github Awards
