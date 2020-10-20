@@ -54,11 +54,11 @@ Wanna see some of my future projects? Join today!
 ## :computer: Github Activities
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#6](https://github.com/WarenGonzaga/buymeacoffee.js/issues/6) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
-2. ❗️ Opened issue [#5](https://github.com/WarenGonzaga/buymeacoffee.js/issues/5) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
-3. ❗️ Opened issue [#4](https://github.com/WarenGonzaga/buymeacoffee.js/issues/4) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
-4. ❗️ Closed issue [#1](https://github.com/WarenGonzaga/buymeacoffee.js/issues/1) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
-5. 🗣 Commented on [#1](https://github.com/WarenGonzaga/buymeacoffee.js/issues/1) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
+1. ❗️ Opened issue [#2](https://github.com/WarenGonzaga/wrn-fix-it/issues/2) in [WarenGonzaga/wrn-fix-it](https://github.com/WarenGonzaga/wrn-fix-it)
+2. ❗️ Opened issue [#1](https://github.com/WarenGonzaga/wrn-fix-it/issues/1) in [WarenGonzaga/wrn-fix-it](https://github.com/WarenGonzaga/wrn-fix-it)
+3. ❗️ Opened issue [#6](https://github.com/WarenGonzaga/buymeacoffee.js/issues/6) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
+4. ❗️ Opened issue [#5](https://github.com/WarenGonzaga/buymeacoffee.js/issues/5) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
+5. ❗️ Opened issue [#4](https://github.com/WarenGonzaga/buymeacoffee.js/issues/4) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
 <!--END_SECTION:activity-->
 
 ## :trophy: Github Awards
