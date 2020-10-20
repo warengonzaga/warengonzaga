@@ -56,9 +56,9 @@ Wanna see some of my future projects? Join today!
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#37](https://github.com/alexmigf/stock-locations-for-woocommerce/issues/37) in [alexmigf/stock-locations-for-woocommerce](https://github.com/alexmigf/stock-locations-for-woocommerce)
 2. 🗣 Commented on [#37](https://github.com/alexmigf/stock-locations-for-woocommerce/issues/37) in [alexmigf/stock-locations-for-woocommerce](https://github.com/alexmigf/stock-locations-for-woocommerce)
-3. ❗️ Opened issue [#2](https://github.com/WarenGonzaga/wrn-fix-it/issues/2) in [WarenGonzaga/wrn-fix-it](https://github.com/WarenGonzaga/wrn-fix-it)
-4. ❗️ Opened issue [#1](https://github.com/WarenGonzaga/wrn-fix-it/issues/1) in [WarenGonzaga/wrn-fix-it](https://github.com/WarenGonzaga/wrn-fix-it)
-5. ❗️ Opened issue [#6](https://github.com/WarenGonzaga/buymeacoffee.js/issues/6) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
+3. 🗣 Commented on [#37](https://github.com/alexmigf/stock-locations-for-woocommerce/issues/37) in [alexmigf/stock-locations-for-woocommerce](https://github.com/alexmigf/stock-locations-for-woocommerce)
+4. ❗️ Opened issue [#2](https://github.com/WarenGonzaga/wrn-fix-it/issues/2) in [WarenGonzaga/wrn-fix-it](https://github.com/WarenGonzaga/wrn-fix-it)
+5. ❗️ Opened issue [#1](https://github.com/WarenGonzaga/wrn-fix-it/issues/1) in [WarenGonzaga/wrn-fix-it](https://github.com/WarenGonzaga/wrn-fix-it)
 <!--END_SECTION:activity-->
 
 ## :trophy: Github Awards
