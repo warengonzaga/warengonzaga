@@ -54,11 +54,11 @@ Wanna see some of my future projects? Join today!
 ## :computer: Github Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#37](https://github.com/alexmigf/stock-locations-for-woocommerce/issues/37) in [alexmigf/stock-locations-for-woocommerce](https://github.com/alexmigf/stock-locations-for-woocommerce)
-2. 🗣 Commented on [#37](https://github.com/alexmigf/stock-locations-for-woocommerce/issues/37) in [alexmigf/stock-locations-for-woocommerce](https://github.com/alexmigf/stock-locations-for-woocommerce)
+1. 🗣 Commented on [#11](https://github.com/mahowa/Covid-19-d3/issues/11) in [mahowa/Covid-19-d3](https://github.com/mahowa/Covid-19-d3)
+2. 🗣 Commented on [#8](https://github.com/mahowa/Covid-19-d3/issues/8) in [mahowa/Covid-19-d3](https://github.com/mahowa/Covid-19-d3)
 3. 🗣 Commented on [#37](https://github.com/alexmigf/stock-locations-for-woocommerce/issues/37) in [alexmigf/stock-locations-for-woocommerce](https://github.com/alexmigf/stock-locations-for-woocommerce)
-4. ❗️ Opened issue [#2](https://github.com/WarenGonzaga/wrn-fix-it/issues/2) in [WarenGonzaga/wrn-fix-it](https://github.com/WarenGonzaga/wrn-fix-it)
-5. ❗️ Opened issue [#1](https://github.com/WarenGonzaga/wrn-fix-it/issues/1) in [WarenGonzaga/wrn-fix-it](https://github.com/WarenGonzaga/wrn-fix-it)
+4. 🗣 Commented on [#37](https://github.com/alexmigf/stock-locations-for-woocommerce/issues/37) in [alexmigf/stock-locations-for-woocommerce](https://github.com/alexmigf/stock-locations-for-woocommerce)
+5. 🗣 Commented on [#37](https://github.com/alexmigf/stock-locations-for-woocommerce/issues/37) in [alexmigf/stock-locations-for-woocommerce](https://github.com/alexmigf/stock-locations-for-woocommerce)
 <!--END_SECTION:activity-->
 
 ## :trophy: Github Awards
