@@ -54,11 +54,11 @@ Wanna see some of my future projects? Join today!
 ## :computer: Github Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10](https://github.com/mahowa/Covid-19-d3/issues/10) in [mahowa/Covid-19-d3](https://github.com/mahowa/Covid-19-d3)
-2. 🗣 Commented on [#7](https://github.com/WarenGonzaga/buymeacoffee.js/issues/7) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
-3. 🗣 Commented on [#6](https://github.com/WarenGonzaga/buymeacoffee.js/issues/6) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
-4. 🗣 Commented on [#11](https://github.com/mahowa/Covid-19-d3/issues/11) in [mahowa/Covid-19-d3](https://github.com/mahowa/Covid-19-d3)
-5. 🗣 Commented on [#8](https://github.com/mahowa/Covid-19-d3/issues/8) in [mahowa/Covid-19-d3](https://github.com/mahowa/Covid-19-d3)
+1. 🗣 Commented on [#7](https://github.com/WarenGonzaga/buymeacoffee.js/issues/7) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
+2. ❗️ Opened issue [#8](https://github.com/WarenGonzaga/buymeacoffee.js/issues/8) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
+3. 🗣 Commented on [#10](https://github.com/mahowa/Covid-19-d3/issues/10) in [mahowa/Covid-19-d3](https://github.com/mahowa/Covid-19-d3)
+4. 🗣 Commented on [#7](https://github.com/WarenGonzaga/buymeacoffee.js/issues/7) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
+5. 🗣 Commented on [#6](https://github.com/WarenGonzaga/buymeacoffee.js/issues/6) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
 <!--END_SECTION:activity-->
 
 ## :trophy: Github Awards
