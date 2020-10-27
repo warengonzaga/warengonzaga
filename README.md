@@ -54,11 +54,11 @@ Wanna see some of my future projects? Join today!
 ## :computer: Github Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/WarenGonzaga/buymeacoffee.js/issues/9) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
-2. ❗️ Closed issue [#2](https://github.com/WarenGonzaga/buymeacoffee.js/issues/2) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
-3. 🗣 Commented on [#2](https://github.com/WarenGonzaga/buymeacoffee.js/issues/2) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
-4. ❗️ Opened issue [#10](https://github.com/WarenGonzaga/buymeacoffee.js/issues/10) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
-5. 🗣 Commented on [#2](https://github.com/WarenGonzaga/buymeacoffee.js/issues/2) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
+1. ❗️ Opened issue [#2](https://github.com/WarenGonzaga/daisy.js/issues/2) in [WarenGonzaga/daisy.js](https://github.com/WarenGonzaga/daisy.js)
+2. 🗣 Commented on [#9](https://github.com/WarenGonzaga/buymeacoffee.js/issues/9) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
+3. ❗️ Closed issue [#2](https://github.com/WarenGonzaga/buymeacoffee.js/issues/2) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
+4. 🗣 Commented on [#2](https://github.com/WarenGonzaga/buymeacoffee.js/issues/2) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
+5. ❗️ Opened issue [#10](https://github.com/WarenGonzaga/buymeacoffee.js/issues/10) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
 <!--END_SECTION:activity-->
 
 ## :trophy: Github Awards
