@@ -54,11 +54,11 @@ Wanna see some of my future projects? Join today!
 ## :computer: Github Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12](https://github.com/WarenGonzaga/buymeacoffee.js/issues/12) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
-2. ❗️ Closed issue [#5](https://github.com/WarenGonzaga/buymeacoffee.js/issues/5) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
-3. ❗️ Opened issue [#3782](https://github.com/simple-icons/simple-icons/issues/3782) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-4. 🗣 Commented on [#10](https://github.com/WarenGonzaga/buymeacoffee.js/issues/10) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
-5. 🗣 Commented on [#10](https://github.com/WarenGonzaga/buymeacoffee.js/issues/10) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
+1. ❗️ Opened issue [#230](https://github.com/WooMinecraft/WooMinecraft/issues/230) in [WooMinecraft/WooMinecraft](https://github.com/WooMinecraft/WooMinecraft)
+2. 🗣 Commented on [#210](https://github.com/WooMinecraft/WooMinecraft/issues/210) in [WooMinecraft/WooMinecraft](https://github.com/WooMinecraft/WooMinecraft)
+3. 🗣 Commented on [#12](https://github.com/WarenGonzaga/buymeacoffee.js/issues/12) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
+4. ❗️ Closed issue [#5](https://github.com/WarenGonzaga/buymeacoffee.js/issues/5) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
+5. ❗️ Opened issue [#3782](https://github.com/simple-icons/simple-icons/issues/3782) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
 <!--END_SECTION:activity-->
 
 ## :trophy: Github Awards
