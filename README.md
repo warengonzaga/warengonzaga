@@ -54,11 +54,11 @@ Wanna see some of my future projects? Join today!
 ## :computer: Github Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#263](https://github.com/saadpasta/developerFolio/issues/263) in [saadpasta/developerFolio](https://github.com/saadpasta/developerFolio)
-2. 🗣 Commented on [#2324](https://github.com/cli/cli/issues/2324) in [cli/cli](https://github.com/cli/cli)
-3. 🗣 Commented on [#11](https://github.com/mahowa/Covid-19-d3/issues/11) in [mahowa/Covid-19-d3](https://github.com/mahowa/Covid-19-d3)
-4. 🗣 Commented on [#87](https://github.com/mahowa/Covid-19-d3/issues/87) in [mahowa/Covid-19-d3](https://github.com/mahowa/Covid-19-d3)
-5. 💪 Opened PR [#87](https://github.com/mahowa/Covid-19-d3/pull/87) in [mahowa/Covid-19-d3](https://github.com/mahowa/Covid-19-d3)
+1. 🗣 Commented on [#66](https://github.com/simonwhitaker/github-fork-ribbon-css/issues/66) in [simonwhitaker/github-fork-ribbon-css](https://github.com/simonwhitaker/github-fork-ribbon-css)
+2. 🗣 Commented on [#69](https://github.com/simonwhitaker/github-fork-ribbon-css/issues/69) in [simonwhitaker/github-fork-ribbon-css](https://github.com/simonwhitaker/github-fork-ribbon-css)
+3. 🗣 Commented on [#70](https://github.com/simonwhitaker/github-fork-ribbon-css/issues/70) in [simonwhitaker/github-fork-ribbon-css](https://github.com/simonwhitaker/github-fork-ribbon-css)
+4. 🗣 Commented on [#70](https://github.com/simonwhitaker/github-fork-ribbon-css/issues/70) in [simonwhitaker/github-fork-ribbon-css](https://github.com/simonwhitaker/github-fork-ribbon-css)
+5. 🗣 Commented on [#263](https://github.com/saadpasta/developerFolio/issues/263) in [saadpasta/developerFolio](https://github.com/saadpasta/developerFolio)
 <!--END_SECTION:activity-->
 
 ## :trophy: Github Awards
