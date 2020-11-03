@@ -41,7 +41,10 @@ Wanna see some of my future projects? Join today!
 
 ---
 
-## :newspaper: Latest Blog Posts
+<!-- markdownlint-disable MD033 -->
+
+<details>
+    <summary>&#128240 Latest Blogs Posts</summary>
 
 <!-- BLOG-POST-LIST:START -->
 - [GitHub Codespaces](https://dev.to/warengonzaga/github-codespaces-1i8k)
@@ -51,7 +54,10 @@ Wanna see some of my future projects? Join today!
 - [Coding Style?](https://dev.to/warengonzaga/coding-style-3p36)
 <!-- BLOG-POST-LIST:END -->
 
-## :computer: Github Activities
+</details>
+
+<details>
+    <summary>&#128187 GitHub Activities</summary>
 
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#53](https://github.com/PufferPanel/templates/pull/53) in [PufferPanel/templates](https://github.com/PufferPanel/templates)
@@ -61,13 +67,23 @@ Wanna see some of my future projects? Join today!
 5. 🗣 Commented on [#47](https://github.com/trackercli/covid19-tracker-cli/issues/47) in [trackercli/covid19-tracker-cli](https://github.com/trackercli/covid19-tracker-cli)
 <!--END_SECTION:activity-->
 
-## :trophy: Github Awards
+</details>
+
+<details>
+    <summary>&#127942 GitHub Awards</summary>
 
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=warengonzaga)
 
-## :zap: Github Stats
+</details>
+
+<details>
+    <summary>&#9889 GitHub Stats</summary>
 
 [![Waren Gonzaga Github Stats](https://readme-stats.warengonzaga.com/api?username=warengonzaga&show_icons=true&count_private=true)](https://github.com/warengonzaga/github-readme-stats)
+
+</details>
+
+<!-- markdownlint-enable MD033 -->
 
 ---
 
