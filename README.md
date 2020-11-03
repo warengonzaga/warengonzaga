@@ -60,11 +60,11 @@ Wanna see some of my future projects? Join today!
     <summary>&#128187 GitHub Activities</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#53](https://github.com/PufferPanel/templates/pull/53) in [PufferPanel/templates](https://github.com/PufferPanel/templates)
-2. 🗣 Commented on [#47](https://github.com/trackercli/covid19-tracker-cli/issues/47) in [trackercli/covid19-tracker-cli](https://github.com/trackercli/covid19-tracker-cli)
-3. ❗️ Opened issue [#48](https://github.com/trackercli/covid19-tracker-cli/issues/48) in [trackercli/covid19-tracker-cli](https://github.com/trackercli/covid19-tracker-cli)
-4. ❗️ Closed issue [#47](https://github.com/trackercli/covid19-tracker-cli/issues/47) in [trackercli/covid19-tracker-cli](https://github.com/trackercli/covid19-tracker-cli)
-5. 🗣 Commented on [#47](https://github.com/trackercli/covid19-tracker-cli/issues/47) in [trackercli/covid19-tracker-cli](https://github.com/trackercli/covid19-tracker-cli)
+1. ❗️ Opened issue [#1](https://github.com/brettz9/integrity-matters/issues/1) in [brettz9/integrity-matters](https://github.com/brettz9/integrity-matters)
+2. ❗️ Opened issue [#3801](https://github.com/simple-icons/simple-icons/issues/3801) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+3. ❗️ Opened issue [#4](https://github.com/WarenGonzaga/fork-corner/issues/4) in [WarenGonzaga/fork-corner](https://github.com/WarenGonzaga/fork-corner)
+4. ❗️ Opened issue [#3](https://github.com/WarenGonzaga/fork-corner/issues/3) in [WarenGonzaga/fork-corner](https://github.com/WarenGonzaga/fork-corner)
+5. ❗️ Opened issue [#2](https://github.com/WarenGonzaga/fork-corner/issues/2) in [WarenGonzaga/fork-corner](https://github.com/WarenGonzaga/fork-corner)
 <!--END_SECTION:activity-->
 
 </details>
