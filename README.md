@@ -60,11 +60,11 @@ Wanna see some of my future projects? Join today!
     <summary>&#128187 GitHub Activities</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#13](https://github.com/WarenGonzaga/buymeacoffee.js/issues/13) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
-2. ❗️ Opened issue [#1](https://github.com/brettz9/integrity-matters/issues/1) in [brettz9/integrity-matters](https://github.com/brettz9/integrity-matters)
-3. ❗️ Opened issue [#3801](https://github.com/simple-icons/simple-icons/issues/3801) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-4. ❗️ Opened issue [#4](https://github.com/WarenGonzaga/fork-corner/issues/4) in [WarenGonzaga/fork-corner](https://github.com/WarenGonzaga/fork-corner)
-5. ❗️ Opened issue [#3](https://github.com/WarenGonzaga/fork-corner/issues/3) in [WarenGonzaga/fork-corner](https://github.com/WarenGonzaga/fork-corner)
+1. ❗️ Opened issue [#6](https://github.com/WarenGonzaga/fork-corner/issues/6) in [WarenGonzaga/fork-corner](https://github.com/WarenGonzaga/fork-corner)
+2. ❗️ Opened issue [#5](https://github.com/WarenGonzaga/fork-corner/issues/5) in [WarenGonzaga/fork-corner](https://github.com/WarenGonzaga/fork-corner)
+3. ❗️ Opened issue [#13](https://github.com/WarenGonzaga/buymeacoffee.js/issues/13) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
+4. ❗️ Opened issue [#1](https://github.com/brettz9/integrity-matters/issues/1) in [brettz9/integrity-matters](https://github.com/brettz9/integrity-matters)
+5. ❗️ Opened issue [#3801](https://github.com/simple-icons/simple-icons/issues/3801) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
 <!--END_SECTION:activity-->
 
 </details>
