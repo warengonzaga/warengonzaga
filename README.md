@@ -60,11 +60,11 @@ Wanna see some of my future projects? Join today!
     <summary>&#128187 GitHub Activities</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12](https://github.com/WarenGonzaga/buymeacoffee.js/issues/12) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
-2. ❗️ Closed issue [#2](https://github.com/WarenGonzaga/buymeacoffee.js/issues/2) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
-3. 🗣 Commented on [#2](https://github.com/WarenGonzaga/buymeacoffee.js/issues/2) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
-4. 🗣 Commented on [#9](https://github.com/WarenGonzaga/buymeacoffee.js/issues/9) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
-5. 🎉 Merged PR [#14](https://github.com/WarenGonzaga/buymeacoffee.js/pull/14) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
+1. 🗣 Commented on [#1165](https://github.com/animate-css/animate.css/issues/1165) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+2. 🗣 Commented on [#1166](https://github.com/animate-css/animate.css/issues/1166) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+3. 🗣 Commented on [#1166](https://github.com/animate-css/animate.css/issues/1166) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+4. 💪 Opened PR [#1166](https://github.com/animate-css/animate.css/pull/1166) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+5. 🗣 Commented on [#12](https://github.com/WarenGonzaga/buymeacoffee.js/issues/12) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
 <!--END_SECTION:activity-->
 
 </details>
