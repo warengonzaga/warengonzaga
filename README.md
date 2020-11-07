@@ -60,11 +60,11 @@ Wanna see some of my future projects? Join today!
     <summary>&#128187 GitHub Activities</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/abatsakidis/WiFi-PassView/issues/1) in [abatsakidis/WiFi-PassView](https://github.com/abatsakidis/WiFi-PassView)
-2. ❗️ Opened issue [#1165](https://github.com/animate-css/animate.css/issues/1165) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
-3. ❗️ Closed issue [#3](https://github.com/WarenGonzaga/fork-corner/issues/3) in [WarenGonzaga/fork-corner](https://github.com/WarenGonzaga/fork-corner)
-4. 🗣 Commented on [#3](https://github.com/WarenGonzaga/fork-corner/issues/3) in [WarenGonzaga/fork-corner](https://github.com/WarenGonzaga/fork-corner)
-5. ❗️ Closed issue [#2](https://github.com/WarenGonzaga/fork-corner/issues/2) in [WarenGonzaga/fork-corner](https://github.com/WarenGonzaga/fork-corner)
+1. 🗣 Commented on [#12](https://github.com/WarenGonzaga/buymeacoffee.js/issues/12) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
+2. ❗️ Closed issue [#2](https://github.com/WarenGonzaga/buymeacoffee.js/issues/2) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
+3. 🗣 Commented on [#2](https://github.com/WarenGonzaga/buymeacoffee.js/issues/2) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
+4. 🗣 Commented on [#9](https://github.com/WarenGonzaga/buymeacoffee.js/issues/9) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
+5. 🎉 Merged PR [#14](https://github.com/WarenGonzaga/buymeacoffee.js/pull/14) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
 <!--END_SECTION:activity-->
 
 </details>
