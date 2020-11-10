@@ -60,11 +60,11 @@ Wanna see some of my future projects? Join today!
     <summary>&#128187 GitHub Activities</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#75](https://github.com/benawad/vscode-stories/issues/75) in [benawad/vscode-stories](https://github.com/benawad/vscode-stories)
-2. ❗️ Opened issue [#3](https://github.com/WarenGonzaga/daisy.js/issues/3) in [WarenGonzaga/daisy.js](https://github.com/WarenGonzaga/daisy.js)
-3. 🗣 Commented on [#3782](https://github.com/simple-icons/simple-icons/issues/3782) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-4. 🗣 Commented on [#3782](https://github.com/simple-icons/simple-icons/issues/3782) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-5. 🗣 Commented on [#3836](https://github.com/simple-icons/simple-icons/issues/3836) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+1. 🗣 Commented on [#38](https://github.com/alexmigf/stock-locations-for-woocommerce/issues/38) in [alexmigf/stock-locations-for-woocommerce](https://github.com/alexmigf/stock-locations-for-woocommerce)
+2. 🗣 Commented on [#38](https://github.com/alexmigf/stock-locations-for-woocommerce/issues/38) in [alexmigf/stock-locations-for-woocommerce](https://github.com/alexmigf/stock-locations-for-woocommerce)
+3. ❗️ Opened issue [#42](https://github.com/alexmigf/stock-locations-for-woocommerce/issues/42) in [alexmigf/stock-locations-for-woocommerce](https://github.com/alexmigf/stock-locations-for-woocommerce)
+4. ❗️ Opened issue [#41](https://github.com/alexmigf/stock-locations-for-woocommerce/issues/41) in [alexmigf/stock-locations-for-woocommerce](https://github.com/alexmigf/stock-locations-for-woocommerce)
+5. 🗣 Commented on [#75](https://github.com/benawad/vscode-stories/issues/75) in [benawad/vscode-stories](https://github.com/benawad/vscode-stories)
 <!--END_SECTION:activity-->
 
 </details>
