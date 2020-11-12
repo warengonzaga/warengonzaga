@@ -48,10 +48,10 @@ Wanna see some of my future projects? Join today!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#295](https://github.com/abhisheknaiidu/awesome-github-profile-readme/issues/295) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
-2. 🗣 Commented on [#230](https://github.com/WooMinecraft/WooMinecraft/issues/230) in [WooMinecraft/WooMinecraft](https://github.com/WooMinecraft/WooMinecraft)
-3. 🗣 Commented on [#41](https://github.com/alexmigf/stock-locations-for-woocommerce/issues/41) in [alexmigf/stock-locations-for-woocommerce](https://github.com/alexmigf/stock-locations-for-woocommerce)
-4. 🗣 Commented on [#38](https://github.com/alexmigf/stock-locations-for-woocommerce/issues/38) in [alexmigf/stock-locations-for-woocommerce](https://github.com/alexmigf/stock-locations-for-woocommerce)
+1. 🗣 Commented on [#49](https://github.com/trackercli/covid19-tracker-cli/issues/49) in [trackercli/covid19-tracker-cli](https://github.com/trackercli/covid19-tracker-cli)
+2. 🗣 Commented on [#295](https://github.com/abhisheknaiidu/awesome-github-profile-readme/issues/295) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+3. 🗣 Commented on [#230](https://github.com/WooMinecraft/WooMinecraft/issues/230) in [WooMinecraft/WooMinecraft](https://github.com/WooMinecraft/WooMinecraft)
+4. 🗣 Commented on [#41](https://github.com/alexmigf/stock-locations-for-woocommerce/issues/41) in [alexmigf/stock-locations-for-woocommerce](https://github.com/alexmigf/stock-locations-for-woocommerce)
 5. 🗣 Commented on [#38](https://github.com/alexmigf/stock-locations-for-woocommerce/issues/38) in [alexmigf/stock-locations-for-woocommerce](https://github.com/alexmigf/stock-locations-for-woocommerce)
 <!--END_SECTION:activity-->
 
