@@ -48,11 +48,11 @@ Wanna see some of my future projects? Join today!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#51](https://github.com/trackercli/covid19-tracker-cli/pull/51) in [trackercli/covid19-tracker-cli](https://github.com/trackercli/covid19-tracker-cli)
-2. 🗣 Commented on [#43](https://github.com/alexmigf/stock-locations-for-woocommerce/issues/43) in [alexmigf/stock-locations-for-woocommerce](https://github.com/alexmigf/stock-locations-for-woocommerce)
-3. ❗️ Closed issue [#378](https://github.com/hexparrot/mineos-node/issues/378) in [hexparrot/mineos-node](https://github.com/hexparrot/mineos-node)
-4. 🗣 Commented on [#378](https://github.com/hexparrot/mineos-node/issues/378) in [hexparrot/mineos-node](https://github.com/hexparrot/mineos-node)
-5. ❗️ Opened issue [#378](https://github.com/hexparrot/mineos-node/issues/378) in [hexparrot/mineos-node](https://github.com/hexparrot/mineos-node)
+1. ❗️ Closed issue [#43](https://github.com/trackercli/covid19-tracker-cli/issues/43) in [trackercli/covid19-tracker-cli](https://github.com/trackercli/covid19-tracker-cli)
+2. 🗣 Commented on [#43](https://github.com/trackercli/covid19-tracker-cli/issues/43) in [trackercli/covid19-tracker-cli](https://github.com/trackercli/covid19-tracker-cli)
+3. 🎉 Merged PR [#52](https://github.com/trackercli/covid19-tracker-cli/pull/52) in [trackercli/covid19-tracker-cli](https://github.com/trackercli/covid19-tracker-cli)
+4. 🗣 Commented on [#52](https://github.com/trackercli/covid19-tracker-cli/issues/52) in [trackercli/covid19-tracker-cli](https://github.com/trackercli/covid19-tracker-cli)
+5. 🎉 Merged PR [#51](https://github.com/trackercli/covid19-tracker-cli/pull/51) in [trackercli/covid19-tracker-cli](https://github.com/trackercli/covid19-tracker-cli)
 <!--END_SECTION:activity-->
 
 </details>
