@@ -48,11 +48,11 @@ Wanna see some of my future projects? Join today!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3](https://github.com/WarenGonzaga/daisy.js/issues/3) in [WarenGonzaga/daisy.js](https://github.com/WarenGonzaga/daisy.js)
-2. 🗣 Commented on [#3](https://github.com/WarenGonzaga/daisy.js/issues/3) in [WarenGonzaga/daisy.js](https://github.com/WarenGonzaga/daisy.js)
-3. ❗️ Closed issue [#43](https://github.com/trackercli/covid19-tracker-cli/issues/43) in [trackercli/covid19-tracker-cli](https://github.com/trackercli/covid19-tracker-cli)
-4. 🗣 Commented on [#43](https://github.com/trackercli/covid19-tracker-cli/issues/43) in [trackercli/covid19-tracker-cli](https://github.com/trackercli/covid19-tracker-cli)
-5. 🎉 Merged PR [#52](https://github.com/trackercli/covid19-tracker-cli/pull/52) in [trackercli/covid19-tracker-cli](https://github.com/trackercli/covid19-tracker-cli)
+1. ❗️ Opened issue [#7](https://github.com/WarenGonzaga/fork-corner/issues/7) in [WarenGonzaga/fork-corner](https://github.com/WarenGonzaga/fork-corner)
+2. ❗️ Closed issue [#3](https://github.com/WarenGonzaga/daisy.js/issues/3) in [WarenGonzaga/daisy.js](https://github.com/WarenGonzaga/daisy.js)
+3. 🗣 Commented on [#3](https://github.com/WarenGonzaga/daisy.js/issues/3) in [WarenGonzaga/daisy.js](https://github.com/WarenGonzaga/daisy.js)
+4. ❗️ Closed issue [#43](https://github.com/trackercli/covid19-tracker-cli/issues/43) in [trackercli/covid19-tracker-cli](https://github.com/trackercli/covid19-tracker-cli)
+5. 🗣 Commented on [#43](https://github.com/trackercli/covid19-tracker-cli/issues/43) in [trackercli/covid19-tracker-cli](https://github.com/trackercli/covid19-tracker-cli)
 <!--END_SECTION:activity-->
 
 </details>
