@@ -48,11 +48,11 @@ Wanna see some of my future projects? Join today!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#81](https://github.com/benawad/vscode-stories/issues/81) in [benawad/vscode-stories](https://github.com/benawad/vscode-stories)
-2. 🗣 Commented on [#81](https://github.com/benawad/vscode-stories/issues/81) in [benawad/vscode-stories](https://github.com/benawad/vscode-stories)
-3. ❗️ Opened issue [#7](https://github.com/WarenGonzaga/fork-corner/issues/7) in [WarenGonzaga/fork-corner](https://github.com/WarenGonzaga/fork-corner)
-4. ❗️ Closed issue [#3](https://github.com/WarenGonzaga/daisy.js/issues/3) in [WarenGonzaga/daisy.js](https://github.com/WarenGonzaga/daisy.js)
-5. 🗣 Commented on [#3](https://github.com/WarenGonzaga/daisy.js/issues/3) in [WarenGonzaga/daisy.js](https://github.com/WarenGonzaga/daisy.js)
+1. 🗣 Commented on [#82](https://github.com/benawad/vscode-stories/issues/82) in [benawad/vscode-stories](https://github.com/benawad/vscode-stories)
+2. 🗣 Commented on [#82](https://github.com/benawad/vscode-stories/issues/82) in [benawad/vscode-stories](https://github.com/benawad/vscode-stories)
+3. 🗣 Commented on [#81](https://github.com/benawad/vscode-stories/issues/81) in [benawad/vscode-stories](https://github.com/benawad/vscode-stories)
+4. 🗣 Commented on [#81](https://github.com/benawad/vscode-stories/issues/81) in [benawad/vscode-stories](https://github.com/benawad/vscode-stories)
+5. ❗️ Opened issue [#7](https://github.com/WarenGonzaga/fork-corner/issues/7) in [WarenGonzaga/fork-corner](https://github.com/WarenGonzaga/fork-corner)
 <!--END_SECTION:activity-->
 
 </details>
