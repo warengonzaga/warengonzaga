@@ -49,10 +49,10 @@ Wanna see some of my future projects? Join today!
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#81](https://github.com/benawad/vscode-stories/issues/81) in [benawad/vscode-stories](https://github.com/benawad/vscode-stories)
-2. ❗️ Opened issue [#7](https://github.com/WarenGonzaga/fork-corner/issues/7) in [WarenGonzaga/fork-corner](https://github.com/WarenGonzaga/fork-corner)
-3. ❗️ Closed issue [#3](https://github.com/WarenGonzaga/daisy.js/issues/3) in [WarenGonzaga/daisy.js](https://github.com/WarenGonzaga/daisy.js)
-4. 🗣 Commented on [#3](https://github.com/WarenGonzaga/daisy.js/issues/3) in [WarenGonzaga/daisy.js](https://github.com/WarenGonzaga/daisy.js)
-5. ❗️ Closed issue [#43](https://github.com/trackercli/covid19-tracker-cli/issues/43) in [trackercli/covid19-tracker-cli](https://github.com/trackercli/covid19-tracker-cli)
+2. 🗣 Commented on [#81](https://github.com/benawad/vscode-stories/issues/81) in [benawad/vscode-stories](https://github.com/benawad/vscode-stories)
+3. ❗️ Opened issue [#7](https://github.com/WarenGonzaga/fork-corner/issues/7) in [WarenGonzaga/fork-corner](https://github.com/WarenGonzaga/fork-corner)
+4. ❗️ Closed issue [#3](https://github.com/WarenGonzaga/daisy.js/issues/3) in [WarenGonzaga/daisy.js](https://github.com/WarenGonzaga/daisy.js)
+5. 🗣 Commented on [#3](https://github.com/WarenGonzaga/daisy.js/issues/3) in [WarenGonzaga/daisy.js](https://github.com/WarenGonzaga/daisy.js)
 <!--END_SECTION:activity-->
 
 </details>
