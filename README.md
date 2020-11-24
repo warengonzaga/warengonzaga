@@ -48,11 +48,11 @@ Wanna see some of my future projects? Join today!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#9](https://github.com/WarenGonzaga/fork-corner/issues/9) in [WarenGonzaga/fork-corner](https://github.com/WarenGonzaga/fork-corner)
-2. 🗣 Commented on [#9](https://github.com/WarenGonzaga/fork-corner/issues/9) in [WarenGonzaga/fork-corner](https://github.com/WarenGonzaga/fork-corner)
-3. ❗️ Opened issue [#53](https://github.com/alexmigf/stock-locations-for-woocommerce/issues/53) in [alexmigf/stock-locations-for-woocommerce](https://github.com/alexmigf/stock-locations-for-woocommerce)
-4. 🗣 Commented on [#35](https://github.com/alexmigf/stock-locations-for-woocommerce/issues/35) in [alexmigf/stock-locations-for-woocommerce](https://github.com/alexmigf/stock-locations-for-woocommerce)
-5. 🗣 Commented on [#163](https://github.com/mjkaufer/Messer/issues/163) in [mjkaufer/Messer](https://github.com/mjkaufer/Messer)
+1. ❗️ Closed issue [#8](https://github.com/WarenGonzaga/fork-corner/issues/8) in [WarenGonzaga/fork-corner](https://github.com/WarenGonzaga/fork-corner)
+2. 🗣 Commented on [#8](https://github.com/WarenGonzaga/fork-corner/issues/8) in [WarenGonzaga/fork-corner](https://github.com/WarenGonzaga/fork-corner)
+3. ❗️ Closed issue [#9](https://github.com/WarenGonzaga/fork-corner/issues/9) in [WarenGonzaga/fork-corner](https://github.com/WarenGonzaga/fork-corner)
+4. 🗣 Commented on [#9](https://github.com/WarenGonzaga/fork-corner/issues/9) in [WarenGonzaga/fork-corner](https://github.com/WarenGonzaga/fork-corner)
+5. ❗️ Opened issue [#53](https://github.com/alexmigf/stock-locations-for-woocommerce/issues/53) in [alexmigf/stock-locations-for-woocommerce](https://github.com/alexmigf/stock-locations-for-woocommerce)
 <!--END_SECTION:activity-->
 
 </details>
