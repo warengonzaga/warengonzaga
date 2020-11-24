@@ -48,11 +48,11 @@ Wanna see some of my future projects? Join today!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#8](https://github.com/WarenGonzaga/fork-corner/issues/8) in [WarenGonzaga/fork-corner](https://github.com/WarenGonzaga/fork-corner)
-2. 🗣 Commented on [#8](https://github.com/WarenGonzaga/fork-corner/issues/8) in [WarenGonzaga/fork-corner](https://github.com/WarenGonzaga/fork-corner)
-3. ❗️ Closed issue [#9](https://github.com/WarenGonzaga/fork-corner/issues/9) in [WarenGonzaga/fork-corner](https://github.com/WarenGonzaga/fork-corner)
-4. 🗣 Commented on [#9](https://github.com/WarenGonzaga/fork-corner/issues/9) in [WarenGonzaga/fork-corner](https://github.com/WarenGonzaga/fork-corner)
-5. ❗️ Opened issue [#53](https://github.com/alexmigf/stock-locations-for-woocommerce/issues/53) in [alexmigf/stock-locations-for-woocommerce](https://github.com/alexmigf/stock-locations-for-woocommerce)
+1. 🗣 Commented on [#13](https://github.com/WarenGonzaga/wifi-passview/issues/13) in [WarenGonzaga/wifi-passview](https://github.com/WarenGonzaga/wifi-passview)
+2. ❗️ Closed issue [#8](https://github.com/WarenGonzaga/fork-corner/issues/8) in [WarenGonzaga/fork-corner](https://github.com/WarenGonzaga/fork-corner)
+3. 🗣 Commented on [#8](https://github.com/WarenGonzaga/fork-corner/issues/8) in [WarenGonzaga/fork-corner](https://github.com/WarenGonzaga/fork-corner)
+4. ❗️ Closed issue [#9](https://github.com/WarenGonzaga/fork-corner/issues/9) in [WarenGonzaga/fork-corner](https://github.com/WarenGonzaga/fork-corner)
+5. 🗣 Commented on [#9](https://github.com/WarenGonzaga/fork-corner/issues/9) in [WarenGonzaga/fork-corner](https://github.com/WarenGonzaga/fork-corner)
 <!--END_SECTION:activity-->
 
 </details>
