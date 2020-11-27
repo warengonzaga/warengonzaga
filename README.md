@@ -48,11 +48,11 @@ Wanna see some of my future projects? Join today!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1179](https://github.com/animate-css/animate.css/issues/1179) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
-2. ❗️ Opened issue [#380](https://github.com/hexparrot/mineos-node/issues/380) in [hexparrot/mineos-node](https://github.com/hexparrot/mineos-node)
-3. 🗣 Commented on [#53](https://github.com/alexmigf/stock-locations-for-woocommerce/issues/53) in [alexmigf/stock-locations-for-woocommerce](https://github.com/alexmigf/stock-locations-for-woocommerce)
-4. 🗣 Commented on [#42](https://github.com/alexmigf/stock-locations-for-woocommerce/issues/42) in [alexmigf/stock-locations-for-woocommerce](https://github.com/alexmigf/stock-locations-for-woocommerce)
-5. 🗣 Commented on [#41](https://github.com/alexmigf/stock-locations-for-woocommerce/issues/41) in [alexmigf/stock-locations-for-woocommerce](https://github.com/alexmigf/stock-locations-for-woocommerce)
+1. 💪 Opened PR [#134](https://github.com/sweetalert2/sweetalert2.github.io/pull/134) in [sweetalert2/sweetalert2.github.io](https://github.com/sweetalert2/sweetalert2.github.io)
+2. 🗣 Commented on [#1179](https://github.com/animate-css/animate.css/issues/1179) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+3. ❗️ Opened issue [#380](https://github.com/hexparrot/mineos-node/issues/380) in [hexparrot/mineos-node](https://github.com/hexparrot/mineos-node)
+4. 🗣 Commented on [#53](https://github.com/alexmigf/stock-locations-for-woocommerce/issues/53) in [alexmigf/stock-locations-for-woocommerce](https://github.com/alexmigf/stock-locations-for-woocommerce)
+5. 🗣 Commented on [#42](https://github.com/alexmigf/stock-locations-for-woocommerce/issues/42) in [alexmigf/stock-locations-for-woocommerce](https://github.com/alexmigf/stock-locations-for-woocommerce)
 <!--END_SECTION:activity-->
 
 </details>
