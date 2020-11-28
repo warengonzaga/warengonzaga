@@ -51,8 +51,8 @@ Wanna see some of my future projects? Join today!
 1. 🗣 Commented on [#201](https://github.com/chromium/hstspreload.org/issues/201) in [chromium/hstspreload.org](https://github.com/chromium/hstspreload.org)
 2. 🗣 Commented on [#201](https://github.com/chromium/hstspreload.org/issues/201) in [chromium/hstspreload.org](https://github.com/chromium/hstspreload.org)
 3. 🗣 Commented on [#201](https://github.com/chromium/hstspreload.org/issues/201) in [chromium/hstspreload.org](https://github.com/chromium/hstspreload.org)
-4. 💪 Opened PR [#201](https://github.com/chromium/hstspreload.org/pull/201) in [chromium/hstspreload.org](https://github.com/chromium/hstspreload.org)
-5. 💪 Opened PR [#134](https://github.com/sweetalert2/sweetalert2.github.io/pull/134) in [sweetalert2/sweetalert2.github.io](https://github.com/sweetalert2/sweetalert2.github.io)
+4. 🗣 Commented on [#201](https://github.com/chromium/hstspreload.org/issues/201) in [chromium/hstspreload.org](https://github.com/chromium/hstspreload.org)
+5. 💪 Opened PR [#201](https://github.com/chromium/hstspreload.org/pull/201) in [chromium/hstspreload.org](https://github.com/chromium/hstspreload.org)
 <!--END_SECTION:activity-->
 
 </details>
