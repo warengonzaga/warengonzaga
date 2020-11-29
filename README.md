@@ -48,11 +48,11 @@ Wanna see some of my future projects? Join today!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#201](https://github.com/chromium/hstspreload.org/issues/201) in [chromium/hstspreload.org](https://github.com/chromium/hstspreload.org)
-2. 🗣 Commented on [#201](https://github.com/chromium/hstspreload.org/issues/201) in [chromium/hstspreload.org](https://github.com/chromium/hstspreload.org)
-3. 🗣 Commented on [#201](https://github.com/chromium/hstspreload.org/issues/201) in [chromium/hstspreload.org](https://github.com/chromium/hstspreload.org)
-4. 🗣 Commented on [#201](https://github.com/chromium/hstspreload.org/issues/201) in [chromium/hstspreload.org](https://github.com/chromium/hstspreload.org)
-5. 💪 Opened PR [#201](https://github.com/chromium/hstspreload.org/pull/201) in [chromium/hstspreload.org](https://github.com/chromium/hstspreload.org)
+1. 🗣 Commented on [#14](https://github.com/WarenGonzaga/wifi-passview/issues/14) in [WarenGonzaga/wifi-passview](https://github.com/WarenGonzaga/wifi-passview)
+2. ❗️ Closed issue [#4](https://github.com/WarenGonzaga/wifi-passview/issues/4) in [WarenGonzaga/wifi-passview](https://github.com/WarenGonzaga/wifi-passview)
+3. 🗣 Commented on [#4](https://github.com/WarenGonzaga/wifi-passview/issues/4) in [WarenGonzaga/wifi-passview](https://github.com/WarenGonzaga/wifi-passview)
+4. ❗️ Closed issue [#13](https://github.com/WarenGonzaga/wifi-passview/issues/13) in [WarenGonzaga/wifi-passview](https://github.com/WarenGonzaga/wifi-passview)
+5. 🗣 Commented on [#13](https://github.com/WarenGonzaga/wifi-passview/issues/13) in [WarenGonzaga/wifi-passview](https://github.com/WarenGonzaga/wifi-passview)
 <!--END_SECTION:activity-->
 
 </details>
