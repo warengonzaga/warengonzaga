@@ -48,11 +48,11 @@ Wanna see some of my future projects? Join today!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14](https://github.com/WarenGonzaga/wifi-passview/issues/14) in [WarenGonzaga/wifi-passview](https://github.com/WarenGonzaga/wifi-passview)
-2. ❗️ Closed issue [#4](https://github.com/WarenGonzaga/wifi-passview/issues/4) in [WarenGonzaga/wifi-passview](https://github.com/WarenGonzaga/wifi-passview)
-3. 🗣 Commented on [#4](https://github.com/WarenGonzaga/wifi-passview/issues/4) in [WarenGonzaga/wifi-passview](https://github.com/WarenGonzaga/wifi-passview)
-4. ❗️ Closed issue [#13](https://github.com/WarenGonzaga/wifi-passview/issues/13) in [WarenGonzaga/wifi-passview](https://github.com/WarenGonzaga/wifi-passview)
-5. 🗣 Commented on [#13](https://github.com/WarenGonzaga/wifi-passview/issues/13) in [WarenGonzaga/wifi-passview](https://github.com/WarenGonzaga/wifi-passview)
+1. 🗣 Commented on [#1](https://github.com/WarenGonzaga/bmc-updates-bot/issues/1) in [WarenGonzaga/bmc-updates-bot](https://github.com/WarenGonzaga/bmc-updates-bot)
+2. 🗣 Commented on [#14](https://github.com/WarenGonzaga/wifi-passview/issues/14) in [WarenGonzaga/wifi-passview](https://github.com/WarenGonzaga/wifi-passview)
+3. ❗️ Closed issue [#4](https://github.com/WarenGonzaga/wifi-passview/issues/4) in [WarenGonzaga/wifi-passview](https://github.com/WarenGonzaga/wifi-passview)
+4. 🗣 Commented on [#4](https://github.com/WarenGonzaga/wifi-passview/issues/4) in [WarenGonzaga/wifi-passview](https://github.com/WarenGonzaga/wifi-passview)
+5. ❗️ Closed issue [#13](https://github.com/WarenGonzaga/wifi-passview/issues/13) in [WarenGonzaga/wifi-passview](https://github.com/WarenGonzaga/wifi-passview)
 <!--END_SECTION:activity-->
 
 </details>
