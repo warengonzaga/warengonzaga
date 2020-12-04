@@ -49,10 +49,10 @@ Wanna see some of my future projects? Join today!
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1](https://github.com/WarenGonzaga/bmc-updates-bot/issues/1) in [WarenGonzaga/bmc-updates-bot](https://github.com/WarenGonzaga/bmc-updates-bot)
-2. 🗣 Commented on [#1009](https://github.com/animate-css/animate.css/issues/1009) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+2. 🗣 Commented on [#1141](https://github.com/animate-css/animate.css/issues/1141) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
 3. 🗣 Commented on [#1](https://github.com/WarenGonzaga/bmc-updates-bot/issues/1) in [WarenGonzaga/bmc-updates-bot](https://github.com/WarenGonzaga/bmc-updates-bot)
-4. 🗣 Commented on [#14](https://github.com/WarenGonzaga/wifi-passview/issues/14) in [WarenGonzaga/wifi-passview](https://github.com/WarenGonzaga/wifi-passview)
-5. ❗️ Closed issue [#4](https://github.com/WarenGonzaga/wifi-passview/issues/4) in [WarenGonzaga/wifi-passview](https://github.com/WarenGonzaga/wifi-passview)
+4. 🗣 Commented on [#1009](https://github.com/animate-css/animate.css/issues/1009) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+5. 🗣 Commented on [#1](https://github.com/WarenGonzaga/bmc-updates-bot/issues/1) in [WarenGonzaga/bmc-updates-bot](https://github.com/WarenGonzaga/bmc-updates-bot)
 <!--END_SECTION:activity-->
 
 </details>
