@@ -48,11 +48,11 @@ Wanna see some of my future projects? Join today!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1184](https://github.com/animate-css/animate.css/issues/1184) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
-2. 🗣 Commented on [#1141](https://github.com/animate-css/animate.css/issues/1141) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
-3. ❗️ Opened issue [#3](https://github.com/WarenGonzaga/bmc-updates-bot/issues/3) in [WarenGonzaga/bmc-updates-bot](https://github.com/WarenGonzaga/bmc-updates-bot)
-4. 🗣 Commented on [#1](https://github.com/WarenGonzaga/bmc-updates-bot/issues/1) in [WarenGonzaga/bmc-updates-bot](https://github.com/WarenGonzaga/bmc-updates-bot)
-5. 🗣 Commented on [#1141](https://github.com/animate-css/animate.css/issues/1141) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+1. 💪 Opened PR [#58](https://github.com/PufferPanel/templates/pull/58) in [PufferPanel/templates](https://github.com/PufferPanel/templates)
+2. 🗣 Commented on [#1184](https://github.com/animate-css/animate.css/issues/1184) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+3. 🗣 Commented on [#1141](https://github.com/animate-css/animate.css/issues/1141) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+4. ❗️ Opened issue [#3](https://github.com/WarenGonzaga/bmc-updates-bot/issues/3) in [WarenGonzaga/bmc-updates-bot](https://github.com/WarenGonzaga/bmc-updates-bot)
+5. 🗣 Commented on [#1](https://github.com/WarenGonzaga/bmc-updates-bot/issues/1) in [WarenGonzaga/bmc-updates-bot](https://github.com/WarenGonzaga/bmc-updates-bot)
 <!--END_SECTION:activity-->
 
 </details>
