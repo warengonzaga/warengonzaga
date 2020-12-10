@@ -48,11 +48,11 @@ Wanna see some of my future projects? Join today!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#201](https://github.com/chromium/hstspreload.org/pull/201) in [chromium/hstspreload.org](https://github.com/chromium/hstspreload.org)
-2. 🗣 Commented on [#201](https://github.com/chromium/hstspreload.org/issues/201) in [chromium/hstspreload.org](https://github.com/chromium/hstspreload.org)
-3. 🗣 Commented on [#1126](https://github.com/animate-css/animate.css/issues/1126) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
-4. ❗️ Opened issue [#10](https://github.com/WarenGonzaga/fork-corner/issues/10) in [WarenGonzaga/fork-corner](https://github.com/WarenGonzaga/fork-corner)
-5. 💪 Opened PR [#58](https://github.com/PufferPanel/templates/pull/58) in [PufferPanel/templates](https://github.com/PufferPanel/templates)
+1. 🗣 Commented on [#56](https://github.com/alexmigf/stock-locations-for-woocommerce/issues/56) in [alexmigf/stock-locations-for-woocommerce](https://github.com/alexmigf/stock-locations-for-woocommerce)
+2. 🗣 Commented on [#56](https://github.com/alexmigf/stock-locations-for-woocommerce/issues/56) in [alexmigf/stock-locations-for-woocommerce](https://github.com/alexmigf/stock-locations-for-woocommerce)
+3. 🗣 Commented on [#41](https://github.com/alexmigf/stock-locations-for-woocommerce/issues/41) in [alexmigf/stock-locations-for-woocommerce](https://github.com/alexmigf/stock-locations-for-woocommerce)
+4. ❌ Closed PR [#201](https://github.com/chromium/hstspreload.org/pull/201) in [chromium/hstspreload.org](https://github.com/chromium/hstspreload.org)
+5. 🗣 Commented on [#201](https://github.com/chromium/hstspreload.org/issues/201) in [chromium/hstspreload.org](https://github.com/chromium/hstspreload.org)
 <!--END_SECTION:activity-->
 
 </details>
