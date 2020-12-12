@@ -48,11 +48,11 @@ Wanna see some of my future projects? Join today!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#56](https://github.com/alexmigf/stock-locations-for-woocommerce/issues/56) in [alexmigf/stock-locations-for-woocommerce](https://github.com/alexmigf/stock-locations-for-woocommerce)
+1. 🗣 Commented on [#12](https://github.com/WarenGonzaga/buymeacoffee.js/issues/12) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
 2. 🗣 Commented on [#56](https://github.com/alexmigf/stock-locations-for-woocommerce/issues/56) in [alexmigf/stock-locations-for-woocommerce](https://github.com/alexmigf/stock-locations-for-woocommerce)
-3. 🗣 Commented on [#41](https://github.com/alexmigf/stock-locations-for-woocommerce/issues/41) in [alexmigf/stock-locations-for-woocommerce](https://github.com/alexmigf/stock-locations-for-woocommerce)
-4. ❌ Closed PR [#201](https://github.com/chromium/hstspreload.org/pull/201) in [chromium/hstspreload.org](https://github.com/chromium/hstspreload.org)
-5. 🗣 Commented on [#201](https://github.com/chromium/hstspreload.org/issues/201) in [chromium/hstspreload.org](https://github.com/chromium/hstspreload.org)
+3. 🗣 Commented on [#56](https://github.com/alexmigf/stock-locations-for-woocommerce/issues/56) in [alexmigf/stock-locations-for-woocommerce](https://github.com/alexmigf/stock-locations-for-woocommerce)
+4. 🗣 Commented on [#41](https://github.com/alexmigf/stock-locations-for-woocommerce/issues/41) in [alexmigf/stock-locations-for-woocommerce](https://github.com/alexmigf/stock-locations-for-woocommerce)
+5. ❌ Closed PR [#201](https://github.com/chromium/hstspreload.org/pull/201) in [chromium/hstspreload.org](https://github.com/chromium/hstspreload.org)
 <!--END_SECTION:activity-->
 
 </details>
