@@ -49,10 +49,10 @@ Wanna see some of my future projects? Join today!
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1](https://github.com/WarenGonzaga/bmc-updates-bot/issues/1) in [WarenGonzaga/bmc-updates-bot](https://github.com/WarenGonzaga/bmc-updates-bot)
-2. 🗣 Commented on [#41](https://github.com/alexmigf/stock-locations-for-woocommerce/issues/41) in [alexmigf/stock-locations-for-woocommerce](https://github.com/alexmigf/stock-locations-for-woocommerce)
-3. ❗️ Opened issue [#1](https://github.com/brelats/ParkourSkills/issues/1) in [brelats/ParkourSkills](https://github.com/brelats/ParkourSkills)
-4. 🎉 Merged PR [#15](https://github.com/WarenGonzaga/wifi-passview/pull/15) in [WarenGonzaga/wifi-passview](https://github.com/WarenGonzaga/wifi-passview)
-5. 🎉 Merged PR [#1](https://github.com/WarenGonzaga/wrn-cleaner/pull/1) in [WarenGonzaga/wrn-cleaner](https://github.com/WarenGonzaga/wrn-cleaner)
+2. 🗣 Commented on [#213](https://github.com/saadpasta/developerFolio/issues/213) in [saadpasta/developerFolio](https://github.com/saadpasta/developerFolio)
+3. 🗣 Commented on [#190](https://github.com/saadpasta/developerFolio/issues/190) in [saadpasta/developerFolio](https://github.com/saadpasta/developerFolio)
+4. 🗣 Commented on [#1](https://github.com/WarenGonzaga/bmc-updates-bot/issues/1) in [WarenGonzaga/bmc-updates-bot](https://github.com/WarenGonzaga/bmc-updates-bot)
+5. 🗣 Commented on [#41](https://github.com/alexmigf/stock-locations-for-woocommerce/issues/41) in [alexmigf/stock-locations-for-woocommerce](https://github.com/alexmigf/stock-locations-for-woocommerce)
 <!--END_SECTION:activity-->
 
 </details>
