@@ -48,11 +48,11 @@ Wanna see some of my future projects? Join today!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14](https://github.com/substack/node-buffers/issues/14) in [substack/node-buffers](https://github.com/substack/node-buffers)
-2. 🎉 Merged PR [#54](https://github.com/trackercli/covid19-tracker-cli/pull/54) in [trackercli/covid19-tracker-cli](https://github.com/trackercli/covid19-tracker-cli)
-3. 🗣 Commented on [#54](https://github.com/trackercli/covid19-tracker-cli/issues/54) in [trackercli/covid19-tracker-cli](https://github.com/trackercli/covid19-tracker-cli)
-4. 🗣 Commented on [#55](https://github.com/trackercli/covid19-tracker-cli/issues/55) in [trackercli/covid19-tracker-cli](https://github.com/trackercli/covid19-tracker-cli)
-5. 🗣 Commented on [#1200](https://github.com/animate-css/animate.css/issues/1200) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+1. 💪 Opened PR [#13](https://github.com/BananaPuncher714/Cartographer2/pull/13) in [BananaPuncher714/Cartographer2](https://github.com/BananaPuncher714/Cartographer2)
+2. 🗣 Commented on [#14](https://github.com/substack/node-buffers/issues/14) in [substack/node-buffers](https://github.com/substack/node-buffers)
+3. 🎉 Merged PR [#54](https://github.com/trackercli/covid19-tracker-cli/pull/54) in [trackercli/covid19-tracker-cli](https://github.com/trackercli/covid19-tracker-cli)
+4. 🗣 Commented on [#54](https://github.com/trackercli/covid19-tracker-cli/issues/54) in [trackercli/covid19-tracker-cli](https://github.com/trackercli/covid19-tracker-cli)
+5. 🗣 Commented on [#55](https://github.com/trackercli/covid19-tracker-cli/issues/55) in [trackercli/covid19-tracker-cli](https://github.com/trackercli/covid19-tracker-cli)
 <!--END_SECTION:activity-->
 
 </details>
