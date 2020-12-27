@@ -48,11 +48,11 @@ Wanna see some of my future projects? Join today!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/PufferPanel/www/pull/1) in [PufferPanel/www](https://github.com/PufferPanel/www)
-2. 🗣 Commented on [#1197](https://github.com/animate-css/animate.css/issues/1197) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
-3. ❗️ Opened issue [#33](https://github.com/armagidon-exception/PosePlugin/issues/33) in [armagidon-exception/PosePlugin](https://github.com/armagidon-exception/PosePlugin)
-4. 🗣 Commented on [#287](https://github.com/saadpasta/developerFolio/issues/287) in [saadpasta/developerFolio](https://github.com/saadpasta/developerFolio)
-5. 🗣 Commented on [#1165](https://github.com/animate-css/animate.css/issues/1165) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+1. 🗣 Commented on [#14](https://github.com/substack/node-buffers/issues/14) in [substack/node-buffers](https://github.com/substack/node-buffers)
+2. 🎉 Merged PR [#54](https://github.com/trackercli/covid19-tracker-cli/pull/54) in [trackercli/covid19-tracker-cli](https://github.com/trackercli/covid19-tracker-cli)
+3. 🗣 Commented on [#54](https://github.com/trackercli/covid19-tracker-cli/issues/54) in [trackercli/covid19-tracker-cli](https://github.com/trackercli/covid19-tracker-cli)
+4. 🗣 Commented on [#55](https://github.com/trackercli/covid19-tracker-cli/issues/55) in [trackercli/covid19-tracker-cli](https://github.com/trackercli/covid19-tracker-cli)
+5. 🗣 Commented on [#1200](https://github.com/animate-css/animate.css/issues/1200) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
 <!--END_SECTION:activity-->
 
 </details>
