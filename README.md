@@ -49,10 +49,10 @@ Wanna see some of my future projects? Join today!
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#55](https://github.com/trackercli/covid19-tracker-cli/issues/55) in [trackercli/covid19-tracker-cli](https://github.com/trackercli/covid19-tracker-cli)
-2. 💪 Opened PR [#14](https://github.com/BananaPuncher714/Cartographer2/pull/14) in [BananaPuncher714/Cartographer2](https://github.com/BananaPuncher714/Cartographer2)
-3. 💪 Opened PR [#13](https://github.com/BananaPuncher714/Cartographer2/pull/13) in [BananaPuncher714/Cartographer2](https://github.com/BananaPuncher714/Cartographer2)
-4. 🗣 Commented on [#14](https://github.com/substack/node-buffers/issues/14) in [substack/node-buffers](https://github.com/substack/node-buffers)
-5. 🎉 Merged PR [#54](https://github.com/trackercli/covid19-tracker-cli/pull/54) in [trackercli/covid19-tracker-cli](https://github.com/trackercli/covid19-tracker-cli)
+2. ❗️ Opened issue [#57](https://github.com/trackercli/covid19-tracker-cli/issues/57) in [trackercli/covid19-tracker-cli](https://github.com/trackercli/covid19-tracker-cli)
+3. ❗️ Opened issue [#56](https://github.com/trackercli/covid19-tracker-cli/issues/56) in [trackercli/covid19-tracker-cli](https://github.com/trackercli/covid19-tracker-cli)
+4. 🗣 Commented on [#55](https://github.com/trackercli/covid19-tracker-cli/issues/55) in [trackercli/covid19-tracker-cli](https://github.com/trackercli/covid19-tracker-cli)
+5. 💪 Opened PR [#14](https://github.com/BananaPuncher714/Cartographer2/pull/14) in [BananaPuncher714/Cartographer2](https://github.com/BananaPuncher714/Cartographer2)
 <!--END_SECTION:activity-->
 
 </details>
