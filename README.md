@@ -48,11 +48,11 @@ Wanna see some of my future projects? Join today!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#55](https://github.com/trackercli/covid19-tracker-cli/issues/55) in [trackercli/covid19-tracker-cli](https://github.com/trackercli/covid19-tracker-cli)
-2. 🗣 Commented on [#55](https://github.com/trackercli/covid19-tracker-cli/issues/55) in [trackercli/covid19-tracker-cli](https://github.com/trackercli/covid19-tracker-cli)
-3. 🎉 Merged PR [#58](https://github.com/trackercli/covid19-tracker-cli/pull/58) in [trackercli/covid19-tracker-cli](https://github.com/trackercli/covid19-tracker-cli)
-4. 🗣 Commented on [#58](https://github.com/trackercli/covid19-tracker-cli/issues/58) in [trackercli/covid19-tracker-cli](https://github.com/trackercli/covid19-tracker-cli)
-5. 🗣 Commented on [#55](https://github.com/trackercli/covid19-tracker-cli/issues/55) in [trackercli/covid19-tracker-cli](https://github.com/trackercli/covid19-tracker-cli)
+1. 🗣 Commented on [#270](https://github.com/saadpasta/developerFolio/issues/270) in [saadpasta/developerFolio](https://github.com/saadpasta/developerFolio)
+2. 🗣 Commented on [#270](https://github.com/saadpasta/developerFolio/issues/270) in [saadpasta/developerFolio](https://github.com/saadpasta/developerFolio)
+3. 🗣 Commented on [#264](https://github.com/saadpasta/developerFolio/issues/264) in [saadpasta/developerFolio](https://github.com/saadpasta/developerFolio)
+4. 🗣 Commented on [#264](https://github.com/saadpasta/developerFolio/issues/264) in [saadpasta/developerFolio](https://github.com/saadpasta/developerFolio)
+5. ❗️ Closed issue [#55](https://github.com/trackercli/covid19-tracker-cli/issues/55) in [trackercli/covid19-tracker-cli](https://github.com/trackercli/covid19-tracker-cli)
 <!--END_SECTION:activity-->
 
 </details>
