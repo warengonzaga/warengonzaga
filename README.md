@@ -48,11 +48,11 @@ Wanna see some of my future projects? Join today!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1166](https://github.com/animate-css/animate.css/pull/1166) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
-2. 🗣 Commented on [#1166](https://github.com/animate-css/animate.css/issues/1166) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
-3. 💪 Opened PR [#6](https://github.com/ishandeveloper/github-wrapped/pull/6) in [ishandeveloper/github-wrapped](https://github.com/ishandeveloper/github-wrapped)
-4. ❗️ Opened issue [#2](https://github.com/WarenGonzaga/open-sauced-goals/issues/2) in [WarenGonzaga/open-sauced-goals](https://github.com/WarenGonzaga/open-sauced-goals)
-5. ❗️ Opened issue [#1](https://github.com/WarenGonzaga/open-sauced-goals/issues/1) in [WarenGonzaga/open-sauced-goals](https://github.com/WarenGonzaga/open-sauced-goals)
+1. 🗣 Commented on [#1126](https://github.com/animate-css/animate.css/issues/1126) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+2. 🗣 Commented on [#1165](https://github.com/animate-css/animate.css/issues/1165) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+3. 💪 Opened PR [#1202](https://github.com/animate-css/animate.css/pull/1202) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+4. ❌ Closed PR [#1166](https://github.com/animate-css/animate.css/pull/1166) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+5. 🗣 Commented on [#1166](https://github.com/animate-css/animate.css/issues/1166) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
 <!--END_SECTION:activity-->
 
 </details>
