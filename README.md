@@ -48,11 +48,11 @@ Wanna see some of my future projects? Join today!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/WarenGonzaga/open-sauced-goals/issues/2) in [WarenGonzaga/open-sauced-goals](https://github.com/WarenGonzaga/open-sauced-goals)
-2. ❗️ Opened issue [#1](https://github.com/WarenGonzaga/open-sauced-goals/issues/1) in [WarenGonzaga/open-sauced-goals](https://github.com/WarenGonzaga/open-sauced-goals)
-3. ❗️ Opened issue [#12](https://github.com/WarenGonzaga/fork-corner/issues/12) in [WarenGonzaga/fork-corner](https://github.com/WarenGonzaga/fork-corner)
-4. ❗️ Closed issue [#10](https://github.com/WarenGonzaga/fork-corner/issues/10) in [WarenGonzaga/fork-corner](https://github.com/WarenGonzaga/fork-corner)
-5. 🗣 Commented on [#10](https://github.com/WarenGonzaga/fork-corner/issues/10) in [WarenGonzaga/fork-corner](https://github.com/WarenGonzaga/fork-corner)
+1. 💪 Opened PR [#6](https://github.com/ishandeveloper/github-wrapped/pull/6) in [ishandeveloper/github-wrapped](https://github.com/ishandeveloper/github-wrapped)
+2. ❗️ Opened issue [#2](https://github.com/WarenGonzaga/open-sauced-goals/issues/2) in [WarenGonzaga/open-sauced-goals](https://github.com/WarenGonzaga/open-sauced-goals)
+3. ❗️ Opened issue [#1](https://github.com/WarenGonzaga/open-sauced-goals/issues/1) in [WarenGonzaga/open-sauced-goals](https://github.com/WarenGonzaga/open-sauced-goals)
+4. ❗️ Opened issue [#12](https://github.com/WarenGonzaga/fork-corner/issues/12) in [WarenGonzaga/fork-corner](https://github.com/WarenGonzaga/fork-corner)
+5. ❗️ Closed issue [#10](https://github.com/WarenGonzaga/fork-corner/issues/10) in [WarenGonzaga/fork-corner](https://github.com/WarenGonzaga/fork-corner)
 <!--END_SECTION:activity-->
 
 </details>
