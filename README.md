@@ -48,11 +48,11 @@ Wanna see some of my future projects? Join today!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#6](https://github.com/WarenGonzaga/fork-corner/issues/6) in [WarenGonzaga/fork-corner](https://github.com/WarenGonzaga/fork-corner)
-2. 🗣 Commented on [#6](https://github.com/WarenGonzaga/fork-corner/issues/6) in [WarenGonzaga/fork-corner](https://github.com/WarenGonzaga/fork-corner)
-3. ❗️ Opened issue [#5](https://github.com/WarenGonzaga/bmc-updates-bot/issues/5) in [WarenGonzaga/bmc-updates-bot](https://github.com/WarenGonzaga/bmc-updates-bot)
-4. ❗️ Opened issue [#4](https://github.com/WarenGonzaga/bmc-updates-bot/issues/4) in [WarenGonzaga/bmc-updates-bot](https://github.com/WarenGonzaga/bmc-updates-bot)
-5. 🗣 Commented on [#1126](https://github.com/animate-css/animate.css/issues/1126) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+1. ❗️ Closed issue [#12](https://github.com/WarenGonzaga/fork-corner/issues/12) in [WarenGonzaga/fork-corner](https://github.com/WarenGonzaga/fork-corner)
+2. 🗣 Commented on [#12](https://github.com/WarenGonzaga/fork-corner/issues/12) in [WarenGonzaga/fork-corner](https://github.com/WarenGonzaga/fork-corner)
+3. ❗️ Closed issue [#6](https://github.com/WarenGonzaga/fork-corner/issues/6) in [WarenGonzaga/fork-corner](https://github.com/WarenGonzaga/fork-corner)
+4. 🗣 Commented on [#6](https://github.com/WarenGonzaga/fork-corner/issues/6) in [WarenGonzaga/fork-corner](https://github.com/WarenGonzaga/fork-corner)
+5. ❗️ Opened issue [#5](https://github.com/WarenGonzaga/bmc-updates-bot/issues/5) in [WarenGonzaga/bmc-updates-bot](https://github.com/WarenGonzaga/bmc-updates-bot)
 <!--END_SECTION:activity-->
 
 </details>
