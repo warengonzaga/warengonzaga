@@ -8,7 +8,7 @@ I'm a part time open source developer and cybersecurity researcher from the Phil
 - :gift_heart: Author of multiple open source projects.
 - :moneybag: Looking for new clients who wants to work with me, [contact me](mailto:business@warengonzaga.co) please.
 - :coffee: Coffee lover, turning it into code, [you can buy me a coffee](https://buymeacoff.ee/warengonzaga)!
-- :trophy: 2020 Goals: Contribute and publish more open source projects.
+- :trophy: 2021 Goals: Contribute and publish more open source projects.
 - :dart: Wasting my time to save other people's time.
 
 ## :headphones: Spotify Playing
