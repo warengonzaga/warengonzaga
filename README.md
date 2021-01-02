@@ -48,11 +48,11 @@ Wanna see some of my future projects? Join today!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#14](https://github.com/WarenGonzaga/fork-corner/issues/14) in [WarenGonzaga/fork-corner](https://github.com/WarenGonzaga/fork-corner)
-2. 🗣 Commented on [#4](https://github.com/WarenGonzaga/fork-corner/issues/4) in [WarenGonzaga/fork-corner](https://github.com/WarenGonzaga/fork-corner)
-3. 🗣 Commented on [#1206](https://github.com/animate-css/animate.css/issues/1206) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
-4. 💪 Opened PR [#1206](https://github.com/animate-css/animate.css/pull/1206) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
-5. 💪 Opened PR [#1205](https://github.com/animate-css/animate.css/pull/1205) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+1. ❗️ Closed issue [#13](https://github.com/WarenGonzaga/buymeacoffee.js/issues/13) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
+2. 🗣 Commented on [#13](https://github.com/WarenGonzaga/buymeacoffee.js/issues/13) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
+3. 🗣 Commented on [#6](https://github.com/WarenGonzaga/buymeacoffee.js/issues/6) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
+4. 🗣 Commented on [#17](https://github.com/WarenGonzaga/buymeacoffee.js/issues/17) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
+5. ❗️ Opened issue [#14](https://github.com/WarenGonzaga/fork-corner/issues/14) in [WarenGonzaga/fork-corner](https://github.com/WarenGonzaga/fork-corner)
 <!--END_SECTION:activity-->
 
 </details>
