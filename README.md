@@ -48,11 +48,11 @@ Wanna see some of my future projects? Join today!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#13](https://github.com/WarenGonzaga/buymeacoffee.js/issues/13) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
-2. 🗣 Commented on [#13](https://github.com/WarenGonzaga/buymeacoffee.js/issues/13) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
-3. 🗣 Commented on [#6](https://github.com/WarenGonzaga/buymeacoffee.js/issues/6) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
-4. 🗣 Commented on [#17](https://github.com/WarenGonzaga/buymeacoffee.js/issues/17) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
-5. ❗️ Opened issue [#14](https://github.com/WarenGonzaga/fork-corner/issues/14) in [WarenGonzaga/fork-corner](https://github.com/WarenGonzaga/fork-corner)
+1. ❗️ Opened issue [#1](https://github.com/NOWPaymentsGitHub/nowpayments.js/issues/1) in [NOWPaymentsGitHub/nowpayments.js](https://github.com/NOWPaymentsGitHub/nowpayments.js)
+2. ❗️ Closed issue [#13](https://github.com/WarenGonzaga/buymeacoffee.js/issues/13) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
+3. 🗣 Commented on [#13](https://github.com/WarenGonzaga/buymeacoffee.js/issues/13) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
+4. 🗣 Commented on [#6](https://github.com/WarenGonzaga/buymeacoffee.js/issues/6) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
+5. 🗣 Commented on [#17](https://github.com/WarenGonzaga/buymeacoffee.js/issues/17) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
 <!--END_SECTION:activity-->
 
 </details>
