@@ -48,11 +48,11 @@ Wanna see some of my future projects? Join today!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2861](https://github.com/tailwindlabs/tailwindcss/issues/2861) in [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss)
-2. ❗️ Opened issue [#1](https://github.com/NOWPaymentsGitHub/nowpayments.js/issues/1) in [NOWPaymentsGitHub/nowpayments.js](https://github.com/NOWPaymentsGitHub/nowpayments.js)
-3. ❗️ Closed issue [#13](https://github.com/WarenGonzaga/buymeacoffee.js/issues/13) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
-4. 🗣 Commented on [#13](https://github.com/WarenGonzaga/buymeacoffee.js/issues/13) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
-5. 🗣 Commented on [#6](https://github.com/WarenGonzaga/buymeacoffee.js/issues/6) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
+1. ❌ Closed PR [#53](https://github.com/trackercli/covid19-tracker-cli/pull/53) in [trackercli/covid19-tracker-cli](https://github.com/trackercli/covid19-tracker-cli)
+2. 🎉 Merged PR [#59](https://github.com/trackercli/covid19-tracker-cli/pull/59) in [trackercli/covid19-tracker-cli](https://github.com/trackercli/covid19-tracker-cli)
+3. 🗣 Commented on [#2861](https://github.com/tailwindlabs/tailwindcss/issues/2861) in [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss)
+4. ❗️ Opened issue [#1](https://github.com/NOWPaymentsGitHub/nowpayments.js/issues/1) in [NOWPaymentsGitHub/nowpayments.js](https://github.com/NOWPaymentsGitHub/nowpayments.js)
+5. ❗️ Closed issue [#13](https://github.com/WarenGonzaga/buymeacoffee.js/issues/13) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
 <!--END_SECTION:activity-->
 
 </details>
