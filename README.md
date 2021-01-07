@@ -48,11 +48,11 @@ Wanna see some of my future projects? Join today!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❌ Reopened PR [#17](https://github.com/WarenGonzaga/buymeacoffee.js/pull/17) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
-2. 🗣 Commented on [#17](https://github.com/WarenGonzaga/buymeacoffee.js/issues/17) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
-3. ❌ Closed PR [#17](https://github.com/WarenGonzaga/buymeacoffee.js/pull/17) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
-4. 🗣 Commented on [#17](https://github.com/WarenGonzaga/buymeacoffee.js/issues/17) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
-5. 🗣 Commented on [#56](https://github.com/trackercli/covid19-tracker-cli/issues/56) in [trackercli/covid19-tracker-cli](https://github.com/trackercli/covid19-tracker-cli)
+1. ❗️ Opened issue [#5](https://github.com/WarenGonzaga/wrn-cleaner/issues/5) in [WarenGonzaga/wrn-cleaner](https://github.com/WarenGonzaga/wrn-cleaner)
+2. ❗️ Opened issue [#4](https://github.com/WarenGonzaga/wrn-cleaner/issues/4) in [WarenGonzaga/wrn-cleaner](https://github.com/WarenGonzaga/wrn-cleaner)
+3. ❗️ Opened issue [#3](https://github.com/WarenGonzaga/wrn-cleaner/issues/3) in [WarenGonzaga/wrn-cleaner](https://github.com/WarenGonzaga/wrn-cleaner)
+4. ❗️ Opened issue [#2](https://github.com/WarenGonzaga/wrn-cleaner/issues/2) in [WarenGonzaga/wrn-cleaner](https://github.com/WarenGonzaga/wrn-cleaner)
+5. ❗️ Opened issue [#5](https://github.com/WarenGonzaga/wp-disease-tracker/issues/5) in [WarenGonzaga/wp-disease-tracker](https://github.com/WarenGonzaga/wp-disease-tracker)
 <!--END_SECTION:activity-->
 
 </details>
