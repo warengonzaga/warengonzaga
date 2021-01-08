@@ -48,11 +48,11 @@ Wanna see some of my future projects? Join today!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#5](https://github.com/WarenGonzaga/wrn-cleaner/issues/5) in [WarenGonzaga/wrn-cleaner](https://github.com/WarenGonzaga/wrn-cleaner)
-2. ❗️ Opened issue [#4](https://github.com/WarenGonzaga/wrn-cleaner/issues/4) in [WarenGonzaga/wrn-cleaner](https://github.com/WarenGonzaga/wrn-cleaner)
-3. ❗️ Opened issue [#3](https://github.com/WarenGonzaga/wrn-cleaner/issues/3) in [WarenGonzaga/wrn-cleaner](https://github.com/WarenGonzaga/wrn-cleaner)
-4. ❗️ Opened issue [#2](https://github.com/WarenGonzaga/wrn-cleaner/issues/2) in [WarenGonzaga/wrn-cleaner](https://github.com/WarenGonzaga/wrn-cleaner)
-5. ❗️ Opened issue [#5](https://github.com/WarenGonzaga/wp-disease-tracker/issues/5) in [WarenGonzaga/wp-disease-tracker](https://github.com/WarenGonzaga/wp-disease-tracker)
+1. ❗️ Closed issue [#3](https://github.com/WarenGonzaga/wrn-cleaner/issues/3) in [WarenGonzaga/wrn-cleaner](https://github.com/WarenGonzaga/wrn-cleaner)
+2. 🗣 Commented on [#3](https://github.com/WarenGonzaga/wrn-cleaner/issues/3) in [WarenGonzaga/wrn-cleaner](https://github.com/WarenGonzaga/wrn-cleaner)
+3. ❗️ Closed issue [#2](https://github.com/WarenGonzaga/wrn-cleaner/issues/2) in [WarenGonzaga/wrn-cleaner](https://github.com/WarenGonzaga/wrn-cleaner)
+4. 🗣 Commented on [#2](https://github.com/WarenGonzaga/wrn-cleaner/issues/2) in [WarenGonzaga/wrn-cleaner](https://github.com/WarenGonzaga/wrn-cleaner)
+5. ❗️ Opened issue [#5](https://github.com/WarenGonzaga/wrn-cleaner/issues/5) in [WarenGonzaga/wrn-cleaner](https://github.com/WarenGonzaga/wrn-cleaner)
 <!--END_SECTION:activity-->
 
 </details>
