@@ -48,11 +48,11 @@ Wanna see some of my future projects? Join today!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#6](https://github.com/WarenGonzaga/wrn-cleaner/issues/6) in [WarenGonzaga/wrn-cleaner](https://github.com/WarenGonzaga/wrn-cleaner)
-2. ❗️ Opened issue [#19](https://github.com/WarenGonzaga/buymeacoffee.js/issues/19) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
-3. ❗️ Closed issue [#12](https://github.com/WarenGonzaga/buymeacoffee.js/issues/12) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
-4. 🗣 Commented on [#12](https://github.com/WarenGonzaga/buymeacoffee.js/issues/12) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
-5. 🎉 Merged PR [#18](https://github.com/WarenGonzaga/buymeacoffee.js/pull/18) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
+1. ❗️ Closed issue [#6](https://github.com/WarenGonzaga/buymeacoffee.js/issues/6) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
+2. 🗣 Commented on [#6](https://github.com/WarenGonzaga/buymeacoffee.js/issues/6) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
+3. ❗️ Closed issue [#19](https://github.com/WarenGonzaga/buymeacoffee.js/issues/19) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
+4. 🗣 Commented on [#19](https://github.com/WarenGonzaga/buymeacoffee.js/issues/19) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
+5. ❗️ Opened issue [#6](https://github.com/WarenGonzaga/wrn-cleaner/issues/6) in [WarenGonzaga/wrn-cleaner](https://github.com/WarenGonzaga/wrn-cleaner)
 <!--END_SECTION:activity-->
 
 </details>
