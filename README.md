@@ -48,11 +48,11 @@ Wanna see some of my future projects? Join today!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#6](https://github.com/tomquirk/messen/issues/6) in [tomquirk/messen](https://github.com/tomquirk/messen)
-2. ❗️ Closed issue [#6](https://github.com/WarenGonzaga/buymeacoffee.js/issues/6) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
-3. 🗣 Commented on [#6](https://github.com/WarenGonzaga/buymeacoffee.js/issues/6) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
-4. ❗️ Closed issue [#19](https://github.com/WarenGonzaga/buymeacoffee.js/issues/19) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
-5. 🗣 Commented on [#19](https://github.com/WarenGonzaga/buymeacoffee.js/issues/19) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
+1. 🗣 Commented on [#102](https://github.com/ide-stories/vscode-stories/issues/102) in [ide-stories/vscode-stories](https://github.com/ide-stories/vscode-stories)
+2. 🗣 Commented on [#28](https://github.com/ide-stories/vscode-stories/issues/28) in [ide-stories/vscode-stories](https://github.com/ide-stories/vscode-stories)
+3. 🗣 Commented on [#106](https://github.com/ide-stories/vscode-stories/issues/106) in [ide-stories/vscode-stories](https://github.com/ide-stories/vscode-stories)
+4. ❗️ Opened issue [#6](https://github.com/tomquirk/messen/issues/6) in [tomquirk/messen](https://github.com/tomquirk/messen)
+5. ❗️ Closed issue [#6](https://github.com/WarenGonzaga/buymeacoffee.js/issues/6) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
 <!--END_SECTION:activity-->
 
 </details>
