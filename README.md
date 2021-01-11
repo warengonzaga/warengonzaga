@@ -48,11 +48,11 @@ Wanna see some of my future projects? Join today!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#17](https://github.com/cssho/VSMarketplaceBadge/pull/17) in [cssho/VSMarketplaceBadge](https://github.com/cssho/VSMarketplaceBadge)
-2. ❗️ Opened issue [#15](https://github.com/WarenGonzaga/fork-corner/issues/15) in [WarenGonzaga/fork-corner](https://github.com/WarenGonzaga/fork-corner)
-3. 💪 Opened PR [#110](https://github.com/ide-stories/vscode-stories/pull/110) in [ide-stories/vscode-stories](https://github.com/ide-stories/vscode-stories)
-4. 🗣 Commented on [#102](https://github.com/ide-stories/vscode-stories/issues/102) in [ide-stories/vscode-stories](https://github.com/ide-stories/vscode-stories)
-5. 🗣 Commented on [#28](https://github.com/ide-stories/vscode-stories/issues/28) in [ide-stories/vscode-stories](https://github.com/ide-stories/vscode-stories)
+1. ❌ Closed PR [#110](https://github.com/ide-stories/vscode-stories/pull/110) in [ide-stories/vscode-stories](https://github.com/ide-stories/vscode-stories)
+2. 🗣 Commented on [#110](https://github.com/ide-stories/vscode-stories/issues/110) in [ide-stories/vscode-stories](https://github.com/ide-stories/vscode-stories)
+3. ❗️ Opened issue [#7](https://github.com/WarenGonzaga/wrn-cleaner/issues/7) in [WarenGonzaga/wrn-cleaner](https://github.com/WarenGonzaga/wrn-cleaner)
+4. 💪 Opened PR [#17](https://github.com/cssho/VSMarketplaceBadge/pull/17) in [cssho/VSMarketplaceBadge](https://github.com/cssho/VSMarketplaceBadge)
+5. ❗️ Opened issue [#15](https://github.com/WarenGonzaga/fork-corner/issues/15) in [WarenGonzaga/fork-corner](https://github.com/WarenGonzaga/fork-corner)
 <!--END_SECTION:activity-->
 
 </details>
