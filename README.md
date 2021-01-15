@@ -48,11 +48,11 @@ Wanna see some of my future projects? Join today!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#110](https://github.com/ide-stories/vscode-stories/pull/110) in [ide-stories/vscode-stories](https://github.com/ide-stories/vscode-stories)
-2. 🗣 Commented on [#110](https://github.com/ide-stories/vscode-stories/issues/110) in [ide-stories/vscode-stories](https://github.com/ide-stories/vscode-stories)
-3. ❗️ Opened issue [#7](https://github.com/WarenGonzaga/wrn-cleaner/issues/7) in [WarenGonzaga/wrn-cleaner](https://github.com/WarenGonzaga/wrn-cleaner)
-4. 💪 Opened PR [#17](https://github.com/cssho/VSMarketplaceBadge/pull/17) in [cssho/VSMarketplaceBadge](https://github.com/cssho/VSMarketplaceBadge)
-5. ❗️ Opened issue [#15](https://github.com/WarenGonzaga/fork-corner/issues/15) in [WarenGonzaga/fork-corner](https://github.com/WarenGonzaga/fork-corner)
+1. 🗣 Commented on [#1217](https://github.com/animate-css/animate.css/issues/1217) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+2. 🗣 Commented on [#1126](https://github.com/animate-css/animate.css/issues/1126) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+3. 🗣 Commented on [#1217](https://github.com/animate-css/animate.css/issues/1217) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+4. ❌ Closed PR [#110](https://github.com/ide-stories/vscode-stories/pull/110) in [ide-stories/vscode-stories](https://github.com/ide-stories/vscode-stories)
+5. 🗣 Commented on [#110](https://github.com/ide-stories/vscode-stories/issues/110) in [ide-stories/vscode-stories](https://github.com/ide-stories/vscode-stories)
 <!--END_SECTION:activity-->
 
 </details>
