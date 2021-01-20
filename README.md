@@ -48,11 +48,11 @@ Wanna see some of my future projects? Join today!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1217](https://github.com/animate-css/animate.css/issues/1217) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
-2. 🗣 Commented on [#1126](https://github.com/animate-css/animate.css/issues/1126) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+1. 🗣 Commented on [#62](https://github.com/alexmigf/stock-locations-for-woocommerce/issues/62) in [alexmigf/stock-locations-for-woocommerce](https://github.com/alexmigf/stock-locations-for-woocommerce)
+2. ❗️ Opened issue [#62](https://github.com/alexmigf/stock-locations-for-woocommerce/issues/62) in [alexmigf/stock-locations-for-woocommerce](https://github.com/alexmigf/stock-locations-for-woocommerce)
 3. 🗣 Commented on [#1217](https://github.com/animate-css/animate.css/issues/1217) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
-4. ❌ Closed PR [#110](https://github.com/ide-stories/vscode-stories/pull/110) in [ide-stories/vscode-stories](https://github.com/ide-stories/vscode-stories)
-5. 🗣 Commented on [#110](https://github.com/ide-stories/vscode-stories/issues/110) in [ide-stories/vscode-stories](https://github.com/ide-stories/vscode-stories)
+4. 🗣 Commented on [#1126](https://github.com/animate-css/animate.css/issues/1126) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+5. 🗣 Commented on [#1217](https://github.com/animate-css/animate.css/issues/1217) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
 <!--END_SECTION:activity-->
 
 </details>
