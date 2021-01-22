@@ -1,10 +1,10 @@
 # Hi, I'm Waren Gonzaga (:coffee::computer::bulb::heart:)
 
-I'm a part time open source developer and cybersecurity researcher from the Philippines!
+I'm a Filipino freelance software engineer, opensource developer, and cybersecurity researcher from the Philippines. Kumusta ka!
 
-[![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/warengonzagaofficial) [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/warengonzaga) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/warengonzagaofficial) [![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/warengonzaga) [![DEV](https://img.shields.io/badge/DEV-%23000000.svg?&style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/warengonzaga) [![Buy Me A Coffee](https://img.shields.io/badge/buy%20me%20a%20coffee-%23ff813f.svg?&style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://buymeacoff.ee/warengonzaga)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/warengonzagaofficial) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/warengonzaga) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/warengonzagaofficial) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/warengonzaga) [![DEV](https://img.shields.io/badge/DEV-%23000000.svg?&style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/warengonzaga) [![BMC](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00.svg?&style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://bmc.xyz/warengonzaga)
 
-- :muscle: Currently working as a freelance developer.
+- :muscle: Currently working as a freelance software engineer.
 - :gift_heart: Author of multiple open source projects.
 - :moneybag: Looking for new clients who wants to work with me, [contact me](mailto:business@warengonzaga.co) please.
 - :coffee: Coffee lover, turning it into code, [you can buy me a coffee](https://buymeacoff.ee/warengonzaga)!
@@ -13,7 +13,7 @@ I'm a part time open source developer and cybersecurity researcher from the Phil
 
 ## :headphones: Spotify Playing
 
-[![Programming Music](https://img.shields.io/badge/Programming%20Music-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/1FWq5Cu05LmtSHgFEXRnZO?si=FozGJF9nRXq2wTv_JpN2wQ) [![KPOP Music](https://img.shields.io/badge/KPOP%20Music-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/2DFExFNWYOwQMZy6wUeCxX?si=s1Ndgj8hTg-r8zLlvRgv1Q) [![PPOP Music](https://img.shields.io/badge/PPOP%20Music-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/58bZKfJFpUl2CwWET1QJ3X?si=259YV8_VRS-IKHsFZMmPTQ)
+[![Programming Music](https://img.shields.io/badge/Programming%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/1FWq5Cu05LmtSHgFEXRnZO?si=FozGJF9nRXq2wTv_JpN2wQ) [![KPOP Music](https://img.shields.io/badge/KPOP%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/2DFExFNWYOwQMZy6wUeCxX?si=s1Ndgj8hTg-r8zLlvRgv1Q) [![PPOP Music](https://img.shields.io/badge/PPOP%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/58bZKfJFpUl2CwWET1QJ3X?si=259YV8_VRS-IKHsFZMmPTQ)
 
 [![Spotify](https://readme-spotify.warengonzaga.com/api/spotify)](https://open.spotify.com/user/vmt7lpqdatuelp2chw7ur2p2l)
 
@@ -72,6 +72,14 @@ Wanna see some of my future projects? Join today!
 </details>
 
 <!-- markdownlint-enable MD033 -->
+
+---
+
+## Supporters
+
+[![Vercel](https://wrngnz.ga/badge-vercel)](https://vercel.com) [![GitBook](https://wrngnz.ga/badge-gitbook)](https://gitbook.io)
+
+and you... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what I do!
 
 ---
 
