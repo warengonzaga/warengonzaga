@@ -48,11 +48,11 @@ Wanna see some of my future projects? Join today!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#41](https://github.com/alexmigf/stock-locations-for-woocommerce/issues/41) in [alexmigf/stock-locations-for-woocommerce](https://github.com/alexmigf/stock-locations-for-woocommerce)
-2. 🗣 Commented on [#62](https://github.com/alexmigf/stock-locations-for-woocommerce/issues/62) in [alexmigf/stock-locations-for-woocommerce](https://github.com/alexmigf/stock-locations-for-woocommerce)
-3. 🗣 Commented on [#62](https://github.com/alexmigf/stock-locations-for-woocommerce/issues/62) in [alexmigf/stock-locations-for-woocommerce](https://github.com/alexmigf/stock-locations-for-woocommerce)
-4. ❗️ Opened issue [#62](https://github.com/alexmigf/stock-locations-for-woocommerce/issues/62) in [alexmigf/stock-locations-for-woocommerce](https://github.com/alexmigf/stock-locations-for-woocommerce)
-5. 🗣 Commented on [#1217](https://github.com/animate-css/animate.css/issues/1217) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+1. 🗣 Commented on [#230](https://github.com/WordPress/two-factor/issues/230) in [WordPress/two-factor](https://github.com/WordPress/two-factor)
+2. 🗣 Commented on [#282](https://github.com/WordPress/two-factor/issues/282) in [WordPress/two-factor](https://github.com/WordPress/two-factor)
+3. ❗️ Opened issue [#397](https://github.com/WordPress/two-factor/issues/397) in [WordPress/two-factor](https://github.com/WordPress/two-factor)
+4. 🗣 Commented on [#41](https://github.com/alexmigf/stock-locations-for-woocommerce/issues/41) in [alexmigf/stock-locations-for-woocommerce](https://github.com/alexmigf/stock-locations-for-woocommerce)
+5. 🗣 Commented on [#62](https://github.com/alexmigf/stock-locations-for-woocommerce/issues/62) in [alexmigf/stock-locations-for-woocommerce](https://github.com/alexmigf/stock-locations-for-woocommerce)
 <!--END_SECTION:activity-->
 
 </details>
