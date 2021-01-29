@@ -48,11 +48,11 @@ Wanna see some of my future projects? Join today!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#200](https://github.com/wpugph/dctx-website/issues/200) in [wpugph/dctx-website](https://github.com/wpugph/dctx-website)
-2. 🗣 Commented on [#198](https://github.com/wpugph/dctx-website/issues/198) in [wpugph/dctx-website](https://github.com/wpugph/dctx-website)
-3. 🗣 Commented on [#230](https://github.com/WordPress/two-factor/issues/230) in [WordPress/two-factor](https://github.com/WordPress/two-factor)
-4. 🗣 Commented on [#282](https://github.com/WordPress/two-factor/issues/282) in [WordPress/two-factor](https://github.com/WordPress/two-factor)
-5. ❗️ Opened issue [#397](https://github.com/WordPress/two-factor/issues/397) in [WordPress/two-factor](https://github.com/WordPress/two-factor)
+1. 🗣 Commented on [#16](https://github.com/WarenGonzaga/wifi-passview/issues/16) in [WarenGonzaga/wifi-passview](https://github.com/WarenGonzaga/wifi-passview)
+2. 🗣 Commented on [#200](https://github.com/wpugph/dctx-website/issues/200) in [wpugph/dctx-website](https://github.com/wpugph/dctx-website)
+3. 🗣 Commented on [#198](https://github.com/wpugph/dctx-website/issues/198) in [wpugph/dctx-website](https://github.com/wpugph/dctx-website)
+4. 🗣 Commented on [#230](https://github.com/WordPress/two-factor/issues/230) in [WordPress/two-factor](https://github.com/WordPress/two-factor)
+5. 🗣 Commented on [#282](https://github.com/WordPress/two-factor/issues/282) in [WordPress/two-factor](https://github.com/WordPress/two-factor)
 <!--END_SECTION:activity-->
 
 </details>
