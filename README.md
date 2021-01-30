@@ -48,11 +48,11 @@ Wanna see some of my future projects? Join today!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#362](https://github.com/rahuldkjain/github-profile-readme-generator/issues/362) in [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator)
-2. 💪 Opened PR [#361](https://github.com/rahuldkjain/github-profile-readme-generator/pull/361) in [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator)
-3. 🗣 Commented on [#16](https://github.com/WarenGonzaga/wifi-passview/issues/16) in [WarenGonzaga/wifi-passview](https://github.com/WarenGonzaga/wifi-passview)
-4. 🗣 Commented on [#200](https://github.com/wpugph/dctx-website/issues/200) in [wpugph/dctx-website](https://github.com/wpugph/dctx-website)
-5. 🗣 Commented on [#198](https://github.com/wpugph/dctx-website/issues/198) in [wpugph/dctx-website](https://github.com/wpugph/dctx-website)
+1. 🗣 Commented on [#198](https://github.com/rahuldkjain/github-profile-readme-generator/issues/198) in [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator)
+2. 💪 Opened PR [#363](https://github.com/rahuldkjain/github-profile-readme-generator/pull/363) in [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator)
+3. ❗️ Opened issue [#362](https://github.com/rahuldkjain/github-profile-readme-generator/issues/362) in [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator)
+4. 💪 Opened PR [#361](https://github.com/rahuldkjain/github-profile-readme-generator/pull/361) in [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator)
+5. 🗣 Commented on [#16](https://github.com/WarenGonzaga/wifi-passview/issues/16) in [WarenGonzaga/wifi-passview](https://github.com/WarenGonzaga/wifi-passview)
 <!--END_SECTION:activity-->
 
 </details>
