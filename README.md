@@ -1,15 +1,19 @@
 # Hi, I'm Waren Gonzaga (:coffee::computer::bulb::heart:)
 
-I'm a Filipino freelance software engineer, opensource developer, and cybersecurity researcher from the Philippines. Kumusta ka!
+I'm a Filipino freelance software engineer, opensource developer advocate, and cybersecurity researcher from the Philippines. Kumusta ka!
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/warengonzagaofficial) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/warengonzaga) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/warengonzagaofficial) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/warengonzaga) [![DEV](https://img.shields.io/badge/DEV-%23000000.svg?&style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/warengonzaga) [![BMC](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00.svg?&style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://bmc.xyz/warengonzaga)
 
-- :muscle: Currently working as a freelance software engineer.
-- :gift_heart: Author of multiple open source projects.
-- :moneybag: Looking for new clients who wants to work with me, [contact me](mailto:business@warengonzaga.co) please.
-- :coffee: Coffee lover, turning it into code, [you can buy me a coffee](https://buymeacoff.ee/warengonzaga)!
-- :trophy: 2021 Goals: Contribute and publish more open source projects.
-- :dart: Wasting my time to save other people's time.
+- 💪 Currently working as a freelance software engineer.
+- 🔏 Bug bounty hunter in free time.
+- 💝 Author of multiple open source projects (30+ to be exact).
+- 💰 Looking for new clients who wants to work with me, [contact me](mailto:sudo@warengonzaga.co) please.
+- ☕ Coffee lover, turning it into code, [you can buy me a coffee](https://buymeacoff.ee/warengonzaga)!
+- 🏆 2021 Goals:
+  - Contribute and publish more open source projects.
+  - Publish my first SaaS project.
+  - Improve and expand my freelancing business.
+- 🎯 Wasting my time to save other people's time.
 
 ## :headphones: Spotify Playing
 
