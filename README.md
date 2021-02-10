@@ -52,11 +52,11 @@ Wanna see some of my future projects? Join today!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1126](https://github.com/animate-css/animate.css/issues/1126) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
-2. 💪 Opened PR [#1232](https://github.com/animate-css/animate.css/pull/1232) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
-3. 🗣 Commented on [#1223](https://github.com/animate-css/animate.css/issues/1223) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
-4. 🗣 Commented on [#1221](https://github.com/animate-css/animate.css/issues/1221) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
-5. 🗣 Commented on [#200](https://github.com/wpugph/dctx-website/issues/200) in [wpugph/dctx-website](https://github.com/wpugph/dctx-website)
+1. 🗣 Commented on [#213](https://github.com/saadpasta/developerFolio/issues/213) in [saadpasta/developerFolio](https://github.com/saadpasta/developerFolio)
+2. 🗣 Commented on [#1126](https://github.com/animate-css/animate.css/issues/1126) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+3. 💪 Opened PR [#1232](https://github.com/animate-css/animate.css/pull/1232) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+4. 🗣 Commented on [#1223](https://github.com/animate-css/animate.css/issues/1223) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+5. 🗣 Commented on [#1221](https://github.com/animate-css/animate.css/issues/1221) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
 <!--END_SECTION:activity-->
 
 </details>
