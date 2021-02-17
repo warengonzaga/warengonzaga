@@ -53,10 +53,10 @@ Wanna see some of my future projects? Join today!
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1217](https://github.com/animate-css/animate.css/issues/1217) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
-2. 🗣 Commented on [#1217](https://github.com/animate-css/animate.css/issues/1217) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
-3. 🗣 Commented on [#1234](https://github.com/animate-css/animate.css/issues/1234) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
-4. 🗣 Commented on [#1223](https://github.com/animate-css/animate.css/issues/1223) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
-5. 🗣 Commented on [#1236](https://github.com/animate-css/animate.css/issues/1236) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+2. 🗣 Commented on [#1221](https://github.com/animate-css/animate.css/issues/1221) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+3. 🗣 Commented on [#1221](https://github.com/animate-css/animate.css/issues/1221) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+4. 🗣 Commented on [#1217](https://github.com/animate-css/animate.css/issues/1217) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+5. 🗣 Commented on [#1217](https://github.com/animate-css/animate.css/issues/1217) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
 <!--END_SECTION:activity-->
 
 </details>
