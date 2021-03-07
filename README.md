@@ -52,11 +52,11 @@ Wanna see some of my future projects? Join today!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/WarenGonzaga/wrn-fix-it/issues/1) in [WarenGonzaga/wrn-fix-it](https://github.com/WarenGonzaga/wrn-fix-it)
-2. ❗️ Closed issue [#2](https://github.com/WarenGonzaga/wrn-fix-it/issues/2) in [WarenGonzaga/wrn-fix-it](https://github.com/WarenGonzaga/wrn-fix-it)
-3. 🗣 Commented on [#2](https://github.com/WarenGonzaga/wrn-fix-it/issues/2) in [WarenGonzaga/wrn-fix-it](https://github.com/WarenGonzaga/wrn-fix-it)
-4. ❗️ Opened issue [#10](https://github.com/WarenGonzaga/wrn-cleaner/issues/10) in [WarenGonzaga/wrn-cleaner](https://github.com/WarenGonzaga/wrn-cleaner)
-5. ❗️ Opened issue [#9](https://github.com/WarenGonzaga/wrn-cleaner/issues/9) in [WarenGonzaga/wrn-cleaner](https://github.com/WarenGonzaga/wrn-cleaner)
+1. ❗️ Opened issue [#3](https://github.com/WarenGonzaga/wrn-fix-it/issues/3) in [WarenGonzaga/wrn-fix-it](https://github.com/WarenGonzaga/wrn-fix-it)
+2. 🗣 Commented on [#1](https://github.com/WarenGonzaga/wrn-fix-it/issues/1) in [WarenGonzaga/wrn-fix-it](https://github.com/WarenGonzaga/wrn-fix-it)
+3. ❗️ Closed issue [#2](https://github.com/WarenGonzaga/wrn-fix-it/issues/2) in [WarenGonzaga/wrn-fix-it](https://github.com/WarenGonzaga/wrn-fix-it)
+4. 🗣 Commented on [#2](https://github.com/WarenGonzaga/wrn-fix-it/issues/2) in [WarenGonzaga/wrn-fix-it](https://github.com/WarenGonzaga/wrn-fix-it)
+5. ❗️ Opened issue [#10](https://github.com/WarenGonzaga/wrn-cleaner/issues/10) in [WarenGonzaga/wrn-cleaner](https://github.com/WarenGonzaga/wrn-cleaner)
 <!--END_SECTION:activity-->
 
 </details>
