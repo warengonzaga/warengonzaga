@@ -52,11 +52,11 @@ Wanna see some of my future projects? Join today!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#16](https://github.com/WarenGonzaga/fork-corner/issues/16) in [WarenGonzaga/fork-corner](https://github.com/WarenGonzaga/fork-corner)
-2. ❌ Closed PR [#16](https://github.com/WarenGonzaga/fork-corner/pull/16) in [WarenGonzaga/fork-corner](https://github.com/WarenGonzaga/fork-corner)
-3. ❗️ Opened issue [#3](https://github.com/WarenGonzaga/wrn-fix-it/issues/3) in [WarenGonzaga/wrn-fix-it](https://github.com/WarenGonzaga/wrn-fix-it)
-4. 🗣 Commented on [#1](https://github.com/WarenGonzaga/wrn-fix-it/issues/1) in [WarenGonzaga/wrn-fix-it](https://github.com/WarenGonzaga/wrn-fix-it)
-5. ❗️ Closed issue [#2](https://github.com/WarenGonzaga/wrn-fix-it/issues/2) in [WarenGonzaga/wrn-fix-it](https://github.com/WarenGonzaga/wrn-fix-it)
+1. ❗️ Closed issue [#15](https://github.com/WarenGonzaga/fork-corner/issues/15) in [WarenGonzaga/fork-corner](https://github.com/WarenGonzaga/fork-corner)
+2. 🗣 Commented on [#15](https://github.com/WarenGonzaga/fork-corner/issues/15) in [WarenGonzaga/fork-corner](https://github.com/WarenGonzaga/fork-corner)
+3. 🗣 Commented on [#16](https://github.com/WarenGonzaga/fork-corner/issues/16) in [WarenGonzaga/fork-corner](https://github.com/WarenGonzaga/fork-corner)
+4. ❌ Closed PR [#16](https://github.com/WarenGonzaga/fork-corner/pull/16) in [WarenGonzaga/fork-corner](https://github.com/WarenGonzaga/fork-corner)
+5. ❗️ Opened issue [#3](https://github.com/WarenGonzaga/wrn-fix-it/issues/3) in [WarenGonzaga/wrn-fix-it](https://github.com/WarenGonzaga/wrn-fix-it)
 <!--END_SECTION:activity-->
 
 </details>
