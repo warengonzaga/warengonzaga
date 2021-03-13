@@ -52,11 +52,11 @@ Wanna see some of my future projects? Join today!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#8](https://github.com/wareneutron/PSGC-API/issues/8) in [wareneutron/PSGC-API](https://github.com/wareneutron/PSGC-API)
-2. ❗️ Opened issue [#7](https://github.com/wareneutron/PSGC-API/issues/7) in [wareneutron/PSGC-API](https://github.com/wareneutron/PSGC-API)
-3. ❗️ Opened issue [#6](https://github.com/wareneutron/PSGC-API/issues/6) in [wareneutron/PSGC-API](https://github.com/wareneutron/PSGC-API)
-4. ❗️ Closed issue [#13](https://github.com/WarenGonzaga/fork-corner/issues/13) in [WarenGonzaga/fork-corner](https://github.com/WarenGonzaga/fork-corner)
-5. 🗣 Commented on [#13](https://github.com/WarenGonzaga/fork-corner/issues/13) in [WarenGonzaga/fork-corner](https://github.com/WarenGonzaga/fork-corner)
+1. 💪 Opened PR [#5](https://github.com/BMSVieira/moovie.js/pull/5) in [BMSVieira/moovie.js](https://github.com/BMSVieira/moovie.js)
+2. 🗣 Commented on [#7](https://github.com/wareneutron/PSGC-API/issues/7) in [wareneutron/PSGC-API](https://github.com/wareneutron/PSGC-API)
+3. ❗️ Opened issue [#8](https://github.com/wareneutron/PSGC-API/issues/8) in [wareneutron/PSGC-API](https://github.com/wareneutron/PSGC-API)
+4. ❗️ Opened issue [#7](https://github.com/wareneutron/PSGC-API/issues/7) in [wareneutron/PSGC-API](https://github.com/wareneutron/PSGC-API)
+5. ❗️ Opened issue [#6](https://github.com/wareneutron/PSGC-API/issues/6) in [wareneutron/PSGC-API](https://github.com/wareneutron/PSGC-API)
 <!--END_SECTION:activity-->
 
 </details>
