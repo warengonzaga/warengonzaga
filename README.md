@@ -52,11 +52,11 @@ Wanna see some of my future projects? Join today!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#13](https://github.com/WarenGonzaga/fork-corner/issues/13) in [WarenGonzaga/fork-corner](https://github.com/WarenGonzaga/fork-corner)
-2. 🗣 Commented on [#13](https://github.com/WarenGonzaga/fork-corner/issues/13) in [WarenGonzaga/fork-corner](https://github.com/WarenGonzaga/fork-corner)
-3. ❗️ Closed issue [#14](https://github.com/WarenGonzaga/fork-corner/issues/14) in [WarenGonzaga/fork-corner](https://github.com/WarenGonzaga/fork-corner)
-4. 🗣 Commented on [#14](https://github.com/WarenGonzaga/fork-corner/issues/14) in [WarenGonzaga/fork-corner](https://github.com/WarenGonzaga/fork-corner)
-5. 💪 Opened PR [#1248](https://github.com/animate-css/animate.css/pull/1248) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+1. ❗️ Opened issue [#8](https://github.com/wareneutron/PSGC-API/issues/8) in [wareneutron/PSGC-API](https://github.com/wareneutron/PSGC-API)
+2. ❗️ Opened issue [#7](https://github.com/wareneutron/PSGC-API/issues/7) in [wareneutron/PSGC-API](https://github.com/wareneutron/PSGC-API)
+3. ❗️ Opened issue [#6](https://github.com/wareneutron/PSGC-API/issues/6) in [wareneutron/PSGC-API](https://github.com/wareneutron/PSGC-API)
+4. ❗️ Closed issue [#13](https://github.com/WarenGonzaga/fork-corner/issues/13) in [WarenGonzaga/fork-corner](https://github.com/WarenGonzaga/fork-corner)
+5. 🗣 Commented on [#13](https://github.com/WarenGonzaga/fork-corner/issues/13) in [WarenGonzaga/fork-corner](https://github.com/WarenGonzaga/fork-corner)
 <!--END_SECTION:activity-->
 
 </details>
