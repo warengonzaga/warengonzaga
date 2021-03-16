@@ -52,11 +52,11 @@ Wanna see some of my future projects? Join today!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#19](https://github.com/WarenGonzaga/fork-corner/issues/19) in [WarenGonzaga/fork-corner](https://github.com/WarenGonzaga/fork-corner)
-2. ❗️ Opened issue [#18](https://github.com/WarenGonzaga/fork-corner/issues/18) in [WarenGonzaga/fork-corner](https://github.com/WarenGonzaga/fork-corner)
-3. 🗣 Commented on [#5](https://github.com/BMSVieira/moovie.js/issues/5) in [BMSVieira/moovie.js](https://github.com/BMSVieira/moovie.js)
-4. 💪 Opened PR [#5](https://github.com/BMSVieira/moovie.js/pull/5) in [BMSVieira/moovie.js](https://github.com/BMSVieira/moovie.js)
-5. 🗣 Commented on [#7](https://github.com/wareneutron/PSGC-API/issues/7) in [wareneutron/PSGC-API](https://github.com/wareneutron/PSGC-API)
+1. ❗️ Opened issue [#20](https://github.com/WarenGonzaga/fork-corner/issues/20) in [WarenGonzaga/fork-corner](https://github.com/WarenGonzaga/fork-corner)
+2. ❗️ Opened issue [#19](https://github.com/WarenGonzaga/fork-corner/issues/19) in [WarenGonzaga/fork-corner](https://github.com/WarenGonzaga/fork-corner)
+3. ❗️ Opened issue [#18](https://github.com/WarenGonzaga/fork-corner/issues/18) in [WarenGonzaga/fork-corner](https://github.com/WarenGonzaga/fork-corner)
+4. 🗣 Commented on [#5](https://github.com/BMSVieira/moovie.js/issues/5) in [BMSVieira/moovie.js](https://github.com/BMSVieira/moovie.js)
+5. 💪 Opened PR [#5](https://github.com/BMSVieira/moovie.js/pull/5) in [BMSVieira/moovie.js](https://github.com/BMSVieira/moovie.js)
 <!--END_SECTION:activity-->
 
 </details>
