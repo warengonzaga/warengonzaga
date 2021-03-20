@@ -52,11 +52,11 @@ Wanna see some of my future projects? Join today!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#9](https://github.com/wareneutron/psgc-api/issues/9) in [wareneutron/psgc-api](https://github.com/wareneutron/psgc-api)
-2. 🗣 Commented on [#78](https://github.com/alexmigf/stock-locations-for-woocommerce/issues/78) in [alexmigf/stock-locations-for-woocommerce](https://github.com/alexmigf/stock-locations-for-woocommerce)
-3. ❗️ Opened issue [#20](https://github.com/WarenGonzaga/fork-corner/issues/20) in [WarenGonzaga/fork-corner](https://github.com/WarenGonzaga/fork-corner)
-4. ❗️ Opened issue [#19](https://github.com/WarenGonzaga/fork-corner/issues/19) in [WarenGonzaga/fork-corner](https://github.com/WarenGonzaga/fork-corner)
-5. ❗️ Opened issue [#18](https://github.com/WarenGonzaga/fork-corner/issues/18) in [WarenGonzaga/fork-corner](https://github.com/WarenGonzaga/fork-corner)
+1. ❗️ Opened issue [#61](https://github.com/wareneutron/covid19-tracker-cli/issues/61) in [wareneutron/covid19-tracker-cli](https://github.com/wareneutron/covid19-tracker-cli)
+2. ❗️ Opened issue [#60](https://github.com/wareneutron/covid19-tracker-cli/issues/60) in [wareneutron/covid19-tracker-cli](https://github.com/wareneutron/covid19-tracker-cli)
+3. 🗣 Commented on [#57](https://github.com/wareneutron/covid19-tracker-cli/issues/57) in [wareneutron/covid19-tracker-cli](https://github.com/wareneutron/covid19-tracker-cli)
+4. ❗️ Opened issue [#9](https://github.com/wareneutron/psgc-api/issues/9) in [wareneutron/psgc-api](https://github.com/wareneutron/psgc-api)
+5. 🗣 Commented on [#78](https://github.com/alexmigf/stock-locations-for-woocommerce/issues/78) in [alexmigf/stock-locations-for-woocommerce](https://github.com/alexmigf/stock-locations-for-woocommerce)
 <!--END_SECTION:activity-->
 
 </details>
