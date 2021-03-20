@@ -52,11 +52,11 @@ Wanna see some of my future projects? Join today!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#6](https://github.com/WarenGonzaga/wrn-cleaner/issues/6) in [WarenGonzaga/wrn-cleaner](https://github.com/WarenGonzaga/wrn-cleaner)
-2. 🗣 Commented on [#6](https://github.com/WarenGonzaga/wrn-cleaner/issues/6) in [WarenGonzaga/wrn-cleaner](https://github.com/WarenGonzaga/wrn-cleaner)
-3. ❗️ Closed issue [#8](https://github.com/WarenGonzaga/wrn-cleaner/issues/8) in [WarenGonzaga/wrn-cleaner](https://github.com/WarenGonzaga/wrn-cleaner)
-4. 🗣 Commented on [#8](https://github.com/WarenGonzaga/wrn-cleaner/issues/8) in [WarenGonzaga/wrn-cleaner](https://github.com/WarenGonzaga/wrn-cleaner)
-5. 🗣 Commented on [#11](https://github.com/WarenGonzaga/wrn-cleaner/issues/11) in [WarenGonzaga/wrn-cleaner](https://github.com/WarenGonzaga/wrn-cleaner)
+1. ❗️ Opened issue [#17](https://github.com/WarenGonzaga/wifi-passview/issues/17) in [WarenGonzaga/wifi-passview](https://github.com/WarenGonzaga/wifi-passview)
+2. ❗️ Closed issue [#6](https://github.com/WarenGonzaga/wrn-cleaner/issues/6) in [WarenGonzaga/wrn-cleaner](https://github.com/WarenGonzaga/wrn-cleaner)
+3. 🗣 Commented on [#6](https://github.com/WarenGonzaga/wrn-cleaner/issues/6) in [WarenGonzaga/wrn-cleaner](https://github.com/WarenGonzaga/wrn-cleaner)
+4. ❗️ Closed issue [#8](https://github.com/WarenGonzaga/wrn-cleaner/issues/8) in [WarenGonzaga/wrn-cleaner](https://github.com/WarenGonzaga/wrn-cleaner)
+5. 🗣 Commented on [#8](https://github.com/WarenGonzaga/wrn-cleaner/issues/8) in [WarenGonzaga/wrn-cleaner](https://github.com/WarenGonzaga/wrn-cleaner)
 <!--END_SECTION:activity-->
 
 </details>
