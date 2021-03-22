@@ -52,11 +52,11 @@ Wanna see some of my future projects? Join today!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14](https://github.com/wareneutron/psgc-api/issues/14) in [wareneutron/psgc-api](https://github.com/wareneutron/psgc-api)
-2. ❗️ Opened issue [#14](https://github.com/wareneutron/psgc-api/issues/14) in [wareneutron/psgc-api](https://github.com/wareneutron/psgc-api)
-3. ❗️ Closed issue [#6](https://github.com/wareneutron/psgc-api/issues/6) in [wareneutron/psgc-api](https://github.com/wareneutron/psgc-api)
-4. 🗣 Commented on [#6](https://github.com/wareneutron/psgc-api/issues/6) in [wareneutron/psgc-api](https://github.com/wareneutron/psgc-api)
-5. 🗣 Commented on [#9](https://github.com/wareneutron/psgc-api/issues/9) in [wareneutron/psgc-api](https://github.com/wareneutron/psgc-api)
+1. 🗣 Commented on [#62](https://github.com/wareneutron/covid19-tracker-cli/issues/62) in [wareneutron/covid19-tracker-cli](https://github.com/wareneutron/covid19-tracker-cli)
+2. 🗣 Commented on [#14](https://github.com/wareneutron/psgc-api/issues/14) in [wareneutron/psgc-api](https://github.com/wareneutron/psgc-api)
+3. 🗣 Commented on [#14](https://github.com/wareneutron/psgc-api/issues/14) in [wareneutron/psgc-api](https://github.com/wareneutron/psgc-api)
+4. ❗️ Opened issue [#14](https://github.com/wareneutron/psgc-api/issues/14) in [wareneutron/psgc-api](https://github.com/wareneutron/psgc-api)
+5. ❗️ Closed issue [#6](https://github.com/wareneutron/psgc-api/issues/6) in [wareneutron/psgc-api](https://github.com/wareneutron/psgc-api)
 <!--END_SECTION:activity-->
 
 </details>
