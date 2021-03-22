@@ -52,11 +52,11 @@ Wanna see some of my future projects? Join today!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#8](https://github.com/wareneutron/psgc-api/issues/8) in [wareneutron/psgc-api](https://github.com/wareneutron/psgc-api)
-2. 🗣 Commented on [#8](https://github.com/wareneutron/psgc-api/issues/8) in [wareneutron/psgc-api](https://github.com/wareneutron/psgc-api)
-3. 🎉 Merged PR [#10](https://github.com/wareneutron/psgc-api/pull/10) in [wareneutron/psgc-api](https://github.com/wareneutron/psgc-api)
-4. 💪 Opened PR [#3](https://github.com/rexdavinci/Prynk/pull/3) in [rexdavinci/Prynk](https://github.com/rexdavinci/Prynk)
-5. ❗️ Opened issue [#17](https://github.com/WarenGonzaga/wifi-passview/issues/17) in [WarenGonzaga/wifi-passview](https://github.com/WarenGonzaga/wifi-passview)
+1. 🗣 Commented on [#12](https://github.com/wareneutron/psgc-api/issues/12) in [wareneutron/psgc-api](https://github.com/wareneutron/psgc-api)
+2. ❗️ Opened issue [#12](https://github.com/wareneutron/psgc-api/issues/12) in [wareneutron/psgc-api](https://github.com/wareneutron/psgc-api)
+3. ❗️ Opened issue [#11](https://github.com/wareneutron/psgc-api/issues/11) in [wareneutron/psgc-api](https://github.com/wareneutron/psgc-api)
+4. ❗️ Closed issue [#8](https://github.com/wareneutron/psgc-api/issues/8) in [wareneutron/psgc-api](https://github.com/wareneutron/psgc-api)
+5. 🗣 Commented on [#8](https://github.com/wareneutron/psgc-api/issues/8) in [wareneutron/psgc-api](https://github.com/wareneutron/psgc-api)
 <!--END_SECTION:activity-->
 
 </details>
