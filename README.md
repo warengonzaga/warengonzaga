@@ -52,11 +52,11 @@ Wanna see some of my future projects? Join today!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#14](https://github.com/wareneutron/psgc-api/issues/14) in [wareneutron/psgc-api](https://github.com/wareneutron/psgc-api)
-2. 🗣 Commented on [#14](https://github.com/wareneutron/psgc-api/issues/14) in [wareneutron/psgc-api](https://github.com/wareneutron/psgc-api)
-3. 🎉 Merged PR [#16](https://github.com/wareneutron/psgc-api/pull/16) in [wareneutron/psgc-api](https://github.com/wareneutron/psgc-api)
-4. 🗣 Commented on [#16](https://github.com/wareneutron/psgc-api/issues/16) in [wareneutron/psgc-api](https://github.com/wareneutron/psgc-api)
-5. ❌ Closed PR [#15](https://github.com/wareneutron/psgc-api/pull/15) in [wareneutron/psgc-api](https://github.com/wareneutron/psgc-api)
+1. 🎉 Merged PR [#17](https://github.com/wareneutron/psgc-api/pull/17) in [wareneutron/psgc-api](https://github.com/wareneutron/psgc-api)
+2. 🗣 Commented on [#17](https://github.com/wareneutron/psgc-api/issues/17) in [wareneutron/psgc-api](https://github.com/wareneutron/psgc-api)
+3. ❗️ Closed issue [#14](https://github.com/wareneutron/psgc-api/issues/14) in [wareneutron/psgc-api](https://github.com/wareneutron/psgc-api)
+4. 🗣 Commented on [#14](https://github.com/wareneutron/psgc-api/issues/14) in [wareneutron/psgc-api](https://github.com/wareneutron/psgc-api)
+5. 🎉 Merged PR [#16](https://github.com/wareneutron/psgc-api/pull/16) in [wareneutron/psgc-api](https://github.com/wareneutron/psgc-api)
 <!--END_SECTION:activity-->
 
 </details>
