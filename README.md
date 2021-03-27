@@ -40,11 +40,11 @@ Wanna see some of my future projects? Join today!
     <summary>&#128240 <b>Latest Blogs Posts</b></summary><br/>
 
 <!-- BLOG-POST-LIST:START -->
+- [7 Helpful GitHub Repositories for Developers](https://dev.to/warengonzaga/7-helpful-github-repositories-for-developers-2kkm)
 - [GitHub Codespaces](https://dev.to/warengonzaga/github-codespaces-1i8k)
 - [Animate.css v4 Update!](https://dev.to/warengonzaga/animate-css-v4-update-18m8)
 - [An open-source curl-based command line tracker for coronavirus or covid-19 with historical chart.](https://dev.to/warengonzaga/an-open-source-curl-based-command-line-tracker-for-coronavirus-or-covid-19-with-historical-chart-3op9)
 - [CURL request without protocol on expressJS server?](https://dev.to/warengonzaga/curl-request-without-protocol-on-expressjs-server-32op)
-- [Coding Style?](https://dev.to/warengonzaga/coding-style-3p36)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
@@ -53,11 +53,11 @@ Wanna see some of my future projects? Join today!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#10](https://github.com/WarenGonzaga/wrn-cleaner/issues/10) in [WarenGonzaga/wrn-cleaner](https://github.com/WarenGonzaga/wrn-cleaner)
-2. ❗️ Opened issue [#9](https://github.com/WarenGonzaga/wrn-cleaner/issues/9) in [WarenGonzaga/wrn-cleaner](https://github.com/WarenGonzaga/wrn-cleaner)
-3. ❗️ Opened issue [#8](https://github.com/WarenGonzaga/wrn-cleaner/issues/8) in [WarenGonzaga/wrn-cleaner](https://github.com/WarenGonzaga/wrn-cleaner)
-4. 🗣 Commented on [#1217](https://github.com/animate-css/animate.css/issues/1217) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
-5. 🗣 Commented on [#1221](https://github.com/animate-css/animate.css/issues/1221) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+1. ❗️ Closed issue [#62](https://github.com/wareneutron/covid19-tracker-cli/issues/62) in [wareneutron/covid19-tracker-cli](https://github.com/wareneutron/covid19-tracker-cli)
+2. 🗣 Commented on [#62](https://github.com/wareneutron/covid19-tracker-cli/issues/62) in [wareneutron/covid19-tracker-cli](https://github.com/wareneutron/covid19-tracker-cli)
+3. 🎉 Merged PR [#68](https://github.com/wareneutron/covid19-tracker-cli/pull/68) in [wareneutron/covid19-tracker-cli](https://github.com/wareneutron/covid19-tracker-cli)
+4. 🗣 Commented on [#68](https://github.com/wareneutron/covid19-tracker-cli/issues/68) in [wareneutron/covid19-tracker-cli](https://github.com/wareneutron/covid19-tracker-cli)
+5. 🗣 Commented on [#62](https://github.com/wareneutron/covid19-tracker-cli/issues/62) in [wareneutron/covid19-tracker-cli](https://github.com/wareneutron/covid19-tracker-cli)
 <!--END_SECTION:activity-->
 
 </details>
