@@ -7,6 +7,7 @@ I'm a Filipino freelance software engineer, opensource developer advocate, and c
 - 💪 Currently working as a freelance software engineer.
 - 🔏 Bug bounty hunter in free time.
 - 💝 Author of multiple open source projects (30+ to be exact).
+- 🖥️ Founder and lead dev of [Wareneutron Developers](https://github.com/wareneutron), open-source dev team.
 - 💰 Looking for new clients who wants to work with me, [contact me](mailto:sudo@warengonzaga.co) please.
 - ☕ Coffee lover, turning it into code, [you can buy me a coffee](https://buymeacoff.ee/warengonzaga)!
 - 🏆 2021 Goals:
@@ -29,7 +30,7 @@ I'm a Filipino freelance software engineer, opensource developer advocate, and c
 
 Wanna see some of my future projects? Join today!
 
-[![Community](https://discordapp.com/api/guilds/659684980137656340/widget.png?style=banner2)](https://wrngnz.ga/discord)
+[![Community](https://discordapp.com/api/guilds/659684980137656340/widget.png?style=banner2)](https://wrngnz.ga/discord) [![Community](https://discordapp.com/api/guilds/694612151444439081/widget.png?style=banner2)](https://wareneutron.com/discord)
 
 ---
 
@@ -79,9 +80,9 @@ Wanna see some of my future projects? Join today!
 
 ---
 
-## Sponsors & Supporters
+## Sponsors and Supporters
 
-[![BuyMeaCoffee](https://wrngnz.ga/badge-buymeacoffee)](testing.com) [![Vercel](https://wrngnz.ga/badge-vercel)](https://vercel.com) [![GitBook](https://wrngnz.ga/badge-gitbook)](https://gitbook.io) [![Deepware](https://wrngnz.ga/badge-deepware)](https://deepware.ai/) [![NOWPayments](https://wrngnz.ga/badge-nowpayments)](https://nowpayments.io)
+[![BuyMeaCoffee](https://wrngnz.ga/badge-buymeacoffee)](https://buymeacoff.ee/warengonzaga) [![Vercel](https://wrngnz.ga/badge-vercel)](https://vercel.com) [![CircleCI](https://wrngnz.ga/badge-circleci)](https://vercel.com) [![GitBook](https://wrngnz.ga/badge-gitbook)](https://gitbook.io) [![Deepware](https://wrngnz.ga/badge-deepware)](https://deepware.ai/) [![NOWPayments](https://wrngnz.ga/badge-nowpayments)](https://nowpayments.io)
 
 and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what I do!
 
