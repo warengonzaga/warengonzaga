@@ -53,11 +53,11 @@ Wanna see some of my future projects? Join today!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#70](https://github.com/wareneutron/covid19-tracker-cli/issues/70) in [wareneutron/covid19-tracker-cli](https://github.com/wareneutron/covid19-tracker-cli)
-2. 🗣 Commented on [#69](https://github.com/wareneutron/covid19-tracker-cli/issues/69) in [wareneutron/covid19-tracker-cli](https://github.com/wareneutron/covid19-tracker-cli)
-3. 🗣 Commented on [#28](https://github.com/wareneutron/psgc-api/issues/28) in [wareneutron/psgc-api](https://github.com/wareneutron/psgc-api)
-4. ❌ Closed PR [#28](https://github.com/wareneutron/psgc-api/pull/28) in [wareneutron/psgc-api](https://github.com/wareneutron/psgc-api)
-5. 🗣 Commented on [#21](https://github.com/WarenGonzaga/fork-corner/issues/21) in [WarenGonzaga/fork-corner](https://github.com/WarenGonzaga/fork-corner)
+1. 🎉 Merged PR [#6](https://github.com/WarenGonzaga/daisy.js/pull/6) in [WarenGonzaga/daisy.js](https://github.com/WarenGonzaga/daisy.js)
+2. ❗️ Closed issue [#48](https://github.com/wareneutron/covid19-tracker-cli/issues/48) in [wareneutron/covid19-tracker-cli](https://github.com/wareneutron/covid19-tracker-cli)
+3. 🗣 Commented on [#48](https://github.com/wareneutron/covid19-tracker-cli/issues/48) in [wareneutron/covid19-tracker-cli](https://github.com/wareneutron/covid19-tracker-cli)
+4. 🎉 Merged PR [#5](https://github.com/WarenGonzaga/daisy.js/pull/5) in [WarenGonzaga/daisy.js](https://github.com/WarenGonzaga/daisy.js)
+5. 🎉 Merged PR [#70](https://github.com/wareneutron/covid19-tracker-cli/pull/70) in [wareneutron/covid19-tracker-cli](https://github.com/wareneutron/covid19-tracker-cli)
 <!--END_SECTION:activity-->
 
 </details>
