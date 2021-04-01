@@ -53,11 +53,11 @@ Wanna see some of my future projects? Join today!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/WarenGonzaga/daisy.js/pull/6) in [WarenGonzaga/daisy.js](https://github.com/WarenGonzaga/daisy.js)
-2. ❗️ Closed issue [#48](https://github.com/wareneutron/covid19-tracker-cli/issues/48) in [wareneutron/covid19-tracker-cli](https://github.com/wareneutron/covid19-tracker-cli)
-3. 🗣 Commented on [#48](https://github.com/wareneutron/covid19-tracker-cli/issues/48) in [wareneutron/covid19-tracker-cli](https://github.com/wareneutron/covid19-tracker-cli)
-4. 🎉 Merged PR [#5](https://github.com/WarenGonzaga/daisy.js/pull/5) in [WarenGonzaga/daisy.js](https://github.com/WarenGonzaga/daisy.js)
-5. 🎉 Merged PR [#70](https://github.com/wareneutron/covid19-tracker-cli/pull/70) in [wareneutron/covid19-tracker-cli](https://github.com/wareneutron/covid19-tracker-cli)
+1. ❌ Closed PR [#21](https://github.com/WarenGonzaga/fork-corner/pull/21) in [WarenGonzaga/fork-corner](https://github.com/WarenGonzaga/fork-corner)
+2. 🗣 Commented on [#21](https://github.com/WarenGonzaga/fork-corner/issues/21) in [WarenGonzaga/fork-corner](https://github.com/WarenGonzaga/fork-corner)
+3. 🎉 Merged PR [#6](https://github.com/WarenGonzaga/daisy.js/pull/6) in [WarenGonzaga/daisy.js](https://github.com/WarenGonzaga/daisy.js)
+4. ❗️ Closed issue [#48](https://github.com/wareneutron/covid19-tracker-cli/issues/48) in [wareneutron/covid19-tracker-cli](https://github.com/wareneutron/covid19-tracker-cli)
+5. 🗣 Commented on [#48](https://github.com/wareneutron/covid19-tracker-cli/issues/48) in [wareneutron/covid19-tracker-cli](https://github.com/wareneutron/covid19-tracker-cli)
 <!--END_SECTION:activity-->
 
 </details>
