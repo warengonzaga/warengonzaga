@@ -53,11 +53,11 @@ Wanna see some of my future projects? Join today!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#29](https://github.com/wareneutron/psgc-api/pull/29) in [wareneutron/psgc-api](https://github.com/wareneutron/psgc-api)
-2. 💪 Opened PR [#29](https://github.com/wareneutron/psgc-api/pull/29) in [wareneutron/psgc-api](https://github.com/wareneutron/psgc-api)
-3. ❗️ Opened issue [#92](https://github.com/alexmigf/stock-locations-for-woocommerce/issues/92) in [alexmigf/stock-locations-for-woocommerce](https://github.com/alexmigf/stock-locations-for-woocommerce)
-4. ❗️ Opened issue [#91](https://github.com/alexmigf/stock-locations-for-woocommerce/issues/91) in [alexmigf/stock-locations-for-woocommerce](https://github.com/alexmigf/stock-locations-for-woocommerce)
-5. 🗣 Commented on [#37](https://github.com/alexmigf/stock-locations-for-woocommerce/issues/37) in [alexmigf/stock-locations-for-woocommerce](https://github.com/alexmigf/stock-locations-for-woocommerce)
+1. 💪 Opened PR [#402](https://github.com/soroushchehresa/awesome-coronavirus/pull/402) in [soroushchehresa/awesome-coronavirus](https://github.com/soroushchehresa/awesome-coronavirus)
+2. 🗣 Commented on [#75](https://github.com/wareneutron/covid19-tracker-cli/issues/75) in [wareneutron/covid19-tracker-cli](https://github.com/wareneutron/covid19-tracker-cli)
+3. 💪 Opened PR [#75](https://github.com/wareneutron/covid19-tracker-cli/pull/75) in [wareneutron/covid19-tracker-cli](https://github.com/wareneutron/covid19-tracker-cli)
+4. 🎉 Merged PR [#29](https://github.com/wareneutron/psgc-api/pull/29) in [wareneutron/psgc-api](https://github.com/wareneutron/psgc-api)
+5. 💪 Opened PR [#29](https://github.com/wareneutron/psgc-api/pull/29) in [wareneutron/psgc-api](https://github.com/wareneutron/psgc-api)
 <!--END_SECTION:activity-->
 
 </details>
