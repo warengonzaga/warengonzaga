@@ -53,11 +53,11 @@ Wanna see some of my future projects? Join today!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#129](https://github.com/sagarkarira/coronavirus-tracker-cli/pull/129) in [sagarkarira/coronavirus-tracker-cli](https://github.com/sagarkarira/coronavirus-tracker-cli)
-2. 🎉 Merged PR [#76](https://github.com/wareneutron/covid19-tracker-cli/pull/76) in [wareneutron/covid19-tracker-cli](https://github.com/wareneutron/covid19-tracker-cli)
-3. 🗣 Commented on [#76](https://github.com/wareneutron/covid19-tracker-cli/issues/76) in [wareneutron/covid19-tracker-cli](https://github.com/wareneutron/covid19-tracker-cli)
-4. 🗣 Commented on [#76](https://github.com/wareneutron/covid19-tracker-cli/issues/76) in [wareneutron/covid19-tracker-cli](https://github.com/wareneutron/covid19-tracker-cli)
-5. 🗣 Commented on [#76](https://github.com/wareneutron/covid19-tracker-cli/issues/76) in [wareneutron/covid19-tracker-cli](https://github.com/wareneutron/covid19-tracker-cli)
+1. 🗣 Commented on [#26](https://github.com/wareneutron/covid19-tracker-cli/issues/26) in [wareneutron/covid19-tracker-cli](https://github.com/wareneutron/covid19-tracker-cli)
+2. ❗️ Closed issue [#57](https://github.com/wareneutron/covid19-tracker-cli/issues/57) in [wareneutron/covid19-tracker-cli](https://github.com/wareneutron/covid19-tracker-cli)
+3. 🗣 Commented on [#57](https://github.com/wareneutron/covid19-tracker-cli/issues/57) in [wareneutron/covid19-tracker-cli](https://github.com/wareneutron/covid19-tracker-cli)
+4. 🎉 Merged PR [#77](https://github.com/wareneutron/covid19-tracker-cli/pull/77) in [wareneutron/covid19-tracker-cli](https://github.com/wareneutron/covid19-tracker-cli)
+5. 🗣 Commented on [#77](https://github.com/wareneutron/covid19-tracker-cli/issues/77) in [wareneutron/covid19-tracker-cli](https://github.com/wareneutron/covid19-tracker-cli)
 <!--END_SECTION:activity-->
 
 </details>
