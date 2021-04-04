@@ -82,7 +82,7 @@ Wanna see some of my future projects? Join today!
 
 ## Sponsors and Supporters
 
-[![BuyMeaCoffee](https://wrngnz.ga/badge-buymeacoffee)](https://buymeacoff.ee/warengonzaga) [![Vercel](https://wrngnz.ga/badge-vercel)](https://vercel.com) [![CircleCI](https://wrngnz.ga/badge-circleci)](https://vercel.com) [![GitBook](https://wrngnz.ga/badge-gitbook)](https://gitbook.io) [![Deepware](https://wrngnz.ga/badge-deepware)](https://deepware.ai/) [![NOWPayments](https://wrngnz.ga/badge-nowpayments)](https://nowpayments.io)
+[![BuyMeaCoffee](https://wrngnz.ga/badge-buymeacoffee)](https://buymeacoff.ee/warengonzaga) [![Vercel](https://wrngnz.ga/badge-vercel)](https://vercel.com) [![CircleCI](https://wrngnz.ga/badge-circleci)](https://vercel.com) [![GitBook](https://wrngnz.ga/badge-gitbook)](https://gitbook.io) [![Digital Ocean](https://wrngnz.ga/badge-digitalocean)](https://digitalocean.com) [![Deepware](https://wrngnz.ga/badge-deepware)](https://deepware.ai/) [![NOWPayments](https://wrngnz.ga/badge-nowpayments)](https://nowpayments.io)
 
 and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what I do!
 
