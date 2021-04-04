@@ -53,11 +53,11 @@ Wanna see some of my future projects? Join today!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#23](https://github.com/WarenGonzaga/fork-corner/issues/23) in [WarenGonzaga/fork-corner](https://github.com/WarenGonzaga/fork-corner)
-2. 🎉 Merged PR [#22](https://github.com/WarenGonzaga/fork-corner/pull/22) in [WarenGonzaga/fork-corner](https://github.com/WarenGonzaga/fork-corner)
-3. 🗣 Commented on [#26](https://github.com/wareneutron/covid19-tracker-cli/issues/26) in [wareneutron/covid19-tracker-cli](https://github.com/wareneutron/covid19-tracker-cli)
-4. ❗️ Closed issue [#57](https://github.com/wareneutron/covid19-tracker-cli/issues/57) in [wareneutron/covid19-tracker-cli](https://github.com/wareneutron/covid19-tracker-cli)
-5. 🗣 Commented on [#57](https://github.com/wareneutron/covid19-tracker-cli/issues/57) in [wareneutron/covid19-tracker-cli](https://github.com/wareneutron/covid19-tracker-cli)
+1. 🗣 Commented on [#61](https://github.com/wareneutron/covid19-tracker-cli/issues/61) in [wareneutron/covid19-tracker-cli](https://github.com/wareneutron/covid19-tracker-cli)
+2. 🗣 Commented on [#66](https://github.com/wareneutron/covid19-tracker-cli/issues/66) in [wareneutron/covid19-tracker-cli](https://github.com/wareneutron/covid19-tracker-cli)
+3. ❗️ Closed issue [#56](https://github.com/wareneutron/covid19-tracker-cli/issues/56) in [wareneutron/covid19-tracker-cli](https://github.com/wareneutron/covid19-tracker-cli)
+4. 🗣 Commented on [#56](https://github.com/wareneutron/covid19-tracker-cli/issues/56) in [wareneutron/covid19-tracker-cli](https://github.com/wareneutron/covid19-tracker-cli)
+5. ❗️ Opened issue [#23](https://github.com/WarenGonzaga/fork-corner/issues/23) in [WarenGonzaga/fork-corner](https://github.com/WarenGonzaga/fork-corner)
 <!--END_SECTION:activity-->
 
 </details>
