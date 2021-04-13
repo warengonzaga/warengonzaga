@@ -53,11 +53,11 @@ Wanna see some of my future projects? Join today!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#143](https://github.com/all-contributors/all-contributors/issues/143) in [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors)
-2. 🗣 Commented on [#81](https://github.com/wareneutron/covid19-tracker-cli/issues/81) in [wareneutron/covid19-tracker-cli](https://github.com/wareneutron/covid19-tracker-cli)
-3. 🗣 Commented on [#12](https://github.com/ripper234/Whatever-Origin/issues/12) in [ripper234/Whatever-Origin](https://github.com/ripper234/Whatever-Origin)
-4. ❗️ Opened issue [#80](https://github.com/wareneutron/covid19-tracker-cli/issues/80) in [wareneutron/covid19-tracker-cli](https://github.com/wareneutron/covid19-tracker-cli)
-5. 🗣 Commented on [#92](https://github.com/alexmigf/stock-locations-for-woocommerce/issues/92) in [alexmigf/stock-locations-for-woocommerce](https://github.com/alexmigf/stock-locations-for-woocommerce)
+1. 🎉 Merged PR [#82](https://github.com/wareneutron/covid19-tracker-cli/pull/82) in [wareneutron/covid19-tracker-cli](https://github.com/wareneutron/covid19-tracker-cli)
+2. 🗣 Commented on [#82](https://github.com/wareneutron/covid19-tracker-cli/issues/82) in [wareneutron/covid19-tracker-cli](https://github.com/wareneutron/covid19-tracker-cli)
+3. 🗣 Commented on [#143](https://github.com/all-contributors/all-contributors/issues/143) in [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors)
+4. 🗣 Commented on [#81](https://github.com/wareneutron/covid19-tracker-cli/issues/81) in [wareneutron/covid19-tracker-cli](https://github.com/wareneutron/covid19-tracker-cli)
+5. 🗣 Commented on [#12](https://github.com/ripper234/Whatever-Origin/issues/12) in [ripper234/Whatever-Origin](https://github.com/ripper234/Whatever-Origin)
 <!--END_SECTION:activity-->
 
 </details>
