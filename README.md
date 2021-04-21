@@ -54,10 +54,10 @@ Wanna see some of my future projects? Join today!
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#96](https://github.com/alexmigf/stock-locations-for-woocommerce/issues/96) in [alexmigf/stock-locations-for-woocommerce](https://github.com/alexmigf/stock-locations-for-woocommerce)
-2. ❗️ Opened issue [#96](https://github.com/alexmigf/stock-locations-for-woocommerce/issues/96) in [alexmigf/stock-locations-for-woocommerce](https://github.com/alexmigf/stock-locations-for-woocommerce)
-3. ❗️ Closed issue [#92](https://github.com/alexmigf/stock-locations-for-woocommerce/issues/92) in [alexmigf/stock-locations-for-woocommerce](https://github.com/alexmigf/stock-locations-for-woocommerce)
-4. 🗣 Commented on [#92](https://github.com/alexmigf/stock-locations-for-woocommerce/issues/92) in [alexmigf/stock-locations-for-woocommerce](https://github.com/alexmigf/stock-locations-for-woocommerce)
-5. 🗣 Commented on [#1267](https://github.com/animate-css/animate.css/issues/1267) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+2. 🗣 Commented on [#96](https://github.com/alexmigf/stock-locations-for-woocommerce/issues/96) in [alexmigf/stock-locations-for-woocommerce](https://github.com/alexmigf/stock-locations-for-woocommerce)
+3. ❗️ Opened issue [#96](https://github.com/alexmigf/stock-locations-for-woocommerce/issues/96) in [alexmigf/stock-locations-for-woocommerce](https://github.com/alexmigf/stock-locations-for-woocommerce)
+4. ❗️ Closed issue [#92](https://github.com/alexmigf/stock-locations-for-woocommerce/issues/92) in [alexmigf/stock-locations-for-woocommerce](https://github.com/alexmigf/stock-locations-for-woocommerce)
+5. 🗣 Commented on [#92](https://github.com/alexmigf/stock-locations-for-woocommerce/issues/92) in [alexmigf/stock-locations-for-woocommerce](https://github.com/alexmigf/stock-locations-for-woocommerce)
 <!--END_SECTION:activity-->
 
 </details>
