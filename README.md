@@ -10,7 +10,7 @@ I'm a Filipino freelance software engineer, opensource developer advocate, cyber
 - 🔏 Bug bounty hunter in free time.
 - 💝 Author of multiple open source projects (30+ to be exact).
 - 🖥️ Founder and lead dev of [Wareneutron Developers](https://github.com/wareneutron), open-source dev team.
-- 👨‍🔬 Founder and president of [Amihan Tecchnologies](https://amihantech.com), a tech start-up.
+- 👨‍🔬 Founder and president of [Amihan Tecchnologies](https://github.com/amihantech), a tech start-up.
 - 💰 Looking for new clients who wants to work with me, [contact me](mailto:sudo@warengonzaga.co) please.
 - ☕ Coffee lover, turning it into code, [you can buy me a coffee](https://buymeacoff.ee/warengonzaga)!
 - 🏆 2021 Goals:
