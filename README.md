@@ -56,11 +56,11 @@ Wanna see some of my future projects? Join today!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#96](https://github.com/alexmigf/stock-locations-for-woocommerce/issues/96) in [alexmigf/stock-locations-for-woocommerce](https://github.com/alexmigf/stock-locations-for-woocommerce)
-2. 🗣 Commented on [#96](https://github.com/alexmigf/stock-locations-for-woocommerce/issues/96) in [alexmigf/stock-locations-for-woocommerce](https://github.com/alexmigf/stock-locations-for-woocommerce)
-3. 🗣 Commented on [#96](https://github.com/alexmigf/stock-locations-for-woocommerce/issues/96) in [alexmigf/stock-locations-for-woocommerce](https://github.com/alexmigf/stock-locations-for-woocommerce)
+1. 🗣 Commented on [#16](https://github.com/DenverCoder1/readme-typing-svg/issues/16) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+2. 💪 Opened PR [#16](https://github.com/DenverCoder1/readme-typing-svg/pull/16) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+3. ❗️ Closed issue [#96](https://github.com/alexmigf/stock-locations-for-woocommerce/issues/96) in [alexmigf/stock-locations-for-woocommerce](https://github.com/alexmigf/stock-locations-for-woocommerce)
 4. 🗣 Commented on [#96](https://github.com/alexmigf/stock-locations-for-woocommerce/issues/96) in [alexmigf/stock-locations-for-woocommerce](https://github.com/alexmigf/stock-locations-for-woocommerce)
-5. ❗️ Opened issue [#96](https://github.com/alexmigf/stock-locations-for-woocommerce/issues/96) in [alexmigf/stock-locations-for-woocommerce](https://github.com/alexmigf/stock-locations-for-woocommerce)
+5. 🗣 Commented on [#96](https://github.com/alexmigf/stock-locations-for-woocommerce/issues/96) in [alexmigf/stock-locations-for-woocommerce](https://github.com/alexmigf/stock-locations-for-woocommerce)
 <!--END_SECTION:activity-->
 
 </details>
