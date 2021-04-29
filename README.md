@@ -56,11 +56,11 @@ Wanna see some of my future projects? Join today!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5554](https://github.com/simple-icons/simple-icons/issues/5554) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-2. ❗️ Opened issue [#5554](https://github.com/simple-icons/simple-icons/issues/5554) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-3. 🗣 Commented on [#16](https://github.com/DenverCoder1/readme-typing-svg/issues/16) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-4. 💪 Opened PR [#16](https://github.com/DenverCoder1/readme-typing-svg/pull/16) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-5. ❗️ Closed issue [#96](https://github.com/alexmigf/stock-locations-for-woocommerce/issues/96) in [alexmigf/stock-locations-for-woocommerce](https://github.com/alexmigf/stock-locations-for-woocommerce)
+1. ❗️ Closed issue [#61](https://github.com/wareneutron/covid19-tracker-cli/issues/61) in [wareneutron/covid19-tracker-cli](https://github.com/wareneutron/covid19-tracker-cli)
+2. 🗣 Commented on [#61](https://github.com/wareneutron/covid19-tracker-cli/issues/61) in [wareneutron/covid19-tracker-cli](https://github.com/wareneutron/covid19-tracker-cli)
+3. 🗣 Commented on [#67](https://github.com/wareneutron/covid19-tracker-cli/issues/67) in [wareneutron/covid19-tracker-cli](https://github.com/wareneutron/covid19-tracker-cli)
+4. 🗣 Commented on [#5554](https://github.com/simple-icons/simple-icons/issues/5554) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+5. ❗️ Opened issue [#5554](https://github.com/simple-icons/simple-icons/issues/5554) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
 <!--END_SECTION:activity-->
 
 </details>
