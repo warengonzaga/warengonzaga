@@ -56,11 +56,11 @@ Wanna see some of my future projects? Join today!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#61](https://github.com/wareneutron/covid19-tracker-cli/issues/61) in [wareneutron/covid19-tracker-cli](https://github.com/wareneutron/covid19-tracker-cli)
-2. 🗣 Commented on [#61](https://github.com/wareneutron/covid19-tracker-cli/issues/61) in [wareneutron/covid19-tracker-cli](https://github.com/wareneutron/covid19-tracker-cli)
-3. 🗣 Commented on [#67](https://github.com/wareneutron/covid19-tracker-cli/issues/67) in [wareneutron/covid19-tracker-cli](https://github.com/wareneutron/covid19-tracker-cli)
-4. 🗣 Commented on [#5554](https://github.com/simple-icons/simple-icons/issues/5554) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-5. ❗️ Opened issue [#5554](https://github.com/simple-icons/simple-icons/issues/5554) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+1. 🗣 Commented on [#205](https://github.com/wpugph/dctx-website/issues/205) in [wpugph/dctx-website](https://github.com/wpugph/dctx-website)
+2. 🗣 Commented on [#12](https://github.com/ripper234/Whatever-Origin/issues/12) in [ripper234/Whatever-Origin](https://github.com/ripper234/Whatever-Origin)
+3. ❗️ Closed issue [#61](https://github.com/wareneutron/covid19-tracker-cli/issues/61) in [wareneutron/covid19-tracker-cli](https://github.com/wareneutron/covid19-tracker-cli)
+4. 🗣 Commented on [#61](https://github.com/wareneutron/covid19-tracker-cli/issues/61) in [wareneutron/covid19-tracker-cli](https://github.com/wareneutron/covid19-tracker-cli)
+5. 🗣 Commented on [#67](https://github.com/wareneutron/covid19-tracker-cli/issues/67) in [wareneutron/covid19-tracker-cli](https://github.com/wareneutron/covid19-tracker-cli)
 <!--END_SECTION:activity-->
 
 </details>
