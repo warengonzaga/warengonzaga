@@ -56,11 +56,11 @@ Wanna see some of my future projects? Join today!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1023](https://github.com/Jigsaw-Code/outline-client/issues/1023) in [Jigsaw-Code/outline-client](https://github.com/Jigsaw-Code/outline-client)
-2. 🗣 Commented on [#1028](https://github.com/Jigsaw-Code/outline-client/issues/1028) in [Jigsaw-Code/outline-client](https://github.com/Jigsaw-Code/outline-client)
-3. 🗣 Commented on [#1033](https://github.com/Jigsaw-Code/outline-client/issues/1033) in [Jigsaw-Code/outline-client](https://github.com/Jigsaw-Code/outline-client)
-4. 🗣 Commented on [#363](https://github.com/rahuldkjain/github-profile-readme-generator/issues/363) in [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator)
-5. 🗣 Commented on [#205](https://github.com/wpugph/dctx-website/issues/205) in [wpugph/dctx-website](https://github.com/wpugph/dctx-website)
+1. 🗣 Commented on [#1035](https://github.com/Jigsaw-Code/outline-client/issues/1035) in [Jigsaw-Code/outline-client](https://github.com/Jigsaw-Code/outline-client)
+2. 🗣 Commented on [#32](https://github.com/Jigsaw-Code/outline-client/issues/32) in [Jigsaw-Code/outline-client](https://github.com/Jigsaw-Code/outline-client)
+3. 🗣 Commented on [#1023](https://github.com/Jigsaw-Code/outline-client/issues/1023) in [Jigsaw-Code/outline-client](https://github.com/Jigsaw-Code/outline-client)
+4. 🗣 Commented on [#1028](https://github.com/Jigsaw-Code/outline-client/issues/1028) in [Jigsaw-Code/outline-client](https://github.com/Jigsaw-Code/outline-client)
+5. 🗣 Commented on [#1033](https://github.com/Jigsaw-Code/outline-client/issues/1033) in [Jigsaw-Code/outline-client](https://github.com/Jigsaw-Code/outline-client)
 <!--END_SECTION:activity-->
 
 </details>
