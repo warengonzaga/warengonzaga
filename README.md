@@ -56,11 +56,11 @@ Wanna see some of my future projects? Join today!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1035](https://github.com/Jigsaw-Code/outline-client/issues/1035) in [Jigsaw-Code/outline-client](https://github.com/Jigsaw-Code/outline-client)
-2. 🗣 Commented on [#32](https://github.com/Jigsaw-Code/outline-client/issues/32) in [Jigsaw-Code/outline-client](https://github.com/Jigsaw-Code/outline-client)
-3. 🗣 Commented on [#1023](https://github.com/Jigsaw-Code/outline-client/issues/1023) in [Jigsaw-Code/outline-client](https://github.com/Jigsaw-Code/outline-client)
-4. 🗣 Commented on [#1028](https://github.com/Jigsaw-Code/outline-client/issues/1028) in [Jigsaw-Code/outline-client](https://github.com/Jigsaw-Code/outline-client)
-5. 🗣 Commented on [#1033](https://github.com/Jigsaw-Code/outline-client/issues/1033) in [Jigsaw-Code/outline-client](https://github.com/Jigsaw-Code/outline-client)
+1. 🗣 Commented on [#1286](https://github.com/animate-css/animate.css/issues/1286) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+2. 🗣 Commented on [#1236](https://github.com/animate-css/animate.css/issues/1236) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+3. 🗣 Commented on [#1126](https://github.com/animate-css/animate.css/issues/1126) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+4. 🗣 Commented on [#1269](https://github.com/animate-css/animate.css/issues/1269) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+5. 🗣 Commented on [#1035](https://github.com/Jigsaw-Code/outline-client/issues/1035) in [Jigsaw-Code/outline-client](https://github.com/Jigsaw-Code/outline-client)
 <!--END_SECTION:activity-->
 
 </details>
