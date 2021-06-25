@@ -56,8 +56,8 @@ Wanna see some of my future projects? Join today!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1317](https://github.com/animate-css/animate.css/pull/1317) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
-2. 🗣 Commented on [#1307](https://github.com/animate-css/animate.css/issues/1307) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+1. 💪 Opened PR [#1318](https://github.com/animate-css/animate.css/pull/1318) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+2. 💪 Opened PR [#1317](https://github.com/animate-css/animate.css/pull/1317) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
 3. 🗣 Commented on [#1307](https://github.com/animate-css/animate.css/issues/1307) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
 4. 🗣 Commented on [#1307](https://github.com/animate-css/animate.css/issues/1307) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
 5. 🗣 Commented on [#1307](https://github.com/animate-css/animate.css/issues/1307) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
