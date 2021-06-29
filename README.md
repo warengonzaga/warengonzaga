@@ -56,11 +56,11 @@ Wanna see some of my future projects? Join today!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#20](https://github.com/WarenGonzaga/fork-corner/issues/20) in [WarenGonzaga/fork-corner](https://github.com/WarenGonzaga/fork-corner)
-2. 🎉 Merged PR [#84](https://github.com/wareneutron/covid19-tracker-cli/pull/84) in [wareneutron/covid19-tracker-cli](https://github.com/wareneutron/covid19-tracker-cli)
-3. ❗️ Opened issue [#4](https://github.com/WarenGonzaga/wrn-fix-it/issues/4) in [WarenGonzaga/wrn-fix-it](https://github.com/WarenGonzaga/wrn-fix-it)
-4. 💪 Opened PR [#1318](https://github.com/animate-css/animate.css/pull/1318) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
-5. 💪 Opened PR [#1317](https://github.com/animate-css/animate.css/pull/1317) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+1. ❗️ Opened issue [#21](https://github.com/WarenGonzaga/buymeacoffee.js/issues/21) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
+2. 🗣 Commented on [#20](https://github.com/WarenGonzaga/fork-corner/issues/20) in [WarenGonzaga/fork-corner](https://github.com/WarenGonzaga/fork-corner)
+3. 🎉 Merged PR [#84](https://github.com/wareneutron/covid19-tracker-cli/pull/84) in [wareneutron/covid19-tracker-cli](https://github.com/wareneutron/covid19-tracker-cli)
+4. ❗️ Opened issue [#4](https://github.com/WarenGonzaga/wrn-fix-it/issues/4) in [WarenGonzaga/wrn-fix-it](https://github.com/WarenGonzaga/wrn-fix-it)
+5. 💪 Opened PR [#1318](https://github.com/animate-css/animate.css/pull/1318) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
 <!--END_SECTION:activity-->
 
 </details>
