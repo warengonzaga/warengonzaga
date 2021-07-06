@@ -9,27 +9,28 @@ I'm a Filipino freelance software engineer, opensource developer advocate, cyber
 - 💪 Currently working as a freelance software engineer.
 - 🔏 Bug bounty hunter in free time.
 - 💝 Author of multiple open source projects (30+ to be exact).
+- 💼 Founder and CEO of [Waren Gonzaga Co.](https://github.com/warengonzagaco), a start-up MSP for start-ups and MSMEs.
+- 👨‍🔬 Co-Founder, CEO of [Amihan Tecchnologies](https://github.com/amihantech), a tech start-up.
 - 🖥️ Founder and lead dev of [Wareneutron Developers](https://github.com/wareneutron), open-source dev team.
-- 👨‍🔬 Founder and president of [Amihan Tecchnologies](https://github.com/amihantech), a tech start-up.
-- 💰 Looking for new clients who wants to work with me, [contact me](mailto:sudo@warengonzaga.co) please.
 - ☕ Coffee lover, turning it into code, [you can buy me a coffee](https://buymeacoff.ee/warengonzaga)!
 - 🏆 2021 Goals:
   - Contribute and publish more open source projects.
   - Publish my first SaaS project.
-  - Improve and expand my freelancing business.
+  - ~~Improve and expand my freelancing business.~~
 - 🎯 Wasting my time to save other people's time.
+- 💡 [Learn more](htps://bio.link/warengonzaga) about me.
 
-## :headphones: Spotify Playing
+## 🎧 Spotify Playing
 
 [![Programming Music](https://img.shields.io/badge/Programming%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/1FWq5Cu05LmtSHgFEXRnZO?si=FozGJF9nRXq2wTv_JpN2wQ) [![KPOP Music](https://img.shields.io/badge/KPOP%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/2DFExFNWYOwQMZy6wUeCxX?si=s1Ndgj8hTg-r8zLlvRgv1Q) [![PPOP Music](https://img.shields.io/badge/PPOP%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/58bZKfJFpUl2CwWET1QJ3X?si=259YV8_VRS-IKHsFZMmPTQ)
 
 [![Spotify](https://readme-spotify.warengonzaga.com/api/spotify)](https://open.spotify.com/user/vmt7lpqdatuelp2chw7ur2p2l)
 
-## :wrench: Technologies
+## 🔧 Technologies
 
 ![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS3](https://img.icons8.com/color/30/css3.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)![NodeJS](https://img.icons8.com/color/30/nodejs.png)![PHP](https://img.icons8.com/color/30/php.png)![WordPress](https://img.icons8.com/color/30/wordpress.png)![SASS](https://img.icons8.com/color/30/sass.png)![NPM](https://img.icons8.com/color/30/npm.png)![Github](https://img.icons8.com/material-outlined/30/github.png)![Bitbucket](https://img.icons8.com/color/30/bitbucket.png)![Gitlab](https://img.icons8.com/color/30/gitlab.png)![Git](https://img.icons8.com/color/30/git.png)![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)![VueJS](https://img.icons8.com/color/30/vue-js.png)![Flutter](https://img.icons8.com/color/30/flutter.png)![ReactJS](https://img.icons8.com/color/30/react-native.png)![AngularJS](https://img.icons8.com/color/30/angularjs.png)![Windows](https://img.icons8.com/color/30/windows-10.png)![Ubuntu](https://img.icons8.com/color/30/ubuntu--v1.png)![Linux](https://img.icons8.com/color/30/linux.png)![Kali Linux](https://img.icons8.com/color/30/kali-linux.png)![Console](https://img.icons8.com/color/30/console.png)
 
-## :earth_asia: My Community
+## 🌏 My Community
 
 Wanna see some of my future projects? Join today!
 
@@ -83,7 +84,7 @@ Wanna see some of my future projects? Join today!
 
 ---
 
-## Sponsors and Supporters
+## 🍀 Sponsors and Supporters
 
 [![BuyMeaCoffee](https://wrngnz.ga/badge-buymeacoffee)](https://buymeacoff.ee/warengonzaga) [![Vercel](https://wrngnz.ga/badge-vercel)](https://vercel.com) [![CircleCI](https://wrngnz.ga/badge-circleci)](https://vercel.com) [![GitBook](https://wrngnz.ga/badge-gitbook)](https://gitbook.io) [![Digital Ocean](https://wrngnz.ga/badge-digitalocean)](https://digitalocean.com) [![Deepware](https://wrngnz.ga/badge-deepware)](https://deepware.ai/) [![NOWPayments](https://wrngnz.ga/badge-nowpayments)](https://nowpayments.io) [![StackHawk](https://img.shields.io/badge/Stackhawk-%2300CBC6.svg?&style=for-the-badge&logoColor=white)](https://stackhawk.com)
 
@@ -91,7 +92,7 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
 
 ---
 
-:computer: Made with :heart: by **Waren Gonzaga** with **YHWH** :pray:
+:computer: Made with :heart: by **Waren Gonzaga** with **YHWH** :pray: | Citizen of Heaven
 
 [personal website]: https://warengonzaga.com
 [business website]: https://warengonzaga.co
