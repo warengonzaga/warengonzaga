@@ -57,11 +57,11 @@ Wanna see some of my future projects? Join today!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/WarenGonzaga/animate.css/pull/1) in [WarenGonzaga/animate.css](https://github.com/WarenGonzaga/animate.css)
-2. 🗣 Commented on [#1317](https://github.com/animate-css/animate.css/issues/1317) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
-3. ❗️ Opened issue [#21](https://github.com/WarenGonzaga/buymeacoffee.js/issues/21) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
-4. 🗣 Commented on [#20](https://github.com/WarenGonzaga/fork-corner/issues/20) in [WarenGonzaga/fork-corner](https://github.com/WarenGonzaga/fork-corner)
-5. 🎉 Merged PR [#84](https://github.com/wareneutron/covid19-tracker-cli/pull/84) in [wareneutron/covid19-tracker-cli](https://github.com/wareneutron/covid19-tracker-cli)
+1. 🗣 Commented on [#1317](https://github.com/animate-css/animate.css/issues/1317) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+2. ❌ Closed PR [#1318](https://github.com/animate-css/animate.css/pull/1318) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+3. 🗣 Commented on [#1318](https://github.com/animate-css/animate.css/issues/1318) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+4. 🗣 Commented on [#1318](https://github.com/animate-css/animate.css/issues/1318) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+5. 🎉 Merged PR [#1](https://github.com/WarenGonzaga/animate.css/pull/1) in [WarenGonzaga/animate.css](https://github.com/WarenGonzaga/animate.css)
 <!--END_SECTION:activity-->
 
 </details>
