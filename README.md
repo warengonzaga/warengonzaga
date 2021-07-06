@@ -18,7 +18,7 @@ I'm a Filipino freelance software engineer, opensource developer advocate, cyber
   - Publish my first SaaS project.
   - ~~Improve and expand my freelancing business.~~
 - 🎯 Wasting my time to save other people's time.
-- 💡 [Learn more](htps://bio.link/warengonzaga) about me.
+- 💡 [Learn more about me](https://bio.link/warengonzaga).
 
 ## 🎧 Spotify Playing
 
