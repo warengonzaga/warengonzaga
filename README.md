@@ -63,11 +63,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1273](https://github.com/animate-css/animate.css/issues/1273) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
-2. 🗣 Commented on [#1221](https://github.com/animate-css/animate.css/issues/1221) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
-3. 🎉 Merged PR [#18](https://github.com/WarenGonzaga/wifi-passview/pull/18) in [WarenGonzaga/wifi-passview](https://github.com/WarenGonzaga/wifi-passview)
-4. 🗣 Commented on [#35](https://github.com/alexmigf/stock-locations-for-woocommerce/issues/35) in [alexmigf/stock-locations-for-woocommerce](https://github.com/alexmigf/stock-locations-for-woocommerce)
-5. 🗣 Commented on [#1307](https://github.com/animate-css/animate.css/issues/1307) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+1. ❗️ Opened issue [#44](https://github.com/JunglePlugins/Content-Control/issues/44) in [JunglePlugins/Content-Control](https://github.com/JunglePlugins/Content-Control)
+2. 🗣 Commented on [#1273](https://github.com/animate-css/animate.css/issues/1273) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+3. 🗣 Commented on [#1221](https://github.com/animate-css/animate.css/issues/1221) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+4. 🎉 Merged PR [#18](https://github.com/WarenGonzaga/wifi-passview/pull/18) in [WarenGonzaga/wifi-passview](https://github.com/WarenGonzaga/wifi-passview)
+5. 🗣 Commented on [#35](https://github.com/alexmigf/stock-locations-for-woocommerce/issues/35) in [alexmigf/stock-locations-for-woocommerce](https://github.com/alexmigf/stock-locations-for-woocommerce)
 <!--END_SECTION:activity-->
 
 </details>
