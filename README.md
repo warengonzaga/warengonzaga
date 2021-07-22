@@ -65,9 +65,9 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#5554](https://github.com/simple-icons/simple-icons/issues/5554) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
 2. 🗣 Commented on [#5554](https://github.com/simple-icons/simple-icons/issues/5554) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-3. ❗️ Opened issue [#44](https://github.com/JunglePlugins/Content-Control/issues/44) in [JunglePlugins/Content-Control](https://github.com/JunglePlugins/Content-Control)
-4. 🗣 Commented on [#1273](https://github.com/animate-css/animate.css/issues/1273) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
-5. 🗣 Commented on [#1221](https://github.com/animate-css/animate.css/issues/1221) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+3. 🗣 Commented on [#5554](https://github.com/simple-icons/simple-icons/issues/5554) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+4. ❗️ Opened issue [#44](https://github.com/JunglePlugins/Content-Control/issues/44) in [JunglePlugins/Content-Control](https://github.com/JunglePlugins/Content-Control)
+5. 🗣 Commented on [#1273](https://github.com/animate-css/animate.css/issues/1273) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
 <!--END_SECTION:activity-->
 
 </details>
