@@ -8,10 +8,11 @@ I'm a Filipino freelance software engineer, opensource developer advocate, cyber
 
 - 💪 Currently working as a freelance software engineer.
 - 🔏 Bug bounty hunter in free time.
-- 💝 Author of multiple open source projects (30+ to be exact).
-- 💼 Founder and CEO of [Waren Gonzaga Co.](https://github.com/warengonzagaco), a start-up MSP for start-ups and MSMEs.
-- 👨‍🔬 Co-Founder, CEO of [Amihan Tecchnologies](https://github.com/amihantech), a tech start-up.
+- 💝 Author of multiple open source projects (30+ to date).
+- 💼 Founder and CEO, [WG Co.](https://github.com/wgcompanyhq), a start-up MSP for start-ups and MSMEs.
+- 👨‍🔬 Founder and CEO, [Amihan Tecchnologies](https://github.com/amihantech), a tech start-up.
 - 🖥️ Founder and lead dev of [Wareneutron Developers](https://github.com/wareneutron), open-source dev team.
+- 💞 Executive Director, [Algo Filipino](https://github.com/algofilipino), non-profit organization for language and technology.
 - ☕ Coffee lover, turning it into code, [you can buy me a coffee](https://buymeacoff.ee/warengonzaga)!
 - 🏆 2021 Goals:
   - Contribute and publish more open source projects.
@@ -22,7 +23,7 @@ I'm a Filipino freelance software engineer, opensource developer advocate, cyber
 
 ## 🎧 Spotify Playing
 
-[![Programming Music](https://img.shields.io/badge/Programming%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/1FWq5Cu05LmtSHgFEXRnZO?si=FozGJF9nRXq2wTv_JpN2wQ) [![KPOP Music](https://img.shields.io/badge/KPOP%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/2DFExFNWYOwQMZy6wUeCxX?si=s1Ndgj8hTg-r8zLlvRgv1Q) [![PPOP Music](https://img.shields.io/badge/PPOP%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/58bZKfJFpUl2CwWET1QJ3X?si=259YV8_VRS-IKHsFZMmPTQ)
+[![Christian Pop Music](https://img.shields.io/badge/Christian%20Pop%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/0eufhXK7WPSiiwPcaz3Jq7?si=839465c918394657) [![Programming Music](https://img.shields.io/badge/Programming%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/1FWq5Cu05LmtSHgFEXRnZO?si=FozGJF9nRXq2wTv_JpN2wQ) [![KPOP Music](https://img.shields.io/badge/KPOP%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/2DFExFNWYOwQMZy6wUeCxX?si=s1Ndgj8hTg-r8zLlvRgv1Q) [![PPOP Music](https://img.shields.io/badge/PPOP%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/58bZKfJFpUl2CwWET1QJ3X?si=259YV8_VRS-IKHsFZMmPTQ)
 
 [![Spotify](https://readme-spotify.warengonzaga.com/api/spotify)](https://open.spotify.com/user/vmt7lpqdatuelp2chw7ur2p2l)
 
@@ -93,7 +94,8 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
 :computer: Made with :heart: by **Waren Gonzaga** with **YHWH** :pray: | Citizen of Heaven
 
 [personal website]: https://warengonzaga.com
-[business website]: https://warengonzaga.co
+[business website]: https://wgcompanyhq.com
+[biolink]: https://bio.link/warengonzaga
 [facebook]: https://facebook.com/warengonzagaofficial
 [twitter]: https://twitter.com/warengonzaga
 [instagram]: https://instagram.com/warengonzagaofficial
