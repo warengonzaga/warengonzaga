@@ -11,7 +11,7 @@ I'm a Filipino freelance software engineer, opensource developer advocate, cyber
 - 💝 Author of multiple open source projects (30+ to date).
 - 💼 Founder and CEO, [WG Co.](https://github.com/wgcompanyhq), a start-up MSP for start-ups and MSMEs.
 - 👨‍🔬 Founder and CEO, [Amihan Tecchnologies](https://github.com/amihantech), a tech start-up.
-- 🖥️ Founder and lead dev of [Wareneutron Developers](https://github.com/wareneutron), open-source dev team.
+- 🖥️ Founder and Lead Developer of [Wareneutron Developers](https://github.com/wareneutron), popular pinoy open-source dev team.
 - 💞 Executive Director, [Algo Filipino](https://github.com/algofilipino), non-profit organization for language and technology.
 - ☕ Coffee lover, turning it into code, [you can buy me a coffee](https://buymeacoff.ee/warengonzaga)!
 - 🏆 2021 Goals:
