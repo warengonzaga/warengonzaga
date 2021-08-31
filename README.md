@@ -64,11 +64,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#7](https://github.com/WarenGonzaga/wrn-fix-it/issues/7) in [WarenGonzaga/wrn-fix-it](https://github.com/WarenGonzaga/wrn-fix-it)
-2. 🗣 Commented on [#5554](https://github.com/simple-icons/simple-icons/issues/5554) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-3. 🗣 Commented on [#208](https://github.com/wpugph/dctx-website/issues/208) in [wpugph/dctx-website](https://github.com/wpugph/dctx-website)
-4. ❗️ Opened issue [#208](https://github.com/wpugph/dctx-website/issues/208) in [wpugph/dctx-website](https://github.com/wpugph/dctx-website)
-5. ❗️ Opened issue [#23](https://github.com/WarenGonzaga/buymeacoffee.js/issues/23) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
+1. 🗣 Commented on [#7](https://github.com/WarenGonzaga/wrn-fix-it/issues/7) in [WarenGonzaga/wrn-fix-it](https://github.com/WarenGonzaga/wrn-fix-it)
+2. ❗️ Opened issue [#23](https://github.com/WarenGonzaga/wifi-passview/issues/23) in [WarenGonzaga/wifi-passview](https://github.com/WarenGonzaga/wifi-passview)
+3. 🎉 Merged PR [#22](https://github.com/WarenGonzaga/wifi-passview/pull/22) in [WarenGonzaga/wifi-passview](https://github.com/WarenGonzaga/wifi-passview)
+4. ❗️ Opened issue [#7](https://github.com/WarenGonzaga/wrn-fix-it/issues/7) in [WarenGonzaga/wrn-fix-it](https://github.com/WarenGonzaga/wrn-fix-it)
+5. 🗣 Commented on [#5554](https://github.com/simple-icons/simple-icons/issues/5554) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
 <!--END_SECTION:activity-->
 
 </details>
