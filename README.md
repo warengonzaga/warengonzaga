@@ -64,11 +64,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/WarenGonzaga/wrn-fix-it/issues/4) in [WarenGonzaga/wrn-fix-it](https://github.com/WarenGonzaga/wrn-fix-it)
-2. 🗣 Commented on [#4](https://github.com/WarenGonzaga/wrn-fix-it/issues/4) in [WarenGonzaga/wrn-fix-it](https://github.com/WarenGonzaga/wrn-fix-it)
-3. 🎉 Merged PR [#15](https://github.com/WarenGonzaga/wrn-fix-it/pull/15) in [WarenGonzaga/wrn-fix-it](https://github.com/WarenGonzaga/wrn-fix-it)
-4. 🗣 Commented on [#972](https://github.com/Jigsaw-Code/outline-server/issues/972) in [Jigsaw-Code/outline-server](https://github.com/Jigsaw-Code/outline-server)
-5. 🗣 Commented on [#244](https://github.com/docker/docker-install/issues/244) in [docker/docker-install](https://github.com/docker/docker-install)
+1. ❗️ Reopened issue [#14](https://github.com/WarenGonzaga/wrn-fix-it/issues/14) in [WarenGonzaga/wrn-fix-it](https://github.com/WarenGonzaga/wrn-fix-it)
+2. 🗣 Commented on [#14](https://github.com/WarenGonzaga/wrn-fix-it/issues/14) in [WarenGonzaga/wrn-fix-it](https://github.com/WarenGonzaga/wrn-fix-it)
+3. ❗️ Closed issue [#14](https://github.com/WarenGonzaga/wrn-fix-it/issues/14) in [WarenGonzaga/wrn-fix-it](https://github.com/WarenGonzaga/wrn-fix-it)
+4. 🗣 Commented on [#14](https://github.com/WarenGonzaga/wrn-fix-it/issues/14) in [WarenGonzaga/wrn-fix-it](https://github.com/WarenGonzaga/wrn-fix-it)
+5. 🎉 Merged PR [#16](https://github.com/WarenGonzaga/wrn-fix-it/pull/16) in [WarenGonzaga/wrn-fix-it](https://github.com/WarenGonzaga/wrn-fix-it)
 <!--END_SECTION:activity-->
 
 </details>
