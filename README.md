@@ -64,11 +64,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/WarenGonzaga/wrn-fix-it/pull/10) in [WarenGonzaga/wrn-fix-it](https://github.com/WarenGonzaga/wrn-fix-it)
-2. ❗️ Opened issue [#11](https://github.com/WarenGonzaga/wrn-fix-it/issues/11) in [WarenGonzaga/wrn-fix-it](https://github.com/WarenGonzaga/wrn-fix-it)
-3. 🗣 Commented on [#7](https://github.com/WarenGonzaga/wrn-fix-it/issues/7) in [WarenGonzaga/wrn-fix-it](https://github.com/WarenGonzaga/wrn-fix-it)
-4. ❗️ Opened issue [#23](https://github.com/WarenGonzaga/wifi-passview/issues/23) in [WarenGonzaga/wifi-passview](https://github.com/WarenGonzaga/wifi-passview)
-5. 🎉 Merged PR [#22](https://github.com/WarenGonzaga/wifi-passview/pull/22) in [WarenGonzaga/wifi-passview](https://github.com/WarenGonzaga/wifi-passview)
+1. 🗣 Commented on [#11](https://github.com/WarenGonzaga/wrn-fix-it/issues/11) in [WarenGonzaga/wrn-fix-it](https://github.com/WarenGonzaga/wrn-fix-it)
+2. ❗️ Closed issue [#11](https://github.com/WarenGonzaga/wrn-fix-it/issues/11) in [WarenGonzaga/wrn-fix-it](https://github.com/WarenGonzaga/wrn-fix-it)
+3. 🎉 Merged PR [#10](https://github.com/WarenGonzaga/wrn-fix-it/pull/10) in [WarenGonzaga/wrn-fix-it](https://github.com/WarenGonzaga/wrn-fix-it)
+4. ❗️ Opened issue [#11](https://github.com/WarenGonzaga/wrn-fix-it/issues/11) in [WarenGonzaga/wrn-fix-it](https://github.com/WarenGonzaga/wrn-fix-it)
+5. 🗣 Commented on [#7](https://github.com/WarenGonzaga/wrn-fix-it/issues/7) in [WarenGonzaga/wrn-fix-it](https://github.com/WarenGonzaga/wrn-fix-it)
 <!--END_SECTION:activity-->
 
 </details>
