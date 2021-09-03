@@ -64,11 +64,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#951](https://github.com/Jigsaw-Code/outline-server/issues/951) in [Jigsaw-Code/outline-server](https://github.com/Jigsaw-Code/outline-server)
-2. ❗️ Reopened issue [#14](https://github.com/WarenGonzaga/wrn-fix-it/issues/14) in [WarenGonzaga/wrn-fix-it](https://github.com/WarenGonzaga/wrn-fix-it)
-3. 🗣 Commented on [#14](https://github.com/WarenGonzaga/wrn-fix-it/issues/14) in [WarenGonzaga/wrn-fix-it](https://github.com/WarenGonzaga/wrn-fix-it)
-4. ❗️ Closed issue [#14](https://github.com/WarenGonzaga/wrn-fix-it/issues/14) in [WarenGonzaga/wrn-fix-it](https://github.com/WarenGonzaga/wrn-fix-it)
-5. 🗣 Commented on [#14](https://github.com/WarenGonzaga/wrn-fix-it/issues/14) in [WarenGonzaga/wrn-fix-it](https://github.com/WarenGonzaga/wrn-fix-it)
+1. 🗣 Commented on [#1221](https://github.com/animate-css/animate.css/issues/1221) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+2. 🗣 Commented on [#1286](https://github.com/animate-css/animate.css/issues/1286) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+3. 🗣 Commented on [#1322](https://github.com/animate-css/animate.css/issues/1322) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+4. 🗣 Commented on [#1267](https://github.com/animate-css/animate.css/issues/1267) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+5. 🗣 Commented on [#1331](https://github.com/animate-css/animate.css/issues/1331) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
 <!--END_SECTION:activity-->
 
 </details>
