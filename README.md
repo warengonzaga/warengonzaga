@@ -8,7 +8,7 @@ I'm a Filipino freelance software engineer, opensource developer advocate, cyber
 
 - 💪 Currently working as a freelance software engineer.
 - 🔏 Bug bounty hunter in free time.
-- 💝 Author of multiple open source projects (30+ to date).
+- 💝 Author of multiple open source projects (~40 to date).
 - 💼 Founder and CEO, [WG Co.](https://github.com/wgcompanyhq), a start-up MSP for start-ups and MSMEs.
 - 👨‍🔬 Founder and CEO, [Amihan Tecchnologies](https://github.com/amihantech), a tech start-up.
 - 🖥️ Founder and Lead Developer of [Wareneutron Developers](https://github.com/wareneutron), popular pinoy open-source dev team.
