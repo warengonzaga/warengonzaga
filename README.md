@@ -64,11 +64,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1331](https://github.com/animate-css/animate.css/issues/1331) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
-2. 🗣 Commented on [#1358](https://github.com/animate-css/animate.css/issues/1358) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
-3. 🗣 Commented on [#1359](https://github.com/animate-css/animate.css/issues/1359) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
-4. 🗣 Commented on [#41](https://github.com/DannyvanHolten/acf-gravityforms-add-on/issues/41) in [DannyvanHolten/acf-gravityforms-add-on](https://github.com/DannyvanHolten/acf-gravityforms-add-on)
-5. ❗️ Opened issue [#42](https://github.com/DannyvanHolten/acf-gravityforms-add-on/issues/42) in [DannyvanHolten/acf-gravityforms-add-on](https://github.com/DannyvanHolten/acf-gravityforms-add-on)
+1. ❗️ Opened issue [#1](https://github.com/WarenGonzaga/shortcodes-wp/issues/1) in [WarenGonzaga/shortcodes-wp](https://github.com/WarenGonzaga/shortcodes-wp)
+2. 🗣 Commented on [#1331](https://github.com/animate-css/animate.css/issues/1331) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+3. 🗣 Commented on [#1358](https://github.com/animate-css/animate.css/issues/1358) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+4. 🗣 Commented on [#1359](https://github.com/animate-css/animate.css/issues/1359) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+5. 🗣 Commented on [#41](https://github.com/DannyvanHolten/acf-gravityforms-add-on/issues/41) in [DannyvanHolten/acf-gravityforms-add-on](https://github.com/DannyvanHolten/acf-gravityforms-add-on)
 <!--END_SECTION:activity-->
 
 </details>
