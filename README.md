@@ -64,11 +64,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2](https://github.com/WarenGonzaga/suspend-wp/issues/2) in [WarenGonzaga/suspend-wp](https://github.com/WarenGonzaga/suspend-wp)
-2. 🎉 Merged PR [#3](https://github.com/WarenGonzaga/suspend-wp/pull/3) in [WarenGonzaga/suspend-wp](https://github.com/WarenGonzaga/suspend-wp)
-3. 💪 Opened PR [#3](https://github.com/WarenGonzaga/suspend-wp/pull/3) in [WarenGonzaga/suspend-wp](https://github.com/WarenGonzaga/suspend-wp)
-4. ❗️ Opened issue [#2](https://github.com/WarenGonzaga/suspend-wp/issues/2) in [WarenGonzaga/suspend-wp](https://github.com/WarenGonzaga/suspend-wp)
-5. ❗️ Opened issue [#1](https://github.com/WarenGonzaga/suspend-wp/issues/1) in [WarenGonzaga/suspend-wp](https://github.com/WarenGonzaga/suspend-wp)
+1. 💪 Opened PR [#1374](https://github.com/animate-css/animate.css/pull/1374) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+2. 🗣 Commented on [#1355](https://github.com/animate-css/animate.css/issues/1355) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+3. 💪 Opened PR [#1373](https://github.com/animate-css/animate.css/pull/1373) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+4. ❗️ Closed issue [#2](https://github.com/WarenGonzaga/suspend-wp/issues/2) in [WarenGonzaga/suspend-wp](https://github.com/WarenGonzaga/suspend-wp)
+5. 🎉 Merged PR [#3](https://github.com/WarenGonzaga/suspend-wp/pull/3) in [WarenGonzaga/suspend-wp](https://github.com/WarenGonzaga/suspend-wp)
 <!--END_SECTION:activity-->
 
 </details>
