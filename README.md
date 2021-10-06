@@ -64,11 +64,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/WarenGonzaga/emily.css/issues/1) in [WarenGonzaga/emily.css](https://github.com/WarenGonzaga/emily.css)
-2. 🗣 Commented on [#21](https://github.com/WarenGonzaga/buymeacoffee.js/issues/21) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
-3. 🗣 Commented on [#23](https://github.com/WarenGonzaga/buymeacoffee.js/issues/23) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
-4. 🗣 Commented on [#23](https://github.com/WarenGonzaga/buymeacoffee.js/issues/23) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
-5. 🗣 Commented on [#23](https://github.com/WarenGonzaga/buymeacoffee.js/issues/23) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
+1. ❗️ Opened issue [#4](https://github.com/WarenGonzaga/emily.css/issues/4) in [WarenGonzaga/emily.css](https://github.com/WarenGonzaga/emily.css)
+2. ❗️ Opened issue [#3](https://github.com/WarenGonzaga/emily.css/issues/3) in [WarenGonzaga/emily.css](https://github.com/WarenGonzaga/emily.css)
+3. ❗️ Opened issue [#2](https://github.com/WarenGonzaga/emily.css/issues/2) in [WarenGonzaga/emily.css](https://github.com/WarenGonzaga/emily.css)
+4. ❗️ Opened issue [#1](https://github.com/WarenGonzaga/emily.css/issues/1) in [WarenGonzaga/emily.css](https://github.com/WarenGonzaga/emily.css)
+5. 🗣 Commented on [#21](https://github.com/WarenGonzaga/buymeacoffee.js/issues/21) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
 <!--END_SECTION:activity-->
 
 </details>
