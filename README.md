@@ -64,11 +64,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#21](https://github.com/WarenGonzaga/buymeacoffee.js/issues/21) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
-2. 🗣 Commented on [#21](https://github.com/WarenGonzaga/buymeacoffee.js/issues/21) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
-3. 🗣 Commented on [#1382](https://github.com/animate-css/animate.css/issues/1382) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
-4. 🎉 Merged PR [#88](https://github.com/wareneutron/covid19-tracker-cli/pull/88) in [wareneutron/covid19-tracker-cli](https://github.com/wareneutron/covid19-tracker-cli)
-5. ❗️ Closed issue [#86](https://github.com/wareneutron/covid19-tracker-cli/issues/86) in [wareneutron/covid19-tracker-cli](https://github.com/wareneutron/covid19-tracker-cli)
+1. ❗️ Opened issue [#29](https://github.com/WarenGonzaga/fork-corner/issues/29) in [WarenGonzaga/fork-corner](https://github.com/WarenGonzaga/fork-corner)
+2. ❗️ Opened issue [#28](https://github.com/WarenGonzaga/fork-corner/issues/28) in [WarenGonzaga/fork-corner](https://github.com/WarenGonzaga/fork-corner)
+3. 💪 Opened PR [#27](https://github.com/WarenGonzaga/fork-corner/pull/27) in [WarenGonzaga/fork-corner](https://github.com/WarenGonzaga/fork-corner)
+4. ❗️ Opened issue [#26](https://github.com/WarenGonzaga/fork-corner/issues/26) in [WarenGonzaga/fork-corner](https://github.com/WarenGonzaga/fork-corner)
+5. 🗣 Commented on [#21](https://github.com/WarenGonzaga/buymeacoffee.js/issues/21) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
 <!--END_SECTION:activity-->
 
 </details>
