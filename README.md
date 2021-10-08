@@ -64,11 +64,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#88](https://github.com/wareneutron/covid19-tracker-cli/pull/88) in [wareneutron/covid19-tracker-cli](https://github.com/wareneutron/covid19-tracker-cli)
-2. ❗️ Closed issue [#86](https://github.com/wareneutron/covid19-tracker-cli/issues/86) in [wareneutron/covid19-tracker-cli](https://github.com/wareneutron/covid19-tracker-cli)
-3. 🎉 Merged PR [#89](https://github.com/wareneutron/covid19-tracker-cli/pull/89) in [wareneutron/covid19-tracker-cli](https://github.com/wareneutron/covid19-tracker-cli)
-4. 💪 Opened PR [#88](https://github.com/wareneutron/covid19-tracker-cli/pull/88) in [wareneutron/covid19-tracker-cli](https://github.com/wareneutron/covid19-tracker-cli)
-5. 🗣 Commented on [#5554](https://github.com/simple-icons/simple-icons/issues/5554) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+1. 🗣 Commented on [#1382](https://github.com/animate-css/animate.css/issues/1382) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+2. 🎉 Merged PR [#88](https://github.com/wareneutron/covid19-tracker-cli/pull/88) in [wareneutron/covid19-tracker-cli](https://github.com/wareneutron/covid19-tracker-cli)
+3. ❗️ Closed issue [#86](https://github.com/wareneutron/covid19-tracker-cli/issues/86) in [wareneutron/covid19-tracker-cli](https://github.com/wareneutron/covid19-tracker-cli)
+4. 🎉 Merged PR [#89](https://github.com/wareneutron/covid19-tracker-cli/pull/89) in [wareneutron/covid19-tracker-cli](https://github.com/wareneutron/covid19-tracker-cli)
+5. 💪 Opened PR [#88](https://github.com/wareneutron/covid19-tracker-cli/pull/88) in [wareneutron/covid19-tracker-cli](https://github.com/wareneutron/covid19-tracker-cli)
 <!--END_SECTION:activity-->
 
 </details>
