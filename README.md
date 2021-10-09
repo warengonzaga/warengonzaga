@@ -64,11 +64,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#10](https://github.com/algofilipino/website/issues/10) in [algofilipino/website](https://github.com/algofilipino/website)
-2. ❗️ Opened issue [#9](https://github.com/algofilipino/website/issues/9) in [algofilipino/website](https://github.com/algofilipino/website)
-3. ❗️ Opened issue [#8](https://github.com/algofilipino/website/issues/8) in [algofilipino/website](https://github.com/algofilipino/website)
-4. ❗️ Opened issue [#7](https://github.com/algofilipino/website/issues/7) in [algofilipino/website](https://github.com/algofilipino/website)
-5. ❗️ Closed issue [#5](https://github.com/algofilipino/website/issues/5) in [algofilipino/website](https://github.com/algofilipino/website)
+1. 🗣 Commented on [#7](https://github.com/algofilipino/website/issues/7) in [algofilipino/website](https://github.com/algofilipino/website)
+2. ❗️ Opened issue [#10](https://github.com/algofilipino/website/issues/10) in [algofilipino/website](https://github.com/algofilipino/website)
+3. ❗️ Opened issue [#9](https://github.com/algofilipino/website/issues/9) in [algofilipino/website](https://github.com/algofilipino/website)
+4. ❗️ Opened issue [#8](https://github.com/algofilipino/website/issues/8) in [algofilipino/website](https://github.com/algofilipino/website)
+5. ❗️ Opened issue [#7](https://github.com/algofilipino/website/issues/7) in [algofilipino/website](https://github.com/algofilipino/website)
 <!--END_SECTION:activity-->
 
 </details>
