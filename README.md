@@ -64,11 +64,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/algofilipino/website/pull/4) in [algofilipino/website](https://github.com/algofilipino/website)
-2. ❗️ Opened issue [#29](https://github.com/WarenGonzaga/fork-corner/issues/29) in [WarenGonzaga/fork-corner](https://github.com/WarenGonzaga/fork-corner)
-3. ❗️ Opened issue [#28](https://github.com/WarenGonzaga/fork-corner/issues/28) in [WarenGonzaga/fork-corner](https://github.com/WarenGonzaga/fork-corner)
-4. 💪 Opened PR [#27](https://github.com/WarenGonzaga/fork-corner/pull/27) in [WarenGonzaga/fork-corner](https://github.com/WarenGonzaga/fork-corner)
-5. ❗️ Opened issue [#26](https://github.com/WarenGonzaga/fork-corner/issues/26) in [WarenGonzaga/fork-corner](https://github.com/WarenGonzaga/fork-corner)
+1. ❗️ Opened issue [#7](https://github.com/algofilipino/website/issues/7) in [algofilipino/website](https://github.com/algofilipino/website)
+2. ❗️ Closed issue [#5](https://github.com/algofilipino/website/issues/5) in [algofilipino/website](https://github.com/algofilipino/website)
+3. ❗️ Closed issue [#6](https://github.com/algofilipino/website/issues/6) in [algofilipino/website](https://github.com/algofilipino/website)
+4. 🎉 Merged PR [#4](https://github.com/algofilipino/website/pull/4) in [algofilipino/website](https://github.com/algofilipino/website)
+5. 🗣 Commented on [#4](https://github.com/algofilipino/website/issues/4) in [algofilipino/website](https://github.com/algofilipino/website)
 <!--END_SECTION:activity-->
 
 </details>
