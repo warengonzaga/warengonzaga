@@ -65,10 +65,10 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#26](https://github.com/WarenGonzaga/wifi-passview/issues/26) in [WarenGonzaga/wifi-passview](https://github.com/WarenGonzaga/wifi-passview)
-2. ❗️ Opened issue [#28](https://github.com/WarenGonzaga/wifi-passview/issues/28) in [WarenGonzaga/wifi-passview](https://github.com/WarenGonzaga/wifi-passview)
-3. ❗️ Opened issue [#26](https://github.com/WarenGonzaga/wifi-passview/issues/26) in [WarenGonzaga/wifi-passview](https://github.com/WarenGonzaga/wifi-passview)
-4. ❗️ Opened issue [#25](https://github.com/WarenGonzaga/wifi-passview/issues/25) in [WarenGonzaga/wifi-passview](https://github.com/WarenGonzaga/wifi-passview)
-5. ❗️ Opened issue [#5](https://github.com/WarenGonzaga/suspend-wp/issues/5) in [WarenGonzaga/suspend-wp](https://github.com/WarenGonzaga/suspend-wp)
+2. 🗣 Commented on [#26](https://github.com/WarenGonzaga/wifi-passview/issues/26) in [WarenGonzaga/wifi-passview](https://github.com/WarenGonzaga/wifi-passview)
+3. 🗣 Commented on [#26](https://github.com/WarenGonzaga/wifi-passview/issues/26) in [WarenGonzaga/wifi-passview](https://github.com/WarenGonzaga/wifi-passview)
+4. 🗣 Commented on [#26](https://github.com/WarenGonzaga/wifi-passview/issues/26) in [WarenGonzaga/wifi-passview](https://github.com/WarenGonzaga/wifi-passview)
+5. ❗️ Opened issue [#28](https://github.com/WarenGonzaga/wifi-passview/issues/28) in [WarenGonzaga/wifi-passview](https://github.com/WarenGonzaga/wifi-passview)
 <!--END_SECTION:activity-->
 
 </details>
