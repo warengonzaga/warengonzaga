@@ -64,11 +64,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#30](https://github.com/WarenGonzaga/wifi-passview/issues/30) in [WarenGonzaga/wifi-passview](https://github.com/WarenGonzaga/wifi-passview)
-2. 🗣 Commented on [#26](https://github.com/WarenGonzaga/wifi-passview/issues/26) in [WarenGonzaga/wifi-passview](https://github.com/WarenGonzaga/wifi-passview)
-3. ❗️ Closed issue [#26](https://github.com/WarenGonzaga/wifi-passview/issues/26) in [WarenGonzaga/wifi-passview](https://github.com/WarenGonzaga/wifi-passview)
-4. 🎉 Merged PR [#29](https://github.com/WarenGonzaga/wifi-passview/pull/29) in [WarenGonzaga/wifi-passview](https://github.com/WarenGonzaga/wifi-passview)
-5. 🗣 Commented on [#29](https://github.com/WarenGonzaga/wifi-passview/issues/29) in [WarenGonzaga/wifi-passview](https://github.com/WarenGonzaga/wifi-passview)
+1. ❗️ Opened issue [#3](https://github.com/WarenGonzaga/shortcodes-wp/issues/3) in [WarenGonzaga/shortcodes-wp](https://github.com/WarenGonzaga/shortcodes-wp)
+2. ❗️ Opened issue [#2](https://github.com/WarenGonzaga/shortcodes-wp/issues/2) in [WarenGonzaga/shortcodes-wp](https://github.com/WarenGonzaga/shortcodes-wp)
+3. ❗️ Opened issue [#30](https://github.com/WarenGonzaga/wifi-passview/issues/30) in [WarenGonzaga/wifi-passview](https://github.com/WarenGonzaga/wifi-passview)
+4. 🗣 Commented on [#26](https://github.com/WarenGonzaga/wifi-passview/issues/26) in [WarenGonzaga/wifi-passview](https://github.com/WarenGonzaga/wifi-passview)
+5. ❗️ Closed issue [#26](https://github.com/WarenGonzaga/wifi-passview/issues/26) in [WarenGonzaga/wifi-passview](https://github.com/WarenGonzaga/wifi-passview)
 <!--END_SECTION:activity-->
 
 </details>
