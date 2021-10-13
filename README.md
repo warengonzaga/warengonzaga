@@ -64,11 +64,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#32](https://github.com/wareneutron/psgc-api/pull/32) in [wareneutron/psgc-api](https://github.com/wareneutron/psgc-api)
-2. ❗️ Opened issue [#35](https://github.com/wareneutron/psgc-api/issues/35) in [wareneutron/psgc-api](https://github.com/wareneutron/psgc-api)
-3. ❌ Closed PR [#1377](https://github.com/animate-css/animate.css/pull/1377) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
-4. 🗣 Commented on [#1377](https://github.com/animate-css/animate.css/issues/1377) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
-5. ❗️ Opened issue [#34](https://github.com/wareneutron/psgc-api/issues/34) in [wareneutron/psgc-api](https://github.com/wareneutron/psgc-api)
+1. ❗️ Closed issue [#33](https://github.com/wareneutron/psgc-api/issues/33) in [wareneutron/psgc-api](https://github.com/wareneutron/psgc-api)
+2. ❗️ Closed issue [#35](https://github.com/wareneutron/psgc-api/issues/35) in [wareneutron/psgc-api](https://github.com/wareneutron/psgc-api)
+3. 🎉 Merged PR [#32](https://github.com/wareneutron/psgc-api/pull/32) in [wareneutron/psgc-api](https://github.com/wareneutron/psgc-api)
+4. ❗️ Opened issue [#35](https://github.com/wareneutron/psgc-api/issues/35) in [wareneutron/psgc-api](https://github.com/wareneutron/psgc-api)
+5. ❌ Closed PR [#1377](https://github.com/animate-css/animate.css/pull/1377) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
 <!--END_SECTION:activity-->
 
 </details>
