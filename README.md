@@ -64,11 +64,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#30](https://github.com/WarenGonzaga/wifi-passview/issues/30) in [WarenGonzaga/wifi-passview](https://github.com/WarenGonzaga/wifi-passview)
-2. ❗️ Closed issue [#34](https://github.com/WarenGonzaga/wifi-passview/issues/34) in [WarenGonzaga/wifi-passview](https://github.com/WarenGonzaga/wifi-passview)
-3. ❗️ Closed issue [#28](https://github.com/WarenGonzaga/wifi-passview/issues/28) in [WarenGonzaga/wifi-passview](https://github.com/WarenGonzaga/wifi-passview)
-4. 🗣 Commented on [#28](https://github.com/WarenGonzaga/wifi-passview/issues/28) in [WarenGonzaga/wifi-passview](https://github.com/WarenGonzaga/wifi-passview)
-5. ❗️ Opened issue [#34](https://github.com/WarenGonzaga/wifi-passview/issues/34) in [WarenGonzaga/wifi-passview](https://github.com/WarenGonzaga/wifi-passview)
+1. 🎉 Merged PR [#32](https://github.com/wareneutron/psgc-api/pull/32) in [wareneutron/psgc-api](https://github.com/wareneutron/psgc-api)
+2. ❗️ Opened issue [#35](https://github.com/wareneutron/psgc-api/issues/35) in [wareneutron/psgc-api](https://github.com/wareneutron/psgc-api)
+3. ❌ Closed PR [#1377](https://github.com/animate-css/animate.css/pull/1377) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+4. 🗣 Commented on [#1377](https://github.com/animate-css/animate.css/issues/1377) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+5. ❗️ Opened issue [#34](https://github.com/wareneutron/psgc-api/issues/34) in [wareneutron/psgc-api](https://github.com/wareneutron/psgc-api)
 <!--END_SECTION:activity-->
 
 </details>
