@@ -1,10 +1,12 @@
 # Hi, I'm Waren Gonzaga (:coffee::computer::bulb::heart:)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Filipino+Software+Engineer;Open-Source+Developer+Advocate;Cybersecurity+Researcher;and+Technopreneur!;Nice+to+meet+you...)](https://git.io/typing-svg)
-
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/warengonzagaofficial) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/warengonzaga) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/warengonzagaofficial) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/warengonzaga) [![DEV](https://img.shields.io/badge/DEV-%23000000.svg?&style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/warengonzaga) [![BMC](https://img.shields.io/badge/BuyMeaCoffee-%23FFDD00.svg?&style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://bmc.xyz/warengonzaga)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Filipino+Software+Engineer;Open-Source+Developer+Advocate;Cybersecurity+Researcher;and+Technopreneur!;Nice+to+meet+you...)](https://git.io/typing-svg)
+
 I'm a Filipino freelance software engineer, opensource developer advocate, cybersecurity researcher, and technopreneur from the Philippines. Kumusta ka!
+
+🎙 [Recent Tech Talks](https://work.warengonzaga.com/warengonzaga/collections/1284) • 📦 [Open Source Updates](https://work.warengonzaga.com/warengonzaga/collections/1194)
 
 - 💪 Currently working as a freelance software engineer.
 - 🔏 Bug bounty hunter in free time.
@@ -15,6 +17,7 @@ I'm a Filipino freelance software engineer, opensource developer advocate, cyber
 - 💞 Executive Director, [Algo Filipino](https://github.com/algofilipino), non-profit organization for language and technology.
 - ☕ Coffee lover, turning it into code, [you can buy me a coffee](https://buymeacoff.ee/warengonzaga)!
 - 🏆 2021 Goals:
+  - Become part of GitHub Stars.
   - Contribute and publish more open source projects.
   - Publish my first SaaS project.
   - ~~Improve and expand my freelancing business.~~
