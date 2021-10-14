@@ -64,11 +64,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#13](https://github.com/algofilipino/website/issues/13) in [algofilipino/website](https://github.com/algofilipino/website)
-2. ❗️ Opened issue [#12](https://github.com/algofilipino/website/issues/12) in [algofilipino/website](https://github.com/algofilipino/website)
-3. ❗️ Closed issue [#33](https://github.com/wareneutron/psgc-api/issues/33) in [wareneutron/psgc-api](https://github.com/wareneutron/psgc-api)
-4. ❗️ Closed issue [#35](https://github.com/wareneutron/psgc-api/issues/35) in [wareneutron/psgc-api](https://github.com/wareneutron/psgc-api)
-5. 🎉 Merged PR [#32](https://github.com/wareneutron/psgc-api/pull/32) in [wareneutron/psgc-api](https://github.com/wareneutron/psgc-api)
+1. 🗣 Commented on [#12](https://github.com/algofilipino/website/issues/12) in [algofilipino/website](https://github.com/algofilipino/website)
+2. ❗️ Closed issue [#12](https://github.com/algofilipino/website/issues/12) in [algofilipino/website](https://github.com/algofilipino/website)
+3. 🗣 Commented on [#8](https://github.com/algofilipino/website/issues/8) in [algofilipino/website](https://github.com/algofilipino/website)
+4. ❗️ Opened issue [#14](https://github.com/algofilipino/website/issues/14) in [algofilipino/website](https://github.com/algofilipino/website)
+5. ❗️ Opened issue [#13](https://github.com/algofilipino/website/issues/13) in [algofilipino/website](https://github.com/algofilipino/website)
 <!--END_SECTION:activity-->
 
 </details>
