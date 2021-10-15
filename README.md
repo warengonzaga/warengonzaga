@@ -67,11 +67,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1379](https://github.com/animate-css/animate.css/issues/1379) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
-2. 🗣 Commented on [#28](https://github.com/WarenGonzaga/buymeacoffee.js/issues/28) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
-3. 🗣 Commented on [#23](https://github.com/WarenGonzaga/buymeacoffee.js/issues/23) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
-4. 🗣 Commented on [#4](https://github.com/WarenGonzaga/shortcodes-wp/issues/4) in [WarenGonzaga/shortcodes-wp](https://github.com/WarenGonzaga/shortcodes-wp)
-5. 🗣 Commented on [#2](https://github.com/WarenGonzaga/shortcodes-wp/issues/2) in [WarenGonzaga/shortcodes-wp](https://github.com/WarenGonzaga/shortcodes-wp)
+1. 🎉 Merged PR [#4](https://github.com/WarenGonzaga/shortcodes-wp/pull/4) in [WarenGonzaga/shortcodes-wp](https://github.com/WarenGonzaga/shortcodes-wp)
+2. 🗣 Commented on [#1379](https://github.com/animate-css/animate.css/issues/1379) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+3. 🗣 Commented on [#28](https://github.com/WarenGonzaga/buymeacoffee.js/issues/28) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
+4. 🗣 Commented on [#23](https://github.com/WarenGonzaga/buymeacoffee.js/issues/23) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
+5. 🗣 Commented on [#4](https://github.com/WarenGonzaga/shortcodes-wp/issues/4) in [WarenGonzaga/shortcodes-wp](https://github.com/WarenGonzaga/shortcodes-wp)
 <!--END_SECTION:activity-->
 
 </details>
