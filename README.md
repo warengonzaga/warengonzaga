@@ -67,11 +67,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/jofftiquez/v-animate-css/issues/1) in [jofftiquez/v-animate-css](https://github.com/jofftiquez/v-animate-css)
-2. 💪 Opened PR [#21](https://github.com/jofftiquez/v-animate-css/pull/21) in [jofftiquez/v-animate-css](https://github.com/jofftiquez/v-animate-css)
-3. 🗣 Commented on [#1](https://github.com/WarenGonzaga/shortcodes-wp/issues/1) in [WarenGonzaga/shortcodes-wp](https://github.com/WarenGonzaga/shortcodes-wp)
-4. 🎉 Merged PR [#4](https://github.com/WarenGonzaga/shortcodes-wp/pull/4) in [WarenGonzaga/shortcodes-wp](https://github.com/WarenGonzaga/shortcodes-wp)
-5. 🗣 Commented on [#1379](https://github.com/animate-css/animate.css/issues/1379) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+1. ❗️ Closed issue [#28](https://github.com/WarenGonzaga/fork-corner/issues/28) in [WarenGonzaga/fork-corner](https://github.com/WarenGonzaga/fork-corner)
+2. 🎉 Merged PR [#27](https://github.com/WarenGonzaga/fork-corner/pull/27) in [WarenGonzaga/fork-corner](https://github.com/WarenGonzaga/fork-corner)
+3. ❗️ Closed issue [#29](https://github.com/WarenGonzaga/fork-corner/issues/29) in [WarenGonzaga/fork-corner](https://github.com/WarenGonzaga/fork-corner)
+4. ❗️ Closed issue [#26](https://github.com/WarenGonzaga/fork-corner/issues/26) in [WarenGonzaga/fork-corner](https://github.com/WarenGonzaga/fork-corner)
+5. 🗣 Commented on [#1](https://github.com/jofftiquez/v-animate-css/issues/1) in [jofftiquez/v-animate-css](https://github.com/jofftiquez/v-animate-css)
 <!--END_SECTION:activity-->
 
 </details>
