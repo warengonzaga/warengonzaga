@@ -67,11 +67,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/WarenGonzaga/WarenGonzaga/issues/2) in [WarenGonzaga/WarenGonzaga](https://github.com/WarenGonzaga/WarenGonzaga)
-2. ❗️ Opened issue [#13](https://github.com/WarenGonzaga/shortcodes-wp/issues/13) in [WarenGonzaga/shortcodes-wp](https://github.com/WarenGonzaga/shortcodes-wp)
-3. 🗣 Commented on [#10](https://github.com/WarenGonzaga/shortcodes-wp/issues/10) in [WarenGonzaga/shortcodes-wp](https://github.com/WarenGonzaga/shortcodes-wp)
-4. 🗣 Commented on [#8](https://github.com/WarenGonzaga/shortcodes-wp/issues/8) in [WarenGonzaga/shortcodes-wp](https://github.com/WarenGonzaga/shortcodes-wp)
-5. ❗️ Closed issue [#1](https://github.com/WarenGonzaga/shortcodes-wp/issues/1) in [WarenGonzaga/shortcodes-wp](https://github.com/WarenGonzaga/shortcodes-wp)
+1. ❗️ Opened issue [#3](https://github.com/plaguesec/plaguesec-os/issues/3) in [plaguesec/plaguesec-os](https://github.com/plaguesec/plaguesec-os)
+2. ❗️ Opened issue [#2](https://github.com/plaguesec/plaguesec-os/issues/2) in [plaguesec/plaguesec-os](https://github.com/plaguesec/plaguesec-os)
+3. ❗️ Opened issue [#1](https://github.com/plaguesec/PlagueSecOS/issues/1) in [plaguesec/PlagueSecOS](https://github.com/plaguesec/PlagueSecOS)
+4. ❗️ Opened issue [#2](https://github.com/WarenGonzaga/WarenGonzaga/issues/2) in [WarenGonzaga/WarenGonzaga](https://github.com/WarenGonzaga/WarenGonzaga)
+5. ❗️ Opened issue [#13](https://github.com/WarenGonzaga/shortcodes-wp/issues/13) in [WarenGonzaga/shortcodes-wp](https://github.com/WarenGonzaga/shortcodes-wp)
 <!--END_SECTION:activity-->
 
 </details>
