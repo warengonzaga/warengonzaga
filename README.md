@@ -67,11 +67,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#12](https://github.com/WarenGonzaga/shortcodes-wp/issues/12) in [WarenGonzaga/shortcodes-wp](https://github.com/WarenGonzaga/shortcodes-wp)
-2. 🎉 Merged PR [#5](https://github.com/WarenGonzaga/shortcodes-wp/pull/5) in [WarenGonzaga/shortcodes-wp](https://github.com/WarenGonzaga/shortcodes-wp)
-3. 🗣 Commented on [#5](https://github.com/WarenGonzaga/shortcodes-wp/issues/5) in [WarenGonzaga/shortcodes-wp](https://github.com/WarenGonzaga/shortcodes-wp)
-4. 🎉 Merged PR [#6](https://github.com/WarenGonzaga/shortcodes-wp/pull/6) in [WarenGonzaga/shortcodes-wp](https://github.com/WarenGonzaga/shortcodes-wp)
-5. 🗣 Commented on [#5](https://github.com/WarenGonzaga/shortcodes-wp/issues/5) in [WarenGonzaga/shortcodes-wp](https://github.com/WarenGonzaga/shortcodes-wp)
+1. ❗️ Opened issue [#13](https://github.com/WarenGonzaga/shortcodes-wp/issues/13) in [WarenGonzaga/shortcodes-wp](https://github.com/WarenGonzaga/shortcodes-wp)
+2. 🗣 Commented on [#10](https://github.com/WarenGonzaga/shortcodes-wp/issues/10) in [WarenGonzaga/shortcodes-wp](https://github.com/WarenGonzaga/shortcodes-wp)
+3. 🗣 Commented on [#8](https://github.com/WarenGonzaga/shortcodes-wp/issues/8) in [WarenGonzaga/shortcodes-wp](https://github.com/WarenGonzaga/shortcodes-wp)
+4. ❗️ Closed issue [#1](https://github.com/WarenGonzaga/shortcodes-wp/issues/1) in [WarenGonzaga/shortcodes-wp](https://github.com/WarenGonzaga/shortcodes-wp)
+5. 🗣 Commented on [#1](https://github.com/WarenGonzaga/shortcodes-wp/issues/1) in [WarenGonzaga/shortcodes-wp](https://github.com/WarenGonzaga/shortcodes-wp)
 <!--END_SECTION:activity-->
 
 </details>
