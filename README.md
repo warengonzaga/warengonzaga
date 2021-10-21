@@ -68,10 +68,10 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#6513](https://github.com/js-org/js.org/issues/6513) in [js-org/js.org](https://github.com/js-org/js.org)
-2. 🗣 Commented on [#29](https://github.com/WarenGonzaga/buymeacoffee.js/issues/29) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
-3. 🗣 Commented on [#6513](https://github.com/js-org/js.org/issues/6513) in [js-org/js.org](https://github.com/js-org/js.org)
-4. 💪 Opened PR [#6513](https://github.com/js-org/js.org/pull/6513) in [js-org/js.org](https://github.com/js-org/js.org)
-5. ❗️ Closed issue [#33](https://github.com/WarenGonzaga/buymeacoffee.js/issues/33) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
+2. 🗣 Commented on [#34](https://github.com/WarenGonzaga/buymeacoffee.js/issues/34) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
+3. ❗️ Opened issue [#34](https://github.com/WarenGonzaga/buymeacoffee.js/issues/34) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
+4. 🗣 Commented on [#6513](https://github.com/js-org/js.org/issues/6513) in [js-org/js.org](https://github.com/js-org/js.org)
+5. 🗣 Commented on [#29](https://github.com/WarenGonzaga/buymeacoffee.js/issues/29) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
 <!--END_SECTION:activity-->
 
 </details>
