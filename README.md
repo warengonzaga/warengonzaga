@@ -67,11 +67,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#39](https://github.com/WarenGonzaga/buymeacoffee.js/issues/39) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
-2. 🗣 Commented on [#11](https://github.com/WarenGonzaga/shortcodes-wp/issues/11) in [WarenGonzaga/shortcodes-wp](https://github.com/WarenGonzaga/shortcodes-wp)
+1. ❌ Closed PR [#40](https://github.com/WarenGonzaga/buymeacoffee.js/pull/40) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
+2. 🗣 Commented on [#39](https://github.com/WarenGonzaga/buymeacoffee.js/issues/39) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
 3. 🗣 Commented on [#39](https://github.com/WarenGonzaga/buymeacoffee.js/issues/39) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
-4. ❗️ Closed issue [#6](https://github.com/plaguesec/plaguesec-os/issues/6) in [plaguesec/plaguesec-os](https://github.com/plaguesec/plaguesec-os)
-5. ❗️ Opened issue [#6](https://github.com/plaguesec/plaguesec-os/issues/6) in [plaguesec/plaguesec-os](https://github.com/plaguesec/plaguesec-os)
+4. 🗣 Commented on [#39](https://github.com/WarenGonzaga/buymeacoffee.js/issues/39) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
+5. 🗣 Commented on [#11](https://github.com/WarenGonzaga/shortcodes-wp/issues/11) in [WarenGonzaga/shortcodes-wp](https://github.com/WarenGonzaga/shortcodes-wp)
 <!--END_SECTION:activity-->
 
 </details>
