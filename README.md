@@ -67,11 +67,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13](https://github.com/WarenGonzaga/shortcodes-wp/issues/13) in [WarenGonzaga/shortcodes-wp](https://github.com/WarenGonzaga/shortcodes-wp)
-2. ❗️ Opened issue [#15](https://github.com/WarenGonzaga/shortcodes-wp/issues/15) in [WarenGonzaga/shortcodes-wp](https://github.com/WarenGonzaga/shortcodes-wp)
+1. ❗️ Opened issue [#39](https://github.com/WarenGonzaga/buymeacoffee.js/issues/39) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
+2. 🗣 Commented on [#11](https://github.com/WarenGonzaga/shortcodes-wp/issues/11) in [WarenGonzaga/shortcodes-wp](https://github.com/WarenGonzaga/shortcodes-wp)
 3. 🗣 Commented on [#13](https://github.com/WarenGonzaga/shortcodes-wp/issues/13) in [WarenGonzaga/shortcodes-wp](https://github.com/WarenGonzaga/shortcodes-wp)
-4. 🗣 Commented on [#13](https://github.com/WarenGonzaga/shortcodes-wp/issues/13) in [WarenGonzaga/shortcodes-wp](https://github.com/WarenGonzaga/shortcodes-wp)
-5. 🗣 Commented on [#37](https://github.com/WarenGonzaga/buymeacoffee.js/issues/37) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
+4. ❗️ Opened issue [#15](https://github.com/WarenGonzaga/shortcodes-wp/issues/15) in [WarenGonzaga/shortcodes-wp](https://github.com/WarenGonzaga/shortcodes-wp)
+5. 🗣 Commented on [#13](https://github.com/WarenGonzaga/shortcodes-wp/issues/13) in [WarenGonzaga/shortcodes-wp](https://github.com/WarenGonzaga/shortcodes-wp)
 <!--END_SECTION:activity-->
 
 </details>
