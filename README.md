@@ -69,10 +69,10 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#36](https://github.com/WarenGonzaga/wifi-passview/issues/36) in [WarenGonzaga/wifi-passview](https://github.com/WarenGonzaga/wifi-passview)
-2. 🎉 Merged PR [#16](https://github.com/algofilipino/website/pull/16) in [algofilipino/website](https://github.com/algofilipino/website)
-3. ❌ Closed PR [#40](https://github.com/WarenGonzaga/buymeacoffee.js/pull/40) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
-4. 🗣 Commented on [#39](https://github.com/WarenGonzaga/buymeacoffee.js/issues/39) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
+1. ❗️ Closed issue [#2](https://github.com/WarenGonzaga/WarenGonzaga/issues/2) in [WarenGonzaga/WarenGonzaga](https://github.com/WarenGonzaga/WarenGonzaga)
+2. ❗️ Opened issue [#36](https://github.com/WarenGonzaga/wifi-passview/issues/36) in [WarenGonzaga/wifi-passview](https://github.com/WarenGonzaga/wifi-passview)
+3. 🎉 Merged PR [#16](https://github.com/algofilipino/website/pull/16) in [algofilipino/website](https://github.com/algofilipino/website)
+4. ❌ Closed PR [#40](https://github.com/WarenGonzaga/buymeacoffee.js/pull/40) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
 5. 🗣 Commented on [#39](https://github.com/WarenGonzaga/buymeacoffee.js/issues/39) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
 <!--END_SECTION:activity-->
 
