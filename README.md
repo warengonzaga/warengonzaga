@@ -96,7 +96,7 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
 
 ---
 
-:computer: Made with :heart: by **Waren Gonzaga** with **YHWH** :pray: | Citizen of Heaven
+:computer: Made with :heart: by **Waren Gonzaga** with **YHWH** :pray: | **[Citizen of Heaven](https://youtu.be/GwirdlbkUD8?t=150)** ▶️
 
 [personal website]: https://warengonzaga.com
 [business website]: https://wgcompanyhq.com
