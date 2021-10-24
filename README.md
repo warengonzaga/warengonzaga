@@ -1,5 +1,7 @@
 # Hi, I'm Waren Gonzaga (:coffee::computer::bulb::heart:)
 
+📢 Nominate ([@WarenGonzaga](https://warengonzaga.com)) as **[GitHub Star](https://stars.github.com/nominate)**. If you appreciate his hardwork and dedication to open source.
+
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/warengonzagaofficial) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/warengonzaga) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/warengonzagaofficial) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/warengonzaga) [![DEV](https://img.shields.io/badge/DEV-%23000000.svg?&style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/warengonzaga) [![BMC](https://img.shields.io/badge/BuyMeaCoffee-%23FFDD00.svg?&style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://bmc.xyz/warengonzaga)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Filipino+Software+Engineer;Open-Source+Developer+Advocate;Cybersecurity+Researcher;and+Technopreneur!;Nice+to+meet+you...)](https://git.io/typing-svg)
@@ -42,7 +44,7 @@ Wanna see some of my future projects? Join today!
 
 ## 🍀 Sponsors and Supporters
 
-[![BuyMeaCoffee](https://wrngnz.ga/badge-buymeacoffee)](https://buymeacoff.ee/warengonzaga) [![Vercel](https://wrngnz.ga/badge-vercel)](https://vercel.com) [![CircleCI](https://wrngnz.ga/badge-circleci)](https://vercel.com) [![GitBook](https://wrngnz.ga/badge-gitbook)](https://gitbook.io) [![Digital Ocean](https://wrngnz.ga/badge-digitalocean)](https://digitalocean.com) [![Deepware](https://wrngnz.ga/badge-deepware)](https://deepware.ai/) [![NOWPayments](https://wrngnz.ga/badge-nowpayments)](https://nowpayments.io) [![StackHawk](https://img.shields.io/badge/Stackhawk-%2300CBC6.svg?&style=for-the-badge&logoColor=white)](https://stackhawk.com)
+[![BuyMeaCoffee](https://img.shields.io/badge/Buymeacoffee-%23FFDD00.svg?&style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoff.ee/warengonzaga) [![Vercel](https://img.shields.io/badge/Vercel-%23000.svg?&style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com) [![CircleCI](https://img.shields.io/badge/CircleCI-%23000.svg?&style=for-the-badge&logo=CircleCI&logoColor=white)](https://vercel.com) [![GitBook](https://img.shields.io/badge/GitBook-%233884FF.svg?&style=for-the-badge&logo=gitbook&logoColor=white)](https://gitbook.io) [![Digital Ocean](https://img.shields.io/badge/Digital%20Ocean-%230080ff.svg?&style=for-the-badge&logo=digitalocean&logoColor=white)](https://digitalocean.com) [![Deepware](https://img.shields.io/badge/deepware-%23cb2653.svg?&style=for-the-badge&logoColor=white)](https://deepware.ai/) [![NOWPayments](https://img.shields.io/badge/NOWPayments-%2364ACFF.svg?&style=for-the-badge&logoColor=white)](https://nowpayments.io) [![StackHawk](https://img.shields.io/badge/Stackhawk-%2300CBC6.svg?&style=for-the-badge&logoColor=white)](https://stackhawk.com)
 
 and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what I do!
 
