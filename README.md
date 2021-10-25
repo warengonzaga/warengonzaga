@@ -69,11 +69,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#30](https://github.com/mayajs/mayajs.github.io/issues/30) in [mayajs/mayajs.github.io](https://github.com/mayajs/mayajs.github.io)
-2. 🗣 Commented on [#993](https://github.com/animate-css/animate.css/issues/993) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
-3. 🗣 Commented on [#993](https://github.com/animate-css/animate.css/issues/993) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
-4. 💪 Opened PR [#30](https://github.com/mayajs/mayajs.github.io/pull/30) in [mayajs/mayajs.github.io](https://github.com/mayajs/mayajs.github.io)
-5. 🗣 Commented on [#993](https://github.com/animate-css/animate.css/issues/993) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+1. 🗣 Commented on [#23](https://github.com/WarenGonzaga/buymeacoffee.js/issues/23) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
+2. 🗣 Commented on [#34](https://github.com/WarenGonzaga/buymeacoffee.js/issues/34) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
+3. 🗣 Commented on [#39](https://github.com/WarenGonzaga/buymeacoffee.js/issues/39) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
+4. 🗣 Commented on [#37](https://github.com/WarenGonzaga/buymeacoffee.js/issues/37) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
+5. ❗️ Closed issue [#23](https://github.com/WarenGonzaga/fork-corner/issues/23) in [WarenGonzaga/fork-corner](https://github.com/WarenGonzaga/fork-corner)
 <!--END_SECTION:activity-->
 
 </details>
