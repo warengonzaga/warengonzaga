@@ -69,11 +69,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1382](https://github.com/animate-css/animate.css/issues/1382) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+1. 🗣 Commented on [#993](https://github.com/animate-css/animate.css/issues/993) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
 2. 🗣 Commented on [#1382](https://github.com/animate-css/animate.css/issues/1382) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
-3. ❌ Closed PR [#20](https://github.com/WarenGonzaga/shortcodes-wp/pull/20) in [WarenGonzaga/shortcodes-wp](https://github.com/WarenGonzaga/shortcodes-wp)
-4. 🗣 Commented on [#20](https://github.com/WarenGonzaga/shortcodes-wp/issues/20) in [WarenGonzaga/shortcodes-wp](https://github.com/WarenGonzaga/shortcodes-wp)
-5. 🗣 Commented on [#13](https://github.com/WarenGonzaga/shortcodes-wp/issues/13) in [WarenGonzaga/shortcodes-wp](https://github.com/WarenGonzaga/shortcodes-wp)
+3. 🗣 Commented on [#1382](https://github.com/animate-css/animate.css/issues/1382) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+4. ❌ Closed PR [#20](https://github.com/WarenGonzaga/shortcodes-wp/pull/20) in [WarenGonzaga/shortcodes-wp](https://github.com/WarenGonzaga/shortcodes-wp)
+5. 🗣 Commented on [#20](https://github.com/WarenGonzaga/shortcodes-wp/issues/20) in [WarenGonzaga/shortcodes-wp](https://github.com/WarenGonzaga/shortcodes-wp)
 <!--END_SECTION:activity-->
 
 </details>
