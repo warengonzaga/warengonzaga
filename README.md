@@ -69,11 +69,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/WarenGonzaga/shortcodes-wp/pull/16) in [WarenGonzaga/shortcodes-wp](https://github.com/WarenGonzaga/shortcodes-wp)
-2. ❗️ Closed issue [#3](https://github.com/WarenGonzaga/shortcodes-wp/issues/3) in [WarenGonzaga/shortcodes-wp](https://github.com/WarenGonzaga/shortcodes-wp)
-3. 🗣 Commented on [#3](https://github.com/WarenGonzaga/shortcodes-wp/issues/3) in [WarenGonzaga/shortcodes-wp](https://github.com/WarenGonzaga/shortcodes-wp)
-4. 🗣 Commented on [#13](https://github.com/WarenGonzaga/shortcodes-wp/issues/13) in [WarenGonzaga/shortcodes-wp](https://github.com/WarenGonzaga/shortcodes-wp)
-5. ❗️ Closed issue [#7](https://github.com/WarenGonzaga/shortcodes-wp/issues/7) in [WarenGonzaga/shortcodes-wp](https://github.com/WarenGonzaga/shortcodes-wp)
+1. ❗️ Opened issue [#6](https://github.com/WarenGonzaga/emily.css/issues/6) in [WarenGonzaga/emily.css](https://github.com/WarenGonzaga/emily.css)
+2. ❗️ Opened issue [#5](https://github.com/WarenGonzaga/emily.css/issues/5) in [WarenGonzaga/emily.css](https://github.com/WarenGonzaga/emily.css)
+3. 🎉 Merged PR [#16](https://github.com/WarenGonzaga/shortcodes-wp/pull/16) in [WarenGonzaga/shortcodes-wp](https://github.com/WarenGonzaga/shortcodes-wp)
+4. ❗️ Closed issue [#3](https://github.com/WarenGonzaga/shortcodes-wp/issues/3) in [WarenGonzaga/shortcodes-wp](https://github.com/WarenGonzaga/shortcodes-wp)
+5. 🗣 Commented on [#3](https://github.com/WarenGonzaga/shortcodes-wp/issues/3) in [WarenGonzaga/shortcodes-wp](https://github.com/WarenGonzaga/shortcodes-wp)
 <!--END_SECTION:activity-->
 
 </details>
