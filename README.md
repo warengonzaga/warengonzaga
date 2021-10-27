@@ -69,11 +69,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#50](https://github.com/WarenGonzaga/buymeacoffee.js/issues/50) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
-2. 🗣 Commented on [#21](https://github.com/algofilipino/website/issues/21) in [algofilipino/website](https://github.com/algofilipino/website)
-3. ❌ Closed PR [#21](https://github.com/algofilipino/website/pull/21) in [algofilipino/website](https://github.com/algofilipino/website)
-4. 🗣 Commented on [#20](https://github.com/algofilipino/website/issues/20) in [algofilipino/website](https://github.com/algofilipino/website)
-5. 🗣 Commented on [#18](https://github.com/algofilipino/website/issues/18) in [algofilipino/website](https://github.com/algofilipino/website)
+1. 🎉 Merged PR [#51](https://github.com/WarenGonzaga/buymeacoffee.js/pull/51) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
+2. 🗣 Commented on [#50](https://github.com/WarenGonzaga/buymeacoffee.js/issues/50) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
+3. 🗣 Commented on [#21](https://github.com/algofilipino/website/issues/21) in [algofilipino/website](https://github.com/algofilipino/website)
+4. ❌ Closed PR [#21](https://github.com/algofilipino/website/pull/21) in [algofilipino/website](https://github.com/algofilipino/website)
+5. 🗣 Commented on [#20](https://github.com/algofilipino/website/issues/20) in [algofilipino/website](https://github.com/algofilipino/website)
 <!--END_SECTION:activity-->
 
 </details>
