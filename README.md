@@ -69,11 +69,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14](https://github.com/algofilipino/website/issues/14) in [algofilipino/website](https://github.com/algofilipino/website)
-2. 🗣 Commented on [#8](https://github.com/algofilipino/website/issues/8) in [algofilipino/website](https://github.com/algofilipino/website)
-3. 🗣 Commented on [#13](https://github.com/algofilipino/website/issues/13) in [algofilipino/website](https://github.com/algofilipino/website)
-4. ❗️ Closed issue [#34](https://github.com/WarenGonzaga/buymeacoffee.js/issues/34) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
-5. 🗣 Commented on [#34](https://github.com/WarenGonzaga/buymeacoffee.js/issues/34) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
+1. 💪 Opened PR [#17](https://github.com/algofilipino/website/pull/17) in [algofilipino/website](https://github.com/algofilipino/website)
+2. 🗣 Commented on [#14](https://github.com/algofilipino/website/issues/14) in [algofilipino/website](https://github.com/algofilipino/website)
+3. 🗣 Commented on [#8](https://github.com/algofilipino/website/issues/8) in [algofilipino/website](https://github.com/algofilipino/website)
+4. 🗣 Commented on [#13](https://github.com/algofilipino/website/issues/13) in [algofilipino/website](https://github.com/algofilipino/website)
+5. ❗️ Closed issue [#34](https://github.com/WarenGonzaga/buymeacoffee.js/issues/34) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
 <!--END_SECTION:activity-->
 
 </details>
