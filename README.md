@@ -69,11 +69,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19](https://github.com/algofilipino/website/issues/19) in [algofilipino/website](https://github.com/algofilipino/website)
-2. ❗️ Closed issue [#10](https://github.com/algofilipino/website/issues/10) in [algofilipino/website](https://github.com/algofilipino/website)
-3. 🗣 Commented on [#10](https://github.com/algofilipino/website/issues/10) in [algofilipino/website](https://github.com/algofilipino/website)
-4. ❗️ Opened issue [#19](https://github.com/algofilipino/website/issues/19) in [algofilipino/website](https://github.com/algofilipino/website)
-5. ❗️ Opened issue [#18](https://github.com/algofilipino/website/issues/18) in [algofilipino/website](https://github.com/algofilipino/website)
+1. 🎉 Merged PR [#1](https://github.com/plaguesec/website/pull/1) in [plaguesec/website](https://github.com/plaguesec/website)
+2. 🗣 Commented on [#19](https://github.com/algofilipino/website/issues/19) in [algofilipino/website](https://github.com/algofilipino/website)
+3. ❗️ Closed issue [#10](https://github.com/algofilipino/website/issues/10) in [algofilipino/website](https://github.com/algofilipino/website)
+4. 🗣 Commented on [#10](https://github.com/algofilipino/website/issues/10) in [algofilipino/website](https://github.com/algofilipino/website)
+5. ❗️ Opened issue [#19](https://github.com/algofilipino/website/issues/19) in [algofilipino/website](https://github.com/algofilipino/website)
 <!--END_SECTION:activity-->
 
 </details>
