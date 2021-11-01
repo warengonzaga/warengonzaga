@@ -69,11 +69,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/WarenGonzaga/gather.js/issues/2) in [WarenGonzaga/gather.js](https://github.com/WarenGonzaga/gather.js)
-2. 🗣 Commented on [#2](https://github.com/WarenGonzaga/gather.js/issues/2) in [WarenGonzaga/gather.js](https://github.com/WarenGonzaga/gather.js)
-3. ❗️ Opened issue [#7](https://github.com/WarenGonzaga/gather.js/issues/7) in [WarenGonzaga/gather.js](https://github.com/WarenGonzaga/gather.js)
-4. ❗️ Opened issue [#6](https://github.com/WarenGonzaga/gather.js/issues/6) in [WarenGonzaga/gather.js](https://github.com/WarenGonzaga/gather.js)
-5. ❗️ Opened issue [#5](https://github.com/WarenGonzaga/gather.js/issues/5) in [WarenGonzaga/gather.js](https://github.com/WarenGonzaga/gather.js)
+1. 🗣 Commented on [#3](https://github.com/WarenGonzaga/gather.js/issues/3) in [WarenGonzaga/gather.js](https://github.com/WarenGonzaga/gather.js)
+2. ❗️ Opened issue [#11](https://github.com/WarenGonzaga/gather.js/issues/11) in [WarenGonzaga/gather.js](https://github.com/WarenGonzaga/gather.js)
+3. ❗️ Opened issue [#10](https://github.com/WarenGonzaga/gather.js/issues/10) in [WarenGonzaga/gather.js](https://github.com/WarenGonzaga/gather.js)
+4. 🗣 Commented on [#2](https://github.com/WarenGonzaga/gather.js/issues/2) in [WarenGonzaga/gather.js](https://github.com/WarenGonzaga/gather.js)
+5. 🗣 Commented on [#2](https://github.com/WarenGonzaga/gather.js/issues/2) in [WarenGonzaga/gather.js](https://github.com/WarenGonzaga/gather.js)
 <!--END_SECTION:activity-->
 
 </details>
