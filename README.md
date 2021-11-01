@@ -69,11 +69,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2](https://github.com/WarenGonzaga/gather.js/issues/2) in [WarenGonzaga/gather.js](https://github.com/WarenGonzaga/gather.js)
-2. 🗣 Commented on [#2](https://github.com/WarenGonzaga/gather.js/issues/2) in [WarenGonzaga/gather.js](https://github.com/WarenGonzaga/gather.js)
-3. ❗️ Opened issue [#52](https://github.com/WarenGonzaga/buymeacoffee.js/issues/52) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
-4. ❗️ Closed issue [#21](https://github.com/WarenGonzaga/buymeacoffee.js/issues/21) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
-5. ❌ Closed PR [#50](https://github.com/WarenGonzaga/buymeacoffee.js/pull/50) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
+1. 🎉 Merged PR [#1](https://github.com/WarenGonzaga/gather.js/pull/1) in [WarenGonzaga/gather.js](https://github.com/WarenGonzaga/gather.js)
+2. ❗️ Closed issue [#2](https://github.com/WarenGonzaga/gather.js/issues/2) in [WarenGonzaga/gather.js](https://github.com/WarenGonzaga/gather.js)
+3. 🗣 Commented on [#2](https://github.com/WarenGonzaga/gather.js/issues/2) in [WarenGonzaga/gather.js](https://github.com/WarenGonzaga/gather.js)
+4. ❗️ Opened issue [#52](https://github.com/WarenGonzaga/buymeacoffee.js/issues/52) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
+5. ❗️ Closed issue [#21](https://github.com/WarenGonzaga/buymeacoffee.js/issues/21) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
 <!--END_SECTION:activity-->
 
 </details>
