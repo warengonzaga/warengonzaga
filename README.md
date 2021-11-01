@@ -69,11 +69,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#22](https://github.com/WarenGonzaga/shortcodes-wp/pull/22) in [WarenGonzaga/shortcodes-wp](https://github.com/WarenGonzaga/shortcodes-wp)
-2. 🗣 Commented on [#22](https://github.com/WarenGonzaga/shortcodes-wp/issues/22) in [WarenGonzaga/shortcodes-wp](https://github.com/WarenGonzaga/shortcodes-wp)
-3. 🗣 Commented on [#16](https://github.com/WarenGonzaga/wifi-passview/issues/16) in [WarenGonzaga/wifi-passview](https://github.com/WarenGonzaga/wifi-passview)
-4. ❗️ Opened issue [#37](https://github.com/jofftiquez/paymongo/issues/37) in [jofftiquez/paymongo](https://github.com/jofftiquez/paymongo)
-5. ❗️ Opened issue [#36](https://github.com/jofftiquez/paymongo/issues/36) in [jofftiquez/paymongo](https://github.com/jofftiquez/paymongo)
+1. 🗣 Commented on [#23](https://github.com/algofilipino/website/issues/23) in [algofilipino/website](https://github.com/algofilipino/website)
+2. ❌ Closed PR [#22](https://github.com/WarenGonzaga/shortcodes-wp/pull/22) in [WarenGonzaga/shortcodes-wp](https://github.com/WarenGonzaga/shortcodes-wp)
+3. 🗣 Commented on [#22](https://github.com/WarenGonzaga/shortcodes-wp/issues/22) in [WarenGonzaga/shortcodes-wp](https://github.com/WarenGonzaga/shortcodes-wp)
+4. 🗣 Commented on [#16](https://github.com/WarenGonzaga/wifi-passview/issues/16) in [WarenGonzaga/wifi-passview](https://github.com/WarenGonzaga/wifi-passview)
+5. ❗️ Opened issue [#37](https://github.com/jofftiquez/paymongo/issues/37) in [jofftiquez/paymongo](https://github.com/jofftiquez/paymongo)
 <!--END_SECTION:activity-->
 
 </details>
