@@ -69,11 +69,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#256](https://github.com/docker/docker-install/issues/256) in [docker/docker-install](https://github.com/docker/docker-install)
-2. 🎉 Merged PR [#1](https://github.com/WarenGonzaga/gather.js/pull/1) in [WarenGonzaga/gather.js](https://github.com/WarenGonzaga/gather.js)
-3. ❗️ Closed issue [#2](https://github.com/WarenGonzaga/gather.js/issues/2) in [WarenGonzaga/gather.js](https://github.com/WarenGonzaga/gather.js)
-4. 🗣 Commented on [#2](https://github.com/WarenGonzaga/gather.js/issues/2) in [WarenGonzaga/gather.js](https://github.com/WarenGonzaga/gather.js)
-5. ❗️ Opened issue [#52](https://github.com/WarenGonzaga/buymeacoffee.js/issues/52) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
+1. ❗️ Closed issue [#4](https://github.com/WarenGonzaga/gathertown.js/issues/4) in [WarenGonzaga/gathertown.js](https://github.com/WarenGonzaga/gathertown.js)
+2. 🗣 Commented on [#4](https://github.com/WarenGonzaga/gathertown.js/issues/4) in [WarenGonzaga/gathertown.js](https://github.com/WarenGonzaga/gathertown.js)
+3. 🗣 Commented on [#256](https://github.com/docker/docker-install/issues/256) in [docker/docker-install](https://github.com/docker/docker-install)
+4. 🎉 Merged PR [#1](https://github.com/WarenGonzaga/gather.js/pull/1) in [WarenGonzaga/gather.js](https://github.com/WarenGonzaga/gather.js)
+5. ❗️ Closed issue [#2](https://github.com/WarenGonzaga/gather.js/issues/2) in [WarenGonzaga/gather.js](https://github.com/WarenGonzaga/gather.js)
 <!--END_SECTION:activity-->
 
 </details>
