@@ -69,11 +69,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#20](https://github.com/WarenGonzaga/gathertown.js/issues/20) in [WarenGonzaga/gathertown.js](https://github.com/WarenGonzaga/gathertown.js)
-2. ❗️ Opened issue [#81](https://github.com/glowlogix/wp-frontend-profile/issues/81) in [glowlogix/wp-frontend-profile](https://github.com/glowlogix/wp-frontend-profile)
-3. 🎉 Merged PR [#17](https://github.com/WarenGonzaga/gathertown.js/pull/17) in [WarenGonzaga/gathertown.js](https://github.com/WarenGonzaga/gathertown.js)
-4. 🗣 Commented on [#17](https://github.com/WarenGonzaga/gathertown.js/issues/17) in [WarenGonzaga/gathertown.js](https://github.com/WarenGonzaga/gathertown.js)
-5. 🗣 Commented on [#20](https://github.com/WarenGonzaga/gathertown.js/issues/20) in [WarenGonzaga/gathertown.js](https://github.com/WarenGonzaga/gathertown.js)
+1. 🗣 Commented on [#22](https://github.com/WarenGonzaga/gathertown.js/issues/22) in [WarenGonzaga/gathertown.js](https://github.com/WarenGonzaga/gathertown.js)
+2. 🗣 Commented on [#22](https://github.com/WarenGonzaga/gathertown.js/issues/22) in [WarenGonzaga/gathertown.js](https://github.com/WarenGonzaga/gathertown.js)
+3. 🗣 Commented on [#20](https://github.com/WarenGonzaga/gathertown.js/issues/20) in [WarenGonzaga/gathertown.js](https://github.com/WarenGonzaga/gathertown.js)
+4. ❗️ Opened issue [#81](https://github.com/glowlogix/wp-frontend-profile/issues/81) in [glowlogix/wp-frontend-profile](https://github.com/glowlogix/wp-frontend-profile)
+5. 🎉 Merged PR [#17](https://github.com/WarenGonzaga/gathertown.js/pull/17) in [WarenGonzaga/gathertown.js](https://github.com/WarenGonzaga/gathertown.js)
 <!--END_SECTION:activity-->
 
 </details>
