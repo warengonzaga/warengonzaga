@@ -71,9 +71,9 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#6558](https://github.com/js-org/js.org/issues/6558) in [js-org/js.org](https://github.com/js-org/js.org)
 2. 🗣 Commented on [#6558](https://github.com/js-org/js.org/issues/6558) in [js-org/js.org](https://github.com/js-org/js.org)
-3. 💪 Opened PR [#6558](https://github.com/js-org/js.org/pull/6558) in [js-org/js.org](https://github.com/js-org/js.org)
-4. ❗️ Closed issue [#6](https://github.com/WarenGonzaga/gathertown.js/issues/6) in [WarenGonzaga/gathertown.js](https://github.com/WarenGonzaga/gathertown.js)
-5. 🗣 Commented on [#6](https://github.com/WarenGonzaga/gathertown.js/issues/6) in [WarenGonzaga/gathertown.js](https://github.com/WarenGonzaga/gathertown.js)
+3. 🗣 Commented on [#6558](https://github.com/js-org/js.org/issues/6558) in [js-org/js.org](https://github.com/js-org/js.org)
+4. 💪 Opened PR [#6558](https://github.com/js-org/js.org/pull/6558) in [js-org/js.org](https://github.com/js-org/js.org)
+5. ❗️ Closed issue [#6](https://github.com/WarenGonzaga/gathertown.js/issues/6) in [WarenGonzaga/gathertown.js](https://github.com/WarenGonzaga/gathertown.js)
 <!--END_SECTION:activity-->
 
 </details>
