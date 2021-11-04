@@ -73,7 +73,7 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
 2. 🗣 Commented on [#24](https://github.com/WarenGonzaga/gathertown.js/issues/24) in [WarenGonzaga/gathertown.js](https://github.com/WarenGonzaga/gathertown.js)
 3. 🗣 Commented on [#24](https://github.com/WarenGonzaga/gathertown.js/issues/24) in [WarenGonzaga/gathertown.js](https://github.com/WarenGonzaga/gathertown.js)
 4. 🗣 Commented on [#24](https://github.com/WarenGonzaga/gathertown.js/issues/24) in [WarenGonzaga/gathertown.js](https://github.com/WarenGonzaga/gathertown.js)
-5. 🗣 Commented on [#22](https://github.com/WarenGonzaga/gathertown.js/issues/22) in [WarenGonzaga/gathertown.js](https://github.com/WarenGonzaga/gathertown.js)
+5. 🗣 Commented on [#24](https://github.com/WarenGonzaga/gathertown.js/issues/24) in [WarenGonzaga/gathertown.js](https://github.com/WarenGonzaga/gathertown.js)
 <!--END_SECTION:activity-->
 
 </details>
