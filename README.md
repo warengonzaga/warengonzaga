@@ -69,11 +69,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1400](https://github.com/animate-css/animate.css/issues/1400) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
-2. 🗣 Commented on [#3](https://github.com/WarenGonzaga/gathertown.js/issues/3) in [WarenGonzaga/gathertown.js](https://github.com/WarenGonzaga/gathertown.js)
-3. ❌ Closed PR [#25](https://github.com/algofilipino/website/pull/25) in [algofilipino/website](https://github.com/algofilipino/website)
-4. 🗣 Commented on [#25](https://github.com/algofilipino/website/issues/25) in [algofilipino/website](https://github.com/algofilipino/website)
-5. 🎉 Merged PR [#23](https://github.com/algofilipino/website/pull/23) in [algofilipino/website](https://github.com/algofilipino/website)
+1. 🗣 Commented on [#1398](https://github.com/animate-css/animate.css/issues/1398) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+2. 🗣 Commented on [#1398](https://github.com/animate-css/animate.css/issues/1398) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+3. 🗣 Commented on [#1400](https://github.com/animate-css/animate.css/issues/1400) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+4. 🗣 Commented on [#3](https://github.com/WarenGonzaga/gathertown.js/issues/3) in [WarenGonzaga/gathertown.js](https://github.com/WarenGonzaga/gathertown.js)
+5. ❌ Closed PR [#25](https://github.com/algofilipino/website/pull/25) in [algofilipino/website](https://github.com/algofilipino/website)
 <!--END_SECTION:activity-->
 
 </details>
