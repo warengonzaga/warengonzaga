@@ -69,11 +69,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#23](https://github.com/WarenGonzaga/gathertown.js/issues/23) in [WarenGonzaga/gathertown.js](https://github.com/WarenGonzaga/gathertown.js)
-2. 🗣 Commented on [#23](https://github.com/WarenGonzaga/gathertown.js/issues/23) in [WarenGonzaga/gathertown.js](https://github.com/WarenGonzaga/gathertown.js)
-3. ❗️ Opened issue [#34](https://github.com/WarenGonzaga/gathertown.js/issues/34) in [WarenGonzaga/gathertown.js](https://github.com/WarenGonzaga/gathertown.js)
-4. 🗣 Commented on [#32](https://github.com/WarenGonzaga/gathertown.js/issues/32) in [WarenGonzaga/gathertown.js](https://github.com/WarenGonzaga/gathertown.js)
-5. 🗣 Commented on [#32](https://github.com/WarenGonzaga/gathertown.js/issues/32) in [WarenGonzaga/gathertown.js](https://github.com/WarenGonzaga/gathertown.js)
+1. ❗️ Opened issue [#35](https://github.com/WarenGonzaga/gathertown.js/issues/35) in [WarenGonzaga/gathertown.js](https://github.com/WarenGonzaga/gathertown.js)
+2. 🗣 Commented on [#32](https://github.com/WarenGonzaga/gathertown.js/issues/32) in [WarenGonzaga/gathertown.js](https://github.com/WarenGonzaga/gathertown.js)
+3. 🗣 Commented on [#32](https://github.com/WarenGonzaga/gathertown.js/issues/32) in [WarenGonzaga/gathertown.js](https://github.com/WarenGonzaga/gathertown.js)
+4. ❗️ Closed issue [#23](https://github.com/WarenGonzaga/gathertown.js/issues/23) in [WarenGonzaga/gathertown.js](https://github.com/WarenGonzaga/gathertown.js)
+5. 🗣 Commented on [#23](https://github.com/WarenGonzaga/gathertown.js/issues/23) in [WarenGonzaga/gathertown.js](https://github.com/WarenGonzaga/gathertown.js)
 <!--END_SECTION:activity-->
 
 </details>
