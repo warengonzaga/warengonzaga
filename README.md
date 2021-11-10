@@ -69,11 +69,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#23](https://github.com/WarenGonzaga/shortcodes-wp/issues/23) in [WarenGonzaga/shortcodes-wp](https://github.com/WarenGonzaga/shortcodes-wp)
-2. ❌ Closed PR [#17](https://github.com/WarenGonzaga/wrn-fix-it/pull/17) in [WarenGonzaga/wrn-fix-it](https://github.com/WarenGonzaga/wrn-fix-it)
-3. 🗣 Commented on [#17](https://github.com/WarenGonzaga/wrn-fix-it/issues/17) in [WarenGonzaga/wrn-fix-it](https://github.com/WarenGonzaga/wrn-fix-it)
-4. 🗣 Commented on [#34](https://github.com/WarenGonzaga/gathertown.js/issues/34) in [WarenGonzaga/gathertown.js](https://github.com/WarenGonzaga/gathertown.js)
-5. ❗️ Closed issue [#31](https://github.com/WarenGonzaga/gathertown.js/issues/31) in [WarenGonzaga/gathertown.js](https://github.com/WarenGonzaga/gathertown.js)
+1. 🗣 Commented on [#13](https://github.com/WarenGonzaga/shortcodes-wp/issues/13) in [WarenGonzaga/shortcodes-wp](https://github.com/WarenGonzaga/shortcodes-wp)
+2. ❗️ Opened issue [#2](https://github.com/WarenGonzaga/better-redirection-wp/issues/2) in [WarenGonzaga/better-redirection-wp](https://github.com/WarenGonzaga/better-redirection-wp)
+3. 🗣 Commented on [#13](https://github.com/WarenGonzaga/shortcodes-wp/issues/13) in [WarenGonzaga/shortcodes-wp](https://github.com/WarenGonzaga/shortcodes-wp)
+4. ❗️ Opened issue [#24](https://github.com/WarenGonzaga/shortcodes-wp/issues/24) in [WarenGonzaga/shortcodes-wp](https://github.com/WarenGonzaga/shortcodes-wp)
+5. ❗️ Opened issue [#23](https://github.com/WarenGonzaga/shortcodes-wp/issues/23) in [WarenGonzaga/shortcodes-wp](https://github.com/WarenGonzaga/shortcodes-wp)
 <!--END_SECTION:activity-->
 
 </details>
