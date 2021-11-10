@@ -69,11 +69,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#17](https://github.com/WarenGonzaga/wrn-fix-it/pull/17) in [WarenGonzaga/wrn-fix-it](https://github.com/WarenGonzaga/wrn-fix-it)
-2. 🗣 Commented on [#17](https://github.com/WarenGonzaga/wrn-fix-it/issues/17) in [WarenGonzaga/wrn-fix-it](https://github.com/WarenGonzaga/wrn-fix-it)
-3. 🗣 Commented on [#34](https://github.com/WarenGonzaga/gathertown.js/issues/34) in [WarenGonzaga/gathertown.js](https://github.com/WarenGonzaga/gathertown.js)
-4. ❗️ Closed issue [#31](https://github.com/WarenGonzaga/gathertown.js/issues/31) in [WarenGonzaga/gathertown.js](https://github.com/WarenGonzaga/gathertown.js)
-5. 🗣 Commented on [#31](https://github.com/WarenGonzaga/gathertown.js/issues/31) in [WarenGonzaga/gathertown.js](https://github.com/WarenGonzaga/gathertown.js)
+1. ❗️ Opened issue [#23](https://github.com/WarenGonzaga/shortcodes-wp/issues/23) in [WarenGonzaga/shortcodes-wp](https://github.com/WarenGonzaga/shortcodes-wp)
+2. ❌ Closed PR [#17](https://github.com/WarenGonzaga/wrn-fix-it/pull/17) in [WarenGonzaga/wrn-fix-it](https://github.com/WarenGonzaga/wrn-fix-it)
+3. 🗣 Commented on [#17](https://github.com/WarenGonzaga/wrn-fix-it/issues/17) in [WarenGonzaga/wrn-fix-it](https://github.com/WarenGonzaga/wrn-fix-it)
+4. 🗣 Commented on [#34](https://github.com/WarenGonzaga/gathertown.js/issues/34) in [WarenGonzaga/gathertown.js](https://github.com/WarenGonzaga/gathertown.js)
+5. ❗️ Closed issue [#31](https://github.com/WarenGonzaga/gathertown.js/issues/31) in [WarenGonzaga/gathertown.js](https://github.com/WarenGonzaga/gathertown.js)
 <!--END_SECTION:activity-->
 
 </details>
