@@ -69,11 +69,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1204](https://github.com/animate-css/animate.css/issues/1204) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
-2. 🗣 Commented on [#13](https://github.com/WarenGonzaga/shortcodes-wp/issues/13) in [WarenGonzaga/shortcodes-wp](https://github.com/WarenGonzaga/shortcodes-wp)
-3. ❗️ Opened issue [#2](https://github.com/WarenGonzaga/better-redirection-wp/issues/2) in [WarenGonzaga/better-redirection-wp](https://github.com/WarenGonzaga/better-redirection-wp)
-4. 🗣 Commented on [#13](https://github.com/WarenGonzaga/shortcodes-wp/issues/13) in [WarenGonzaga/shortcodes-wp](https://github.com/WarenGonzaga/shortcodes-wp)
-5. ❗️ Opened issue [#24](https://github.com/WarenGonzaga/shortcodes-wp/issues/24) in [WarenGonzaga/shortcodes-wp](https://github.com/WarenGonzaga/shortcodes-wp)
+1. 💪 Opened PR [#7](https://github.com/WarenGonzaga/suspend-wp/pull/7) in [WarenGonzaga/suspend-wp](https://github.com/WarenGonzaga/suspend-wp)
+2. 🗣 Commented on [#5](https://github.com/WarenGonzaga/suspend-wp/issues/5) in [WarenGonzaga/suspend-wp](https://github.com/WarenGonzaga/suspend-wp)
+3. ❗️ Closed issue [#5](https://github.com/WarenGonzaga/suspend-wp/issues/5) in [WarenGonzaga/suspend-wp](https://github.com/WarenGonzaga/suspend-wp)
+4. 🗣 Commented on [#1204](https://github.com/animate-css/animate.css/issues/1204) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+5. 🗣 Commented on [#13](https://github.com/WarenGonzaga/shortcodes-wp/issues/13) in [WarenGonzaga/shortcodes-wp](https://github.com/WarenGonzaga/shortcodes-wp)
 <!--END_SECTION:activity-->
 
 </details>
