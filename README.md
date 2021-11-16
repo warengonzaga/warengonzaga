@@ -69,11 +69,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/WarenGonzaga/waren-discord-bot/issues/2) in [WarenGonzaga/waren-discord-bot](https://github.com/WarenGonzaga/waren-discord-bot)
-2. ❗️ Opened issue [#1](https://github.com/WarenGonzaga/waren-discord-bot/issues/1) in [WarenGonzaga/waren-discord-bot](https://github.com/WarenGonzaga/waren-discord-bot)
-3. ❗️ Opened issue [#9](https://github.com/WarenGonzaga/suspend-wp/issues/9) in [WarenGonzaga/suspend-wp](https://github.com/WarenGonzaga/suspend-wp)
-4. ❗️ Closed issue [#23](https://github.com/WarenGonzaga/buymeacoffee.js/issues/23) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
-5. 🗣 Commented on [#23](https://github.com/WarenGonzaga/buymeacoffee.js/issues/23) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
+1. 🗣 Commented on [#34](https://github.com/WarenGonzaga/gathertown.js/issues/34) in [WarenGonzaga/gathertown.js](https://github.com/WarenGonzaga/gathertown.js)
+2. ❗️ Opened issue [#2](https://github.com/WarenGonzaga/waren-discord-bot/issues/2) in [WarenGonzaga/waren-discord-bot](https://github.com/WarenGonzaga/waren-discord-bot)
+3. ❗️ Opened issue [#1](https://github.com/WarenGonzaga/waren-discord-bot/issues/1) in [WarenGonzaga/waren-discord-bot](https://github.com/WarenGonzaga/waren-discord-bot)
+4. ❗️ Opened issue [#9](https://github.com/WarenGonzaga/suspend-wp/issues/9) in [WarenGonzaga/suspend-wp](https://github.com/WarenGonzaga/suspend-wp)
+5. ❗️ Closed issue [#23](https://github.com/WarenGonzaga/buymeacoffee.js/issues/23) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
 <!--END_SECTION:activity-->
 
 </details>
