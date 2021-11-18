@@ -69,11 +69,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/WarenGonzaga/gathertown.js/pull/16) in [WarenGonzaga/gathertown.js](https://github.com/WarenGonzaga/gathertown.js)
-2. 🗣 Commented on [#35](https://github.com/WarenGonzaga/gathertown.js/issues/35) in [WarenGonzaga/gathertown.js](https://github.com/WarenGonzaga/gathertown.js)
-3. 🗣 Commented on [#7](https://github.com/WarenGonzaga/gathertown.js/issues/7) in [WarenGonzaga/gathertown.js](https://github.com/WarenGonzaga/gathertown.js)
-4. ❗️ Closed issue [#7](https://github.com/WarenGonzaga/gathertown.js/issues/7) in [WarenGonzaga/gathertown.js](https://github.com/WarenGonzaga/gathertown.js)
-5. 🗣 Commented on [#1322](https://github.com/animate-css/animate.css/issues/1322) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+1. ❗️ Opened issue [#7](https://github.com/WarenGonzaga/waren-discord-bot/issues/7) in [WarenGonzaga/waren-discord-bot](https://github.com/WarenGonzaga/waren-discord-bot)
+2. ❗️ Opened issue [#6](https://github.com/WarenGonzaga/waren-discord-bot/issues/6) in [WarenGonzaga/waren-discord-bot](https://github.com/WarenGonzaga/waren-discord-bot)
+3. ❗️ Opened issue [#5](https://github.com/WarenGonzaga/waren-discord-bot/issues/5) in [WarenGonzaga/waren-discord-bot](https://github.com/WarenGonzaga/waren-discord-bot)
+4. 🎉 Merged PR [#16](https://github.com/WarenGonzaga/gathertown.js/pull/16) in [WarenGonzaga/gathertown.js](https://github.com/WarenGonzaga/gathertown.js)
+5. 🗣 Commented on [#35](https://github.com/WarenGonzaga/gathertown.js/issues/35) in [WarenGonzaga/gathertown.js](https://github.com/WarenGonzaga/gathertown.js)
 <!--END_SECTION:activity-->
 
 </details>
