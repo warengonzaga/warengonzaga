@@ -69,11 +69,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#7](https://github.com/WarenGonzaga/waren-discord-bot/issues/7) in [WarenGonzaga/waren-discord-bot](https://github.com/WarenGonzaga/waren-discord-bot)
-2. ❗️ Opened issue [#6](https://github.com/WarenGonzaga/waren-discord-bot/issues/6) in [WarenGonzaga/waren-discord-bot](https://github.com/WarenGonzaga/waren-discord-bot)
-3. ❗️ Opened issue [#5](https://github.com/WarenGonzaga/waren-discord-bot/issues/5) in [WarenGonzaga/waren-discord-bot](https://github.com/WarenGonzaga/waren-discord-bot)
-4. 🎉 Merged PR [#16](https://github.com/WarenGonzaga/gathertown.js/pull/16) in [WarenGonzaga/gathertown.js](https://github.com/WarenGonzaga/gathertown.js)
-5. 🗣 Commented on [#35](https://github.com/WarenGonzaga/gathertown.js/issues/35) in [WarenGonzaga/gathertown.js](https://github.com/WarenGonzaga/gathertown.js)
+1. ❗️ Closed issue [#3](https://github.com/WarenGonzaga/css-text-portrait-builder/issues/3) in [WarenGonzaga/css-text-portrait-builder](https://github.com/WarenGonzaga/css-text-portrait-builder)
+2. 🗣 Commented on [#3](https://github.com/WarenGonzaga/css-text-portrait-builder/issues/3) in [WarenGonzaga/css-text-portrait-builder](https://github.com/WarenGonzaga/css-text-portrait-builder)
+3. ❗️ Opened issue [#2](https://github.com/WarenGonzaga/css-text-portrait-builder/issues/2) in [WarenGonzaga/css-text-portrait-builder](https://github.com/WarenGonzaga/css-text-portrait-builder)
+4. ❗️ Opened issue [#1](https://github.com/WarenGonzaga/css-text-portrait-builder/issues/1) in [WarenGonzaga/css-text-portrait-builder](https://github.com/WarenGonzaga/css-text-portrait-builder)
+5. ❗️ Opened issue [#7](https://github.com/WarenGonzaga/waren-discord-bot/issues/7) in [WarenGonzaga/waren-discord-bot](https://github.com/WarenGonzaga/waren-discord-bot)
 <!--END_SECTION:activity-->
 
 </details>
