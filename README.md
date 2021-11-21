@@ -69,11 +69,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#25](https://github.com/WarenGonzaga/css-text-portrait-builder/issues/25) in [WarenGonzaga/css-text-portrait-builder](https://github.com/WarenGonzaga/css-text-portrait-builder)
-2. 🗣 Commented on [#25](https://github.com/WarenGonzaga/css-text-portrait-builder/issues/25) in [WarenGonzaga/css-text-portrait-builder](https://github.com/WarenGonzaga/css-text-portrait-builder)
-3. 🗣 Commented on [#1410](https://github.com/animate-css/animate.css/issues/1410) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
-4. ❗️ Closed issue [#23](https://github.com/WarenGonzaga/css-text-portrait-builder/issues/23) in [WarenGonzaga/css-text-portrait-builder](https://github.com/WarenGonzaga/css-text-portrait-builder)
-5. 🗣 Commented on [#2](https://github.com/WarenGonzaga/css-text-portrait-builder/issues/2) in [WarenGonzaga/css-text-portrait-builder](https://github.com/WarenGonzaga/css-text-portrait-builder)
+1. 💪 Opened PR [#27](https://github.com/WarenGonzaga/css-text-portrait-builder/pull/27) in [WarenGonzaga/css-text-portrait-builder](https://github.com/WarenGonzaga/css-text-portrait-builder)
+2. ❗️ Closed issue [#25](https://github.com/WarenGonzaga/css-text-portrait-builder/issues/25) in [WarenGonzaga/css-text-portrait-builder](https://github.com/WarenGonzaga/css-text-portrait-builder)
+3. 🗣 Commented on [#25](https://github.com/WarenGonzaga/css-text-portrait-builder/issues/25) in [WarenGonzaga/css-text-portrait-builder](https://github.com/WarenGonzaga/css-text-portrait-builder)
+4. 🗣 Commented on [#1410](https://github.com/animate-css/animate.css/issues/1410) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+5. ❗️ Closed issue [#23](https://github.com/WarenGonzaga/css-text-portrait-builder/issues/23) in [WarenGonzaga/css-text-portrait-builder](https://github.com/WarenGonzaga/css-text-portrait-builder)
 <!--END_SECTION:activity-->
 
 </details>
