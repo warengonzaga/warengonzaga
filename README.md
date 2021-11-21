@@ -69,11 +69,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/WarenGonzaga/css-text-portrait-builder/issues/2) in [WarenGonzaga/css-text-portrait-builder](https://github.com/WarenGonzaga/css-text-portrait-builder)
-2. ❗️ Opened issue [#22](https://github.com/WarenGonzaga/css-text-portrait-builder/issues/22) in [WarenGonzaga/css-text-portrait-builder](https://github.com/WarenGonzaga/css-text-portrait-builder)
-3. 🗣 Commented on [#10](https://github.com/WarenGonzaga/css-text-portrait-builder/issues/10) in [WarenGonzaga/css-text-portrait-builder](https://github.com/WarenGonzaga/css-text-portrait-builder)
-4. ❗️ Opened issue [#19](https://github.com/WarenGonzaga/css-text-portrait-builder/issues/19) in [WarenGonzaga/css-text-portrait-builder](https://github.com/WarenGonzaga/css-text-portrait-builder)
-5. ❗️ Closed issue [#16](https://github.com/WarenGonzaga/css-text-portrait-builder/issues/16) in [WarenGonzaga/css-text-portrait-builder](https://github.com/WarenGonzaga/css-text-portrait-builder)
+1. ❗️ Closed issue [#23](https://github.com/WarenGonzaga/css-text-portrait-builder/issues/23) in [WarenGonzaga/css-text-portrait-builder](https://github.com/WarenGonzaga/css-text-portrait-builder)
+2. 🗣 Commented on [#2](https://github.com/WarenGonzaga/css-text-portrait-builder/issues/2) in [WarenGonzaga/css-text-portrait-builder](https://github.com/WarenGonzaga/css-text-portrait-builder)
+3. ❗️ Opened issue [#22](https://github.com/WarenGonzaga/css-text-portrait-builder/issues/22) in [WarenGonzaga/css-text-portrait-builder](https://github.com/WarenGonzaga/css-text-portrait-builder)
+4. 🗣 Commented on [#10](https://github.com/WarenGonzaga/css-text-portrait-builder/issues/10) in [WarenGonzaga/css-text-portrait-builder](https://github.com/WarenGonzaga/css-text-portrait-builder)
+5. ❗️ Opened issue [#19](https://github.com/WarenGonzaga/css-text-portrait-builder/issues/19) in [WarenGonzaga/css-text-portrait-builder](https://github.com/WarenGonzaga/css-text-portrait-builder)
 <!--END_SECTION:activity-->
 
 </details>
