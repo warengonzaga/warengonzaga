@@ -69,11 +69,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/WarenGonzaga/awesome-css-text-portrait/issues/1) in [WarenGonzaga/awesome-css-text-portrait](https://github.com/WarenGonzaga/awesome-css-text-portrait)
-2. 🗣 Commented on [#1410](https://github.com/animate-css/animate.css/issues/1410) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
-3. 🗣 Commented on [#2693](https://github.com/xtermjs/xterm.js/issues/2693) in [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js)
-4. 💪 Opened PR [#27](https://github.com/WarenGonzaga/css-text-portrait-builder/pull/27) in [WarenGonzaga/css-text-portrait-builder](https://github.com/WarenGonzaga/css-text-portrait-builder)
-5. ❗️ Closed issue [#25](https://github.com/WarenGonzaga/css-text-portrait-builder/issues/25) in [WarenGonzaga/css-text-portrait-builder](https://github.com/WarenGonzaga/css-text-portrait-builder)
+1. 💪 Opened PR [#13](https://github.com/justinbalaguer/devsportfolio/pull/13) in [justinbalaguer/devsportfolio](https://github.com/justinbalaguer/devsportfolio)
+2. 💪 Opened PR [#12](https://github.com/justinbalaguer/devsportfolio/pull/12) in [justinbalaguer/devsportfolio](https://github.com/justinbalaguer/devsportfolio)
+3. 💪 Opened PR [#11](https://github.com/justinbalaguer/devsportfolio/pull/11) in [justinbalaguer/devsportfolio](https://github.com/justinbalaguer/devsportfolio)
+4. 🗣 Commented on [#1](https://github.com/WarenGonzaga/awesome-css-text-portrait/issues/1) in [WarenGonzaga/awesome-css-text-portrait](https://github.com/WarenGonzaga/awesome-css-text-portrait)
+5. 🗣 Commented on [#1410](https://github.com/animate-css/animate.css/issues/1410) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
 <!--END_SECTION:activity-->
 
 </details>
