@@ -69,11 +69,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/WarenGonzaga/css-text-portrait-builder/issues/1) in [WarenGonzaga/css-text-portrait-builder](https://github.com/WarenGonzaga/css-text-portrait-builder)
-2. 💪 Opened PR [#1](https://github.com/carlmagumpara/portrait-image-text/pull/1) in [carlmagumpara/portrait-image-text](https://github.com/carlmagumpara/portrait-image-text)
-3. 💪 Opened PR [#2](https://github.com/joshxfi/text-portrait-generator/pull/2) in [joshxfi/text-portrait-generator](https://github.com/joshxfi/text-portrait-generator)
-4. 💪 Opened PR [#1](https://github.com/joshxfi/text-portrait-generator/pull/1) in [joshxfi/text-portrait-generator](https://github.com/joshxfi/text-portrait-generator)
-5. 🗣 Commented on [#1](https://github.com/WarenGonzaga/awesome-css-text-portrait/issues/1) in [WarenGonzaga/awesome-css-text-portrait](https://github.com/WarenGonzaga/awesome-css-text-portrait)
+1. 🗣 Commented on [#32](https://github.com/WarenGonzaga/css-text-portrait-builder/issues/32) in [WarenGonzaga/css-text-portrait-builder](https://github.com/WarenGonzaga/css-text-portrait-builder)
+2. ❗️ Closed issue [#32](https://github.com/WarenGonzaga/css-text-portrait-builder/issues/32) in [WarenGonzaga/css-text-portrait-builder](https://github.com/WarenGonzaga/css-text-portrait-builder)
+3. 💪 Opened PR [#3779](https://github.com/yarnpkg/berry/pull/3779) in [yarnpkg/berry](https://github.com/yarnpkg/berry)
+4. 💪 Opened PR [#31](https://github.com/WarenGonzaga/css-text-portrait-builder/pull/31) in [WarenGonzaga/css-text-portrait-builder](https://github.com/WarenGonzaga/css-text-portrait-builder)
+5. ❗️ Closed issue [#1](https://github.com/WarenGonzaga/css-text-portrait-builder/issues/1) in [WarenGonzaga/css-text-portrait-builder](https://github.com/WarenGonzaga/css-text-portrait-builder)
 <!--END_SECTION:activity-->
 
 </details>
