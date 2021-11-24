@@ -70,10 +70,10 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#7](https://github.com/oss-ph/pinoy-made/issues/7) in [oss-ph/pinoy-made](https://github.com/oss-ph/pinoy-made)
-2. ❗️ Opened issue [#7](https://github.com/oss-ph/pinoy-made/issues/7) in [oss-ph/pinoy-made](https://github.com/oss-ph/pinoy-made)
-3. ❗️ Opened issue [#4](https://github.com/oss-ph/pinoy-made/issues/4) in [oss-ph/pinoy-made](https://github.com/oss-ph/pinoy-made)
-4. ❗️ Opened issue [#3](https://github.com/oss-ph/pinoy-made/issues/3) in [oss-ph/pinoy-made](https://github.com/oss-ph/pinoy-made)
-5. ❌ Closed PR [#3779](https://github.com/yarnpkg/berry/pull/3779) in [yarnpkg/berry](https://github.com/yarnpkg/berry)
+2. 💪 Opened PR [#10](https://github.com/oss-ph/pinoy-made/pull/10) in [oss-ph/pinoy-made](https://github.com/oss-ph/pinoy-made)
+3. 💪 Opened PR [#9](https://github.com/oss-ph/pinoy-made/pull/9) in [oss-ph/pinoy-made](https://github.com/oss-ph/pinoy-made)
+4. 🗣 Commented on [#7](https://github.com/oss-ph/pinoy-made/issues/7) in [oss-ph/pinoy-made](https://github.com/oss-ph/pinoy-made)
+5. ❗️ Opened issue [#7](https://github.com/oss-ph/pinoy-made/issues/7) in [oss-ph/pinoy-made](https://github.com/oss-ph/pinoy-made)
 <!--END_SECTION:activity-->
 
 </details>
