@@ -69,11 +69,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4](https://github.com/oss-ph/pinoy-made/issues/4) in [oss-ph/pinoy-made](https://github.com/oss-ph/pinoy-made)
-2. ❗️ Opened issue [#3](https://github.com/oss-ph/pinoy-made/issues/3) in [oss-ph/pinoy-made](https://github.com/oss-ph/pinoy-made)
-3. ❌ Closed PR [#3779](https://github.com/yarnpkg/berry/pull/3779) in [yarnpkg/berry](https://github.com/yarnpkg/berry)
-4. 🗣 Commented on [#3779](https://github.com/yarnpkg/berry/issues/3779) in [yarnpkg/berry](https://github.com/yarnpkg/berry)
-5. 🎉 Merged PR [#36](https://github.com/WarenGonzaga/css-text-portrait-builder/pull/36) in [WarenGonzaga/css-text-portrait-builder](https://github.com/WarenGonzaga/css-text-portrait-builder)
+1. 🗣 Commented on [#7](https://github.com/oss-ph/pinoy-made/issues/7) in [oss-ph/pinoy-made](https://github.com/oss-ph/pinoy-made)
+2. ❗️ Opened issue [#7](https://github.com/oss-ph/pinoy-made/issues/7) in [oss-ph/pinoy-made](https://github.com/oss-ph/pinoy-made)
+3. ❗️ Opened issue [#4](https://github.com/oss-ph/pinoy-made/issues/4) in [oss-ph/pinoy-made](https://github.com/oss-ph/pinoy-made)
+4. ❗️ Opened issue [#3](https://github.com/oss-ph/pinoy-made/issues/3) in [oss-ph/pinoy-made](https://github.com/oss-ph/pinoy-made)
+5. ❌ Closed PR [#3779](https://github.com/yarnpkg/berry/pull/3779) in [yarnpkg/berry](https://github.com/yarnpkg/berry)
 <!--END_SECTION:activity-->
 
 </details>
