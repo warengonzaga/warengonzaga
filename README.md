@@ -69,11 +69,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#92](https://github.com/wareneutron/covid19-tracker-cli/issues/92) in [wareneutron/covid19-tracker-cli](https://github.com/wareneutron/covid19-tracker-cli)
-2. ❗️ Opened issue [#90](https://github.com/wareneutron/covid19-tracker-cli/issues/90) in [wareneutron/covid19-tracker-cli](https://github.com/wareneutron/covid19-tracker-cli)
-3. ❗️ Opened issue [#9](https://github.com/WarenGonzaga/waren-discord-bot/issues/9) in [WarenGonzaga/waren-discord-bot](https://github.com/WarenGonzaga/waren-discord-bot)
-4. 🗣 Commented on [#7](https://github.com/oss-ph/pinoy-made/issues/7) in [oss-ph/pinoy-made](https://github.com/oss-ph/pinoy-made)
-5. 💪 Opened PR [#10](https://github.com/oss-ph/pinoy-made/pull/10) in [oss-ph/pinoy-made](https://github.com/oss-ph/pinoy-made)
+1. 💪 Opened PR [#93](https://github.com/wareneutron/covid19-tracker-cli/pull/93) in [wareneutron/covid19-tracker-cli](https://github.com/wareneutron/covid19-tracker-cli)
+2. 🗣 Commented on [#26](https://github.com/wareneutron/covid19-tracker-cli/issues/26) in [wareneutron/covid19-tracker-cli](https://github.com/wareneutron/covid19-tracker-cli)
+3. ❗️ Opened issue [#92](https://github.com/wareneutron/covid19-tracker-cli/issues/92) in [wareneutron/covid19-tracker-cli](https://github.com/wareneutron/covid19-tracker-cli)
+4. ❗️ Opened issue [#90](https://github.com/wareneutron/covid19-tracker-cli/issues/90) in [wareneutron/covid19-tracker-cli](https://github.com/wareneutron/covid19-tracker-cli)
+5. ❗️ Opened issue [#9](https://github.com/WarenGonzaga/waren-discord-bot/issues/9) in [WarenGonzaga/waren-discord-bot](https://github.com/WarenGonzaga/waren-discord-bot)
 <!--END_SECTION:activity-->
 
 </details>
