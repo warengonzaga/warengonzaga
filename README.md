@@ -69,11 +69,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/oss-ph/pinoy-made/issues/7) in [oss-ph/pinoy-made](https://github.com/oss-ph/pinoy-made)
-2. ❗️ Closed issue [#7](https://github.com/oss-ph/pinoy-made/issues/7) in [oss-ph/pinoy-made](https://github.com/oss-ph/pinoy-made)
-3. 🗣 Commented on [#7](https://github.com/WarenGonzaga/waren-discord-bot/issues/7) in [WarenGonzaga/waren-discord-bot](https://github.com/WarenGonzaga/waren-discord-bot)
-4. 🗣 Commented on [#5](https://github.com/WarenGonzaga/waren-discord-bot/issues/5) in [WarenGonzaga/waren-discord-bot](https://github.com/WarenGonzaga/waren-discord-bot)
-5. 🗣 Commented on [#1](https://github.com/WarenGonzaga/waren-discord-bot/issues/1) in [WarenGonzaga/waren-discord-bot](https://github.com/WarenGonzaga/waren-discord-bot)
+1. ❗️ Opened issue [#10](https://github.com/WarenGonzaga/waren-discord-bot/issues/10) in [WarenGonzaga/waren-discord-bot](https://github.com/WarenGonzaga/waren-discord-bot)
+2. 🗣 Commented on [#7](https://github.com/oss-ph/pinoy-made/issues/7) in [oss-ph/pinoy-made](https://github.com/oss-ph/pinoy-made)
+3. ❗️ Closed issue [#7](https://github.com/oss-ph/pinoy-made/issues/7) in [oss-ph/pinoy-made](https://github.com/oss-ph/pinoy-made)
+4. 🗣 Commented on [#7](https://github.com/WarenGonzaga/waren-discord-bot/issues/7) in [WarenGonzaga/waren-discord-bot](https://github.com/WarenGonzaga/waren-discord-bot)
+5. 🗣 Commented on [#5](https://github.com/WarenGonzaga/waren-discord-bot/issues/5) in [WarenGonzaga/waren-discord-bot](https://github.com/WarenGonzaga/waren-discord-bot)
 <!--END_SECTION:activity-->
 
 </details>
