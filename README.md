@@ -69,11 +69,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#8](https://github.com/algofilipino/homepage/issues/8) in [algofilipino/homepage](https://github.com/algofilipino/homepage)
-2. 🎉 Merged PR [#17](https://github.com/algofilipino/homepage/pull/17) in [algofilipino/homepage](https://github.com/algofilipino/homepage)
-3. ❗️ Closed issue [#14](https://github.com/algofilipino/homepage/issues/14) in [algofilipino/homepage](https://github.com/algofilipino/homepage)
-4. 🎉 Merged PR [#29](https://github.com/algofilipino/website/pull/29) in [algofilipino/website](https://github.com/algofilipino/website)
-5. ❗️ Opened issue [#42](https://github.com/WarenGonzaga/css-text-portrait-builder/issues/42) in [WarenGonzaga/css-text-portrait-builder](https://github.com/WarenGonzaga/css-text-portrait-builder)
+1. 🗣 Commented on [#20](https://github.com/algofilipino/homepage/issues/20) in [algofilipino/homepage](https://github.com/algofilipino/homepage)
+2. ❗️ Closed issue [#13](https://github.com/algofilipino/homepage/issues/13) in [algofilipino/homepage](https://github.com/algofilipino/homepage)
+3. 🗣 Commented on [#13](https://github.com/algofilipino/homepage/issues/13) in [algofilipino/homepage](https://github.com/algofilipino/homepage)
+4. 🗣 Commented on [#9](https://github.com/algofilipino/homepage/issues/9) in [algofilipino/homepage](https://github.com/algofilipino/homepage)
+5. ❗️ Closed issue [#26](https://github.com/algofilipino/homepage/issues/26) in [algofilipino/homepage](https://github.com/algofilipino/homepage)
 <!--END_SECTION:activity-->
 
 </details>
