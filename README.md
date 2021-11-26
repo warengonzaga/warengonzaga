@@ -69,11 +69,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#29](https://github.com/algofilipino/website/pull/29) in [algofilipino/website](https://github.com/algofilipino/website)
-2. ❗️ Opened issue [#42](https://github.com/WarenGonzaga/css-text-portrait-builder/issues/42) in [WarenGonzaga/css-text-portrait-builder](https://github.com/WarenGonzaga/css-text-portrait-builder)
-3. ❗️ Closed issue [#2](https://github.com/WarenGonzaga/elris-discord-bot/issues/2) in [WarenGonzaga/elris-discord-bot](https://github.com/WarenGonzaga/elris-discord-bot)
-4. 🗣 Commented on [#2](https://github.com/WarenGonzaga/elris-discord-bot/issues/2) in [WarenGonzaga/elris-discord-bot](https://github.com/WarenGonzaga/elris-discord-bot)
-5. ❗️ Opened issue [#13](https://github.com/WarenGonzaga/waren-discord-bot/issues/13) in [WarenGonzaga/waren-discord-bot](https://github.com/WarenGonzaga/waren-discord-bot)
+1. ❗️ Closed issue [#8](https://github.com/algofilipino/homepage/issues/8) in [algofilipino/homepage](https://github.com/algofilipino/homepage)
+2. 🎉 Merged PR [#17](https://github.com/algofilipino/homepage/pull/17) in [algofilipino/homepage](https://github.com/algofilipino/homepage)
+3. ❗️ Closed issue [#14](https://github.com/algofilipino/homepage/issues/14) in [algofilipino/homepage](https://github.com/algofilipino/homepage)
+4. 🎉 Merged PR [#29](https://github.com/algofilipino/website/pull/29) in [algofilipino/website](https://github.com/algofilipino/website)
+5. ❗️ Opened issue [#42](https://github.com/WarenGonzaga/css-text-portrait-builder/issues/42) in [WarenGonzaga/css-text-portrait-builder](https://github.com/WarenGonzaga/css-text-portrait-builder)
 <!--END_SECTION:activity-->
 
 </details>
