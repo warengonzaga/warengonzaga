@@ -69,11 +69,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/WarenGonzaga/awesome-css-text-portrait/issues/6) in [WarenGonzaga/awesome-css-text-portrait](https://github.com/WarenGonzaga/awesome-css-text-portrait)
-2. 🎉 Merged PR [#5](https://github.com/WarenGonzaga/awesome-css-text-portrait/pull/5) in [WarenGonzaga/awesome-css-text-portrait](https://github.com/WarenGonzaga/awesome-css-text-portrait)
-3. ❗️ Closed issue [#6](https://github.com/WarenGonzaga/awesome-css-text-portrait/issues/6) in [WarenGonzaga/awesome-css-text-portrait](https://github.com/WarenGonzaga/awesome-css-text-portrait)
-4. 🗣 Commented on [#6](https://github.com/WarenGonzaga/awesome-css-text-portrait/issues/6) in [WarenGonzaga/awesome-css-text-portrait](https://github.com/WarenGonzaga/awesome-css-text-portrait)
-5. 🗣 Commented on [#20](https://github.com/algofilipino/homepage/issues/20) in [algofilipino/homepage](https://github.com/algofilipino/homepage)
+1. ❗️ Opened issue [#14](https://github.com/WarenGonzaga/waren-discord-bot/issues/14) in [WarenGonzaga/waren-discord-bot](https://github.com/WarenGonzaga/waren-discord-bot)
+2. 🗣 Commented on [#34](https://github.com/WarenGonzaga/css-text-portrait-builder/issues/34) in [WarenGonzaga/css-text-portrait-builder](https://github.com/WarenGonzaga/css-text-portrait-builder)
+3. 🗣 Commented on [#10](https://github.com/WarenGonzaga/css-text-portrait-builder/issues/10) in [WarenGonzaga/css-text-portrait-builder](https://github.com/WarenGonzaga/css-text-portrait-builder)
+4. 🗣 Commented on [#43](https://github.com/WarenGonzaga/css-text-portrait-builder/issues/43) in [WarenGonzaga/css-text-portrait-builder](https://github.com/WarenGonzaga/css-text-portrait-builder)
+5. 🗣 Commented on [#43](https://github.com/WarenGonzaga/css-text-portrait-builder/issues/43) in [WarenGonzaga/css-text-portrait-builder](https://github.com/WarenGonzaga/css-text-portrait-builder)
 <!--END_SECTION:activity-->
 
 </details>
