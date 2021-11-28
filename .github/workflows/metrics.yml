@@ -7,6 +7,7 @@ on:
   push:
     branches:
       - "main"
+      - "dev"
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -19,9 +20,7 @@ jobs:
           user: WarenGonzaga
           template: classic
           base: header, activity, community, repositories, metadata
-          config_display: large
           config_timezone: Asia/Manila
-          config_twemoji: yes
 
           # Introduction plugin
           plugin_introduction: yes
