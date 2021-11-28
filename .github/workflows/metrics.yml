@@ -19,7 +19,21 @@ jobs:
           user: WarenGonzaga
           template: classic
           base: header, activity, community
+          config_display: columns
           config_timezone: Asia/Manila
+          config_twemoji: yes
+
+          # Introduction plugin
+          plugin_introduction: yes
+          plugin_introduction_title: yes
+
+          # Activities plugin
+          plugin_activity: yes
+          plugin_activity_days: 14
+          plugin_activity_filter: all
+          plugin_activity_limit: 5
+          plugin_activity_load: 300
+          plugin_activity_visibility: all
 
           # Language plugin
           plugin_languages: yes
@@ -27,9 +41,21 @@ jobs:
 
           # Achievement plugin
           plugin_achievements: yes
+          plugin_achievements_display: compact
           plugin_achievements_threshold: B
 
           # Notable contributions
           plugin_notable: yes
-          plugin_notable_filter: stars:>150
+          plugin_notable_filter: stars:>100
           plugin_notable_repositories: yes
+
+          # People plugin
+          plugin_people: yes
+          plugin_people_limit: 150
+          plugin_people_shuffle: yes
+          plugin_people_size: 28
+          plugin_people_types: followers
+
+          # Isocalendar plugin
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
