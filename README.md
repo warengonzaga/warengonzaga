@@ -1,10 +1,18 @@
 # Hi, I'm Waren Gonzaga (:coffee::computer::bulb::heart:)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Filipino+Software+Engineer;Open-Source+Developer+Advocate;Cybersecurity+Researcher;and+Technopreneur!;Nice+to+meet+you...)](https://git.io/typing-svg)
+📢 Nominate ([@WarenGonzaga](https://warengonzaga.com)) as **[GitHub Star](https://stars.github.com/nominate)**. If you appreciate his hardwork and dedication to open source.
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/warengonzagaofficial) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/warengonzaga) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/warengonzagaofficial) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/warengonzaga) [![DEV](https://img.shields.io/badge/DEV-%23000000.svg?&style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/warengonzaga) [![BMC](https://img.shields.io/badge/BuyMeaCoffee-%23FFDD00.svg?&style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://bmc.xyz/warengonzaga)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Filipino+Software+Engineer;Open-Source+Developer+Advocate;Cybersecurity+Researcher;and+Technopreneur!;Nice+to+meet+you...)](https://git.io/typing-svg)
+
 I'm a Filipino freelance software engineer, opensource developer advocate, cybersecurity researcher, and technopreneur from the Philippines. Kumusta ka!
+
+<!-- markdownlint-disable MD033 -->
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/warengonzaga/warengonzaga/blob/main/devcard.svg" width="250" align="right" alt="Waren Gonzaga's Dev Card"/></a>
+<!-- markdownlint-enable MD033 -->
+
+🎙 [Recent Tech Talks](https://work.warengonzaga.com/warengonzaga/collections/1284) • 📦 [Open Source Updates](https://work.warengonzaga.com/warengonzaga/collections/1194)
 
 - 💪 Currently working as a freelance software engineer.
 - 🔏 Bug bounty hunter in free time.
@@ -15,6 +23,7 @@ I'm a Filipino freelance software engineer, opensource developer advocate, cyber
 - 💞 Executive Director, [Algo Filipino](https://github.com/algofilipino), non-profit organization for language and technology.
 - ☕ Coffee lover, turning it into code, [you can buy me a coffee](https://buymeacoff.ee/warengonzaga)!
 - 🏆 2021 Goals:
+  - Become part of GitHub Stars.
   - Contribute and publish more open source projects.
   - Publish my first SaaS project.
   - ~~Improve and expand my freelancing business.~~
@@ -39,7 +48,7 @@ Wanna see some of my future projects? Join today!
 
 ## 🍀 Sponsors and Supporters
 
-[![BuyMeaCoffee](https://wrngnz.ga/badge-buymeacoffee)](https://buymeacoff.ee/warengonzaga) [![Vercel](https://wrngnz.ga/badge-vercel)](https://vercel.com) [![CircleCI](https://wrngnz.ga/badge-circleci)](https://vercel.com) [![GitBook](https://wrngnz.ga/badge-gitbook)](https://gitbook.io) [![Digital Ocean](https://wrngnz.ga/badge-digitalocean)](https://digitalocean.com) [![Deepware](https://wrngnz.ga/badge-deepware)](https://deepware.ai/) [![NOWPayments](https://wrngnz.ga/badge-nowpayments)](https://nowpayments.io) [![StackHawk](https://img.shields.io/badge/Stackhawk-%2300CBC6.svg?&style=for-the-badge&logoColor=white)](https://stackhawk.com)
+[![BuyMeaCoffee](https://img.shields.io/badge/Buymeacoffee-%23FFDD00.svg?&style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoff.ee/warengonzaga) [![Vercel](https://img.shields.io/badge/Vercel-%23000.svg?&style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com) [![CircleCI](https://img.shields.io/badge/CircleCI-%23000.svg?&style=for-the-badge&logo=CircleCI&logoColor=white)](https://vercel.com) [![GitBook](https://img.shields.io/badge/GitBook-%233884FF.svg?&style=for-the-badge&logo=gitbook&logoColor=white)](https://gitbook.io) [![Digital Ocean](https://img.shields.io/badge/Digital%20Ocean-%230080ff.svg?&style=for-the-badge&logo=digitalocean&logoColor=white)](https://digitalocean.com) [![Deepware](https://img.shields.io/badge/deepware-%23cb2653.svg?&style=for-the-badge&logoColor=white)](https://deepware.ai/) [![NOWPayments](https://img.shields.io/badge/NOWPayments-%2364ACFF.svg?&style=for-the-badge&logoColor=white)](https://nowpayments.io) [![StackHawk](https://img.shields.io/badge/Stackhawk-%2300CBC6.svg?&style=for-the-badge&logoColor=white)](https://stackhawk.com)
 
 and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what I do!
 
@@ -51,11 +60,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128240 <b>Latest Blogs Posts</b></summary><br/>
 
 <!-- BLOG-POST-LIST:START -->
+- [Create CSS Text Portrait In Less Than 3 Minutes](https://blog.warengonzaga.com/create-css-text-portrait-in-less-than-3-minutes)
+- [My Experience as Maintainer for Hacktoberfest 2021](https://dev.to/warengonzaga/my-experience-as-maintainer-for-hacktoberfest-2021-4opm)
 - [7 Helpful GitHub Repositories for Developers](https://dev.to/warengonzaga/7-helpful-github-repositories-for-developers-2kkm)
 - [GitHub Codespaces](https://dev.to/warengonzaga/github-codespaces-1i8k)
 - [Animate.css v4 Update!](https://dev.to/warengonzaga/animate-css-v4-update-18m8)
-- [An open-source curl-based command line tracker for coronavirus or covid-19 with historical chart.](https://dev.to/warengonzaga/an-open-source-curl-based-command-line-tracker-for-coronavirus-or-covid-19-with-historical-chart-3op9)
-- [CURL request without protocol on expressJS server?](https://dev.to/warengonzaga/curl-request-without-protocol-on-expressjs-server-32op)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
@@ -64,11 +73,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#41](https://github.com/DannyvanHolten/acf-gravityforms-add-on/issues/41) in [DannyvanHolten/acf-gravityforms-add-on](https://github.com/DannyvanHolten/acf-gravityforms-add-on)
-2. ❗️ Opened issue [#42](https://github.com/DannyvanHolten/acf-gravityforms-add-on/issues/42) in [DannyvanHolten/acf-gravityforms-add-on](https://github.com/DannyvanHolten/acf-gravityforms-add-on)
-3. ❗️ Opened issue [#41](https://github.com/DannyvanHolten/acf-gravityforms-add-on/issues/41) in [DannyvanHolten/acf-gravityforms-add-on](https://github.com/DannyvanHolten/acf-gravityforms-add-on)
-4. ❗️ Opened issue [#426](https://github.com/soroushchehresa/awesome-coronavirus/issues/426) in [soroushchehresa/awesome-coronavirus](https://github.com/soroushchehresa/awesome-coronavirus)
-5. 🗣 Commented on [#951](https://github.com/Jigsaw-Code/outline-server/issues/951) in [Jigsaw-Code/outline-server](https://github.com/Jigsaw-Code/outline-server)
+1. 🗣 Commented on [#9](https://github.com/WarenGonzaga/css-text-portrait-builder/issues/9) in [WarenGonzaga/css-text-portrait-builder](https://github.com/WarenGonzaga/css-text-portrait-builder)
+2. 🎉 Merged PR [#43](https://github.com/WarenGonzaga/css-text-portrait-builder/pull/43) in [WarenGonzaga/css-text-portrait-builder](https://github.com/WarenGonzaga/css-text-portrait-builder)
+3. 🗣 Commented on [#43](https://github.com/WarenGonzaga/css-text-portrait-builder/issues/43) in [WarenGonzaga/css-text-portrait-builder](https://github.com/WarenGonzaga/css-text-portrait-builder)
+4. ❗️ Opened issue [#14](https://github.com/WarenGonzaga/waren-discord-bot/issues/14) in [WarenGonzaga/waren-discord-bot](https://github.com/WarenGonzaga/waren-discord-bot)
+5. 🗣 Commented on [#34](https://github.com/WarenGonzaga/css-text-portrait-builder/issues/34) in [WarenGonzaga/css-text-portrait-builder](https://github.com/WarenGonzaga/css-text-portrait-builder)
 <!--END_SECTION:activity-->
 
 </details>
@@ -89,9 +98,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
 
 <!-- markdownlint-enable MD033 -->
 
+![Metrics](https://github.com/warengonzaga/warengonzaga/blob/main/github-metrics.svg)
+
 ---
 
-:computer: Made with :heart: by **Waren Gonzaga** with **YHWH** :pray: | Citizen of Heaven
+:computer: Made with :heart: by **Waren Gonzaga** with **YHWH** :pray: | **[Citizen of Heaven](https://youtu.be/GwirdlbkUD8?t=150)** ▶️
 
 [personal website]: https://warengonzaga.com
 [business website]: https://wgcompanyhq.com
