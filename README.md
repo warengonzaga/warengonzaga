@@ -98,6 +98,8 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
 
 <!-- markdownlint-enable MD033 -->
 
+![Metrics](https://github.com/warengonzaga/warengonzaga/blob/main/github-metrics.svg)
+
 ---
 
 :computer: Made with :heart: by **Waren Gonzaga** with **YHWH** :pray: | **[Citizen of Heaven](https://youtu.be/GwirdlbkUD8?t=150)** ▶️
