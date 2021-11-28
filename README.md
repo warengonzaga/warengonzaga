@@ -98,7 +98,7 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
 
 <!-- markdownlint-enable MD033 -->
 
-![Metrics](https://github.com/warengonzaga/warengonzaga/blob/main/github-metrics.svg)
+![metrics](https://github.com/warengonzaga/warengonzaga/blob/main/github-metrics.svg)
 
 ---
 

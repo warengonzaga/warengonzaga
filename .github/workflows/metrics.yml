@@ -21,6 +21,7 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Manila
+          config_display: columns
 
           # Introduction plugin
           plugin_introduction: yes
