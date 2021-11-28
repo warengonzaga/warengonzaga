@@ -8,6 +8,8 @@
 
 I'm a Filipino freelance software engineer, opensource developer advocate, cybersecurity researcher, and technopreneur from the Philippines. Kumusta ka!
 
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/warengonzaga/warengonzaga/blob/main/devcard.svg" width="400" alt="Waren Gonzaga's Dev Card"/></a>
+
 🎙 [Recent Tech Talks](https://work.warengonzaga.com/warengonzaga/collections/1284) • 📦 [Open Source Updates](https://work.warengonzaga.com/warengonzaga/collections/1194)
 
 - 💪 Currently working as a freelance software engineer.
