@@ -73,11 +73,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#50](https://github.com/WarenGonzaga/css-text-portrait-builder/issues/50) in [WarenGonzaga/css-text-portrait-builder](https://github.com/WarenGonzaga/css-text-portrait-builder)
-2. 🗣 Commented on [#9](https://github.com/WarenGonzaga/css-text-portrait-builder/issues/9) in [WarenGonzaga/css-text-portrait-builder](https://github.com/WarenGonzaga/css-text-portrait-builder)
-3. 🎉 Merged PR [#43](https://github.com/WarenGonzaga/css-text-portrait-builder/pull/43) in [WarenGonzaga/css-text-portrait-builder](https://github.com/WarenGonzaga/css-text-portrait-builder)
-4. 🗣 Commented on [#43](https://github.com/WarenGonzaga/css-text-portrait-builder/issues/43) in [WarenGonzaga/css-text-portrait-builder](https://github.com/WarenGonzaga/css-text-portrait-builder)
-5. ❗️ Opened issue [#14](https://github.com/WarenGonzaga/waren-discord-bot/issues/14) in [WarenGonzaga/waren-discord-bot](https://github.com/WarenGonzaga/waren-discord-bot)
+1. 🗣 Commented on [#1](https://github.com/WarenGonzaga/waren-discord-bot/issues/1) in [WarenGonzaga/waren-discord-bot](https://github.com/WarenGonzaga/waren-discord-bot)
+2. 🗣 Commented on [#50](https://github.com/WarenGonzaga/css-text-portrait-builder/issues/50) in [WarenGonzaga/css-text-portrait-builder](https://github.com/WarenGonzaga/css-text-portrait-builder)
+3. 🗣 Commented on [#9](https://github.com/WarenGonzaga/css-text-portrait-builder/issues/9) in [WarenGonzaga/css-text-portrait-builder](https://github.com/WarenGonzaga/css-text-portrait-builder)
+4. 🎉 Merged PR [#43](https://github.com/WarenGonzaga/css-text-portrait-builder/pull/43) in [WarenGonzaga/css-text-portrait-builder](https://github.com/WarenGonzaga/css-text-portrait-builder)
+5. 🗣 Commented on [#43](https://github.com/WarenGonzaga/css-text-portrait-builder/issues/43) in [WarenGonzaga/css-text-portrait-builder](https://github.com/WarenGonzaga/css-text-portrait-builder)
 <!--END_SECTION:activity-->
 
 </details>
