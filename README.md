@@ -73,11 +73,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#52](https://github.com/WarenGonzaga/buymeacoffee.js/issues/52) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
-2. 🗣 Commented on [#52](https://github.com/WarenGonzaga/buymeacoffee.js/issues/52) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
-3. 🗣 Commented on [#51](https://github.com/WarenGonzaga/css-text-portrait-builder/issues/51) in [WarenGonzaga/css-text-portrait-builder](https://github.com/WarenGonzaga/css-text-portrait-builder)
-4. 🗣 Commented on [#1](https://github.com/WarenGonzaga/waren-discord-bot/issues/1) in [WarenGonzaga/waren-discord-bot](https://github.com/WarenGonzaga/waren-discord-bot)
-5. 🗣 Commented on [#50](https://github.com/WarenGonzaga/css-text-portrait-builder/issues/50) in [WarenGonzaga/css-text-portrait-builder](https://github.com/WarenGonzaga/css-text-portrait-builder)
+1. 🎉 Merged PR [#44](https://github.com/WarenGonzaga/buymeacoffee.js/pull/44) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
+2. ❗️ Closed issue [#42](https://github.com/WarenGonzaga/buymeacoffee.js/issues/42) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
+3. 🗣 Commented on [#42](https://github.com/WarenGonzaga/buymeacoffee.js/issues/42) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
+4. ❗️ Closed issue [#52](https://github.com/WarenGonzaga/buymeacoffee.js/issues/52) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
+5. 🗣 Commented on [#52](https://github.com/WarenGonzaga/buymeacoffee.js/issues/52) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
 <!--END_SECTION:activity-->
 
 </details>
