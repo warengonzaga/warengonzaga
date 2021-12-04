@@ -73,11 +73,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#57](https://github.com/WarenGonzaga/buymeacoffee.js/issues/57) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
-2. 💪 Opened PR [#56](https://github.com/WarenGonzaga/buymeacoffee.js/pull/56) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
-3. ❗️ Opened issue [#1](https://github.com/WarenGonzaga/oss-homepage-builder/issues/1) in [WarenGonzaga/oss-homepage-builder](https://github.com/WarenGonzaga/oss-homepage-builder)
-4. 🗣 Commented on [#3](https://github.com/WarenGonzaga/buymeacoffee.js/issues/3) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
-5. ❗️ Closed issue [#3](https://github.com/WarenGonzaga/buymeacoffee.js/issues/3) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
+1. 🎉 Merged PR [#51](https://github.com/WarenGonzaga/css-text-portrait-builder/pull/51) in [WarenGonzaga/css-text-portrait-builder](https://github.com/WarenGonzaga/css-text-portrait-builder)
+2. 🗣 Commented on [#51](https://github.com/WarenGonzaga/css-text-portrait-builder/issues/51) in [WarenGonzaga/css-text-portrait-builder](https://github.com/WarenGonzaga/css-text-portrait-builder)
+3. 🗣 Commented on [#51](https://github.com/WarenGonzaga/css-text-portrait-builder/issues/51) in [WarenGonzaga/css-text-portrait-builder](https://github.com/WarenGonzaga/css-text-portrait-builder)
+4. ❗️ Opened issue [#57](https://github.com/WarenGonzaga/buymeacoffee.js/issues/57) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
+5. 💪 Opened PR [#56](https://github.com/WarenGonzaga/buymeacoffee.js/pull/56) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
 <!--END_SECTION:activity-->
 
 </details>
