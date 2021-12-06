@@ -73,11 +73,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#50](https://github.com/WarenGonzaga/css-text-portrait-builder/issues/50) in [WarenGonzaga/css-text-portrait-builder](https://github.com/WarenGonzaga/css-text-portrait-builder)
-2. 🎉 Merged PR [#51](https://github.com/WarenGonzaga/css-text-portrait-builder/pull/51) in [WarenGonzaga/css-text-portrait-builder](https://github.com/WarenGonzaga/css-text-portrait-builder)
-3. 🗣 Commented on [#51](https://github.com/WarenGonzaga/css-text-portrait-builder/issues/51) in [WarenGonzaga/css-text-portrait-builder](https://github.com/WarenGonzaga/css-text-portrait-builder)
-4. 🗣 Commented on [#51](https://github.com/WarenGonzaga/css-text-portrait-builder/issues/51) in [WarenGonzaga/css-text-portrait-builder](https://github.com/WarenGonzaga/css-text-portrait-builder)
-5. ❗️ Opened issue [#57](https://github.com/WarenGonzaga/buymeacoffee.js/issues/57) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
+1. ❗️ Opened issue [#4](https://github.com/WarenGonzaga/better-maintenance-wp/issues/4) in [WarenGonzaga/better-maintenance-wp](https://github.com/WarenGonzaga/better-maintenance-wp)
+2. ❗️ Opened issue [#3](https://github.com/WarenGonzaga/better-maintenance-wp/issues/3) in [WarenGonzaga/better-maintenance-wp](https://github.com/WarenGonzaga/better-maintenance-wp)
+3. 💪 Opened PR [#2](https://github.com/WarenGonzaga/better-maintenance-wp/pull/2) in [WarenGonzaga/better-maintenance-wp](https://github.com/WarenGonzaga/better-maintenance-wp)
+4. ❗️ Opened issue [#1](https://github.com/WarenGonzaga/better-maintenance-wp/issues/1) in [WarenGonzaga/better-maintenance-wp](https://github.com/WarenGonzaga/better-maintenance-wp)
+5. 🗣 Commented on [#50](https://github.com/WarenGonzaga/css-text-portrait-builder/issues/50) in [WarenGonzaga/css-text-portrait-builder](https://github.com/WarenGonzaga/css-text-portrait-builder)
 <!--END_SECTION:activity-->
 
 </details>
