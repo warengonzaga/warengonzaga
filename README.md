@@ -73,11 +73,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/WarenGonzaga/hashnode.js/issues/1) in [WarenGonzaga/hashnode.js](https://github.com/WarenGonzaga/hashnode.js)
-2. 🎉 Merged PR [#52](https://github.com/WarenGonzaga/css-text-portrait-builder/pull/52) in [WarenGonzaga/css-text-portrait-builder](https://github.com/WarenGonzaga/css-text-portrait-builder)
-3. 🗣 Commented on [#52](https://github.com/WarenGonzaga/css-text-portrait-builder/issues/52) in [WarenGonzaga/css-text-portrait-builder](https://github.com/WarenGonzaga/css-text-portrait-builder)
-4. 🗣 Commented on [#52](https://github.com/WarenGonzaga/css-text-portrait-builder/issues/52) in [WarenGonzaga/css-text-portrait-builder](https://github.com/WarenGonzaga/css-text-portrait-builder)
-5. ❗️ Opened issue [#4](https://github.com/WarenGonzaga/better-maintenance-wp/issues/4) in [WarenGonzaga/better-maintenance-wp](https://github.com/WarenGonzaga/better-maintenance-wp)
+1. ❗️ Opened issue [#2](https://github.com/WarenGonzaga/hashnode.js/issues/2) in [WarenGonzaga/hashnode.js](https://github.com/WarenGonzaga/hashnode.js)
+2. ❗️ Closed issue [#10](https://github.com/WarenGonzaga/css-text-portrait-builder/issues/10) in [WarenGonzaga/css-text-portrait-builder](https://github.com/WarenGonzaga/css-text-portrait-builder)
+3. 🗣 Commented on [#10](https://github.com/WarenGonzaga/css-text-portrait-builder/issues/10) in [WarenGonzaga/css-text-portrait-builder](https://github.com/WarenGonzaga/css-text-portrait-builder)
+4. ❗️ Opened issue [#1](https://github.com/WarenGonzaga/hashnode.js/issues/1) in [WarenGonzaga/hashnode.js](https://github.com/WarenGonzaga/hashnode.js)
+5. 🎉 Merged PR [#52](https://github.com/WarenGonzaga/css-text-portrait-builder/pull/52) in [WarenGonzaga/css-text-portrait-builder](https://github.com/WarenGonzaga/css-text-portrait-builder)
 <!--END_SECTION:activity-->
 
 </details>
