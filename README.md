@@ -73,11 +73,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3](https://github.com/WarenGonzaga/gitbook.js/issues/3) in [WarenGonzaga/gitbook.js](https://github.com/WarenGonzaga/gitbook.js)
-2. ❗️ Opened issue [#2](https://github.com/WarenGonzaga/gitbook.js/issues/2) in [WarenGonzaga/gitbook.js](https://github.com/WarenGonzaga/gitbook.js)
-3. ❗️ Opened issue [#3](https://github.com/WarenGonzaga/hashnode.js/issues/3) in [WarenGonzaga/hashnode.js](https://github.com/WarenGonzaga/hashnode.js)
-4. ❗️ Opened issue [#2](https://github.com/WarenGonzaga/hashnode.js/issues/2) in [WarenGonzaga/hashnode.js](https://github.com/WarenGonzaga/hashnode.js)
-5. ❗️ Closed issue [#10](https://github.com/WarenGonzaga/css-text-portrait-builder/issues/10) in [WarenGonzaga/css-text-portrait-builder](https://github.com/WarenGonzaga/css-text-portrait-builder)
+1. ❗️ Opened issue [#2](https://github.com/WarenGonzaga/spinupwp.js/issues/2) in [WarenGonzaga/spinupwp.js](https://github.com/WarenGonzaga/spinupwp.js)
+2. ❗️ Opened issue [#3](https://github.com/WarenGonzaga/gitbook.js/issues/3) in [WarenGonzaga/gitbook.js](https://github.com/WarenGonzaga/gitbook.js)
+3. ❗️ Opened issue [#2](https://github.com/WarenGonzaga/gitbook.js/issues/2) in [WarenGonzaga/gitbook.js](https://github.com/WarenGonzaga/gitbook.js)
+4. ❗️ Opened issue [#3](https://github.com/WarenGonzaga/hashnode.js/issues/3) in [WarenGonzaga/hashnode.js](https://github.com/WarenGonzaga/hashnode.js)
+5. ❗️ Opened issue [#2](https://github.com/WarenGonzaga/hashnode.js/issues/2) in [WarenGonzaga/hashnode.js](https://github.com/WarenGonzaga/hashnode.js)
 <!--END_SECTION:activity-->
 
 </details>
