@@ -73,11 +73,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#39](https://github.com/WarenGonzaga/gathertown.js/issues/39) in [WarenGonzaga/gathertown.js](https://github.com/WarenGonzaga/gathertown.js)
-2. ❗️ Opened issue [#54](https://github.com/WarenGonzaga/css-text-portrait-builder/issues/54) in [WarenGonzaga/css-text-portrait-builder](https://github.com/WarenGonzaga/css-text-portrait-builder)
-3. ❗️ Opened issue [#53](https://github.com/WarenGonzaga/css-text-portrait-builder/issues/53) in [WarenGonzaga/css-text-portrait-builder](https://github.com/WarenGonzaga/css-text-portrait-builder)
-4. 🗣 Commented on [#34](https://github.com/WarenGonzaga/css-text-portrait-builder/issues/34) in [WarenGonzaga/css-text-portrait-builder](https://github.com/WarenGonzaga/css-text-portrait-builder)
-5. 🗣 Commented on [#34](https://github.com/WarenGonzaga/css-text-portrait-builder/issues/34) in [WarenGonzaga/css-text-portrait-builder](https://github.com/WarenGonzaga/css-text-portrait-builder)
+1. ❗️ Opened issue [#1](https://github.com/WarenGonzaga/oss-repo-builder/issues/1) in [WarenGonzaga/oss-repo-builder](https://github.com/WarenGonzaga/oss-repo-builder)
+2. ❗️ Opened issue [#94](https://github.com/wareneutron/covid19-tracker-cli/issues/94) in [wareneutron/covid19-tracker-cli](https://github.com/wareneutron/covid19-tracker-cli)
+3. ❗️ Opened issue [#3](https://github.com/wareneutron/expandurl-cli/issues/3) in [wareneutron/expandurl-cli](https://github.com/wareneutron/expandurl-cli)
+4. 🗣 Commented on [#39](https://github.com/WarenGonzaga/gathertown.js/issues/39) in [WarenGonzaga/gathertown.js](https://github.com/WarenGonzaga/gathertown.js)
+5. ❗️ Opened issue [#54](https://github.com/WarenGonzaga/css-text-portrait-builder/issues/54) in [WarenGonzaga/css-text-portrait-builder](https://github.com/WarenGonzaga/css-text-portrait-builder)
 <!--END_SECTION:activity-->
 
 </details>
