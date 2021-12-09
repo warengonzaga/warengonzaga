@@ -73,11 +73,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#40](https://github.com/WarenGonzaga/gathertown.js/pull/40) in [WarenGonzaga/gathertown.js](https://github.com/WarenGonzaga/gathertown.js)
-2. ❗️ Opened issue [#2](https://github.com/WarenGonzaga/oss-repo-builder/issues/2) in [WarenGonzaga/oss-repo-builder](https://github.com/WarenGonzaga/oss-repo-builder)
-3. ❗️ Opened issue [#2](https://github.com/WarenGonzaga/oss-homepage-builder/issues/2) in [WarenGonzaga/oss-homepage-builder](https://github.com/WarenGonzaga/oss-homepage-builder)
-4. ❗️ Opened issue [#1](https://github.com/WarenGonzaga/oss-repo-builder/issues/1) in [WarenGonzaga/oss-repo-builder](https://github.com/WarenGonzaga/oss-repo-builder)
-5. ❗️ Opened issue [#94](https://github.com/wareneutron/covid19-tracker-cli/issues/94) in [wareneutron/covid19-tracker-cli](https://github.com/wareneutron/covid19-tracker-cli)
+1. ❗️ Opened issue [#7](https://github.com/WarenGonzaga/spinupwp.js/issues/7) in [WarenGonzaga/spinupwp.js](https://github.com/WarenGonzaga/spinupwp.js)
+2. ❗️ Opened issue [#6](https://github.com/WarenGonzaga/spinupwp.js/issues/6) in [WarenGonzaga/spinupwp.js](https://github.com/WarenGonzaga/spinupwp.js)
+3. ❗️ Opened issue [#5](https://github.com/WarenGonzaga/spinupwp.js/issues/5) in [WarenGonzaga/spinupwp.js](https://github.com/WarenGonzaga/spinupwp.js)
+4. 💪 Opened PR [#40](https://github.com/WarenGonzaga/gathertown.js/pull/40) in [WarenGonzaga/gathertown.js](https://github.com/WarenGonzaga/gathertown.js)
+5. ❗️ Opened issue [#2](https://github.com/WarenGonzaga/oss-repo-builder/issues/2) in [WarenGonzaga/oss-repo-builder](https://github.com/WarenGonzaga/oss-repo-builder)
 <!--END_SECTION:activity-->
 
 </details>
