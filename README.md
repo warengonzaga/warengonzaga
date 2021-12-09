@@ -73,11 +73,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#6](https://github.com/WarenGonzaga/emily.css/issues/6) in [WarenGonzaga/emily.css](https://github.com/WarenGonzaga/emily.css)
-2. ❗️ Opened issue [#3](https://github.com/WarenGonzaga/karin.js/issues/3) in [WarenGonzaga/karin.js](https://github.com/WarenGonzaga/karin.js)
-3. ❗️ Opened issue [#2](https://github.com/WarenGonzaga/karin.js/issues/2) in [WarenGonzaga/karin.js](https://github.com/WarenGonzaga/karin.js)
-4. ❗️ Opened issue [#1](https://github.com/WarenGonzaga/karin.js/issues/1) in [WarenGonzaga/karin.js](https://github.com/WarenGonzaga/karin.js)
-5. ❗️ Opened issue [#12](https://github.com/WarenGonzaga/daisy.js/issues/12) in [WarenGonzaga/daisy.js](https://github.com/WarenGonzaga/daisy.js)
+1. ❗️ Opened issue [#53](https://github.com/WarenGonzaga/css-text-portrait-builder/issues/53) in [WarenGonzaga/css-text-portrait-builder](https://github.com/WarenGonzaga/css-text-portrait-builder)
+2. 🗣 Commented on [#34](https://github.com/WarenGonzaga/css-text-portrait-builder/issues/34) in [WarenGonzaga/css-text-portrait-builder](https://github.com/WarenGonzaga/css-text-portrait-builder)
+3. 🗣 Commented on [#34](https://github.com/WarenGonzaga/css-text-portrait-builder/issues/34) in [WarenGonzaga/css-text-portrait-builder](https://github.com/WarenGonzaga/css-text-portrait-builder)
+4. ❗️ Closed issue [#6](https://github.com/WarenGonzaga/emily.css/issues/6) in [WarenGonzaga/emily.css](https://github.com/WarenGonzaga/emily.css)
+5. ❗️ Opened issue [#3](https://github.com/WarenGonzaga/karin.js/issues/3) in [WarenGonzaga/karin.js](https://github.com/WarenGonzaga/karin.js)
 <!--END_SECTION:activity-->
 
 </details>
