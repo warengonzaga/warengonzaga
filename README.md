@@ -73,11 +73,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#7](https://github.com/WarenGonzaga/spinupwp.js/issues/7) in [WarenGonzaga/spinupwp.js](https://github.com/WarenGonzaga/spinupwp.js)
-2. ❗️ Opened issue [#6](https://github.com/WarenGonzaga/spinupwp.js/issues/6) in [WarenGonzaga/spinupwp.js](https://github.com/WarenGonzaga/spinupwp.js)
-3. ❗️ Opened issue [#5](https://github.com/WarenGonzaga/spinupwp.js/issues/5) in [WarenGonzaga/spinupwp.js](https://github.com/WarenGonzaga/spinupwp.js)
-4. 💪 Opened PR [#40](https://github.com/WarenGonzaga/gathertown.js/pull/40) in [WarenGonzaga/gathertown.js](https://github.com/WarenGonzaga/gathertown.js)
-5. ❗️ Opened issue [#2](https://github.com/WarenGonzaga/oss-repo-builder/issues/2) in [WarenGonzaga/oss-repo-builder](https://github.com/WarenGonzaga/oss-repo-builder)
+1. 🗣 Commented on [#1375](https://github.com/animate-css/animate.css/issues/1375) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+2. ❗️ Opened issue [#7](https://github.com/WarenGonzaga/spinupwp.js/issues/7) in [WarenGonzaga/spinupwp.js](https://github.com/WarenGonzaga/spinupwp.js)
+3. ❗️ Opened issue [#6](https://github.com/WarenGonzaga/spinupwp.js/issues/6) in [WarenGonzaga/spinupwp.js](https://github.com/WarenGonzaga/spinupwp.js)
+4. ❗️ Opened issue [#5](https://github.com/WarenGonzaga/spinupwp.js/issues/5) in [WarenGonzaga/spinupwp.js](https://github.com/WarenGonzaga/spinupwp.js)
+5. 💪 Opened PR [#40](https://github.com/WarenGonzaga/gathertown.js/pull/40) in [WarenGonzaga/gathertown.js](https://github.com/WarenGonzaga/gathertown.js)
 <!--END_SECTION:activity-->
 
 </details>
