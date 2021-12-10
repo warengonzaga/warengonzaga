@@ -60,11 +60,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128240 <b>Latest Blogs Posts</b></summary><br/>
 
 <!-- BLOG-POST-LIST:START -->
+- [Organize Your Starred GitHub Repositories Like a Pro](https://blog.warengonzaga.com/organize-your-starred-github-repositories-like-a-pro)
 - [The Perfect Domain Name for your JavaScript Library or Framework](https://blog.warengonzaga.com/the-perfect-domain-name-for-your-javascript-library-or-framework)
 - [Create CSS Text Portrait In Less Than 3 Minutes](https://blog.warengonzaga.com/create-css-text-portrait-in-less-than-3-minutes)
 - [My Experience as Maintainer for Hacktoberfest 2021](https://dev.to/warengonzaga/my-experience-as-maintainer-for-hacktoberfest-2021-4opm)
 - [7 Helpful GitHub Repositories for Developers](https://dev.to/warengonzaga/7-helpful-github-repositories-for-developers-2kkm)
-- [GitHub Codespaces](https://dev.to/warengonzaga/github-codespaces-1i8k)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
