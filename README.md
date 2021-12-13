@@ -73,11 +73,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3](https://github.com/WarenGonzaga/gumroad.js/issues/3) in [WarenGonzaga/gumroad.js](https://github.com/WarenGonzaga/gumroad.js)
-2. ❗️ Opened issue [#2](https://github.com/WarenGonzaga/gumroad.js/issues/2) in [WarenGonzaga/gumroad.js](https://github.com/WarenGonzaga/gumroad.js)
-3. ❗️ Opened issue [#1](https://github.com/WarenGonzaga/gumroad.js/issues/1) in [WarenGonzaga/gumroad.js](https://github.com/WarenGonzaga/gumroad.js)
-4. ❗️ Closed issue [#25](https://github.com/WarenGonzaga/gathertown.js/issues/25) in [WarenGonzaga/gathertown.js](https://github.com/WarenGonzaga/gathertown.js)
-5. 🗣 Commented on [#25](https://github.com/WarenGonzaga/gathertown.js/issues/25) in [WarenGonzaga/gathertown.js](https://github.com/WarenGonzaga/gathertown.js)
+1. ❗️ Opened issue [#7](https://github.com/WarenGonzaga/gumroad.js/issues/7) in [WarenGonzaga/gumroad.js](https://github.com/WarenGonzaga/gumroad.js)
+2. ❗️ Opened issue [#6](https://github.com/WarenGonzaga/gumroad.js/issues/6) in [WarenGonzaga/gumroad.js](https://github.com/WarenGonzaga/gumroad.js)
+3. ❗️ Opened issue [#5](https://github.com/WarenGonzaga/gumroad.js/issues/5) in [WarenGonzaga/gumroad.js](https://github.com/WarenGonzaga/gumroad.js)
+4. 🗣 Commented on [#19](https://github.com/WarenGonzaga/gathertown.js/issues/19) in [WarenGonzaga/gathertown.js](https://github.com/WarenGonzaga/gathertown.js)
+5. 🗣 Commented on [#1](https://github.com/WarenGonzaga/gumroad.js/issues/1) in [WarenGonzaga/gumroad.js](https://github.com/WarenGonzaga/gumroad.js)
 <!--END_SECTION:activity-->
 
 </details>
