@@ -73,11 +73,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13](https://github.com/WarenGonzaga/daisy.js/issues/13) in [WarenGonzaga/daisy.js](https://github.com/WarenGonzaga/daisy.js)
-2. ❗️ Opened issue [#14](https://github.com/WarenGonzaga/gumroad.js/issues/14) in [WarenGonzaga/gumroad.js](https://github.com/WarenGonzaga/gumroad.js)
-3. ❗️ Opened issue [#13](https://github.com/WarenGonzaga/gumroad.js/issues/13) in [WarenGonzaga/gumroad.js](https://github.com/WarenGonzaga/gumroad.js)
-4. ❗️ Opened issue [#12](https://github.com/WarenGonzaga/gumroad.js/issues/12) in [WarenGonzaga/gumroad.js](https://github.com/WarenGonzaga/gumroad.js)
-5. ❗️ Opened issue [#11](https://github.com/WarenGonzaga/gumroad.js/issues/11) in [WarenGonzaga/gumroad.js](https://github.com/WarenGonzaga/gumroad.js)
+1. ❗️ Opened issue [#16](https://github.com/WarenGonzaga/daisy.js/issues/16) in [WarenGonzaga/daisy.js](https://github.com/WarenGonzaga/daisy.js)
+2. 🗣 Commented on [#5422](https://github.com/js-org/js.org/issues/5422) in [js-org/js.org](https://github.com/js-org/js.org)
+3. 🗣 Commented on [#11](https://github.com/WarenGonzaga/daisy.js/issues/11) in [WarenGonzaga/daisy.js](https://github.com/WarenGonzaga/daisy.js)
+4. ❗️ Closed issue [#11](https://github.com/WarenGonzaga/daisy.js/issues/11) in [WarenGonzaga/daisy.js](https://github.com/WarenGonzaga/daisy.js)
+5. 🗣 Commented on [#13](https://github.com/WarenGonzaga/daisy.js/issues/13) in [WarenGonzaga/daisy.js](https://github.com/WarenGonzaga/daisy.js)
 <!--END_SECTION:activity-->
 
 </details>
