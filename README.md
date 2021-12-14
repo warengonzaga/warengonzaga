@@ -74,10 +74,10 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#6699](https://github.com/js-org/js.org/issues/6699) in [js-org/js.org](https://github.com/js-org/js.org)
-2. 💪 Opened PR [#6699](https://github.com/js-org/js.org/pull/6699) in [js-org/js.org](https://github.com/js-org/js.org)
-3. 🗣 Commented on [#5422](https://github.com/js-org/js.org/issues/5422) in [js-org/js.org](https://github.com/js-org/js.org)
-4. ❗️ Closed issue [#4](https://github.com/WarenGonzaga/thirdweb-cli/issues/4) in [WarenGonzaga/thirdweb-cli](https://github.com/WarenGonzaga/thirdweb-cli)
-5. 🗣 Commented on [#4](https://github.com/WarenGonzaga/thirdweb-cli/issues/4) in [WarenGonzaga/thirdweb-cli](https://github.com/WarenGonzaga/thirdweb-cli)
+2. 🗣 Commented on [#6699](https://github.com/js-org/js.org/issues/6699) in [js-org/js.org](https://github.com/js-org/js.org)
+3. 🗣 Commented on [#6699](https://github.com/js-org/js.org/issues/6699) in [js-org/js.org](https://github.com/js-org/js.org)
+4. 🗣 Commented on [#6699](https://github.com/js-org/js.org/issues/6699) in [js-org/js.org](https://github.com/js-org/js.org)
+5. 💪 Opened PR [#6699](https://github.com/js-org/js.org/pull/6699) in [js-org/js.org](https://github.com/js-org/js.org)
 <!--END_SECTION:activity-->
 
 </details>
