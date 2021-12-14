@@ -73,11 +73,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#16](https://github.com/WarenGonzaga/daisy.js/issues/16) in [WarenGonzaga/daisy.js](https://github.com/WarenGonzaga/daisy.js)
-2. 🗣 Commented on [#5422](https://github.com/js-org/js.org/issues/5422) in [js-org/js.org](https://github.com/js-org/js.org)
-3. 🗣 Commented on [#11](https://github.com/WarenGonzaga/daisy.js/issues/11) in [WarenGonzaga/daisy.js](https://github.com/WarenGonzaga/daisy.js)
-4. ❗️ Closed issue [#11](https://github.com/WarenGonzaga/daisy.js/issues/11) in [WarenGonzaga/daisy.js](https://github.com/WarenGonzaga/daisy.js)
-5. 🗣 Commented on [#13](https://github.com/WarenGonzaga/daisy.js/issues/13) in [WarenGonzaga/daisy.js](https://github.com/WarenGonzaga/daisy.js)
+1. 🎉 Merged PR [#7](https://github.com/WarenGonzaga/daisy.js/pull/7) in [WarenGonzaga/daisy.js](https://github.com/WarenGonzaga/daisy.js)
+2. 🎉 Merged PR [#8](https://github.com/WarenGonzaga/daisy.js/pull/8) in [WarenGonzaga/daisy.js](https://github.com/WarenGonzaga/daisy.js)
+3. 🎉 Merged PR [#9](https://github.com/WarenGonzaga/daisy.js/pull/9) in [WarenGonzaga/daisy.js](https://github.com/WarenGonzaga/daisy.js)
+4. ❗️ Opened issue [#16](https://github.com/WarenGonzaga/daisy.js/issues/16) in [WarenGonzaga/daisy.js](https://github.com/WarenGonzaga/daisy.js)
+5. 🗣 Commented on [#5422](https://github.com/js-org/js.org/issues/5422) in [js-org/js.org](https://github.com/js-org/js.org)
 <!--END_SECTION:activity-->
 
 </details>
