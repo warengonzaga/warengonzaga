@@ -73,11 +73,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6699](https://github.com/js-org/js.org/issues/6699) in [js-org/js.org](https://github.com/js-org/js.org)
+1. ❗️ Opened issue [#2](https://github.com/angelofallars/treefetch/issues/2) in [angelofallars/treefetch](https://github.com/angelofallars/treefetch)
 2. 🗣 Commented on [#6699](https://github.com/js-org/js.org/issues/6699) in [js-org/js.org](https://github.com/js-org/js.org)
 3. 🗣 Commented on [#6699](https://github.com/js-org/js.org/issues/6699) in [js-org/js.org](https://github.com/js-org/js.org)
 4. 🗣 Commented on [#6699](https://github.com/js-org/js.org/issues/6699) in [js-org/js.org](https://github.com/js-org/js.org)
-5. 💪 Opened PR [#6699](https://github.com/js-org/js.org/pull/6699) in [js-org/js.org](https://github.com/js-org/js.org)
+5. 🗣 Commented on [#6699](https://github.com/js-org/js.org/issues/6699) in [js-org/js.org](https://github.com/js-org/js.org)
 <!--END_SECTION:activity-->
 
 </details>
