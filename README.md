@@ -73,11 +73,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6971](https://github.com/simple-icons/simple-icons/issues/6971) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-2. ❗️ Opened issue [#6971](https://github.com/simple-icons/simple-icons/issues/6971) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-3. ❗️ Opened issue [#139](https://github.com/TejasvOnly/rickrolldemo/issues/139) in [TejasvOnly/rickrolldemo](https://github.com/TejasvOnly/rickrolldemo)
-4. ❗️ Opened issue [#2](https://github.com/angelofallars/treefetch/issues/2) in [angelofallars/treefetch](https://github.com/angelofallars/treefetch)
-5. 🗣 Commented on [#6699](https://github.com/js-org/js.org/issues/6699) in [js-org/js.org](https://github.com/js-org/js.org)
+1. 🗣 Commented on [#3](https://github.com/WarenGonzaga/hashnode.js/issues/3) in [WarenGonzaga/hashnode.js](https://github.com/WarenGonzaga/hashnode.js)
+2. ❗️ Closed issue [#3](https://github.com/WarenGonzaga/hashnode.js/issues/3) in [WarenGonzaga/hashnode.js](https://github.com/WarenGonzaga/hashnode.js)
+3. 🗣 Commented on [#6971](https://github.com/simple-icons/simple-icons/issues/6971) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+4. ❗️ Opened issue [#6971](https://github.com/simple-icons/simple-icons/issues/6971) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+5. ❗️ Opened issue [#139](https://github.com/TejasvOnly/rickrolldemo/issues/139) in [TejasvOnly/rickrolldemo](https://github.com/TejasvOnly/rickrolldemo)
 <!--END_SECTION:activity-->
 
 </details>
