@@ -73,11 +73,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17](https://github.com/rookiemonkey/dummy-products-api/issues/17) in [rookiemonkey/dummy-products-api](https://github.com/rookiemonkey/dummy-products-api)
-2. 🗣 Commented on [#20](https://github.com/rookiemonkey/dummy-products-api/issues/20) in [rookiemonkey/dummy-products-api](https://github.com/rookiemonkey/dummy-products-api)
-3. 💪 Opened PR [#20](https://github.com/rookiemonkey/dummy-products-api/pull/20) in [rookiemonkey/dummy-products-api](https://github.com/rookiemonkey/dummy-products-api)
-4. ❗️ Opened issue [#25](https://github.com/WarenGonzaga/shortcodes-wp/issues/25) in [WarenGonzaga/shortcodes-wp](https://github.com/WarenGonzaga/shortcodes-wp)
-5. ❗️ Opened issue [#5](https://github.com/WarenGonzaga/thirdweb-faucet-bot/issues/5) in [WarenGonzaga/thirdweb-faucet-bot](https://github.com/WarenGonzaga/thirdweb-faucet-bot)
+1. ❗️ Opened issue [#1](https://github.com/WarenGonzaga/awesome-thirdweb/issues/1) in [WarenGonzaga/awesome-thirdweb](https://github.com/WarenGonzaga/awesome-thirdweb)
+2. 🗣 Commented on [#17](https://github.com/rookiemonkey/dummy-products-api/issues/17) in [rookiemonkey/dummy-products-api](https://github.com/rookiemonkey/dummy-products-api)
+3. 🗣 Commented on [#20](https://github.com/rookiemonkey/dummy-products-api/issues/20) in [rookiemonkey/dummy-products-api](https://github.com/rookiemonkey/dummy-products-api)
+4. 💪 Opened PR [#20](https://github.com/rookiemonkey/dummy-products-api/pull/20) in [rookiemonkey/dummy-products-api](https://github.com/rookiemonkey/dummy-products-api)
+5. ❗️ Opened issue [#25](https://github.com/WarenGonzaga/shortcodes-wp/issues/25) in [WarenGonzaga/shortcodes-wp](https://github.com/WarenGonzaga/shortcodes-wp)
 <!--END_SECTION:activity-->
 
 </details>
