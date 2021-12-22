@@ -73,11 +73,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/WarenGonzaga/hashnode.js/issues/3) in [WarenGonzaga/hashnode.js](https://github.com/WarenGonzaga/hashnode.js)
-2. ❗️ Closed issue [#3](https://github.com/WarenGonzaga/hashnode.js/issues/3) in [WarenGonzaga/hashnode.js](https://github.com/WarenGonzaga/hashnode.js)
-3. 🗣 Commented on [#6971](https://github.com/simple-icons/simple-icons/issues/6971) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-4. ❗️ Opened issue [#6971](https://github.com/simple-icons/simple-icons/issues/6971) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-5. ❗️ Opened issue [#139](https://github.com/TejasvOnly/rickrolldemo/issues/139) in [TejasvOnly/rickrolldemo](https://github.com/TejasvOnly/rickrolldemo)
+1. ❗️ Opened issue [#25](https://github.com/WarenGonzaga/shortcodes-wp/issues/25) in [WarenGonzaga/shortcodes-wp](https://github.com/WarenGonzaga/shortcodes-wp)
+2. ❗️ Opened issue [#5](https://github.com/WarenGonzaga/thirdweb-faucet-bot/issues/5) in [WarenGonzaga/thirdweb-faucet-bot](https://github.com/WarenGonzaga/thirdweb-faucet-bot)
+3. ❗️ Opened issue [#4](https://github.com/WarenGonzaga/thirdweb-faucet-bot/issues/4) in [WarenGonzaga/thirdweb-faucet-bot](https://github.com/WarenGonzaga/thirdweb-faucet-bot)
+4. ❗️ Opened issue [#3](https://github.com/WarenGonzaga/thirdweb-faucet-bot/issues/3) in [WarenGonzaga/thirdweb-faucet-bot](https://github.com/WarenGonzaga/thirdweb-faucet-bot)
+5. ❗️ Opened issue [#2](https://github.com/WarenGonzaga/thirdweb-faucet-bot/issues/2) in [WarenGonzaga/thirdweb-faucet-bot](https://github.com/WarenGonzaga/thirdweb-faucet-bot)
 <!--END_SECTION:activity-->
 
 </details>
