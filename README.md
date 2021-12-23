@@ -73,11 +73,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#15](https://github.com/WarenGonzaga/waren-discord-bot/issues/15) in [WarenGonzaga/waren-discord-bot](https://github.com/WarenGonzaga/waren-discord-bot)
-2. ❗️ Opened issue [#1](https://github.com/WarenGonzaga/awesome-thirdweb/issues/1) in [WarenGonzaga/awesome-thirdweb](https://github.com/WarenGonzaga/awesome-thirdweb)
-3. 🗣 Commented on [#17](https://github.com/rookiemonkey/dummy-products-api/issues/17) in [rookiemonkey/dummy-products-api](https://github.com/rookiemonkey/dummy-products-api)
-4. 🗣 Commented on [#20](https://github.com/rookiemonkey/dummy-products-api/issues/20) in [rookiemonkey/dummy-products-api](https://github.com/rookiemonkey/dummy-products-api)
-5. 💪 Opened PR [#20](https://github.com/rookiemonkey/dummy-products-api/pull/20) in [rookiemonkey/dummy-products-api](https://github.com/rookiemonkey/dummy-products-api)
+1. ❗️ Opened issue [#2](https://github.com/WarenGonzaga/thirdweb-wp/issues/2) in [WarenGonzaga/thirdweb-wp](https://github.com/WarenGonzaga/thirdweb-wp)
+2. ❗️ Opened issue [#1](https://github.com/WarenGonzaga/thirdweb-wp/issues/1) in [WarenGonzaga/thirdweb-wp](https://github.com/WarenGonzaga/thirdweb-wp)
+3. ❗️ Opened issue [#15](https://github.com/WarenGonzaga/waren-discord-bot/issues/15) in [WarenGonzaga/waren-discord-bot](https://github.com/WarenGonzaga/waren-discord-bot)
+4. ❗️ Opened issue [#1](https://github.com/WarenGonzaga/awesome-thirdweb/issues/1) in [WarenGonzaga/awesome-thirdweb](https://github.com/WarenGonzaga/awesome-thirdweb)
+5. 🗣 Commented on [#17](https://github.com/rookiemonkey/dummy-products-api/issues/17) in [rookiemonkey/dummy-products-api](https://github.com/rookiemonkey/dummy-products-api)
 <!--END_SECTION:activity-->
 
 </details>
