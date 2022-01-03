@@ -73,11 +73,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/stephenasuncionDEV/nfthost/pull/1) in [stephenasuncionDEV/nfthost](https://github.com/stephenasuncionDEV/nfthost)
-2. 🗣 Commented on [#3](https://github.com/WarenGonzaga/thirdweb-faucet-discord-bot/issues/3) in [WarenGonzaga/thirdweb-faucet-discord-bot](https://github.com/WarenGonzaga/thirdweb-faucet-discord-bot)
+1. ❗️ Opened issue [#16](https://github.com/WarenGonzaga/waren-discord-bot/issues/16) in [WarenGonzaga/waren-discord-bot](https://github.com/WarenGonzaga/waren-discord-bot)
+2. 💪 Opened PR [#1](https://github.com/stephenasuncionDEV/nfthost/pull/1) in [stephenasuncionDEV/nfthost](https://github.com/stephenasuncionDEV/nfthost)
 3. 🗣 Commented on [#3](https://github.com/WarenGonzaga/thirdweb-faucet-discord-bot/issues/3) in [WarenGonzaga/thirdweb-faucet-discord-bot](https://github.com/WarenGonzaga/thirdweb-faucet-discord-bot)
-4. ❗️ Opened issue [#2](https://github.com/WarenGonzaga/thirdweb-wp/issues/2) in [WarenGonzaga/thirdweb-wp](https://github.com/WarenGonzaga/thirdweb-wp)
-5. ❗️ Opened issue [#1](https://github.com/WarenGonzaga/thirdweb-wp/issues/1) in [WarenGonzaga/thirdweb-wp](https://github.com/WarenGonzaga/thirdweb-wp)
+4. 🗣 Commented on [#3](https://github.com/WarenGonzaga/thirdweb-faucet-discord-bot/issues/3) in [WarenGonzaga/thirdweb-faucet-discord-bot](https://github.com/WarenGonzaga/thirdweb-faucet-discord-bot)
+5. ❗️ Opened issue [#2](https://github.com/WarenGonzaga/thirdweb-wp/issues/2) in [WarenGonzaga/thirdweb-wp](https://github.com/WarenGonzaga/thirdweb-wp)
 <!--END_SECTION:activity-->
 
 </details>
