@@ -73,11 +73,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#21](https://github.com/WarenGonzaga/gathertown.js/issues/21) in [WarenGonzaga/gathertown.js](https://github.com/WarenGonzaga/gathertown.js)
-2. ❗️ Closed issue [#19](https://github.com/WarenGonzaga/gathertown.js/issues/19) in [WarenGonzaga/gathertown.js](https://github.com/WarenGonzaga/gathertown.js)
-3. 🗣 Commented on [#19](https://github.com/WarenGonzaga/gathertown.js/issues/19) in [WarenGonzaga/gathertown.js](https://github.com/WarenGonzaga/gathertown.js)
-4. 🗣 Commented on [#21](https://github.com/WarenGonzaga/gathertown.js/issues/21) in [WarenGonzaga/gathertown.js](https://github.com/WarenGonzaga/gathertown.js)
-5. 🎉 Merged PR [#32](https://github.com/algofilipino/homepage/pull/32) in [algofilipino/homepage](https://github.com/algofilipino/homepage)
+1. 💪 Opened PR [#15](https://github.com/WarenGonzaga/wrn-cleaner/pull/15) in [WarenGonzaga/wrn-cleaner](https://github.com/WarenGonzaga/wrn-cleaner)
+2. 🗣 Commented on [#21](https://github.com/WarenGonzaga/gathertown.js/issues/21) in [WarenGonzaga/gathertown.js](https://github.com/WarenGonzaga/gathertown.js)
+3. ❗️ Closed issue [#19](https://github.com/WarenGonzaga/gathertown.js/issues/19) in [WarenGonzaga/gathertown.js](https://github.com/WarenGonzaga/gathertown.js)
+4. 🗣 Commented on [#19](https://github.com/WarenGonzaga/gathertown.js/issues/19) in [WarenGonzaga/gathertown.js](https://github.com/WarenGonzaga/gathertown.js)
+5. 🗣 Commented on [#21](https://github.com/WarenGonzaga/gathertown.js/issues/21) in [WarenGonzaga/gathertown.js](https://github.com/WarenGonzaga/gathertown.js)
 <!--END_SECTION:activity-->
 
 </details>
