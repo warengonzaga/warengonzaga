@@ -73,11 +73,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#56](https://github.com/WarenGonzaga/buymeacoffee.js/issues/56) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
-2. ❗️ Opened issue [#17](https://github.com/WarenGonzaga/wrn-cleaner/issues/17) in [WarenGonzaga/wrn-cleaner](https://github.com/WarenGonzaga/wrn-cleaner)
-3. ❗️ Opened issue [#16](https://github.com/WarenGonzaga/wrn-cleaner/issues/16) in [WarenGonzaga/wrn-cleaner](https://github.com/WarenGonzaga/wrn-cleaner)
-4. 💪 Opened PR [#15](https://github.com/WarenGonzaga/wrn-cleaner/pull/15) in [WarenGonzaga/wrn-cleaner](https://github.com/WarenGonzaga/wrn-cleaner)
-5. 🗣 Commented on [#21](https://github.com/WarenGonzaga/gathertown.js/issues/21) in [WarenGonzaga/gathertown.js](https://github.com/WarenGonzaga/gathertown.js)
+1. ❗️ Opened issue [#26](https://github.com/WarenGonzaga/shortcodes-wp/issues/26) in [WarenGonzaga/shortcodes-wp](https://github.com/WarenGonzaga/shortcodes-wp)
+2. 🗣 Commented on [#56](https://github.com/WarenGonzaga/buymeacoffee.js/issues/56) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
+3. ❗️ Opened issue [#17](https://github.com/WarenGonzaga/wrn-cleaner/issues/17) in [WarenGonzaga/wrn-cleaner](https://github.com/WarenGonzaga/wrn-cleaner)
+4. ❗️ Opened issue [#16](https://github.com/WarenGonzaga/wrn-cleaner/issues/16) in [WarenGonzaga/wrn-cleaner](https://github.com/WarenGonzaga/wrn-cleaner)
+5. 💪 Opened PR [#15](https://github.com/WarenGonzaga/wrn-cleaner/pull/15) in [WarenGonzaga/wrn-cleaner](https://github.com/WarenGonzaga/wrn-cleaner)
 <!--END_SECTION:activity-->
 
 </details>
