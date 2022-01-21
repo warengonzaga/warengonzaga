@@ -73,11 +73,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1006](https://github.com/EddieHubCommunity/LinkFree/issues/1006) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-2. ❗️ Opened issue [#26](https://github.com/WarenGonzaga/shortcodes-wp/issues/26) in [WarenGonzaga/shortcodes-wp](https://github.com/WarenGonzaga/shortcodes-wp)
-3. 🗣 Commented on [#56](https://github.com/WarenGonzaga/buymeacoffee.js/issues/56) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
-4. ❗️ Opened issue [#17](https://github.com/WarenGonzaga/wrn-cleaner/issues/17) in [WarenGonzaga/wrn-cleaner](https://github.com/WarenGonzaga/wrn-cleaner)
-5. ❗️ Opened issue [#16](https://github.com/WarenGonzaga/wrn-cleaner/issues/16) in [WarenGonzaga/wrn-cleaner](https://github.com/WarenGonzaga/wrn-cleaner)
+1. 🎉 Merged PR [#33](https://github.com/algofilipino/homepage/pull/33) in [algofilipino/homepage](https://github.com/algofilipino/homepage)
+2. ❗️ Opened issue [#1006](https://github.com/EddieHubCommunity/LinkFree/issues/1006) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+3. ❗️ Opened issue [#26](https://github.com/WarenGonzaga/shortcodes-wp/issues/26) in [WarenGonzaga/shortcodes-wp](https://github.com/WarenGonzaga/shortcodes-wp)
+4. 🗣 Commented on [#56](https://github.com/WarenGonzaga/buymeacoffee.js/issues/56) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
+5. ❗️ Opened issue [#17](https://github.com/WarenGonzaga/wrn-cleaner/issues/17) in [WarenGonzaga/wrn-cleaner](https://github.com/WarenGonzaga/wrn-cleaner)
 <!--END_SECTION:activity-->
 
 </details>
