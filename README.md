@@ -73,11 +73,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#20](https://github.com/algofilipino/homepage/issues/20) in [algofilipino/homepage](https://github.com/algofilipino/homepage)
-2. ❗️ Closed issue [#30](https://github.com/algofilipino/homepage/issues/30) in [algofilipino/homepage](https://github.com/algofilipino/homepage)
-3. 🎉 Merged PR [#34](https://github.com/algofilipino/homepage/pull/34) in [algofilipino/homepage](https://github.com/algofilipino/homepage)
-4. 🎉 Merged PR [#33](https://github.com/algofilipino/homepage/pull/33) in [algofilipino/homepage](https://github.com/algofilipino/homepage)
-5. ❗️ Opened issue [#1006](https://github.com/EddieHubCommunity/LinkFree/issues/1006) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+1. 💪 Opened PR [#17](https://github.com/WarenGonzaga/waren-discord-bot/pull/17) in [WarenGonzaga/waren-discord-bot](https://github.com/WarenGonzaga/waren-discord-bot)
+2. 🗣 Commented on [#20](https://github.com/algofilipino/homepage/issues/20) in [algofilipino/homepage](https://github.com/algofilipino/homepage)
+3. ❗️ Closed issue [#30](https://github.com/algofilipino/homepage/issues/30) in [algofilipino/homepage](https://github.com/algofilipino/homepage)
+4. 🎉 Merged PR [#34](https://github.com/algofilipino/homepage/pull/34) in [algofilipino/homepage](https://github.com/algofilipino/homepage)
+5. 🎉 Merged PR [#33](https://github.com/algofilipino/homepage/pull/33) in [algofilipino/homepage](https://github.com/algofilipino/homepage)
 <!--END_SECTION:activity-->
 
 </details>
