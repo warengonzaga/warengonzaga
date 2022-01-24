@@ -73,11 +73,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/nachoiacovino/hashlips-to-thirdweb/pull/1) in [nachoiacovino/hashlips-to-thirdweb](https://github.com/nachoiacovino/hashlips-to-thirdweb)
-2. 💪 Opened PR [#1](https://github.com/WarenGonzaga/hashlips-to-thirdweb/pull/1) in [WarenGonzaga/hashlips-to-thirdweb](https://github.com/WarenGonzaga/hashlips-to-thirdweb)
-3. 🗣 Commented on [#1026](https://github.com/EddieHubCommunity/LinkFree/issues/1026) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-4. ❗️ Closed issue [#21](https://github.com/WarenGonzaga/shortcodes-wp/issues/21) in [WarenGonzaga/shortcodes-wp](https://github.com/WarenGonzaga/shortcodes-wp)
-5. 🗣 Commented on [#21](https://github.com/WarenGonzaga/shortcodes-wp/issues/21) in [WarenGonzaga/shortcodes-wp](https://github.com/WarenGonzaga/shortcodes-wp)
+1. 🎉 Merged PR [#96](https://github.com/wareneutron/covid19-tracker-cli/pull/96) in [wareneutron/covid19-tracker-cli](https://github.com/wareneutron/covid19-tracker-cli)
+2. 💪 Opened PR [#1](https://github.com/nachoiacovino/hashlips-to-thirdweb/pull/1) in [nachoiacovino/hashlips-to-thirdweb](https://github.com/nachoiacovino/hashlips-to-thirdweb)
+3. 💪 Opened PR [#1](https://github.com/WarenGonzaga/hashlips-to-thirdweb/pull/1) in [WarenGonzaga/hashlips-to-thirdweb](https://github.com/WarenGonzaga/hashlips-to-thirdweb)
+4. 🗣 Commented on [#1026](https://github.com/EddieHubCommunity/LinkFree/issues/1026) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+5. ❗️ Closed issue [#21](https://github.com/WarenGonzaga/shortcodes-wp/issues/21) in [WarenGonzaga/shortcodes-wp](https://github.com/WarenGonzaga/shortcodes-wp)
 <!--END_SECTION:activity-->
 
 </details>
