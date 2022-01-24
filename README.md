@@ -73,11 +73,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1026](https://github.com/EddieHubCommunity/LinkFree/issues/1026) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-2. ❗️ Closed issue [#21](https://github.com/WarenGonzaga/shortcodes-wp/issues/21) in [WarenGonzaga/shortcodes-wp](https://github.com/WarenGonzaga/shortcodes-wp)
-3. 🗣 Commented on [#21](https://github.com/WarenGonzaga/shortcodes-wp/issues/21) in [WarenGonzaga/shortcodes-wp](https://github.com/WarenGonzaga/shortcodes-wp)
-4. 💪 Opened PR [#27](https://github.com/WarenGonzaga/shortcodes-wp/pull/27) in [WarenGonzaga/shortcodes-wp](https://github.com/WarenGonzaga/shortcodes-wp)
-5. 💪 Opened PR [#17](https://github.com/WarenGonzaga/waren-discord-bot/pull/17) in [WarenGonzaga/waren-discord-bot](https://github.com/WarenGonzaga/waren-discord-bot)
+1. 💪 Opened PR [#1](https://github.com/WarenGonzaga/hashlips-to-thirdweb/pull/1) in [WarenGonzaga/hashlips-to-thirdweb](https://github.com/WarenGonzaga/hashlips-to-thirdweb)
+2. 🗣 Commented on [#1026](https://github.com/EddieHubCommunity/LinkFree/issues/1026) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+3. ❗️ Closed issue [#21](https://github.com/WarenGonzaga/shortcodes-wp/issues/21) in [WarenGonzaga/shortcodes-wp](https://github.com/WarenGonzaga/shortcodes-wp)
+4. 🗣 Commented on [#21](https://github.com/WarenGonzaga/shortcodes-wp/issues/21) in [WarenGonzaga/shortcodes-wp](https://github.com/WarenGonzaga/shortcodes-wp)
+5. 💪 Opened PR [#27](https://github.com/WarenGonzaga/shortcodes-wp/pull/27) in [WarenGonzaga/shortcodes-wp](https://github.com/WarenGonzaga/shortcodes-wp)
 <!--END_SECTION:activity-->
 
 </details>
