@@ -73,11 +73,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#59](https://github.com/WarenGonzaga/buymeacoffee.js/issues/59) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
-2. 🗣 Commented on [#21](https://github.com/WarenGonzaga/gathertown.js/issues/21) in [WarenGonzaga/gathertown.js](https://github.com/WarenGonzaga/gathertown.js)
-3. ❗️ Opened issue [#37](https://github.com/WarenGonzaga/wifi-passview/issues/37) in [WarenGonzaga/wifi-passview](https://github.com/WarenGonzaga/wifi-passview)
-4. 🎉 Merged PR [#96](https://github.com/wareneutron/covid19-tracker-cli/pull/96) in [wareneutron/covid19-tracker-cli](https://github.com/wareneutron/covid19-tracker-cli)
-5. 💪 Opened PR [#1](https://github.com/nachoiacovino/hashlips-to-thirdweb/pull/1) in [nachoiacovino/hashlips-to-thirdweb](https://github.com/nachoiacovino/hashlips-to-thirdweb)
+1. ❗️ Opened issue [#8](https://github.com/WarenGonzaga/thirdweb-cli/issues/8) in [WarenGonzaga/thirdweb-cli](https://github.com/WarenGonzaga/thirdweb-cli)
+2. ❗️ Opened issue [#59](https://github.com/WarenGonzaga/buymeacoffee.js/issues/59) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
+3. 🗣 Commented on [#21](https://github.com/WarenGonzaga/gathertown.js/issues/21) in [WarenGonzaga/gathertown.js](https://github.com/WarenGonzaga/gathertown.js)
+4. ❗️ Opened issue [#37](https://github.com/WarenGonzaga/wifi-passview/issues/37) in [WarenGonzaga/wifi-passview](https://github.com/WarenGonzaga/wifi-passview)
+5. 🎉 Merged PR [#96](https://github.com/wareneutron/covid19-tracker-cli/pull/96) in [wareneutron/covid19-tracker-cli](https://github.com/wareneutron/covid19-tracker-cli)
 <!--END_SECTION:activity-->
 
 </details>
