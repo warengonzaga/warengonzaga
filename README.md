@@ -73,11 +73,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#36](https://github.com/wareneutron/psgc-api/pull/36) in [wareneutron/psgc-api](https://github.com/wareneutron/psgc-api)
-2. 🎉 Merged PR [#11](https://github.com/oss-ph/pinoy-made/pull/11) in [oss-ph/pinoy-made](https://github.com/oss-ph/pinoy-made)
-3. 🗣 Commented on [#11](https://github.com/oss-ph/pinoy-made/issues/11) in [oss-ph/pinoy-made](https://github.com/oss-ph/pinoy-made)
-4. ❗️ Opened issue [#8](https://github.com/WarenGonzaga/thirdweb-cli/issues/8) in [WarenGonzaga/thirdweb-cli](https://github.com/WarenGonzaga/thirdweb-cli)
-5. ❗️ Opened issue [#59](https://github.com/WarenGonzaga/buymeacoffee.js/issues/59) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
+1. ❗️ Closed issue [#3](https://github.com/wareneutron/expandurl-cli/issues/3) in [wareneutron/expandurl-cli](https://github.com/wareneutron/expandurl-cli)
+2. 🗣 Commented on [#3](https://github.com/wareneutron/expandurl-cli/issues/3) in [wareneutron/expandurl-cli](https://github.com/wareneutron/expandurl-cli)
+3. 💪 Opened PR [#4](https://github.com/wareneutron/expandurl-cli/pull/4) in [wareneutron/expandurl-cli](https://github.com/wareneutron/expandurl-cli)
+4. ❗️ Closed issue [#2](https://github.com/wareneutron/expandurl-cli/issues/2) in [wareneutron/expandurl-cli](https://github.com/wareneutron/expandurl-cli)
+5. 🗣 Commented on [#2](https://github.com/wareneutron/expandurl-cli/issues/2) in [wareneutron/expandurl-cli](https://github.com/wareneutron/expandurl-cli)
 <!--END_SECTION:activity-->
 
 </details>
