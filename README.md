@@ -73,11 +73,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#38](https://github.com/WarenGonzaga/wifi-passview/issues/38) in [WarenGonzaga/wifi-passview](https://github.com/WarenGonzaga/wifi-passview)
-2. ❗️ Closed issue [#3](https://github.com/wareneutron/expandurl-cli/issues/3) in [wareneutron/expandurl-cli](https://github.com/wareneutron/expandurl-cli)
-3. 🗣 Commented on [#3](https://github.com/wareneutron/expandurl-cli/issues/3) in [wareneutron/expandurl-cli](https://github.com/wareneutron/expandurl-cli)
-4. 💪 Opened PR [#4](https://github.com/wareneutron/expandurl-cli/pull/4) in [wareneutron/expandurl-cli](https://github.com/wareneutron/expandurl-cli)
-5. ❗️ Closed issue [#2](https://github.com/wareneutron/expandurl-cli/issues/2) in [wareneutron/expandurl-cli](https://github.com/wareneutron/expandurl-cli)
+1. 🗣 Commented on [#37](https://github.com/WarenGonzaga/wifi-passview/issues/37) in [WarenGonzaga/wifi-passview](https://github.com/WarenGonzaga/wifi-passview)
+2. 🗣 Commented on [#38](https://github.com/WarenGonzaga/wifi-passview/issues/38) in [WarenGonzaga/wifi-passview](https://github.com/WarenGonzaga/wifi-passview)
+3. ❗️ Closed issue [#3](https://github.com/wareneutron/expandurl-cli/issues/3) in [wareneutron/expandurl-cli](https://github.com/wareneutron/expandurl-cli)
+4. 🗣 Commented on [#3](https://github.com/wareneutron/expandurl-cli/issues/3) in [wareneutron/expandurl-cli](https://github.com/wareneutron/expandurl-cli)
+5. 💪 Opened PR [#4](https://github.com/wareneutron/expandurl-cli/pull/4) in [wareneutron/expandurl-cli](https://github.com/wareneutron/expandurl-cli)
 <!--END_SECTION:activity-->
 
 </details>
