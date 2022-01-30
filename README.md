@@ -73,10 +73,10 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#21](https://github.com/WarenGonzaga/gathertown.js/issues/21) in [WarenGonzaga/gathertown.js](https://github.com/WarenGonzaga/gathertown.js)
-2. 🗣 Commented on [#21](https://github.com/WarenGonzaga/gathertown.js/issues/21) in [WarenGonzaga/gathertown.js](https://github.com/WarenGonzaga/gathertown.js)
-3. 🎉 Merged PR [#42](https://github.com/WarenGonzaga/gathertown.js/pull/42) in [WarenGonzaga/gathertown.js](https://github.com/WarenGonzaga/gathertown.js)
-4. 🗣 Commented on [#42](https://github.com/WarenGonzaga/gathertown.js/issues/42) in [WarenGonzaga/gathertown.js](https://github.com/WarenGonzaga/gathertown.js)
+1. 🗣 Commented on [#1273](https://github.com/animate-css/animate.css/issues/1273) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+2. 🗣 Commented on [#1364](https://github.com/animate-css/animate.css/issues/1364) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+3. 💪 Opened PR [#1463](https://github.com/animate-css/animate.css/pull/1463) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+4. ❗️ Closed issue [#21](https://github.com/WarenGonzaga/gathertown.js/issues/21) in [WarenGonzaga/gathertown.js](https://github.com/WarenGonzaga/gathertown.js)
 5. 🗣 Commented on [#21](https://github.com/WarenGonzaga/gathertown.js/issues/21) in [WarenGonzaga/gathertown.js](https://github.com/WarenGonzaga/gathertown.js)
 <!--END_SECTION:activity-->
 
