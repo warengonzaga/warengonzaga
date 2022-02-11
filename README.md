@@ -73,11 +73,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3](https://github.com/WarenGonzaga/thirdweb-wp/issues/3) in [WarenGonzaga/thirdweb-wp](https://github.com/WarenGonzaga/thirdweb-wp)
-2. 💪 Opened PR [#1](https://github.com/ahmet/awesome-web3/pull/1) in [ahmet/awesome-web3](https://github.com/ahmet/awesome-web3)
-3. 💪 Opened PR [#24](https://github.com/bekatom/awesome-ethereum/pull/24) in [bekatom/awesome-ethereum](https://github.com/bekatom/awesome-ethereum)
-4. 💪 Opened PR [#11](https://github.com/jasonwalsh/awesome-dapps/pull/11) in [jasonwalsh/awesome-dapps](https://github.com/jasonwalsh/awesome-dapps)
-5. 🗣 Commented on [#1273](https://github.com/animate-css/animate.css/issues/1273) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+1. 🗣 Commented on [#36](https://github.com/algofilipino/homepage/issues/36) in [algofilipino/homepage](https://github.com/algofilipino/homepage)
+2. ❗️ Opened issue [#3](https://github.com/WarenGonzaga/thirdweb-wp/issues/3) in [WarenGonzaga/thirdweb-wp](https://github.com/WarenGonzaga/thirdweb-wp)
+3. 💪 Opened PR [#1](https://github.com/ahmet/awesome-web3/pull/1) in [ahmet/awesome-web3](https://github.com/ahmet/awesome-web3)
+4. 💪 Opened PR [#24](https://github.com/bekatom/awesome-ethereum/pull/24) in [bekatom/awesome-ethereum](https://github.com/bekatom/awesome-ethereum)
+5. 💪 Opened PR [#11](https://github.com/jasonwalsh/awesome-dapps/pull/11) in [jasonwalsh/awesome-dapps](https://github.com/jasonwalsh/awesome-dapps)
 <!--END_SECTION:activity-->
 
 </details>
