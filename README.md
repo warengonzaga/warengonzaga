@@ -73,11 +73,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#36](https://github.com/algofilipino/homepage/issues/36) in [algofilipino/homepage](https://github.com/algofilipino/homepage)
-2. ❗️ Opened issue [#3](https://github.com/WarenGonzaga/thirdweb-wp/issues/3) in [WarenGonzaga/thirdweb-wp](https://github.com/WarenGonzaga/thirdweb-wp)
-3. 💪 Opened PR [#1](https://github.com/ahmet/awesome-web3/pull/1) in [ahmet/awesome-web3](https://github.com/ahmet/awesome-web3)
-4. 💪 Opened PR [#24](https://github.com/bekatom/awesome-ethereum/pull/24) in [bekatom/awesome-ethereum](https://github.com/bekatom/awesome-ethereum)
-5. 💪 Opened PR [#11](https://github.com/jasonwalsh/awesome-dapps/pull/11) in [jasonwalsh/awesome-dapps](https://github.com/jasonwalsh/awesome-dapps)
+1. ❗️ Opened issue [#3564](https://github.com/EddieHubCommunity/support/issues/3564) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+2. ❗️ Opened issue [#3563](https://github.com/EddieHubCommunity/support/issues/3563) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+3. ❗️ Opened issue [#3562](https://github.com/EddieHubCommunity/support/issues/3562) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+4. 🗣 Commented on [#36](https://github.com/algofilipino/homepage/issues/36) in [algofilipino/homepage](https://github.com/algofilipino/homepage)
+5. ❗️ Opened issue [#3](https://github.com/WarenGonzaga/thirdweb-wp/issues/3) in [WarenGonzaga/thirdweb-wp](https://github.com/WarenGonzaga/thirdweb-wp)
 <!--END_SECTION:activity-->
 
 </details>
