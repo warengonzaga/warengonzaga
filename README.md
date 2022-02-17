@@ -73,11 +73,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#35](https://github.com/algofilipino/homepage/issues/35) in [algofilipino/homepage](https://github.com/algofilipino/homepage)
-2. ❗️ Opened issue [#3564](https://github.com/EddieHubCommunity/support/issues/3564) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-3. ❗️ Opened issue [#3563](https://github.com/EddieHubCommunity/support/issues/3563) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-4. ❗️ Opened issue [#3562](https://github.com/EddieHubCommunity/support/issues/3562) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-5. 🗣 Commented on [#36](https://github.com/algofilipino/homepage/issues/36) in [algofilipino/homepage](https://github.com/algofilipino/homepage)
+1. ❗️ Closed issue [#19](https://github.com/algofilipino/homepage/issues/19) in [algofilipino/homepage](https://github.com/algofilipino/homepage)
+2. 🗣 Commented on [#19](https://github.com/algofilipino/homepage/issues/19) in [algofilipino/homepage](https://github.com/algofilipino/homepage)
+3. 🗣 Commented on [#35](https://github.com/algofilipino/homepage/issues/35) in [algofilipino/homepage](https://github.com/algofilipino/homepage)
+4. ❗️ Opened issue [#3564](https://github.com/EddieHubCommunity/support/issues/3564) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+5. ❗️ Opened issue [#3563](https://github.com/EddieHubCommunity/support/issues/3563) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 <!--END_SECTION:activity-->
 
 </details>
