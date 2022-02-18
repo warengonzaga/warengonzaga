@@ -73,11 +73,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#35](https://github.com/algofilipino/homepage/pull/35) in [algofilipino/homepage](https://github.com/algofilipino/homepage)
-2. 🎉 Merged PR [#40](https://github.com/algofilipino/homepage/pull/40) in [algofilipino/homepage](https://github.com/algofilipino/homepage)
-3. ❗️ Closed issue [#19](https://github.com/algofilipino/homepage/issues/19) in [algofilipino/homepage](https://github.com/algofilipino/homepage)
-4. 🗣 Commented on [#19](https://github.com/algofilipino/homepage/issues/19) in [algofilipino/homepage](https://github.com/algofilipino/homepage)
-5. 🗣 Commented on [#35](https://github.com/algofilipino/homepage/issues/35) in [algofilipino/homepage](https://github.com/algofilipino/homepage)
+1. 🎉 Merged PR [#97](https://github.com/wareneutron/covid19-tracker-cli/pull/97) in [wareneutron/covid19-tracker-cli](https://github.com/wareneutron/covid19-tracker-cli)
+2. ❌ Closed PR [#35](https://github.com/algofilipino/homepage/pull/35) in [algofilipino/homepage](https://github.com/algofilipino/homepage)
+3. 🎉 Merged PR [#40](https://github.com/algofilipino/homepage/pull/40) in [algofilipino/homepage](https://github.com/algofilipino/homepage)
+4. ❗️ Closed issue [#19](https://github.com/algofilipino/homepage/issues/19) in [algofilipino/homepage](https://github.com/algofilipino/homepage)
+5. 🗣 Commented on [#19](https://github.com/algofilipino/homepage/issues/19) in [algofilipino/homepage](https://github.com/algofilipino/homepage)
 <!--END_SECTION:activity-->
 
 </details>
