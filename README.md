@@ -73,11 +73,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3563](https://github.com/EddieHubCommunity/support/issues/3563) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-2. 🗣 Commented on [#3564](https://github.com/EddieHubCommunity/support/issues/3564) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-3. 🎉 Merged PR [#97](https://github.com/wareneutron/covid19-tracker-cli/pull/97) in [wareneutron/covid19-tracker-cli](https://github.com/wareneutron/covid19-tracker-cli)
-4. ❌ Closed PR [#35](https://github.com/algofilipino/homepage/pull/35) in [algofilipino/homepage](https://github.com/algofilipino/homepage)
-5. 🎉 Merged PR [#40](https://github.com/algofilipino/homepage/pull/40) in [algofilipino/homepage](https://github.com/algofilipino/homepage)
+1. 🗣 Commented on [#3562](https://github.com/EddieHubCommunity/support/issues/3562) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+2. 🗣 Commented on [#3563](https://github.com/EddieHubCommunity/support/issues/3563) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+3. 🗣 Commented on [#3564](https://github.com/EddieHubCommunity/support/issues/3564) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+4. 🎉 Merged PR [#97](https://github.com/wareneutron/covid19-tracker-cli/pull/97) in [wareneutron/covid19-tracker-cli](https://github.com/wareneutron/covid19-tracker-cli)
+5. ❌ Closed PR [#35](https://github.com/algofilipino/homepage/pull/35) in [algofilipino/homepage](https://github.com/algofilipino/homepage)
 <!--END_SECTION:activity-->
 
 </details>
