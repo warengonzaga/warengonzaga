@@ -73,11 +73,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#42](https://github.com/algofilipino/homepage/pull/42) in [algofilipino/homepage](https://github.com/algofilipino/homepage)
-2. ❗️ Closed issue [#18](https://github.com/algofilipino/homepage/issues/18) in [algofilipino/homepage](https://github.com/algofilipino/homepage)
-3. 🗣 Commented on [#18](https://github.com/algofilipino/homepage/issues/18) in [algofilipino/homepage](https://github.com/algofilipino/homepage)
-4. 🎉 Merged PR [#41](https://github.com/algofilipino/homepage/pull/41) in [algofilipino/homepage](https://github.com/algofilipino/homepage)
-5. 🗣 Commented on [#41](https://github.com/algofilipino/homepage/issues/41) in [algofilipino/homepage](https://github.com/algofilipino/homepage)
+1. 🎉 Merged PR [#42](https://github.com/algofilipino/homepage/pull/42) in [algofilipino/homepage](https://github.com/algofilipino/homepage)
+2. 💪 Opened PR [#42](https://github.com/algofilipino/homepage/pull/42) in [algofilipino/homepage](https://github.com/algofilipino/homepage)
+3. ❗️ Closed issue [#18](https://github.com/algofilipino/homepage/issues/18) in [algofilipino/homepage](https://github.com/algofilipino/homepage)
+4. 🗣 Commented on [#18](https://github.com/algofilipino/homepage/issues/18) in [algofilipino/homepage](https://github.com/algofilipino/homepage)
+5. 🎉 Merged PR [#41](https://github.com/algofilipino/homepage/pull/41) in [algofilipino/homepage](https://github.com/algofilipino/homepage)
 <!--END_SECTION:activity-->
 
 </details>
