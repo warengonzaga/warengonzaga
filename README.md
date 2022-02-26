@@ -73,11 +73,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4](https://github.com/WarenGonzaga/thirdweb-wp/issues/4) in [WarenGonzaga/thirdweb-wp](https://github.com/WarenGonzaga/thirdweb-wp)
-2. ❗️ Opened issue [#47](https://github.com/algofilipino/homepage/issues/47) in [algofilipino/homepage](https://github.com/algofilipino/homepage)
-3. 🎉 Merged PR [#42](https://github.com/algofilipino/homepage/pull/42) in [algofilipino/homepage](https://github.com/algofilipino/homepage)
-4. 💪 Opened PR [#42](https://github.com/algofilipino/homepage/pull/42) in [algofilipino/homepage](https://github.com/algofilipino/homepage)
-5. ❗️ Closed issue [#18](https://github.com/algofilipino/homepage/issues/18) in [algofilipino/homepage](https://github.com/algofilipino/homepage)
+1. 💪 Opened PR [#1485](https://github.com/animate-css/animate.css/pull/1485) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+2. ❗️ Opened issue [#4](https://github.com/WarenGonzaga/thirdweb-wp/issues/4) in [WarenGonzaga/thirdweb-wp](https://github.com/WarenGonzaga/thirdweb-wp)
+3. ❗️ Opened issue [#47](https://github.com/algofilipino/homepage/issues/47) in [algofilipino/homepage](https://github.com/algofilipino/homepage)
+4. 🎉 Merged PR [#42](https://github.com/algofilipino/homepage/pull/42) in [algofilipino/homepage](https://github.com/algofilipino/homepage)
+5. 💪 Opened PR [#42](https://github.com/algofilipino/homepage/pull/42) in [algofilipino/homepage](https://github.com/algofilipino/homepage)
 <!--END_SECTION:activity-->
 
 </details>
