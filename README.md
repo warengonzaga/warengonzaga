@@ -73,11 +73,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2](https://github.com/warengonzaga/spinupwp.js/issues/2) in [warengonzaga/spinupwp.js](https://github.com/warengonzaga/spinupwp.js)
-2. 🗣 Commented on [#2](https://github.com/warengonzaga/spinupwp.js/issues/2) in [warengonzaga/spinupwp.js](https://github.com/warengonzaga/spinupwp.js)
-3. 🗣 Commented on [#1483](https://github.com/animate-css/animate.css/issues/1483) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+1. ❗️ Opened issue [#43](https://github.com/warengonzaga/gathertown.js/issues/43) in [warengonzaga/gathertown.js](https://github.com/warengonzaga/gathertown.js)
+2. ❗️ Closed issue [#2](https://github.com/warengonzaga/spinupwp.js/issues/2) in [warengonzaga/spinupwp.js](https://github.com/warengonzaga/spinupwp.js)
+3. 🗣 Commented on [#2](https://github.com/warengonzaga/spinupwp.js/issues/2) in [warengonzaga/spinupwp.js](https://github.com/warengonzaga/spinupwp.js)
 4. 🗣 Commented on [#1483](https://github.com/animate-css/animate.css/issues/1483) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
-5. 💪 Opened PR [#1486](https://github.com/animate-css/animate.css/pull/1486) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+5. 🗣 Commented on [#1483](https://github.com/animate-css/animate.css/issues/1483) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
 <!--END_SECTION:activity-->
 
 </details>
