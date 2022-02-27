@@ -73,11 +73,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#4](https://github.com/warengonzaga/spinupwp.js/issues/4) in [warengonzaga/spinupwp.js](https://github.com/warengonzaga/spinupwp.js)
-2. 🗣 Commented on [#4](https://github.com/warengonzaga/spinupwp.js/issues/4) in [warengonzaga/spinupwp.js](https://github.com/warengonzaga/spinupwp.js)
-3. ❗️ Closed issue [#3](https://github.com/warengonzaga/spinupwp.js/issues/3) in [warengonzaga/spinupwp.js](https://github.com/warengonzaga/spinupwp.js)
-4. 🗣 Commented on [#3](https://github.com/warengonzaga/spinupwp.js/issues/3) in [warengonzaga/spinupwp.js](https://github.com/warengonzaga/spinupwp.js)
-5. ❗️ Opened issue [#43](https://github.com/warengonzaga/gathertown.js/issues/43) in [warengonzaga/gathertown.js](https://github.com/warengonzaga/gathertown.js)
+1. ❗️ Closed issue [#3](https://github.com/warengonzaga/gumroad.js/issues/3) in [warengonzaga/gumroad.js](https://github.com/warengonzaga/gumroad.js)
+2. 🗣 Commented on [#3](https://github.com/warengonzaga/gumroad.js/issues/3) in [warengonzaga/gumroad.js](https://github.com/warengonzaga/gumroad.js)
+3. ❗️ Closed issue [#4](https://github.com/warengonzaga/spinupwp.js/issues/4) in [warengonzaga/spinupwp.js](https://github.com/warengonzaga/spinupwp.js)
+4. 🗣 Commented on [#4](https://github.com/warengonzaga/spinupwp.js/issues/4) in [warengonzaga/spinupwp.js](https://github.com/warengonzaga/spinupwp.js)
+5. ❗️ Closed issue [#3](https://github.com/warengonzaga/spinupwp.js/issues/3) in [warengonzaga/spinupwp.js](https://github.com/warengonzaga/spinupwp.js)
 <!--END_SECTION:activity-->
 
 </details>
