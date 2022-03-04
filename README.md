@@ -73,11 +73,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#4](https://github.com/warengonzaga/buymeacoffee.js/issues/4) in [warengonzaga/buymeacoffee.js](https://github.com/warengonzaga/buymeacoffee.js)
-2. 🗣 Commented on [#4](https://github.com/warengonzaga/buymeacoffee.js/issues/4) in [warengonzaga/buymeacoffee.js](https://github.com/warengonzaga/buymeacoffee.js)
-3. 🗣 Commented on [#23](https://github.com/warengonzaga/buymeacoffee.js/issues/23) in [warengonzaga/buymeacoffee.js](https://github.com/warengonzaga/buymeacoffee.js)
-4. ❗️ Closed issue [#3](https://github.com/warengonzaga/gumroad.js/issues/3) in [warengonzaga/gumroad.js](https://github.com/warengonzaga/gumroad.js)
-5. 🗣 Commented on [#3](https://github.com/warengonzaga/gumroad.js/issues/3) in [warengonzaga/gumroad.js](https://github.com/warengonzaga/gumroad.js)
+1. 🗣 Commented on [#275](https://github.com/thirdweb-dev/typescript-sdk/issues/275) in [thirdweb-dev/typescript-sdk](https://github.com/thirdweb-dev/typescript-sdk)
+2. ❗️ Closed issue [#4](https://github.com/warengonzaga/buymeacoffee.js/issues/4) in [warengonzaga/buymeacoffee.js](https://github.com/warengonzaga/buymeacoffee.js)
+3. 🗣 Commented on [#4](https://github.com/warengonzaga/buymeacoffee.js/issues/4) in [warengonzaga/buymeacoffee.js](https://github.com/warengonzaga/buymeacoffee.js)
+4. 🗣 Commented on [#23](https://github.com/warengonzaga/buymeacoffee.js/issues/23) in [warengonzaga/buymeacoffee.js](https://github.com/warengonzaga/buymeacoffee.js)
+5. ❗️ Closed issue [#3](https://github.com/warengonzaga/gumroad.js/issues/3) in [warengonzaga/gumroad.js](https://github.com/warengonzaga/gumroad.js)
 <!--END_SECTION:activity-->
 
 </details>
