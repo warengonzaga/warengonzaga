@@ -73,11 +73,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#129](https://github.com/thirdweb-dev/contracts/pull/129) in [thirdweb-dev/contracts](https://github.com/thirdweb-dev/contracts)
-2. 💪 Opened PR [#276](https://github.com/thirdweb-dev/typescript-sdk/pull/276) in [thirdweb-dev/typescript-sdk](https://github.com/thirdweb-dev/typescript-sdk)
-3. 🗣 Commented on [#275](https://github.com/thirdweb-dev/typescript-sdk/issues/275) in [thirdweb-dev/typescript-sdk](https://github.com/thirdweb-dev/typescript-sdk)
-4. ❗️ Closed issue [#4](https://github.com/warengonzaga/buymeacoffee.js/issues/4) in [warengonzaga/buymeacoffee.js](https://github.com/warengonzaga/buymeacoffee.js)
-5. 🗣 Commented on [#4](https://github.com/warengonzaga/buymeacoffee.js/issues/4) in [warengonzaga/buymeacoffee.js](https://github.com/warengonzaga/buymeacoffee.js)
+1. 🗣 Commented on [#1316](https://github.com/animate-css/animate.css/issues/1316) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+2. 💪 Opened PR [#129](https://github.com/thirdweb-dev/contracts/pull/129) in [thirdweb-dev/contracts](https://github.com/thirdweb-dev/contracts)
+3. 💪 Opened PR [#276](https://github.com/thirdweb-dev/typescript-sdk/pull/276) in [thirdweb-dev/typescript-sdk](https://github.com/thirdweb-dev/typescript-sdk)
+4. 🗣 Commented on [#275](https://github.com/thirdweb-dev/typescript-sdk/issues/275) in [thirdweb-dev/typescript-sdk](https://github.com/thirdweb-dev/typescript-sdk)
+5. ❗️ Closed issue [#4](https://github.com/warengonzaga/buymeacoffee.js/issues/4) in [warengonzaga/buymeacoffee.js](https://github.com/warengonzaga/buymeacoffee.js)
 <!--END_SECTION:activity-->
 
 </details>
