@@ -14,19 +14,14 @@ I'm a Filipino freelance software engineer, opensource developer advocate, cyber
 
 🎙 [Recent Tech Talks](https://work.warengonzaga.com/warengonzaga/collections/1284) • 📦 [Open Source Updates](https://work.warengonzaga.com/warengonzaga/collections/1194)
 
-- 💪 Currently working as a freelance software engineer.
-- 🔏 Bug bounty hunter in free time.
-- 💝 Author of multiple open source projects (~40 to date).
+- 💝 Author of multiple open source projects (~50 to date).
+- 💼 Community Manager, [thirdweb](https://github.com/thirdweb-dev), Web3 SDK for Developers, No Code Tools for NFT Artists.
 - 💼 Founder and CEO, [WG Co.](https://github.com/wgcompanyhq), a start-up MSP for start-ups and MSMEs.
 - 👨‍🔬 Founder and CEO, [Amihan Tecchnologies](https://github.com/amihantech), a tech start-up.
 - 🖥️ Founder and Lead Developer of [Wareneutron Developers](https://github.com/wareneutron), popular pinoy open-source dev team.
 - 💞 Executive Director, [Algo Filipino](https://github.com/algofilipino), non-profit organization for language and technology.
+- 🔏 Bug bounty hunter in free time.
 - ☕ Coffee lover, turning it into code, [you can buy me a coffee](https://buymeacoff.ee/warengonzaga)!
-- 🏆 2021 Goals:
-  - Become part of GitHub Stars.
-  - Contribute and publish more open source projects.
-  - Publish my first SaaS project.
-  - ~~Improve and expand my freelancing business.~~
 - 🎯 Wasting my time to save other people's time.
 - 💡 [Learn more about me](https://bio.link/warengonzaga).
 
@@ -38,7 +33,7 @@ I'm a Filipino freelance software engineer, opensource developer advocate, cyber
 
 ## 🔧 Technologies
 
-![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS3](https://img.icons8.com/color/30/css3.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)![NodeJS](https://img.icons8.com/color/30/nodejs.png)![PHP](https://img.icons8.com/color/30/php.png)![WordPress](https://img.icons8.com/color/30/wordpress.png)![SASS](https://img.icons8.com/color/30/sass.png)![NPM](https://img.icons8.com/color/30/npm.png)![Github](https://img.icons8.com/material-outlined/30/github.png)![Bitbucket](https://img.icons8.com/color/30/bitbucket.png)![Gitlab](https://img.icons8.com/color/30/gitlab.png)![Git](https://img.icons8.com/color/30/git.png)![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)![VueJS](https://img.icons8.com/color/30/vue-js.png)![Flutter](https://img.icons8.com/color/30/flutter.png)![ReactJS](https://img.icons8.com/color/30/react-native.png)![AngularJS](https://img.icons8.com/color/30/angularjs.png)![Windows](https://img.icons8.com/color/30/windows-10.png)![Ubuntu](https://img.icons8.com/color/30/ubuntu--v1.png)![Linux](https://img.icons8.com/color/30/linux.png)![Kali Linux](https://img.icons8.com/color/30/kali-linux.png)![Console](https://img.icons8.com/color/30/console.png)
+![skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,php,wordpress,nodejs,vue,react,mongodb,mysql,py,vim,docker,kubernetes,md,git,figma,bash,cloudflare,jquery,nginx)
 
 ## 🌏 My Community
 
@@ -102,12 +97,12 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
 
 ---
 
-:computer: Made with :heart: by **Waren Gonzaga** with **YHWH** :pray: | **[Citizen of Heaven](https://youtu.be/GwirdlbkUD8?t=150)** ▶️
+💻💖☕ by [Waren Gonzaga](https://warengonzaga.com) | [YHWH](https://youtu.be/9vh6Dz9oh8I?t=85) 🙏
 
 [personal website]: https://warengonzaga.com
 [business website]: https://wgcompanyhq.com
 [biolink]: https://bio.link/warengonzaga
 [facebook]: https://facebook.com/warengonzagaofficial
 [twitter]: https://twitter.com/warengonzaga
-[instagram]: https://instagram.com/warengonzagaofficial
+[instagram]: https://instagram.com/wrngnzg
 [youtube]: https://youtube.com/warengonzaga
