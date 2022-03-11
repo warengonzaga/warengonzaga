@@ -73,11 +73,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1316](https://github.com/animate-css/animate.css/issues/1316) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+1. 💪 Opened PR [#7](https://github.com/tandpfun/skill-icons/pull/7) in [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons)
 2. 🗣 Commented on [#1316](https://github.com/animate-css/animate.css/issues/1316) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
 3. 🗣 Commented on [#1316](https://github.com/animate-css/animate.css/issues/1316) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
-4. 💪 Opened PR [#129](https://github.com/thirdweb-dev/contracts/pull/129) in [thirdweb-dev/contracts](https://github.com/thirdweb-dev/contracts)
-5. 💪 Opened PR [#276](https://github.com/thirdweb-dev/typescript-sdk/pull/276) in [thirdweb-dev/typescript-sdk](https://github.com/thirdweb-dev/typescript-sdk)
+4. 🗣 Commented on [#1316](https://github.com/animate-css/animate.css/issues/1316) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+5. 💪 Opened PR [#129](https://github.com/thirdweb-dev/contracts/pull/129) in [thirdweb-dev/contracts](https://github.com/thirdweb-dev/contracts)
 <!--END_SECTION:activity-->
 
 </details>
