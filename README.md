@@ -68,11 +68,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14](https://github.com/tandpfun/skill-icons/issues/14) in [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons)
-2. ❗️ Opened issue [#19](https://github.com/tandpfun/skill-icons/issues/19) in [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons)
-3. 🗣 Commented on [#15](https://github.com/tandpfun/skill-icons/issues/15) in [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons)
-4. 🗣 Commented on [#18](https://github.com/tandpfun/skill-icons/issues/18) in [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons)
-5. 💪 Opened PR [#18](https://github.com/tandpfun/skill-icons/pull/18) in [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons)
+1. 🗣 Commented on [#18](https://github.com/tandpfun/skill-icons/issues/18) in [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons)
+2. ❗️ Closed issue [#19](https://github.com/tandpfun/skill-icons/issues/19) in [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons)
+3. 🗣 Commented on [#19](https://github.com/tandpfun/skill-icons/issues/19) in [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons)
+4. 🗣 Commented on [#14](https://github.com/tandpfun/skill-icons/issues/14) in [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons)
+5. ❗️ Opened issue [#19](https://github.com/tandpfun/skill-icons/issues/19) in [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons)
 <!--END_SECTION:activity-->
 
 </details>
