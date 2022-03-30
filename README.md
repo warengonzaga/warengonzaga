@@ -68,11 +68,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#80](https://github.com/wareneutron/covid19-tracker-cli/issues/80) in [wareneutron/covid19-tracker-cli](https://github.com/wareneutron/covid19-tracker-cli)
-2. 🗣 Commented on [#80](https://github.com/wareneutron/covid19-tracker-cli/issues/80) in [wareneutron/covid19-tracker-cli](https://github.com/wareneutron/covid19-tracker-cli)
-3. ❗️ Closed issue [#94](https://github.com/wareneutron/covid19-tracker-cli/issues/94) in [wareneutron/covid19-tracker-cli](https://github.com/wareneutron/covid19-tracker-cli)
-4. 🗣 Commented on [#94](https://github.com/wareneutron/covid19-tracker-cli/issues/94) in [wareneutron/covid19-tracker-cli](https://github.com/wareneutron/covid19-tracker-cli)
-5. ❗️ Closed issue [#90](https://github.com/wareneutron/covid19-tracker-cli/issues/90) in [wareneutron/covid19-tracker-cli](https://github.com/wareneutron/covid19-tracker-cli)
+1. ❗️ Closed issue [#87](https://github.com/wareneutron/covid19-tracker-cli/issues/87) in [wareneutron/covid19-tracker-cli](https://github.com/wareneutron/covid19-tracker-cli)
+2. 🗣 Commented on [#87](https://github.com/wareneutron/covid19-tracker-cli/issues/87) in [wareneutron/covid19-tracker-cli](https://github.com/wareneutron/covid19-tracker-cli)
+3. ❗️ Closed issue [#80](https://github.com/wareneutron/covid19-tracker-cli/issues/80) in [wareneutron/covid19-tracker-cli](https://github.com/wareneutron/covid19-tracker-cli)
+4. 🗣 Commented on [#80](https://github.com/wareneutron/covid19-tracker-cli/issues/80) in [wareneutron/covid19-tracker-cli](https://github.com/wareneutron/covid19-tracker-cli)
+5. ❗️ Closed issue [#94](https://github.com/wareneutron/covid19-tracker-cli/issues/94) in [wareneutron/covid19-tracker-cli](https://github.com/wareneutron/covid19-tracker-cli)
 <!--END_SECTION:activity-->
 
 </details>
