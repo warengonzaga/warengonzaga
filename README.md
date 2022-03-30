@@ -68,11 +68,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#140](https://github.com/thirdweb-dev/contracts/issues/140) in [thirdweb-dev/contracts](https://github.com/thirdweb-dev/contracts)
-2. 🎉 Merged PR [#98](https://github.com/wareneutron/covid19-tracker-cli/pull/98) in [wareneutron/covid19-tracker-cli](https://github.com/wareneutron/covid19-tracker-cli)
-3. 💪 Opened PR [#1509](https://github.com/animate-css/animate.css/pull/1509) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
-4. 🗣 Commented on [#1382](https://github.com/animate-css/animate.css/issues/1382) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
-5. 🗣 Commented on [#1507](https://github.com/animate-css/animate.css/issues/1507) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+1. 🗣 Commented on [#6971](https://github.com/simple-icons/simple-icons/issues/6971) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+2. 🗣 Commented on [#5554](https://github.com/simple-icons/simple-icons/issues/5554) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+3. 🗣 Commented on [#140](https://github.com/thirdweb-dev/contracts/issues/140) in [thirdweb-dev/contracts](https://github.com/thirdweb-dev/contracts)
+4. 🎉 Merged PR [#98](https://github.com/wareneutron/covid19-tracker-cli/pull/98) in [wareneutron/covid19-tracker-cli](https://github.com/wareneutron/covid19-tracker-cli)
+5. 💪 Opened PR [#1509](https://github.com/animate-css/animate.css/pull/1509) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
 <!--END_SECTION:activity-->
 
 </details>
