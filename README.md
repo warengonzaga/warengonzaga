@@ -97,7 +97,7 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
 
 ---
 
-💻💖☕ by [Waren Gonzaga](https://warengonzaga.com) | [YHWH](https://youtu.be/9vh6Dz9oh8I?t=85) 🙏
+💻💖☕ by [Waren Gonzaga](https://warengonzaga.com) | [YHWH](https://youtu.be/HHrxS4diLew?t=44) 🙏
 
 [personal website]: https://warengonzaga.com
 [business website]: https://wgcompanyhq.com
