@@ -68,11 +68,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1509](https://github.com/animate-css/animate.css/pull/1509) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
-2. 🗣 Commented on [#1382](https://github.com/animate-css/animate.css/issues/1382) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
-3. 🗣 Commented on [#1507](https://github.com/animate-css/animate.css/issues/1507) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
-4. 💪 Opened PR [#1508](https://github.com/animate-css/animate.css/pull/1508) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
-5. 🗣 Commented on [#1507](https://github.com/animate-css/animate.css/issues/1507) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+1. 🗣 Commented on [#1516](https://github.com/animate-css/animate.css/issues/1516) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+2. 🎉 Merged PR [#93](https://github.com/wareneutron/covid19-tracker-cli/pull/93) in [wareneutron/covid19-tracker-cli](https://github.com/wareneutron/covid19-tracker-cli)
+3. 🗣 Commented on [#58](https://github.com/coollabsio/coolify/issues/58) in [coollabsio/coolify](https://github.com/coollabsio/coolify)
+4. ❗️ Closed issue [#79](https://github.com/wareneutron/covid19-tracker-cli/issues/79) in [wareneutron/covid19-tracker-cli](https://github.com/wareneutron/covid19-tracker-cli)
+5. 🗣 Commented on [#79](https://github.com/wareneutron/covid19-tracker-cli/issues/79) in [wareneutron/covid19-tracker-cli](https://github.com/wareneutron/covid19-tracker-cli)
 <!--END_SECTION:activity-->
 
 </details>
