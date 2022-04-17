@@ -68,11 +68,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#12](https://github.com/ndujaLabs/metashu/issues/12) in [ndujaLabs/metashu](https://github.com/ndujaLabs/metashu)
-2. 🎉 Merged PR [#1](https://github.com/warengonzaga/waren-universal-discord-rules/pull/1) in [warengonzaga/waren-universal-discord-rules](https://github.com/warengonzaga/waren-universal-discord-rules)
-3. ❗️ Opened issue [#5](https://github.com/askrealcookie/CreeperConfetti/issues/5) in [askrealcookie/CreeperConfetti](https://github.com/askrealcookie/CreeperConfetti)
-4. 🗣 Commented on [#1516](https://github.com/animate-css/animate.css/issues/1516) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
-5. 🎉 Merged PR [#93](https://github.com/wareneutron/covid19-tracker-cli/pull/93) in [wareneutron/covid19-tracker-cli](https://github.com/wareneutron/covid19-tracker-cli)
+1. 🎉 Merged PR [#15](https://github.com/warengonzaga/wrn-cleaner/pull/15) in [warengonzaga/wrn-cleaner](https://github.com/warengonzaga/wrn-cleaner)
+2. ❗️ Closed issue [#5](https://github.com/warengonzaga/wrn-cleaner/issues/5) in [warengonzaga/wrn-cleaner](https://github.com/warengonzaga/wrn-cleaner)
+3. 🗣 Commented on [#5](https://github.com/warengonzaga/wrn-cleaner/issues/5) in [warengonzaga/wrn-cleaner](https://github.com/warengonzaga/wrn-cleaner)
+4. ❗️ Closed issue [#7](https://github.com/warengonzaga/wrn-cleaner/issues/7) in [warengonzaga/wrn-cleaner](https://github.com/warengonzaga/wrn-cleaner)
+5. 🗣 Commented on [#7](https://github.com/warengonzaga/wrn-cleaner/issues/7) in [warengonzaga/wrn-cleaner](https://github.com/warengonzaga/wrn-cleaner)
 <!--END_SECTION:activity-->
 
 </details>
