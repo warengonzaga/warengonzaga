@@ -68,11 +68,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/warengonzaga/wrn-cleaner/pull/15) in [warengonzaga/wrn-cleaner](https://github.com/warengonzaga/wrn-cleaner)
-2. ❗️ Closed issue [#5](https://github.com/warengonzaga/wrn-cleaner/issues/5) in [warengonzaga/wrn-cleaner](https://github.com/warengonzaga/wrn-cleaner)
-3. 🗣 Commented on [#5](https://github.com/warengonzaga/wrn-cleaner/issues/5) in [warengonzaga/wrn-cleaner](https://github.com/warengonzaga/wrn-cleaner)
-4. ❗️ Closed issue [#7](https://github.com/warengonzaga/wrn-cleaner/issues/7) in [warengonzaga/wrn-cleaner](https://github.com/warengonzaga/wrn-cleaner)
-5. 🗣 Commented on [#7](https://github.com/warengonzaga/wrn-cleaner/issues/7) in [warengonzaga/wrn-cleaner](https://github.com/warengonzaga/wrn-cleaner)
+1. 💪 Opened PR [#18](https://github.com/warengonzaga/wrn-cleaner/pull/18) in [warengonzaga/wrn-cleaner](https://github.com/warengonzaga/wrn-cleaner)
+2. 🎉 Merged PR [#15](https://github.com/warengonzaga/wrn-cleaner/pull/15) in [warengonzaga/wrn-cleaner](https://github.com/warengonzaga/wrn-cleaner)
+3. ❗️ Closed issue [#5](https://github.com/warengonzaga/wrn-cleaner/issues/5) in [warengonzaga/wrn-cleaner](https://github.com/warengonzaga/wrn-cleaner)
+4. 🗣 Commented on [#5](https://github.com/warengonzaga/wrn-cleaner/issues/5) in [warengonzaga/wrn-cleaner](https://github.com/warengonzaga/wrn-cleaner)
+5. ❗️ Closed issue [#7](https://github.com/warengonzaga/wrn-cleaner/issues/7) in [warengonzaga/wrn-cleaner](https://github.com/warengonzaga/wrn-cleaner)
 <!--END_SECTION:activity-->
 
 </details>
