@@ -68,11 +68,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/warengonzaga/update-your-footer-wp/pull/6) in [warengonzaga/update-your-footer-wp](https://github.com/warengonzaga/update-your-footer-wp)
-2. 💪 Opened PR [#6](https://github.com/warengonzaga/update-your-footer-wp/pull/6) in [warengonzaga/update-your-footer-wp](https://github.com/warengonzaga/update-your-footer-wp)
-3. 🎉 Merged PR [#5](https://github.com/warengonzaga/update-your-footer-wp/pull/5) in [warengonzaga/update-your-footer-wp](https://github.com/warengonzaga/update-your-footer-wp)
-4. 💪 Opened PR [#5](https://github.com/warengonzaga/update-your-footer-wp/pull/5) in [warengonzaga/update-your-footer-wp](https://github.com/warengonzaga/update-your-footer-wp)
-5. 🗣 Commented on [#1508](https://github.com/animate-css/animate.css/issues/1508) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+1. 💪 Opened PR [#91](https://github.com/thirdweb-dev/portal/pull/91) in [thirdweb-dev/portal](https://github.com/thirdweb-dev/portal)
+2. 🎉 Merged PR [#6](https://github.com/warengonzaga/update-your-footer-wp/pull/6) in [warengonzaga/update-your-footer-wp](https://github.com/warengonzaga/update-your-footer-wp)
+3. 💪 Opened PR [#6](https://github.com/warengonzaga/update-your-footer-wp/pull/6) in [warengonzaga/update-your-footer-wp](https://github.com/warengonzaga/update-your-footer-wp)
+4. 🎉 Merged PR [#5](https://github.com/warengonzaga/update-your-footer-wp/pull/5) in [warengonzaga/update-your-footer-wp](https://github.com/warengonzaga/update-your-footer-wp)
+5. 💪 Opened PR [#5](https://github.com/warengonzaga/update-your-footer-wp/pull/5) in [warengonzaga/update-your-footer-wp](https://github.com/warengonzaga/update-your-footer-wp)
 <!--END_SECTION:activity-->
 
 </details>
