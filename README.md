@@ -68,11 +68,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#91](https://github.com/thirdweb-dev/portal/issues/91) in [thirdweb-dev/portal](https://github.com/thirdweb-dev/portal)
-2. 🗣 Commented on [#1528](https://github.com/animate-css/animate.css/issues/1528) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
-3. 🗣 Commented on [#91](https://github.com/thirdweb-dev/portal/issues/91) in [thirdweb-dev/portal](https://github.com/thirdweb-dev/portal)
-4. 💪 Opened PR [#91](https://github.com/thirdweb-dev/portal/pull/91) in [thirdweb-dev/portal](https://github.com/thirdweb-dev/portal)
-5. 🎉 Merged PR [#6](https://github.com/warengonzaga/update-your-footer-wp/pull/6) in [warengonzaga/update-your-footer-wp](https://github.com/warengonzaga/update-your-footer-wp)
+1. 💪 Opened PR [#35](https://github.com/thirdweb-dev/docs/pull/35) in [thirdweb-dev/docs](https://github.com/thirdweb-dev/docs)
+2. 🗣 Commented on [#91](https://github.com/thirdweb-dev/portal/issues/91) in [thirdweb-dev/portal](https://github.com/thirdweb-dev/portal)
+3. 🗣 Commented on [#1528](https://github.com/animate-css/animate.css/issues/1528) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+4. 🗣 Commented on [#91](https://github.com/thirdweb-dev/portal/issues/91) in [thirdweb-dev/portal](https://github.com/thirdweb-dev/portal)
+5. 💪 Opened PR [#91](https://github.com/thirdweb-dev/portal/pull/91) in [thirdweb-dev/portal](https://github.com/thirdweb-dev/portal)
 <!--END_SECTION:activity-->
 
 </details>
