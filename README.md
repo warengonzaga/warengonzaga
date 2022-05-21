@@ -68,11 +68,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#60](https://github.com/warengonzaga/buymeacoffee.js/issues/60) in [warengonzaga/buymeacoffee.js](https://github.com/warengonzaga/buymeacoffee.js)
-2. 🗣 Commented on [#60](https://github.com/warengonzaga/buymeacoffee.js/issues/60) in [warengonzaga/buymeacoffee.js](https://github.com/warengonzaga/buymeacoffee.js)
-3. 🗣 Commented on [#35](https://github.com/thirdweb-dev/docs/issues/35) in [thirdweb-dev/docs](https://github.com/thirdweb-dev/docs)
+1. ❗️ Opened issue [#61](https://github.com/warengonzaga/buymeacoffee.js/issues/61) in [warengonzaga/buymeacoffee.js](https://github.com/warengonzaga/buymeacoffee.js)
+2. ❌ Closed PR [#60](https://github.com/warengonzaga/buymeacoffee.js/pull/60) in [warengonzaga/buymeacoffee.js](https://github.com/warengonzaga/buymeacoffee.js)
+3. 🗣 Commented on [#60](https://github.com/warengonzaga/buymeacoffee.js/issues/60) in [warengonzaga/buymeacoffee.js](https://github.com/warengonzaga/buymeacoffee.js)
 4. 🗣 Commented on [#60](https://github.com/warengonzaga/buymeacoffee.js/issues/60) in [warengonzaga/buymeacoffee.js](https://github.com/warengonzaga/buymeacoffee.js)
-5. 🗣 Commented on [#57](https://github.com/warengonzaga/buymeacoffee.js/issues/57) in [warengonzaga/buymeacoffee.js](https://github.com/warengonzaga/buymeacoffee.js)
+5. 🗣 Commented on [#60](https://github.com/warengonzaga/buymeacoffee.js/issues/60) in [warengonzaga/buymeacoffee.js](https://github.com/warengonzaga/buymeacoffee.js)
 <!--END_SECTION:activity-->
 
 </details>
