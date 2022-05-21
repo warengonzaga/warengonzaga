@@ -69,10 +69,10 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#60](https://github.com/warengonzaga/buymeacoffee.js/issues/60) in [warengonzaga/buymeacoffee.js](https://github.com/warengonzaga/buymeacoffee.js)
-2. 🗣 Commented on [#35](https://github.com/thirdweb-dev/docs/issues/35) in [thirdweb-dev/docs](https://github.com/thirdweb-dev/docs)
-3. 🗣 Commented on [#60](https://github.com/warengonzaga/buymeacoffee.js/issues/60) in [warengonzaga/buymeacoffee.js](https://github.com/warengonzaga/buymeacoffee.js)
-4. 🗣 Commented on [#57](https://github.com/warengonzaga/buymeacoffee.js/issues/57) in [warengonzaga/buymeacoffee.js](https://github.com/warengonzaga/buymeacoffee.js)
-5. 🗣 Commented on [#1536](https://github.com/animate-css/animate.css/issues/1536) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+2. 🗣 Commented on [#60](https://github.com/warengonzaga/buymeacoffee.js/issues/60) in [warengonzaga/buymeacoffee.js](https://github.com/warengonzaga/buymeacoffee.js)
+3. 🗣 Commented on [#35](https://github.com/thirdweb-dev/docs/issues/35) in [thirdweb-dev/docs](https://github.com/thirdweb-dev/docs)
+4. 🗣 Commented on [#60](https://github.com/warengonzaga/buymeacoffee.js/issues/60) in [warengonzaga/buymeacoffee.js](https://github.com/warengonzaga/buymeacoffee.js)
+5. 🗣 Commented on [#57](https://github.com/warengonzaga/buymeacoffee.js/issues/57) in [warengonzaga/buymeacoffee.js](https://github.com/warengonzaga/buymeacoffee.js)
 <!--END_SECTION:activity-->
 
 </details>
