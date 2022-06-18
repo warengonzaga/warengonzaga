@@ -8,10 +8,6 @@
 
 Filipino senior software engineer, opensource developer and advocate, cybersecurity researcher, community builder, web3 enthusiast, and technopreneur from the Philippines. 💻💖☕
 
-<!-- markdownlint-disable MD033 -->
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/warengonzaga/warengonzaga/blob/main/devcard.svg" width="250" align="right" alt="Waren Gonzaga's Dev Card"/></a>
-<!-- markdownlint-enable MD033 -->
-
 🎙 [Recent Tech Talks](https://work.warengonzaga.com/warengonzaga/collections/1284) • 📦 [Open Source Updates](https://work.warengonzaga.com/warengonzaga/collections/1194)
 
 - 💝 Author of multiple open source projects (~50 to date).
@@ -90,10 +86,6 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
 [![Waren Gonzaga Github Stats](https://readme-stats.warengonzaga.com/api?username=warengonzaga&show_icons=true&count_private=true)](https://github.com/warengonzaga/github-readme-stats) [![Top Language](https://readme-stats.warengonzaga.com/api/top-langs?username=warengonzaga&layout=compact)](https://github.com/warengonzaga/github-readme-stats)
 
 </details>
-
-<!-- markdownlint-enable MD033 -->
-
-![Metrics](https://github.com/warengonzaga/warengonzaga/blob/main/github-metrics.svg)
 
 ---
 
