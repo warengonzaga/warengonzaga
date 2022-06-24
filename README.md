@@ -64,11 +64,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#128](https://github.com/MetaMask/dapps/pull/128) in [MetaMask/dapps](https://github.com/MetaMask/dapps)
-2. 🗣 Commented on [#1](https://github.com/warengonzaga/emily.css/issues/1) in [warengonzaga/emily.css](https://github.com/warengonzaga/emily.css)
-3. 🗣 Commented on [#1539](https://github.com/animate-css/animate.css/issues/1539) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
-4. 🗣 Commented on [#62](https://github.com/warengonzaga/buymeacoffee.js/issues/62) in [warengonzaga/buymeacoffee.js](https://github.com/warengonzaga/buymeacoffee.js)
-5. 🎉 Merged PR [#62](https://github.com/warengonzaga/buymeacoffee.js/pull/62) in [warengonzaga/buymeacoffee.js](https://github.com/warengonzaga/buymeacoffee.js)
+1. 🗣 Commented on [#178](https://github.com/thirdweb-dev/contracts/issues/178) in [thirdweb-dev/contracts](https://github.com/thirdweb-dev/contracts)
+2. 🗣 Commented on [#180](https://github.com/thirdweb-dev/contracts/issues/180) in [thirdweb-dev/contracts](https://github.com/thirdweb-dev/contracts)
+3. 🗣 Commented on [#140](https://github.com/thirdweb-dev/contracts/issues/140) in [thirdweb-dev/contracts](https://github.com/thirdweb-dev/contracts)
+4. 💪 Opened PR [#128](https://github.com/MetaMask/dapps/pull/128) in [MetaMask/dapps](https://github.com/MetaMask/dapps)
+5. 🗣 Commented on [#1](https://github.com/warengonzaga/emily.css/issues/1) in [warengonzaga/emily.css](https://github.com/warengonzaga/emily.css)
 <!--END_SECTION:activity-->
 
 </details>
