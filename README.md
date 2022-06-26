@@ -64,11 +64,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#178](https://github.com/thirdweb-dev/contracts/issues/178) in [thirdweb-dev/contracts](https://github.com/thirdweb-dev/contracts)
-2. 🗣 Commented on [#180](https://github.com/thirdweb-dev/contracts/issues/180) in [thirdweb-dev/contracts](https://github.com/thirdweb-dev/contracts)
-3. 🗣 Commented on [#140](https://github.com/thirdweb-dev/contracts/issues/140) in [thirdweb-dev/contracts](https://github.com/thirdweb-dev/contracts)
-4. 💪 Opened PR [#128](https://github.com/MetaMask/dapps/pull/128) in [MetaMask/dapps](https://github.com/MetaMask/dapps)
-5. 🗣 Commented on [#1](https://github.com/warengonzaga/emily.css/issues/1) in [warengonzaga/emily.css](https://github.com/warengonzaga/emily.css)
+1. ❗️ Opened issue [#3](https://github.com/web3phl/workshops/issues/3) in [web3phl/workshops](https://github.com/web3phl/workshops)
+2. ❗️ Opened issue [#2](https://github.com/web3phl/workshops/issues/2) in [web3phl/workshops](https://github.com/web3phl/workshops)
+3. ❗️ Opened issue [#1](https://github.com/web3phl/workshops/issues/1) in [web3phl/workshops](https://github.com/web3phl/workshops)
+4. 🗣 Commented on [#178](https://github.com/thirdweb-dev/contracts/issues/178) in [thirdweb-dev/contracts](https://github.com/thirdweb-dev/contracts)
+5. 🗣 Commented on [#180](https://github.com/thirdweb-dev/contracts/issues/180) in [thirdweb-dev/contracts](https://github.com/thirdweb-dev/contracts)
 <!--END_SECTION:activity-->
 
 </details>
