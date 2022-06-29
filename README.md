@@ -64,11 +64,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#5](https://github.com/thirdweb-example/custom-minting-page/issues/5) in [thirdweb-example/custom-minting-page](https://github.com/thirdweb-example/custom-minting-page)
-2. ❗️ Opened issue [#3](https://github.com/web3phl/workshops/issues/3) in [web3phl/workshops](https://github.com/web3phl/workshops)
-3. ❗️ Opened issue [#2](https://github.com/web3phl/workshops/issues/2) in [web3phl/workshops](https://github.com/web3phl/workshops)
-4. ❗️ Opened issue [#1](https://github.com/web3phl/workshops/issues/1) in [web3phl/workshops](https://github.com/web3phl/workshops)
-5. 🗣 Commented on [#178](https://github.com/thirdweb-dev/contracts/issues/178) in [thirdweb-dev/contracts](https://github.com/thirdweb-dev/contracts)
+1. 💪 Opened PR [#99](https://github.com/thirdweb-dev/react/pull/99) in [thirdweb-dev/react](https://github.com/thirdweb-dev/react)
+2. ❗️ Opened issue [#5](https://github.com/thirdweb-example/custom-minting-page/issues/5) in [thirdweb-example/custom-minting-page](https://github.com/thirdweb-example/custom-minting-page)
+3. ❗️ Opened issue [#3](https://github.com/web3phl/workshops/issues/3) in [web3phl/workshops](https://github.com/web3phl/workshops)
+4. ❗️ Opened issue [#2](https://github.com/web3phl/workshops/issues/2) in [web3phl/workshops](https://github.com/web3phl/workshops)
+5. ❗️ Opened issue [#1](https://github.com/web3phl/workshops/issues/1) in [web3phl/workshops](https://github.com/web3phl/workshops)
 <!--END_SECTION:activity-->
 
 </details>
