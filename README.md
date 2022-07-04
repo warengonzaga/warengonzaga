@@ -64,10 +64,10 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1568](https://github.com/animate-css/animate.css/issues/1568) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
-2. ❗️ Closed issue [#44](https://github.com/warengonzaga/gathertown.js/issues/44) in [warengonzaga/gathertown.js](https://github.com/warengonzaga/gathertown.js)
-3. 🗣 Commented on [#44](https://github.com/warengonzaga/gathertown.js/issues/44) in [warengonzaga/gathertown.js](https://github.com/warengonzaga/gathertown.js)
-4. 🗣 Commented on [#1567](https://github.com/animate-css/animate.css/issues/1567) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+1. 🗣 Commented on [#1567](https://github.com/animate-css/animate.css/issues/1567) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+2. 🗣 Commented on [#1568](https://github.com/animate-css/animate.css/issues/1568) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+3. ❗️ Closed issue [#44](https://github.com/warengonzaga/gathertown.js/issues/44) in [warengonzaga/gathertown.js](https://github.com/warengonzaga/gathertown.js)
+4. 🗣 Commented on [#44](https://github.com/warengonzaga/gathertown.js/issues/44) in [warengonzaga/gathertown.js](https://github.com/warengonzaga/gathertown.js)
 5. 🗣 Commented on [#1567](https://github.com/animate-css/animate.css/issues/1567) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
 <!--END_SECTION:activity-->
 
