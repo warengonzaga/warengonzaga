@@ -64,11 +64,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#9](https://github.com/thirdweb-example/nft-drop/issues/9) in [thirdweb-example/nft-drop](https://github.com/thirdweb-example/nft-drop)
-2. 🎉 Merged PR [#99](https://github.com/wareneutron/covid19-tracker-cli/pull/99) in [wareneutron/covid19-tracker-cli](https://github.com/wareneutron/covid19-tracker-cli)
-3. 💪 Opened PR [#99](https://github.com/wareneutron/covid19-tracker-cli/pull/99) in [wareneutron/covid19-tracker-cli](https://github.com/wareneutron/covid19-tracker-cli)
-4. ❗️ Closed issue [#20](https://github.com/algofilipino/homepage/issues/20) in [algofilipino/homepage](https://github.com/algofilipino/homepage)
-5. ❗️ Opened issue [#8](https://github.com/thirdweb-example/nft-drop/issues/8) in [thirdweb-example/nft-drop](https://github.com/thirdweb-example/nft-drop)
+1. 🎉 Merged PR [#1](https://github.com/web3phl/directory/pull/1) in [web3phl/directory](https://github.com/web3phl/directory)
+2. ❗️ Opened issue [#9](https://github.com/thirdweb-example/nft-drop/issues/9) in [thirdweb-example/nft-drop](https://github.com/thirdweb-example/nft-drop)
+3. 🎉 Merged PR [#99](https://github.com/wareneutron/covid19-tracker-cli/pull/99) in [wareneutron/covid19-tracker-cli](https://github.com/wareneutron/covid19-tracker-cli)
+4. 💪 Opened PR [#99](https://github.com/wareneutron/covid19-tracker-cli/pull/99) in [wareneutron/covid19-tracker-cli](https://github.com/wareneutron/covid19-tracker-cli)
+5. ❗️ Closed issue [#20](https://github.com/algofilipino/homepage/issues/20) in [algofilipino/homepage](https://github.com/algofilipino/homepage)
 <!--END_SECTION:activity-->
 
 </details>
