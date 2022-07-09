@@ -65,9 +65,9 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#3](https://github.com/web3phl/directory/issues/3) in [web3phl/directory](https://github.com/web3phl/directory)
-2. 🎉 Merged PR [#5](https://github.com/web3phl/directory/pull/5) in [web3phl/directory](https://github.com/web3phl/directory)
-3. 🗣 Commented on [#5](https://github.com/web3phl/directory/issues/5) in [web3phl/directory](https://github.com/web3phl/directory)
-4. 🗣 Commented on [#3](https://github.com/web3phl/directory/issues/3) in [web3phl/directory](https://github.com/web3phl/directory)
+2. 🗣 Commented on [#3](https://github.com/web3phl/directory/issues/3) in [web3phl/directory](https://github.com/web3phl/directory)
+3. 🎉 Merged PR [#5](https://github.com/web3phl/directory/pull/5) in [web3phl/directory](https://github.com/web3phl/directory)
+4. 🗣 Commented on [#5](https://github.com/web3phl/directory/issues/5) in [web3phl/directory](https://github.com/web3phl/directory)
 5. 🗣 Commented on [#3](https://github.com/web3phl/directory/issues/3) in [web3phl/directory](https://github.com/web3phl/directory)
 <!--END_SECTION:activity-->
 
