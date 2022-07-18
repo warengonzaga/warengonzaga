@@ -64,11 +64,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#13](https://github.com/web3phl/directory/pull/13) in [web3phl/directory](https://github.com/web3phl/directory)
-2. 🎉 Merged PR [#12](https://github.com/web3phl/directory/pull/12) in [web3phl/directory](https://github.com/web3phl/directory)
-3. 🗣 Commented on [#12](https://github.com/web3phl/directory/issues/12) in [web3phl/directory](https://github.com/web3phl/directory)
-4. 🎉 Merged PR [#11](https://github.com/web3phl/directory/pull/11) in [web3phl/directory](https://github.com/web3phl/directory)
-5. 🗣 Commented on [#11](https://github.com/web3phl/directory/issues/11) in [web3phl/directory](https://github.com/web3phl/directory)
+1. 🎉 Merged PR [#14](https://github.com/web3phl/directory/pull/14) in [web3phl/directory](https://github.com/web3phl/directory)
+2. 🗣 Commented on [#14](https://github.com/web3phl/directory/issues/14) in [web3phl/directory](https://github.com/web3phl/directory)
+3. 🗣 Commented on [#8](https://github.com/thirdweb-dev/widgets/issues/8) in [thirdweb-dev/widgets](https://github.com/thirdweb-dev/widgets)
+4. 🗣 Commented on [#50](https://github.com/thirdweb-dev/widgets/issues/50) in [thirdweb-dev/widgets](https://github.com/thirdweb-dev/widgets)
+5. 💪 Opened PR [#13](https://github.com/web3phl/directory/pull/13) in [web3phl/directory](https://github.com/web3phl/directory)
 <!--END_SECTION:activity-->
 
 </details>
