@@ -64,10 +64,10 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#61](https://github.com/warengonzaga/buymeacoffee.js/issues/61) in [warengonzaga/buymeacoffee.js](https://github.com/warengonzaga/buymeacoffee.js)
-2. 🗣 Commented on [#61](https://github.com/warengonzaga/buymeacoffee.js/issues/61) in [warengonzaga/buymeacoffee.js](https://github.com/warengonzaga/buymeacoffee.js)
-3. 🗣 Commented on [#57](https://github.com/warengonzaga/buymeacoffee.js/issues/57) in [warengonzaga/buymeacoffee.js](https://github.com/warengonzaga/buymeacoffee.js)
-4. 🗣 Commented on [#16](https://github.com/web3phl/directory/issues/16) in [web3phl/directory](https://github.com/web3phl/directory)
+1. 🎉 Merged PR [#16](https://github.com/web3phl/directory/pull/16) in [web3phl/directory](https://github.com/web3phl/directory)
+2. ❗️ Closed issue [#61](https://github.com/warengonzaga/buymeacoffee.js/issues/61) in [warengonzaga/buymeacoffee.js](https://github.com/warengonzaga/buymeacoffee.js)
+3. 🗣 Commented on [#61](https://github.com/warengonzaga/buymeacoffee.js/issues/61) in [warengonzaga/buymeacoffee.js](https://github.com/warengonzaga/buymeacoffee.js)
+4. 🗣 Commented on [#57](https://github.com/warengonzaga/buymeacoffee.js/issues/57) in [warengonzaga/buymeacoffee.js](https://github.com/warengonzaga/buymeacoffee.js)
 5. 🗣 Commented on [#16](https://github.com/web3phl/directory/issues/16) in [web3phl/directory](https://github.com/web3phl/directory)
 <!--END_SECTION:activity-->
 
