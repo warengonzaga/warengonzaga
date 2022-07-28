@@ -64,11 +64,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#199](https://github.com/thirdweb-dev/docs/issues/199) in [thirdweb-dev/docs](https://github.com/thirdweb-dev/docs)
-2. 💪 Opened PR [#199](https://github.com/thirdweb-dev/docs/pull/199) in [thirdweb-dev/docs](https://github.com/thirdweb-dev/docs)
-3. ❌ Closed PR [#198](https://github.com/thirdweb-dev/docs/pull/198) in [thirdweb-dev/docs](https://github.com/thirdweb-dev/docs)
-4. 💪 Opened PR [#198](https://github.com/thirdweb-dev/docs/pull/198) in [thirdweb-dev/docs](https://github.com/thirdweb-dev/docs)
-5. 🎉 Merged PR [#18](https://github.com/web3phl/directory/pull/18) in [web3phl/directory](https://github.com/web3phl/directory)
+1. 🎉 Merged PR [#13](https://github.com/web3phl/directory/pull/13) in [web3phl/directory](https://github.com/web3phl/directory)
+2. 🗣 Commented on [#199](https://github.com/thirdweb-dev/docs/issues/199) in [thirdweb-dev/docs](https://github.com/thirdweb-dev/docs)
+3. 💪 Opened PR [#199](https://github.com/thirdweb-dev/docs/pull/199) in [thirdweb-dev/docs](https://github.com/thirdweb-dev/docs)
+4. ❌ Closed PR [#198](https://github.com/thirdweb-dev/docs/pull/198) in [thirdweb-dev/docs](https://github.com/thirdweb-dev/docs)
+5. 💪 Opened PR [#198](https://github.com/thirdweb-dev/docs/pull/198) in [thirdweb-dev/docs](https://github.com/thirdweb-dev/docs)
 <!--END_SECTION:activity-->
 
 </details>
