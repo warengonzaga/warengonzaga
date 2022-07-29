@@ -64,11 +64,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#199](https://github.com/thirdweb-dev/docs/issues/199) in [thirdweb-dev/docs](https://github.com/thirdweb-dev/docs)
-2. 🎉 Merged PR [#13](https://github.com/web3phl/directory/pull/13) in [web3phl/directory](https://github.com/web3phl/directory)
-3. 🗣 Commented on [#199](https://github.com/thirdweb-dev/docs/issues/199) in [thirdweb-dev/docs](https://github.com/thirdweb-dev/docs)
-4. 💪 Opened PR [#199](https://github.com/thirdweb-dev/docs/pull/199) in [thirdweb-dev/docs](https://github.com/thirdweb-dev/docs)
-5. ❌ Closed PR [#198](https://github.com/thirdweb-dev/docs/pull/198) in [thirdweb-dev/docs](https://github.com/thirdweb-dev/docs)
+1. ❗️ Opened issue [#14](https://github.com/OSSPhilippines/pinoy-made/issues/14) in [OSSPhilippines/pinoy-made](https://github.com/OSSPhilippines/pinoy-made)
+2. 🗣 Commented on [#199](https://github.com/thirdweb-dev/docs/issues/199) in [thirdweb-dev/docs](https://github.com/thirdweb-dev/docs)
+3. 🎉 Merged PR [#13](https://github.com/web3phl/directory/pull/13) in [web3phl/directory](https://github.com/web3phl/directory)
+4. 🗣 Commented on [#199](https://github.com/thirdweb-dev/docs/issues/199) in [thirdweb-dev/docs](https://github.com/thirdweb-dev/docs)
+5. 💪 Opened PR [#199](https://github.com/thirdweb-dev/docs/pull/199) in [thirdweb-dev/docs](https://github.com/thirdweb-dev/docs)
 <!--END_SECTION:activity-->
 
 </details>
