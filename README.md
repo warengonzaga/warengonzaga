@@ -65,10 +65,10 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1572](https://github.com/animate-css/animate.css/issues/1572) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
-2. 💪 Opened PR [#1578](https://github.com/animate-css/animate.css/pull/1578) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
-3. ❗️ Opened issue [#18](https://github.com/warengonzaga/wrn-fix-it/issues/18) in [warengonzaga/wrn-fix-it](https://github.com/warengonzaga/wrn-fix-it)
-4. ❗️ Opened issue [#14](https://github.com/OSSPhilippines/pinoy-made/issues/14) in [OSSPhilippines/pinoy-made](https://github.com/OSSPhilippines/pinoy-made)
-5. 🗣 Commented on [#199](https://github.com/thirdweb-dev/docs/issues/199) in [thirdweb-dev/docs](https://github.com/thirdweb-dev/docs)
+2. 💪 Opened PR [#1580](https://github.com/animate-css/animate.css/pull/1580) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+3. 💪 Opened PR [#1579](https://github.com/animate-css/animate.css/pull/1579) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+4. ❌ Closed PR [#1578](https://github.com/animate-css/animate.css/pull/1578) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+5. 🗣 Commented on [#1578](https://github.com/animate-css/animate.css/issues/1578) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
 <!--END_SECTION:activity-->
 
 </details>
