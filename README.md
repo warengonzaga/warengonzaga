@@ -64,10 +64,10 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#18](https://github.com/warengonzaga/wrn-fix-it/issues/18) in [warengonzaga/wrn-fix-it](https://github.com/warengonzaga/wrn-fix-it)
-2. ❗️ Opened issue [#14](https://github.com/OSSPhilippines/pinoy-made/issues/14) in [OSSPhilippines/pinoy-made](https://github.com/OSSPhilippines/pinoy-made)
-3. 🗣 Commented on [#199](https://github.com/thirdweb-dev/docs/issues/199) in [thirdweb-dev/docs](https://github.com/thirdweb-dev/docs)
-4. 🎉 Merged PR [#13](https://github.com/web3phl/directory/pull/13) in [web3phl/directory](https://github.com/web3phl/directory)
+1. 🗣 Commented on [#1572](https://github.com/animate-css/animate.css/issues/1572) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+2. 💪 Opened PR [#1578](https://github.com/animate-css/animate.css/pull/1578) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+3. ❗️ Opened issue [#18](https://github.com/warengonzaga/wrn-fix-it/issues/18) in [warengonzaga/wrn-fix-it](https://github.com/warengonzaga/wrn-fix-it)
+4. ❗️ Opened issue [#14](https://github.com/OSSPhilippines/pinoy-made/issues/14) in [OSSPhilippines/pinoy-made](https://github.com/OSSPhilippines/pinoy-made)
 5. 🗣 Commented on [#199](https://github.com/thirdweb-dev/docs/issues/199) in [thirdweb-dev/docs](https://github.com/thirdweb-dev/docs)
 <!--END_SECTION:activity-->
 
