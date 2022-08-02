@@ -64,11 +64,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1572](https://github.com/animate-css/animate.css/issues/1572) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
-2. 🗣 Commented on [#1580](https://github.com/animate-css/animate.css/issues/1580) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
-3. 🗣 Commented on [#1581](https://github.com/animate-css/animate.css/issues/1581) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
-4. 💪 Opened PR [#1583](https://github.com/animate-css/animate.css/pull/1583) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
-5. ❌ Closed PR [#1580](https://github.com/animate-css/animate.css/pull/1580) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+1. 🗣 Commented on [#1581](https://github.com/animate-css/animate.css/issues/1581) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+2. 🗣 Commented on [#1572](https://github.com/animate-css/animate.css/issues/1572) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+3. 🗣 Commented on [#1580](https://github.com/animate-css/animate.css/issues/1580) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+4. 🗣 Commented on [#1581](https://github.com/animate-css/animate.css/issues/1581) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+5. 💪 Opened PR [#1583](https://github.com/animate-css/animate.css/pull/1583) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
 <!--END_SECTION:activity-->
 
 </details>
