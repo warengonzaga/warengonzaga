@@ -51,11 +51,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128240 <b>Latest Blogs Posts</b></summary><br/>
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploy Next.js App to GitHub Pages with new GitHub Actions](https://blog.warengonzaga.com/deploy-nextjs-app-to-github-pages-with-new-github-actions)
 - [Maintenance Your Windows Machine Like a Pro](https://blog.warengonzaga.com/maintenance-your-windows-machine-like-a-pro)
 - [7 Awesome: Free Websites to Learn Web3](https://blog.warengonzaga.com/7-awesome-free-websites-to-learn-web3)
 - [7 Awesome: Web Animation Libraries and Frameworks](https://blog.warengonzaga.com/7-awesome-web-animation-libraries-and-frameworks)
 - [Organize Your Starred GitHub Repositories Like a Pro](https://blog.warengonzaga.com/organize-your-starred-github-repositories-like-a-pro)
+- [The Perfect Domain Name for your JavaScript Library or Framework](https://blog.warengonzaga.com/the-perfect-domain-name-for-your-javascript-library-or-framework)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
