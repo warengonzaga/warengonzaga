@@ -64,11 +64,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#20](https://github.com/web3phl/directory/pull/20) in [web3phl/directory](https://github.com/web3phl/directory)
-2. 💪 Opened PR [#20](https://github.com/web3phl/directory/pull/20) in [web3phl/directory](https://github.com/web3phl/directory)
-3. 🎉 Merged PR [#45](https://github.com/warengonzaga/gathertown.js/pull/45) in [warengonzaga/gathertown.js](https://github.com/warengonzaga/gathertown.js)
-4. 🗣 Commented on [#45](https://github.com/warengonzaga/gathertown.js/issues/45) in [warengonzaga/gathertown.js](https://github.com/warengonzaga/gathertown.js)
-5. ❗️ Closed issue [#43](https://github.com/warengonzaga/gathertown.js/issues/43) in [warengonzaga/gathertown.js](https://github.com/warengonzaga/gathertown.js)
+1. 💪 Opened PR [#22](https://github.com/web3phl/directory/pull/22) in [web3phl/directory](https://github.com/web3phl/directory)
+2. 🎉 Merged PR [#20](https://github.com/web3phl/directory/pull/20) in [web3phl/directory](https://github.com/web3phl/directory)
+3. 💪 Opened PR [#20](https://github.com/web3phl/directory/pull/20) in [web3phl/directory](https://github.com/web3phl/directory)
+4. 🎉 Merged PR [#45](https://github.com/warengonzaga/gathertown.js/pull/45) in [warengonzaga/gathertown.js](https://github.com/warengonzaga/gathertown.js)
+5. 🗣 Commented on [#45](https://github.com/warengonzaga/gathertown.js/issues/45) in [warengonzaga/gathertown.js](https://github.com/warengonzaga/gathertown.js)
 <!--END_SECTION:activity-->
 
 </details>
