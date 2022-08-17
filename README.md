@@ -64,11 +64,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19](https://github.com/warengonzaga/wrn-cleaner/issues/19) in [warengonzaga/wrn-cleaner](https://github.com/warengonzaga/wrn-cleaner)
-2. ❗️ Closed issue [#19](https://github.com/warengonzaga/wrn-cleaner/issues/19) in [warengonzaga/wrn-cleaner](https://github.com/warengonzaga/wrn-cleaner)
-3. ❗️ Closed issue [#8](https://github.com/thirdweb-example/nft-drop/issues/8) in [thirdweb-example/nft-drop](https://github.com/thirdweb-example/nft-drop)
-4. 🗣 Commented on [#8](https://github.com/thirdweb-example/nft-drop/issues/8) in [thirdweb-example/nft-drop](https://github.com/thirdweb-example/nft-drop)
-5. 🗣 Commented on [#23](https://github.com/web3phl/directory/issues/23) in [web3phl/directory](https://github.com/web3phl/directory)
+1. 🎉 Merged PR [#22](https://github.com/web3phl/directory/pull/22) in [web3phl/directory](https://github.com/web3phl/directory)
+2. 🗣 Commented on [#19](https://github.com/warengonzaga/wrn-cleaner/issues/19) in [warengonzaga/wrn-cleaner](https://github.com/warengonzaga/wrn-cleaner)
+3. ❗️ Closed issue [#19](https://github.com/warengonzaga/wrn-cleaner/issues/19) in [warengonzaga/wrn-cleaner](https://github.com/warengonzaga/wrn-cleaner)
+4. ❗️ Closed issue [#8](https://github.com/thirdweb-example/nft-drop/issues/8) in [thirdweb-example/nft-drop](https://github.com/thirdweb-example/nft-drop)
+5. 🗣 Commented on [#8](https://github.com/thirdweb-example/nft-drop/issues/8) in [thirdweb-example/nft-drop](https://github.com/thirdweb-example/nft-drop)
 <!--END_SECTION:activity-->
 
 </details>
