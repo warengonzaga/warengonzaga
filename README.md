@@ -62,11 +62,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#28](https://github.com/web3phl/directory/pull/28) in [web3phl/directory](https://github.com/web3phl/directory)
-2. ❗️ Closed issue [#23](https://github.com/web3phl/directory/issues/23) in [web3phl/directory](https://github.com/web3phl/directory)
-3. 🗣 Commented on [#23](https://github.com/web3phl/directory/issues/23) in [web3phl/directory](https://github.com/web3phl/directory)
-4. 💪 Opened PR [#28](https://github.com/web3phl/directory/pull/28) in [web3phl/directory](https://github.com/web3phl/directory)
-5. 🎉 Merged PR [#27](https://github.com/web3phl/directory/pull/27) in [web3phl/directory](https://github.com/web3phl/directory)
+1. 💪 Opened PR [#35](https://github.com/web3phl/directory/pull/35) in [web3phl/directory](https://github.com/web3phl/directory)
+2. 🎉 Merged PR [#33](https://github.com/web3phl/directory/pull/33) in [web3phl/directory](https://github.com/web3phl/directory)
+3. 🗣 Commented on [#34](https://github.com/web3phl/directory/issues/34) in [web3phl/directory](https://github.com/web3phl/directory)
+4. ❗️ Closed issue [#12](https://github.com/ndujaLabs/metashu/issues/12) in [ndujaLabs/metashu](https://github.com/ndujaLabs/metashu)
+5. 🗣 Commented on [#12](https://github.com/ndujaLabs/metashu/issues/12) in [ndujaLabs/metashu](https://github.com/ndujaLabs/metashu)
 <!--END_SECTION:activity-->
 
 </details>
