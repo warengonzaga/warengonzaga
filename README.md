@@ -62,11 +62,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#43](https://github.com/web3phl/directory/issues/43) in [web3phl/directory](https://github.com/web3phl/directory)
-2. 🗣 Commented on [#44](https://github.com/web3phl/directory/issues/44) in [web3phl/directory](https://github.com/web3phl/directory)
-3. 🗣 Commented on [#43](https://github.com/web3phl/directory/issues/43) in [web3phl/directory](https://github.com/web3phl/directory)
-4. 🗣 Commented on [#4](https://github.com/web3phl/directory-api/issues/4) in [web3phl/directory-api](https://github.com/web3phl/directory-api)
-5. 🗣 Commented on [#1589](https://github.com/animate-css/animate.css/issues/1589) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+1. 🗣 Commented on [#46](https://github.com/web3phl/directory/issues/46) in [web3phl/directory](https://github.com/web3phl/directory)
+2. 🗣 Commented on [#46](https://github.com/web3phl/directory/issues/46) in [web3phl/directory](https://github.com/web3phl/directory)
+3. ❗️ Opened issue [#46](https://github.com/web3phl/directory/issues/46) in [web3phl/directory](https://github.com/web3phl/directory)
+4. 🗣 Commented on [#34](https://github.com/web3phl/directory/issues/34) in [web3phl/directory](https://github.com/web3phl/directory)
+5. 🗣 Commented on [#43](https://github.com/web3phl/directory/issues/43) in [web3phl/directory](https://github.com/web3phl/directory)
 <!--END_SECTION:activity-->
 
 </details>
