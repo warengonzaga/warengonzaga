@@ -62,11 +62,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#49](https://github.com/web3phl/directory/issues/49) in [web3phl/directory](https://github.com/web3phl/directory)
-2. 🗣 Commented on [#48](https://github.com/web3phl/directory/issues/48) in [web3phl/directory](https://github.com/web3phl/directory)
-3. ❗️ Opened issue [#48](https://github.com/web3phl/directory/issues/48) in [web3phl/directory](https://github.com/web3phl/directory)
-4. ❗️ Closed issue [#34](https://github.com/web3phl/directory/issues/34) in [web3phl/directory](https://github.com/web3phl/directory)
-5. 🗣 Commented on [#34](https://github.com/web3phl/directory/issues/34) in [web3phl/directory](https://github.com/web3phl/directory)
+1. 🗣 Commented on [#48](https://github.com/web3phl/directory/issues/48) in [web3phl/directory](https://github.com/web3phl/directory)
+2. ❗️ Closed issue [#51](https://github.com/web3phl/directory/issues/51) in [web3phl/directory](https://github.com/web3phl/directory)
+3. 🗣 Commented on [#51](https://github.com/web3phl/directory/issues/51) in [web3phl/directory](https://github.com/web3phl/directory)
+4. ❗️ Opened issue [#51](https://github.com/web3phl/directory/issues/51) in [web3phl/directory](https://github.com/web3phl/directory)
+5. ❗️ Closed issue [#49](https://github.com/web3phl/directory/issues/49) in [web3phl/directory](https://github.com/web3phl/directory)
 <!--END_SECTION:activity-->
 
 </details>
