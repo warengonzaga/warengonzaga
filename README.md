@@ -62,11 +62,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/thirdweb-example/nft-gated-website/pull/3) in [thirdweb-example/nft-gated-website](https://github.com/thirdweb-example/nft-gated-website)
-2. 🎉 Merged PR [#8](https://github.com/web3phl/directory-api/pull/8) in [web3phl/directory-api](https://github.com/web3phl/directory-api)
-3. 🗣 Commented on [#8](https://github.com/web3phl/directory-api/issues/8) in [web3phl/directory-api](https://github.com/web3phl/directory-api)
-4. 🗣 Commented on [#8](https://github.com/web3phl/directory-api/issues/8) in [web3phl/directory-api](https://github.com/web3phl/directory-api)
-5. 🗣 Commented on [#46](https://github.com/web3phl/directory/issues/46) in [web3phl/directory](https://github.com/web3phl/directory)
+1. ❌ Closed PR [#3](https://github.com/thirdweb-example/nft-gated-website/pull/3) in [thirdweb-example/nft-gated-website](https://github.com/thirdweb-example/nft-gated-website)
+2. 🗣 Commented on [#3](https://github.com/thirdweb-example/nft-gated-website/issues/3) in [thirdweb-example/nft-gated-website](https://github.com/thirdweb-example/nft-gated-website)
+3. 💪 Opened PR [#3](https://github.com/thirdweb-example/nft-gated-website/pull/3) in [thirdweb-example/nft-gated-website](https://github.com/thirdweb-example/nft-gated-website)
+4. 🎉 Merged PR [#8](https://github.com/web3phl/directory-api/pull/8) in [web3phl/directory-api](https://github.com/web3phl/directory-api)
+5. 🗣 Commented on [#8](https://github.com/web3phl/directory-api/issues/8) in [web3phl/directory-api](https://github.com/web3phl/directory-api)
 <!--END_SECTION:activity-->
 
 </details>
