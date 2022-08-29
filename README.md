@@ -62,11 +62,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1581](https://github.com/animate-css/animate.css/issues/1581) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
-2. 🗣 Commented on [#1591](https://github.com/animate-css/animate.css/issues/1591) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
-3. ❗️ Closed issue [#14](https://github.com/warengonzaga/wrn-cleaner/issues/14) in [warengonzaga/wrn-cleaner](https://github.com/warengonzaga/wrn-cleaner)
-4. 🗣 Commented on [#14](https://github.com/warengonzaga/wrn-cleaner/issues/14) in [warengonzaga/wrn-cleaner](https://github.com/warengonzaga/wrn-cleaner)
-5. ❌ Closed PR [#3](https://github.com/thirdweb-example/nft-gated-website/pull/3) in [thirdweb-example/nft-gated-website](https://github.com/thirdweb-example/nft-gated-website)
+1. 🗣 Commented on [#1591](https://github.com/animate-css/animate.css/issues/1591) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+2. 🗣 Commented on [#35](https://github.com/web3phl/directory/issues/35) in [web3phl/directory](https://github.com/web3phl/directory)
+3. ❗️ Closed issue [#38](https://github.com/web3phl/directory/issues/38) in [web3phl/directory](https://github.com/web3phl/directory)
+4. 🗣 Commented on [#38](https://github.com/web3phl/directory/issues/38) in [web3phl/directory](https://github.com/web3phl/directory)
+5. 🎉 Merged PR [#61](https://github.com/web3phl/directory/pull/61) in [web3phl/directory](https://github.com/web3phl/directory)
 <!--END_SECTION:activity-->
 
 </details>
