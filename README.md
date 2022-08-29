@@ -62,11 +62,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#14](https://github.com/warengonzaga/wrn-cleaner/issues/14) in [warengonzaga/wrn-cleaner](https://github.com/warengonzaga/wrn-cleaner)
-2. 🗣 Commented on [#14](https://github.com/warengonzaga/wrn-cleaner/issues/14) in [warengonzaga/wrn-cleaner](https://github.com/warengonzaga/wrn-cleaner)
-3. ❌ Closed PR [#3](https://github.com/thirdweb-example/nft-gated-website/pull/3) in [thirdweb-example/nft-gated-website](https://github.com/thirdweb-example/nft-gated-website)
-4. 🗣 Commented on [#3](https://github.com/thirdweb-example/nft-gated-website/issues/3) in [thirdweb-example/nft-gated-website](https://github.com/thirdweb-example/nft-gated-website)
-5. 💪 Opened PR [#3](https://github.com/thirdweb-example/nft-gated-website/pull/3) in [thirdweb-example/nft-gated-website](https://github.com/thirdweb-example/nft-gated-website)
+1. 🗣 Commented on [#1581](https://github.com/animate-css/animate.css/issues/1581) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+2. 🗣 Commented on [#1591](https://github.com/animate-css/animate.css/issues/1591) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+3. ❗️ Closed issue [#14](https://github.com/warengonzaga/wrn-cleaner/issues/14) in [warengonzaga/wrn-cleaner](https://github.com/warengonzaga/wrn-cleaner)
+4. 🗣 Commented on [#14](https://github.com/warengonzaga/wrn-cleaner/issues/14) in [warengonzaga/wrn-cleaner](https://github.com/warengonzaga/wrn-cleaner)
+5. ❌ Closed PR [#3](https://github.com/thirdweb-example/nft-gated-website/pull/3) in [thirdweb-example/nft-gated-website](https://github.com/thirdweb-example/nft-gated-website)
 <!--END_SECTION:activity-->
 
 </details>
