@@ -62,11 +62,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#5](https://github.com/web3phl/homepage/issues/5) in [web3phl/homepage](https://github.com/web3phl/homepage)
-2. ❗️ Opened issue [#4](https://github.com/web3phl/homepage/issues/4) in [web3phl/homepage](https://github.com/web3phl/homepage)
-3. ❗️ Opened issue [#3](https://github.com/web3phl/homepage/issues/3) in [web3phl/homepage](https://github.com/web3phl/homepage)
-4. ❗️ Opened issue [#2](https://github.com/web3phl/homepage/issues/2) in [web3phl/homepage](https://github.com/web3phl/homepage)
-5. 🗣 Commented on [#1221](https://github.com/animate-css/animate.css/issues/1221) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+1. 🗣 Commented on [#62](https://github.com/web3phl/directory/issues/62) in [web3phl/directory](https://github.com/web3phl/directory)
+2. ❗️ Opened issue [#5](https://github.com/web3phl/homepage/issues/5) in [web3phl/homepage](https://github.com/web3phl/homepage)
+3. ❗️ Opened issue [#4](https://github.com/web3phl/homepage/issues/4) in [web3phl/homepage](https://github.com/web3phl/homepage)
+4. ❗️ Opened issue [#3](https://github.com/web3phl/homepage/issues/3) in [web3phl/homepage](https://github.com/web3phl/homepage)
+5. ❗️ Opened issue [#2](https://github.com/web3phl/homepage/issues/2) in [web3phl/homepage](https://github.com/web3phl/homepage)
 <!--END_SECTION:activity-->
 
 </details>
