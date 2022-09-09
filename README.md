@@ -62,11 +62,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#63](https://github.com/web3phl/directory/pull/63) in [web3phl/directory](https://github.com/web3phl/directory)
-2. 🗣 Commented on [#55](https://github.com/web3phl/directory/issues/55) in [web3phl/directory](https://github.com/web3phl/directory)
-3. 🎉 Merged PR [#62](https://github.com/web3phl/directory/pull/62) in [web3phl/directory](https://github.com/web3phl/directory)
-4. 🗣 Commented on [#62](https://github.com/web3phl/directory/issues/62) in [web3phl/directory](https://github.com/web3phl/directory)
-5. 🗣 Commented on [#9](https://github.com/web3phl/directory-api/issues/9) in [web3phl/directory-api](https://github.com/web3phl/directory-api)
+1. 🗣 Commented on [#23](https://github.com/OSSPhilippines/pinoy-made/issues/23) in [OSSPhilippines/pinoy-made](https://github.com/OSSPhilippines/pinoy-made)
+2. 💪 Opened PR [#63](https://github.com/web3phl/directory/pull/63) in [web3phl/directory](https://github.com/web3phl/directory)
+3. 🗣 Commented on [#55](https://github.com/web3phl/directory/issues/55) in [web3phl/directory](https://github.com/web3phl/directory)
+4. 🎉 Merged PR [#62](https://github.com/web3phl/directory/pull/62) in [web3phl/directory](https://github.com/web3phl/directory)
+5. 🗣 Commented on [#62](https://github.com/web3phl/directory/issues/62) in [web3phl/directory](https://github.com/web3phl/directory)
 <!--END_SECTION:activity-->
 
 </details>
