@@ -65,11 +65,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#6](https://github.com/web3phl/homepage/issues/6) in [web3phl/homepage](https://github.com/web3phl/homepage)
-2. 🗣 Commented on [#23](https://github.com/OSSPhilippines/pinoy-made/issues/23) in [OSSPhilippines/pinoy-made](https://github.com/OSSPhilippines/pinoy-made)
-3. 💪 Opened PR [#63](https://github.com/web3phl/directory/pull/63) in [web3phl/directory](https://github.com/web3phl/directory)
-4. 🗣 Commented on [#55](https://github.com/web3phl/directory/issues/55) in [web3phl/directory](https://github.com/web3phl/directory)
-5. 🎉 Merged PR [#62](https://github.com/web3phl/directory/pull/62) in [web3phl/directory](https://github.com/web3phl/directory)
+1. ❗️ Closed issue [#47](https://github.com/warengonzaga/gathertown.js/issues/47) in [warengonzaga/gathertown.js](https://github.com/warengonzaga/gathertown.js)
+2. 🗣 Commented on [#47](https://github.com/warengonzaga/gathertown.js/issues/47) in [warengonzaga/gathertown.js](https://github.com/warengonzaga/gathertown.js)
+3. 🗣 Commented on [#47](https://github.com/warengonzaga/gathertown.js/issues/47) in [warengonzaga/gathertown.js](https://github.com/warengonzaga/gathertown.js)
+4. ❗️ Opened issue [#6](https://github.com/web3phl/homepage/issues/6) in [web3phl/homepage](https://github.com/web3phl/homepage)
+5. 🗣 Commented on [#23](https://github.com/OSSPhilippines/pinoy-made/issues/23) in [OSSPhilippines/pinoy-made](https://github.com/OSSPhilippines/pinoy-made)
 <!--END_SECTION:activity-->
 
 </details>
