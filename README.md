@@ -65,11 +65,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#47](https://github.com/warengonzaga/gathertown.js/issues/47) in [warengonzaga/gathertown.js](https://github.com/warengonzaga/gathertown.js)
-2. 🗣 Commented on [#47](https://github.com/warengonzaga/gathertown.js/issues/47) in [warengonzaga/gathertown.js](https://github.com/warengonzaga/gathertown.js)
+1. 🗣 Commented on [#1608](https://github.com/animate-css/animate.css/issues/1608) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+2. ❗️ Closed issue [#47](https://github.com/warengonzaga/gathertown.js/issues/47) in [warengonzaga/gathertown.js](https://github.com/warengonzaga/gathertown.js)
 3. 🗣 Commented on [#47](https://github.com/warengonzaga/gathertown.js/issues/47) in [warengonzaga/gathertown.js](https://github.com/warengonzaga/gathertown.js)
-4. ❗️ Opened issue [#6](https://github.com/web3phl/homepage/issues/6) in [web3phl/homepage](https://github.com/web3phl/homepage)
-5. 🗣 Commented on [#23](https://github.com/OSSPhilippines/pinoy-made/issues/23) in [OSSPhilippines/pinoy-made](https://github.com/OSSPhilippines/pinoy-made)
+4. 🗣 Commented on [#47](https://github.com/warengonzaga/gathertown.js/issues/47) in [warengonzaga/gathertown.js](https://github.com/warengonzaga/gathertown.js)
+5. ❗️ Opened issue [#6](https://github.com/web3phl/homepage/issues/6) in [web3phl/homepage](https://github.com/web3phl/homepage)
 <!--END_SECTION:activity-->
 
 </details>
