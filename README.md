@@ -65,11 +65,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/thirdweb-dev/hashlips-to-thirdweb/pull/1) in [thirdweb-dev/hashlips-to-thirdweb](https://github.com/thirdweb-dev/hashlips-to-thirdweb)
-2. 🗣 Commented on [#1608](https://github.com/animate-css/animate.css/issues/1608) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
-3. ❗️ Closed issue [#47](https://github.com/warengonzaga/gathertown.js/issues/47) in [warengonzaga/gathertown.js](https://github.com/warengonzaga/gathertown.js)
-4. 🗣 Commented on [#47](https://github.com/warengonzaga/gathertown.js/issues/47) in [warengonzaga/gathertown.js](https://github.com/warengonzaga/gathertown.js)
-5. 🗣 Commented on [#47](https://github.com/warengonzaga/gathertown.js/issues/47) in [warengonzaga/gathertown.js](https://github.com/warengonzaga/gathertown.js)
+1. 🗣 Commented on [#47](https://github.com/web3phl/directory/issues/47) in [web3phl/directory](https://github.com/web3phl/directory)
+2. 🗣 Commented on [#64](https://github.com/web3phl/directory/issues/64) in [web3phl/directory](https://github.com/web3phl/directory)
+3. 🗣 Commented on [#64](https://github.com/web3phl/directory/issues/64) in [web3phl/directory](https://github.com/web3phl/directory)
+4. ❗️ Closed issue [#46](https://github.com/web3phl/directory/issues/46) in [web3phl/directory](https://github.com/web3phl/directory)
+5. 🗣 Commented on [#46](https://github.com/web3phl/directory/issues/46) in [web3phl/directory](https://github.com/web3phl/directory)
 <!--END_SECTION:activity-->
 
 </details>
