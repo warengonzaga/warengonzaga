@@ -65,11 +65,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#12](https://github.com/web3phl/bio/issues/12) in [web3phl/bio](https://github.com/web3phl/bio)
-2. 🗣 Commented on [#12](https://github.com/web3phl/bio/issues/12) in [web3phl/bio](https://github.com/web3phl/bio)
-3. ❗️ Closed issue [#55](https://github.com/web3phl/directory/issues/55) in [web3phl/directory](https://github.com/web3phl/directory)
-4. 🗣 Commented on [#55](https://github.com/web3phl/directory/issues/55) in [web3phl/directory](https://github.com/web3phl/directory)
-5. ❗️ Closed issue [#47](https://github.com/web3phl/directory/issues/47) in [web3phl/directory](https://github.com/web3phl/directory)
+1. 🗣 Commented on [#5554](https://github.com/simple-icons/simple-icons/issues/5554) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+2. 🗣 Commented on [#6971](https://github.com/simple-icons/simple-icons/issues/6971) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+3. 🗣 Commented on [#5554](https://github.com/simple-icons/simple-icons/issues/5554) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+4. ❗️ Closed issue [#12](https://github.com/web3phl/bio/issues/12) in [web3phl/bio](https://github.com/web3phl/bio)
+5. 🗣 Commented on [#12](https://github.com/web3phl/bio/issues/12) in [web3phl/bio](https://github.com/web3phl/bio)
 <!--END_SECTION:activity-->
 
 </details>
