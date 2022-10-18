@@ -65,11 +65,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5554](https://github.com/simple-icons/simple-icons/issues/5554) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-2. 🗣 Commented on [#6971](https://github.com/simple-icons/simple-icons/issues/6971) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-3. 🗣 Commented on [#5554](https://github.com/simple-icons/simple-icons/issues/5554) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-4. ❗️ Closed issue [#12](https://github.com/web3phl/bio/issues/12) in [web3phl/bio](https://github.com/web3phl/bio)
-5. 🗣 Commented on [#12](https://github.com/web3phl/bio/issues/12) in [web3phl/bio](https://github.com/web3phl/bio)
+1. 💪 Opened PR [#12](https://github.com/OSSPhilippines/hacktober-fest-2022-participants/pull/12) in [OSSPhilippines/hacktober-fest-2022-participants](https://github.com/OSSPhilippines/hacktober-fest-2022-participants)
+2. 🗣 Commented on [#5554](https://github.com/simple-icons/simple-icons/issues/5554) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+3. 🗣 Commented on [#6971](https://github.com/simple-icons/simple-icons/issues/6971) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+4. 🗣 Commented on [#5554](https://github.com/simple-icons/simple-icons/issues/5554) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+5. ❗️ Closed issue [#12](https://github.com/web3phl/bio/issues/12) in [web3phl/bio](https://github.com/web3phl/bio)
 <!--END_SECTION:activity-->
 
 </details>
