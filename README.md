@@ -65,11 +65,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#72](https://github.com/MarkisDev/markisdev/issues/72) in [MarkisDev/markisdev](https://github.com/MarkisDev/markisdev)
-2. 🗣 Commented on [#48](https://github.com/warengonzaga/gathertown.js/issues/48) in [warengonzaga/gathertown.js](https://github.com/warengonzaga/gathertown.js)
-3. 💪 Opened PR [#12](https://github.com/OSSPhilippines/hacktober-fest-2022-participants/pull/12) in [OSSPhilippines/hacktober-fest-2022-participants](https://github.com/OSSPhilippines/hacktober-fest-2022-participants)
-4. 🗣 Commented on [#5554](https://github.com/simple-icons/simple-icons/issues/5554) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-5. 🗣 Commented on [#6971](https://github.com/simple-icons/simple-icons/issues/6971) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+1. ❗️ Opened issue [#7](https://github.com/warengonzaga/update-your-footer-wp/issues/7) in [warengonzaga/update-your-footer-wp](https://github.com/warengonzaga/update-your-footer-wp)
+2. 💪 Opened PR [#13](https://github.com/OSSPhilippines/hacktober-fest-2022-participants/pull/13) in [OSSPhilippines/hacktober-fest-2022-participants](https://github.com/OSSPhilippines/hacktober-fest-2022-participants)
+3. ❗️ Opened issue [#72](https://github.com/MarkisDev/markisdev/issues/72) in [MarkisDev/markisdev](https://github.com/MarkisDev/markisdev)
+4. 🗣 Commented on [#48](https://github.com/warengonzaga/gathertown.js/issues/48) in [warengonzaga/gathertown.js](https://github.com/warengonzaga/gathertown.js)
+5. 💪 Opened PR [#12](https://github.com/OSSPhilippines/hacktober-fest-2022-participants/pull/12) in [OSSPhilippines/hacktober-fest-2022-participants](https://github.com/OSSPhilippines/hacktober-fest-2022-participants)
 <!--END_SECTION:activity-->
 
 </details>
