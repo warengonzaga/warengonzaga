@@ -65,11 +65,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#48](https://github.com/warengonzaga/gathertown.js/issues/48) in [warengonzaga/gathertown.js](https://github.com/warengonzaga/gathertown.js)
-2. 🗣 Commented on [#8](https://github.com/warengonzaga/update-your-footer-wp/issues/8) in [warengonzaga/update-your-footer-wp](https://github.com/warengonzaga/update-your-footer-wp)
-3. ❗️ Opened issue [#7](https://github.com/warengonzaga/update-your-footer-wp/issues/7) in [warengonzaga/update-your-footer-wp](https://github.com/warengonzaga/update-your-footer-wp)
-4. 💪 Opened PR [#13](https://github.com/OSSPhilippines/hacktober-fest-2022-participants/pull/13) in [OSSPhilippines/hacktober-fest-2022-participants](https://github.com/OSSPhilippines/hacktober-fest-2022-participants)
-5. ❗️ Opened issue [#72](https://github.com/MarkisDev/markisdev/issues/72) in [MarkisDev/markisdev](https://github.com/MarkisDev/markisdev)
+1. ❗️ Closed issue [#7](https://github.com/warengonzaga/update-your-footer-wp/issues/7) in [warengonzaga/update-your-footer-wp](https://github.com/warengonzaga/update-your-footer-wp)
+2. 🎉 Merged PR [#8](https://github.com/warengonzaga/update-your-footer-wp/pull/8) in [warengonzaga/update-your-footer-wp](https://github.com/warengonzaga/update-your-footer-wp)
+3. 🗣 Commented on [#48](https://github.com/warengonzaga/gathertown.js/issues/48) in [warengonzaga/gathertown.js](https://github.com/warengonzaga/gathertown.js)
+4. 🗣 Commented on [#8](https://github.com/warengonzaga/update-your-footer-wp/issues/8) in [warengonzaga/update-your-footer-wp](https://github.com/warengonzaga/update-your-footer-wp)
+5. ❗️ Opened issue [#7](https://github.com/warengonzaga/update-your-footer-wp/issues/7) in [warengonzaga/update-your-footer-wp](https://github.com/warengonzaga/update-your-footer-wp)
 <!--END_SECTION:activity-->
 
 </details>
