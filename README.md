@@ -65,11 +65,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1604](https://github.com/animate-css/animate.css/issues/1604) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
-2. 🗣 Commented on [#1613](https://github.com/animate-css/animate.css/issues/1613) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
-3. 💪 Opened PR [#10](https://github.com/warengonzaga/update-your-footer-wp/pull/10) in [warengonzaga/update-your-footer-wp](https://github.com/warengonzaga/update-your-footer-wp)
-4. 🎉 Merged PR [#9](https://github.com/warengonzaga/update-your-footer-wp/pull/9) in [warengonzaga/update-your-footer-wp](https://github.com/warengonzaga/update-your-footer-wp)
-5. 🗣 Commented on [#13](https://github.com/OSSPhilippines/hacktober-fest-2022-participants/issues/13) in [OSSPhilippines/hacktober-fest-2022-participants](https://github.com/OSSPhilippines/hacktober-fest-2022-participants)
+1. ❗️ Opened issue [#3](https://github.com/web3phl/nas-community-pass/issues/3) in [web3phl/nas-community-pass](https://github.com/web3phl/nas-community-pass)
+2. ❗️ Opened issue [#2](https://github.com/web3phl/nas-community-pass/issues/2) in [web3phl/nas-community-pass](https://github.com/web3phl/nas-community-pass)
+3. 🗣 Commented on [#1604](https://github.com/animate-css/animate.css/issues/1604) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+4. 🗣 Commented on [#1613](https://github.com/animate-css/animate.css/issues/1613) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+5. 💪 Opened PR [#10](https://github.com/warengonzaga/update-your-footer-wp/pull/10) in [warengonzaga/update-your-footer-wp](https://github.com/warengonzaga/update-your-footer-wp)
 <!--END_SECTION:activity-->
 
 </details>
