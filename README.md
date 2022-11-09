@@ -65,11 +65,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#13](https://github.com/web3phl/bio/issues/13) in [web3phl/bio](https://github.com/web3phl/bio)
-2. ❗️ Opened issue [#5](https://github.com/web3phl/nas-community-pass/issues/5) in [web3phl/nas-community-pass](https://github.com/web3phl/nas-community-pass)
-3. 🗣 Commented on [#44](https://github.com/web3phl/directory/issues/44) in [web3phl/directory](https://github.com/web3phl/directory)
-4. ❗️ Opened issue [#2](https://github.com/web3phl/website/issues/2) in [web3phl/website](https://github.com/web3phl/website)
-5. ❗️ Closed issue [#2](https://github.com/web3phl/nas-community-pass/issues/2) in [web3phl/nas-community-pass](https://github.com/web3phl/nas-community-pass)
+1. ❗️ Opened issue [#14](https://github.com/web3phl/bio/issues/14) in [web3phl/bio](https://github.com/web3phl/bio)
+2. ❗️ Opened issue [#13](https://github.com/web3phl/bio/issues/13) in [web3phl/bio](https://github.com/web3phl/bio)
+3. ❗️ Opened issue [#5](https://github.com/web3phl/nas-community-pass/issues/5) in [web3phl/nas-community-pass](https://github.com/web3phl/nas-community-pass)
+4. 🗣 Commented on [#44](https://github.com/web3phl/directory/issues/44) in [web3phl/directory](https://github.com/web3phl/directory)
+5. ❗️ Opened issue [#2](https://github.com/web3phl/website/issues/2) in [web3phl/website](https://github.com/web3phl/website)
 <!--END_SECTION:activity-->
 
 </details>
