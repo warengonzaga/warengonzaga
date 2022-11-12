@@ -65,11 +65,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#6](https://github.com/web3phl/bio/issues/6) in [web3phl/bio](https://github.com/web3phl/bio)
-2. 🗣 Commented on [#6](https://github.com/web3phl/bio/issues/6) in [web3phl/bio](https://github.com/web3phl/bio)
-3. ❗️ Closed issue [#14](https://github.com/web3phl/bio/issues/14) in [web3phl/bio](https://github.com/web3phl/bio)
-4. 🗣 Commented on [#14](https://github.com/web3phl/bio/issues/14) in [web3phl/bio](https://github.com/web3phl/bio)
-5. 🗣 Commented on [#13](https://github.com/web3phl/bio/issues/13) in [web3phl/bio](https://github.com/web3phl/bio)
+1. 🎉 Merged PR [#40](https://github.com/warengonzaga/wifi-passview/pull/40) in [warengonzaga/wifi-passview](https://github.com/warengonzaga/wifi-passview)
+2. 🗣 Commented on [#65](https://github.com/web3phl/directory/issues/65) in [web3phl/directory](https://github.com/web3phl/directory)
+3. 🗣 Commented on [#65](https://github.com/web3phl/directory/issues/65) in [web3phl/directory](https://github.com/web3phl/directory)
+4. ❗️ Closed issue [#6](https://github.com/web3phl/bio/issues/6) in [web3phl/bio](https://github.com/web3phl/bio)
+5. 🗣 Commented on [#6](https://github.com/web3phl/bio/issues/6) in [web3phl/bio](https://github.com/web3phl/bio)
 <!--END_SECTION:activity-->
 
 </details>
