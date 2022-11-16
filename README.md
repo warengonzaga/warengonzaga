@@ -65,11 +65,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/web3phl/directory-api/pull/12) in [web3phl/directory-api](https://github.com/web3phl/directory-api)
-2. 🎉 Merged PR [#40](https://github.com/warengonzaga/wifi-passview/pull/40) in [warengonzaga/wifi-passview](https://github.com/warengonzaga/wifi-passview)
-3. 🗣 Commented on [#65](https://github.com/web3phl/directory/issues/65) in [web3phl/directory](https://github.com/web3phl/directory)
+1. 🗣 Commented on [#56](https://github.com/warengonzaga/buymeacoffee.js/issues/56) in [warengonzaga/buymeacoffee.js](https://github.com/warengonzaga/buymeacoffee.js)
+2. 🎉 Merged PR [#12](https://github.com/web3phl/directory-api/pull/12) in [web3phl/directory-api](https://github.com/web3phl/directory-api)
+3. 🎉 Merged PR [#40](https://github.com/warengonzaga/wifi-passview/pull/40) in [warengonzaga/wifi-passview](https://github.com/warengonzaga/wifi-passview)
 4. 🗣 Commented on [#65](https://github.com/web3phl/directory/issues/65) in [web3phl/directory](https://github.com/web3phl/directory)
-5. ❗️ Closed issue [#6](https://github.com/web3phl/bio/issues/6) in [web3phl/bio](https://github.com/web3phl/bio)
+5. 🗣 Commented on [#65](https://github.com/web3phl/directory/issues/65) in [web3phl/directory](https://github.com/web3phl/directory)
 <!--END_SECTION:activity-->
 
 </details>
