@@ -65,11 +65,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/web3phl/bio/pull/15) in [web3phl/bio](https://github.com/web3phl/bio)
-2. ❗️ Closed issue [#2](https://github.com/web3phl/homepage/issues/2) in [web3phl/homepage](https://github.com/web3phl/homepage)
-3. 🗣 Commented on [#2](https://github.com/web3phl/homepage/issues/2) in [web3phl/homepage](https://github.com/web3phl/homepage)
-4. 🗣 Commented on [#56](https://github.com/warengonzaga/buymeacoffee.js/issues/56) in [warengonzaga/buymeacoffee.js](https://github.com/warengonzaga/buymeacoffee.js)
-5. 🎉 Merged PR [#12](https://github.com/web3phl/directory-api/pull/12) in [web3phl/directory-api](https://github.com/web3phl/directory-api)
+1. ❗️ Opened issue [#3](https://github.com/web3phl/homepage/issues/3) in [web3phl/homepage](https://github.com/web3phl/homepage)
+2. 🎉 Merged PR [#15](https://github.com/web3phl/bio/pull/15) in [web3phl/bio](https://github.com/web3phl/bio)
+3. ❗️ Closed issue [#2](https://github.com/web3phl/homepage/issues/2) in [web3phl/homepage](https://github.com/web3phl/homepage)
+4. 🗣 Commented on [#2](https://github.com/web3phl/homepage/issues/2) in [web3phl/homepage](https://github.com/web3phl/homepage)
+5. 🗣 Commented on [#56](https://github.com/warengonzaga/buymeacoffee.js/issues/56) in [warengonzaga/buymeacoffee.js](https://github.com/warengonzaga/buymeacoffee.js)
 <!--END_SECTION:activity-->
 
 </details>
