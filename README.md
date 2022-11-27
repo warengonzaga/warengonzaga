@@ -16,7 +16,6 @@ Filipino senior software engineer, opensource developer and advocate, cybersecur
 - 💜 Core @ [Polygon Guild Manila](https://twitter.com/polygonguildmnl)
 - 🤝 Core @ [OSS Philippines](https://ossph.org)
 - 🖥️ Founder @ [Wareneutron Devs](https://github.com/wareneutron)
-- 💞 President @ [Algo Filipino](https://github.com/algofilipino)
 - 🔏 Bug bounty hunter in free time.
 - ☕ Coffee lover, turning it into code, [you can buy me a coffee](https://buymeacoff.ee/warengonzaga) or [send me some love](https://github.com/sponsors/warengonzaga).
 - 🎯 Wasting my time to save other people's time.
