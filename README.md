@@ -64,11 +64,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/web3phl/bio/issues/2) in [web3phl/bio](https://github.com/web3phl/bio)
+1. 🎉 Merged PR [#41](https://github.com/warengonzaga/wifi-passview/pull/41) in [warengonzaga/wifi-passview](https://github.com/warengonzaga/wifi-passview)
 2. 🗣 Commented on [#2](https://github.com/web3phl/bio/issues/2) in [web3phl/bio](https://github.com/web3phl/bio)
-3. 💪 Opened PR [#397](https://github.com/thirdweb-dev/docs/pull/397) in [thirdweb-dev/docs](https://github.com/thirdweb-dev/docs)
-4. 🗣 Commented on [#1631](https://github.com/animate-css/animate.css/issues/1631) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
-5. 🎉 Merged PR [#10](https://github.com/warengonzaga/update-your-footer-wp/pull/10) in [warengonzaga/update-your-footer-wp](https://github.com/warengonzaga/update-your-footer-wp)
+3. 🗣 Commented on [#2](https://github.com/web3phl/bio/issues/2) in [web3phl/bio](https://github.com/web3phl/bio)
+4. 💪 Opened PR [#397](https://github.com/thirdweb-dev/docs/pull/397) in [thirdweb-dev/docs](https://github.com/thirdweb-dev/docs)
+5. 🗣 Commented on [#1631](https://github.com/animate-css/animate.css/issues/1631) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
 <!--END_SECTION:activity-->
 
 </details>
