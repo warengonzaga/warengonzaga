@@ -64,11 +64,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#397](https://github.com/thirdweb-dev/docs/pull/397) in [thirdweb-dev/docs](https://github.com/thirdweb-dev/docs)
-2. 🗣 Commented on [#1631](https://github.com/animate-css/animate.css/issues/1631) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
-3. 🎉 Merged PR [#10](https://github.com/warengonzaga/update-your-footer-wp/pull/10) in [warengonzaga/update-your-footer-wp](https://github.com/warengonzaga/update-your-footer-wp)
-4. ❗️ Opened issue [#73](https://github.com/Cat5TV/pinecraft/issues/73) in [Cat5TV/pinecraft](https://github.com/Cat5TV/pinecraft)
-5. 💪 Opened PR [#392](https://github.com/thirdweb-dev/docs/pull/392) in [thirdweb-dev/docs](https://github.com/thirdweb-dev/docs)
+1. 🗣 Commented on [#2](https://github.com/web3phl/bio/issues/2) in [web3phl/bio](https://github.com/web3phl/bio)
+2. 💪 Opened PR [#397](https://github.com/thirdweb-dev/docs/pull/397) in [thirdweb-dev/docs](https://github.com/thirdweb-dev/docs)
+3. 🗣 Commented on [#1631](https://github.com/animate-css/animate.css/issues/1631) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+4. 🎉 Merged PR [#10](https://github.com/warengonzaga/update-your-footer-wp/pull/10) in [warengonzaga/update-your-footer-wp](https://github.com/warengonzaga/update-your-footer-wp)
+5. ❗️ Opened issue [#73](https://github.com/Cat5TV/pinecraft/issues/73) in [Cat5TV/pinecraft](https://github.com/Cat5TV/pinecraft)
 <!--END_SECTION:activity-->
 
 </details>
