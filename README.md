@@ -64,11 +64,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2](https://github.com/web3phl/bio/issues/2) in [web3phl/bio](https://github.com/web3phl/bio)
-2. 🗣 Commented on [#2](https://github.com/web3phl/bio/issues/2) in [web3phl/bio](https://github.com/web3phl/bio)
-3. 🎉 Merged PR [#16](https://github.com/web3phl/bio/pull/16) in [web3phl/bio](https://github.com/web3phl/bio)
-4. 🗣 Commented on [#397](https://github.com/thirdweb-dev/docs/issues/397) in [thirdweb-dev/docs](https://github.com/thirdweb-dev/docs)
-5. 🎉 Merged PR [#41](https://github.com/warengonzaga/wifi-passview/pull/41) in [warengonzaga/wifi-passview](https://github.com/warengonzaga/wifi-passview)
+1. 🗣 Commented on [#11](https://github.com/web3phl/bio/issues/11) in [web3phl/bio](https://github.com/web3phl/bio)
+2. ❗️ Closed issue [#2](https://github.com/web3phl/bio/issues/2) in [web3phl/bio](https://github.com/web3phl/bio)
+3. 🗣 Commented on [#2](https://github.com/web3phl/bio/issues/2) in [web3phl/bio](https://github.com/web3phl/bio)
+4. 🎉 Merged PR [#16](https://github.com/web3phl/bio/pull/16) in [web3phl/bio](https://github.com/web3phl/bio)
+5. 🗣 Commented on [#397](https://github.com/thirdweb-dev/docs/issues/397) in [thirdweb-dev/docs](https://github.com/thirdweb-dev/docs)
 <!--END_SECTION:activity-->
 
 </details>
