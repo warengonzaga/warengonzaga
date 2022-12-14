@@ -64,11 +64,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#21](https://github.com/warengonzaga/wrn-cleaner/pull/21) in [warengonzaga/wrn-cleaner](https://github.com/warengonzaga/wrn-cleaner)
-2. 🎉 Merged PR [#20](https://github.com/warengonzaga/wrn-cleaner/pull/20) in [warengonzaga/wrn-cleaner](https://github.com/warengonzaga/wrn-cleaner)
-3. 🗣 Commented on [#1637](https://github.com/animate-css/animate.css/issues/1637) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
-4. 🗣 Commented on [#11](https://github.com/web3phl/bio/issues/11) in [web3phl/bio](https://github.com/web3phl/bio)
-5. ❗️ Closed issue [#2](https://github.com/web3phl/bio/issues/2) in [web3phl/bio](https://github.com/web3phl/bio)
+1. ❗️ Closed issue [#59](https://github.com/warengonzaga/buymeacoffee.js/issues/59) in [warengonzaga/buymeacoffee.js](https://github.com/warengonzaga/buymeacoffee.js)
+2. 🗣 Commented on [#59](https://github.com/warengonzaga/buymeacoffee.js/issues/59) in [warengonzaga/buymeacoffee.js](https://github.com/warengonzaga/buymeacoffee.js)
+3. 🎉 Merged PR [#21](https://github.com/warengonzaga/wrn-cleaner/pull/21) in [warengonzaga/wrn-cleaner](https://github.com/warengonzaga/wrn-cleaner)
+4. 🎉 Merged PR [#20](https://github.com/warengonzaga/wrn-cleaner/pull/20) in [warengonzaga/wrn-cleaner](https://github.com/warengonzaga/wrn-cleaner)
+5. 🗣 Commented on [#1637](https://github.com/animate-css/animate.css/issues/1637) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
 <!--END_SECTION:activity-->
 
 </details>
