@@ -65,10 +65,10 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#25043](https://github.com/keybase/client/issues/25043) in [keybase/client](https://github.com/keybase/client)
-2. 🗣 Commented on [#62](https://github.com/warengonzaga/buymeacoffee.js/issues/62) in [warengonzaga/buymeacoffee.js](https://github.com/warengonzaga/buymeacoffee.js)
-3. 🎉 Merged PR [#56](https://github.com/warengonzaga/buymeacoffee.js/pull/56) in [warengonzaga/buymeacoffee.js](https://github.com/warengonzaga/buymeacoffee.js)
-4. ❗️ Closed issue [#57](https://github.com/warengonzaga/buymeacoffee.js/issues/57) in [warengonzaga/buymeacoffee.js](https://github.com/warengonzaga/buymeacoffee.js)
-5. 🗣 Commented on [#57](https://github.com/warengonzaga/buymeacoffee.js/issues/57) in [warengonzaga/buymeacoffee.js](https://github.com/warengonzaga/buymeacoffee.js)
+2. 🗣 Commented on [#25043](https://github.com/keybase/client/issues/25043) in [keybase/client](https://github.com/keybase/client)
+3. 🗣 Commented on [#62](https://github.com/warengonzaga/buymeacoffee.js/issues/62) in [warengonzaga/buymeacoffee.js](https://github.com/warengonzaga/buymeacoffee.js)
+4. 🎉 Merged PR [#56](https://github.com/warengonzaga/buymeacoffee.js/pull/56) in [warengonzaga/buymeacoffee.js](https://github.com/warengonzaga/buymeacoffee.js)
+5. ❗️ Closed issue [#57](https://github.com/warengonzaga/buymeacoffee.js/issues/57) in [warengonzaga/buymeacoffee.js](https://github.com/warengonzaga/buymeacoffee.js)
 <!--END_SECTION:activity-->
 
 </details>
