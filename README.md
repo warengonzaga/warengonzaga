@@ -64,11 +64,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#25043](https://github.com/keybase/client/issues/25043) in [keybase/client](https://github.com/keybase/client)
-2. 🗣 Commented on [#25043](https://github.com/keybase/client/issues/25043) in [keybase/client](https://github.com/keybase/client)
-3. 🗣 Commented on [#62](https://github.com/warengonzaga/buymeacoffee.js/issues/62) in [warengonzaga/buymeacoffee.js](https://github.com/warengonzaga/buymeacoffee.js)
-4. 🎉 Merged PR [#56](https://github.com/warengonzaga/buymeacoffee.js/pull/56) in [warengonzaga/buymeacoffee.js](https://github.com/warengonzaga/buymeacoffee.js)
-5. ❗️ Closed issue [#57](https://github.com/warengonzaga/buymeacoffee.js/issues/57) in [warengonzaga/buymeacoffee.js](https://github.com/warengonzaga/buymeacoffee.js)
+1. 🗣 Commented on [#1](https://github.com/warengonzaga/awesome-thirdweb/issues/1) in [warengonzaga/awesome-thirdweb](https://github.com/warengonzaga/awesome-thirdweb)
+2. ❗️ Closed issue [#1](https://github.com/warengonzaga/awesome-thirdweb/issues/1) in [warengonzaga/awesome-thirdweb](https://github.com/warengonzaga/awesome-thirdweb)
+3. 💪 Opened PR [#1](https://github.com/saminacodes/tw-demo-assets/pull/1) in [saminacodes/tw-demo-assets](https://github.com/saminacodes/tw-demo-assets)
+4. 🗣 Commented on [#25043](https://github.com/keybase/client/issues/25043) in [keybase/client](https://github.com/keybase/client)
+5. 🗣 Commented on [#25043](https://github.com/keybase/client/issues/25043) in [keybase/client](https://github.com/keybase/client)
 <!--END_SECTION:activity-->
 
 </details>
