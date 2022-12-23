@@ -64,11 +64,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/warengonzaga/awesome-thirdweb/issues/2) in [warengonzaga/awesome-thirdweb](https://github.com/warengonzaga/awesome-thirdweb)
-2. 🗣 Commented on [#2242](https://github.com/sindresorhus/awesome/issues/2242) in [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
-3. 🗣 Commented on [#1](https://github.com/warengonzaga/awesome-thirdweb/issues/1) in [warengonzaga/awesome-thirdweb](https://github.com/warengonzaga/awesome-thirdweb)
-4. ❗️ Closed issue [#1](https://github.com/warengonzaga/awesome-thirdweb/issues/1) in [warengonzaga/awesome-thirdweb](https://github.com/warengonzaga/awesome-thirdweb)
-5. 💪 Opened PR [#1](https://github.com/saminacodes/tw-demo-assets/pull/1) in [saminacodes/tw-demo-assets](https://github.com/saminacodes/tw-demo-assets)
+1. 🎉 Merged PR [#2](https://github.com/warengonzaga/awesome-thirdweb/pull/2) in [warengonzaga/awesome-thirdweb](https://github.com/warengonzaga/awesome-thirdweb)
+2. 🗣 Commented on [#2](https://github.com/warengonzaga/awesome-thirdweb/issues/2) in [warengonzaga/awesome-thirdweb](https://github.com/warengonzaga/awesome-thirdweb)
+3. 🗣 Commented on [#2242](https://github.com/sindresorhus/awesome/issues/2242) in [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
+4. 🗣 Commented on [#1](https://github.com/warengonzaga/awesome-thirdweb/issues/1) in [warengonzaga/awesome-thirdweb](https://github.com/warengonzaga/awesome-thirdweb)
+5. ❗️ Closed issue [#1](https://github.com/warengonzaga/awesome-thirdweb/issues/1) in [warengonzaga/awesome-thirdweb](https://github.com/warengonzaga/awesome-thirdweb)
 <!--END_SECTION:activity-->
 
 </details>
