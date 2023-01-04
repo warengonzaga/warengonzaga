@@ -64,11 +64,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#31](https://github.com/ahmet/awesome-web3/pull/31) in [ahmet/awesome-web3](https://github.com/ahmet/awesome-web3)
-2. 🎉 Merged PR [#2](https://github.com/warengonzaga/awesome-thirdweb/pull/2) in [warengonzaga/awesome-thirdweb](https://github.com/warengonzaga/awesome-thirdweb)
-3. 🗣 Commented on [#2](https://github.com/warengonzaga/awesome-thirdweb/issues/2) in [warengonzaga/awesome-thirdweb](https://github.com/warengonzaga/awesome-thirdweb)
-4. 🗣 Commented on [#2242](https://github.com/sindresorhus/awesome/issues/2242) in [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
-5. 🗣 Commented on [#1](https://github.com/warengonzaga/awesome-thirdweb/issues/1) in [warengonzaga/awesome-thirdweb](https://github.com/warengonzaga/awesome-thirdweb)
+1. 🎉 Merged PR [#3](https://github.com/warengonzaga/awesome-thirdweb/pull/3) in [warengonzaga/awesome-thirdweb](https://github.com/warengonzaga/awesome-thirdweb)
+2. 💪 Opened PR [#31](https://github.com/ahmet/awesome-web3/pull/31) in [ahmet/awesome-web3](https://github.com/ahmet/awesome-web3)
+3. 🎉 Merged PR [#2](https://github.com/warengonzaga/awesome-thirdweb/pull/2) in [warengonzaga/awesome-thirdweb](https://github.com/warengonzaga/awesome-thirdweb)
+4. 🗣 Commented on [#2](https://github.com/warengonzaga/awesome-thirdweb/issues/2) in [warengonzaga/awesome-thirdweb](https://github.com/warengonzaga/awesome-thirdweb)
+5. 🗣 Commented on [#2242](https://github.com/sindresorhus/awesome/issues/2242) in [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
 <!--END_SECTION:activity-->
 
 </details>
