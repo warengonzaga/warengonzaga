@@ -64,11 +64,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/warengonzaga/thirdweb-art-engine/issues/1) in [warengonzaga/thirdweb-art-engine](https://github.com/warengonzaga/thirdweb-art-engine)
-2. 🗣 Commented on [#4](https://github.com/warengonzaga/awesome-thirdweb/issues/4) in [warengonzaga/awesome-thirdweb](https://github.com/warengonzaga/awesome-thirdweb)
-3. ❗️ Opened issue [#4](https://github.com/warengonzaga/awesome-thirdweb/issues/4) in [warengonzaga/awesome-thirdweb](https://github.com/warengonzaga/awesome-thirdweb)
-4. ❗️ Opened issue [#1](https://github.com/warengonzaga/ipfs-support-extension/issues/1) in [warengonzaga/ipfs-support-extension](https://github.com/warengonzaga/ipfs-support-extension)
-5. 🎉 Merged PR [#3](https://github.com/warengonzaga/awesome-thirdweb/pull/3) in [warengonzaga/awesome-thirdweb](https://github.com/warengonzaga/awesome-thirdweb)
+1. 🗣 Commented on [#6](https://github.com/web3phl/homepage/issues/6) in [web3phl/homepage](https://github.com/web3phl/homepage)
+2. 🗣 Commented on [#6](https://github.com/web3phl/homepage/issues/6) in [web3phl/homepage](https://github.com/web3phl/homepage)
+3. ❗️ Opened issue [#1](https://github.com/warengonzaga/thirdweb-art-engine/issues/1) in [warengonzaga/thirdweb-art-engine](https://github.com/warengonzaga/thirdweb-art-engine)
+4. 🗣 Commented on [#4](https://github.com/warengonzaga/awesome-thirdweb/issues/4) in [warengonzaga/awesome-thirdweb](https://github.com/warengonzaga/awesome-thirdweb)
+5. ❗️ Opened issue [#4](https://github.com/warengonzaga/awesome-thirdweb/issues/4) in [warengonzaga/awesome-thirdweb](https://github.com/warengonzaga/awesome-thirdweb)
 <!--END_SECTION:activity-->
 
 </details>
