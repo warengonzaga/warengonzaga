@@ -64,11 +64,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/warengonzaga/awesome-thirdweb/pull/7) in [warengonzaga/awesome-thirdweb](https://github.com/warengonzaga/awesome-thirdweb)
-2. 🗣 Commented on [#7](https://github.com/warengonzaga/awesome-thirdweb/issues/7) in [warengonzaga/awesome-thirdweb](https://github.com/warengonzaga/awesome-thirdweb)
-3. ❌ Closed PR [#5](https://github.com/warengonzaga/awesome-thirdweb/pull/5) in [warengonzaga/awesome-thirdweb](https://github.com/warengonzaga/awesome-thirdweb)
-4. 🗣 Commented on [#5](https://github.com/warengonzaga/awesome-thirdweb/issues/5) in [warengonzaga/awesome-thirdweb](https://github.com/warengonzaga/awesome-thirdweb)
-5. 🗣 Commented on [#1643](https://github.com/animate-css/animate.css/issues/1643) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+1. 🎉 Merged PR [#8](https://github.com/warengonzaga/awesome-thirdweb/pull/8) in [warengonzaga/awesome-thirdweb](https://github.com/warengonzaga/awesome-thirdweb)
+2. 🎉 Merged PR [#7](https://github.com/warengonzaga/awesome-thirdweb/pull/7) in [warengonzaga/awesome-thirdweb](https://github.com/warengonzaga/awesome-thirdweb)
+3. 🗣 Commented on [#7](https://github.com/warengonzaga/awesome-thirdweb/issues/7) in [warengonzaga/awesome-thirdweb](https://github.com/warengonzaga/awesome-thirdweb)
+4. ❌ Closed PR [#5](https://github.com/warengonzaga/awesome-thirdweb/pull/5) in [warengonzaga/awesome-thirdweb](https://github.com/warengonzaga/awesome-thirdweb)
+5. 🗣 Commented on [#5](https://github.com/warengonzaga/awesome-thirdweb/issues/5) in [warengonzaga/awesome-thirdweb](https://github.com/warengonzaga/awesome-thirdweb)
 <!--END_SECTION:activity-->
 
 </details>
