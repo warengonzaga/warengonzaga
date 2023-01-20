@@ -64,11 +64,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4](https://github.com/warengonzaga/thirdweb-art-engine/issues/4) in [warengonzaga/thirdweb-art-engine](https://github.com/warengonzaga/thirdweb-art-engine)
-2. 💪 Opened PR [#3](https://github.com/warengonzaga/thirdweb-art-engine/pull/3) in [warengonzaga/thirdweb-art-engine](https://github.com/warengonzaga/thirdweb-art-engine)
-3. ❌ Closed PR [#1486](https://github.com/HashLips/hashlips_art_engine/pull/1486) in [HashLips/hashlips_art_engine](https://github.com/HashLips/hashlips_art_engine)
-4. 🗣 Commented on [#1486](https://github.com/HashLips/hashlips_art_engine/issues/1486) in [HashLips/hashlips_art_engine](https://github.com/HashLips/hashlips_art_engine)
-5. 💪 Opened PR [#1486](https://github.com/HashLips/hashlips_art_engine/pull/1486) in [HashLips/hashlips_art_engine](https://github.com/HashLips/hashlips_art_engine)
+1. ❗️ Opened issue [#6](https://github.com/warengonzaga/thirdweb-art-engine/issues/6) in [warengonzaga/thirdweb-art-engine](https://github.com/warengonzaga/thirdweb-art-engine)
+2. ❗️ Closed issue [#5](https://github.com/warengonzaga/thirdweb-art-engine/issues/5) in [warengonzaga/thirdweb-art-engine](https://github.com/warengonzaga/thirdweb-art-engine)
+3. 🗣 Commented on [#5](https://github.com/warengonzaga/thirdweb-art-engine/issues/5) in [warengonzaga/thirdweb-art-engine](https://github.com/warengonzaga/thirdweb-art-engine)
+4. ❗️ Opened issue [#5](https://github.com/warengonzaga/thirdweb-art-engine/issues/5) in [warengonzaga/thirdweb-art-engine](https://github.com/warengonzaga/thirdweb-art-engine)
+5. ❗️ Opened issue [#4](https://github.com/warengonzaga/thirdweb-art-engine/issues/4) in [warengonzaga/thirdweb-art-engine](https://github.com/warengonzaga/thirdweb-art-engine)
 <!--END_SECTION:activity-->
 
 </details>
