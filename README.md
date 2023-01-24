@@ -64,11 +64,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2](https://github.com/warengonzaga/thirdweb-art-engine/issues/2) in [warengonzaga/thirdweb-art-engine](https://github.com/warengonzaga/thirdweb-art-engine)
-2. 🗣 Commented on [#2](https://github.com/warengonzaga/thirdweb-art-engine/issues/2) in [warengonzaga/thirdweb-art-engine](https://github.com/warengonzaga/thirdweb-art-engine)
-3. ❗️ Opened issue [#6](https://github.com/warengonzaga/thirdweb-art-engine/issues/6) in [warengonzaga/thirdweb-art-engine](https://github.com/warengonzaga/thirdweb-art-engine)
-4. ❗️ Closed issue [#5](https://github.com/warengonzaga/thirdweb-art-engine/issues/5) in [warengonzaga/thirdweb-art-engine](https://github.com/warengonzaga/thirdweb-art-engine)
-5. 🗣 Commented on [#5](https://github.com/warengonzaga/thirdweb-art-engine/issues/5) in [warengonzaga/thirdweb-art-engine](https://github.com/warengonzaga/thirdweb-art-engine)
+1. ❗️ Closed issue [#1](https://github.com/warengonzaga/thirdweb-art-engine/issues/1) in [warengonzaga/thirdweb-art-engine](https://github.com/warengonzaga/thirdweb-art-engine)
+2. 🗣 Commented on [#1](https://github.com/warengonzaga/thirdweb-art-engine/issues/1) in [warengonzaga/thirdweb-art-engine](https://github.com/warengonzaga/thirdweb-art-engine)
+3. ❗️ Opened issue [#9](https://github.com/hoshiyuki-tamako/file-split-to-directory/issues/9) in [hoshiyuki-tamako/file-split-to-directory](https://github.com/hoshiyuki-tamako/file-split-to-directory)
+4. ❗️ Closed issue [#2](https://github.com/warengonzaga/thirdweb-art-engine/issues/2) in [warengonzaga/thirdweb-art-engine](https://github.com/warengonzaga/thirdweb-art-engine)
+5. 🗣 Commented on [#2](https://github.com/warengonzaga/thirdweb-art-engine/issues/2) in [warengonzaga/thirdweb-art-engine](https://github.com/warengonzaga/thirdweb-art-engine)
 <!--END_SECTION:activity-->
 
 </details>
