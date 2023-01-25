@@ -64,11 +64,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#10](https://github.com/hoshiyuki-tamako/file-split-to-directory/issues/10) in [hoshiyuki-tamako/file-split-to-directory](https://github.com/hoshiyuki-tamako/file-split-to-directory)
-2. ❗️ Closed issue [#9](https://github.com/hoshiyuki-tamako/file-split-to-directory/issues/9) in [hoshiyuki-tamako/file-split-to-directory](https://github.com/hoshiyuki-tamako/file-split-to-directory)
-3. 🗣 Commented on [#9](https://github.com/hoshiyuki-tamako/file-split-to-directory/issues/9) in [hoshiyuki-tamako/file-split-to-directory](https://github.com/hoshiyuki-tamako/file-split-to-directory)
-4. 🗣 Commented on [#9](https://github.com/hoshiyuki-tamako/file-split-to-directory/issues/9) in [hoshiyuki-tamako/file-split-to-directory](https://github.com/hoshiyuki-tamako/file-split-to-directory)
-5. 🗣 Commented on [#513](https://github.com/HashLips/hashlips_art_engine/issues/513) in [HashLips/hashlips_art_engine](https://github.com/HashLips/hashlips_art_engine)
+1. ❗️ Reopened issue [#1](https://github.com/warengonzaga/thirdweb-art-engine/issues/1) in [warengonzaga/thirdweb-art-engine](https://github.com/warengonzaga/thirdweb-art-engine)
+2. 🗣 Commented on [#1](https://github.com/warengonzaga/thirdweb-art-engine/issues/1) in [warengonzaga/thirdweb-art-engine](https://github.com/warengonzaga/thirdweb-art-engine)
+3. ❗️ Opened issue [#10](https://github.com/hoshiyuki-tamako/file-split-to-directory/issues/10) in [hoshiyuki-tamako/file-split-to-directory](https://github.com/hoshiyuki-tamako/file-split-to-directory)
+4. ❗️ Closed issue [#9](https://github.com/hoshiyuki-tamako/file-split-to-directory/issues/9) in [hoshiyuki-tamako/file-split-to-directory](https://github.com/hoshiyuki-tamako/file-split-to-directory)
+5. 🗣 Commented on [#9](https://github.com/hoshiyuki-tamako/file-split-to-directory/issues/9) in [hoshiyuki-tamako/file-split-to-directory](https://github.com/hoshiyuki-tamako/file-split-to-directory)
 <!--END_SECTION:activity-->
 
 </details>
