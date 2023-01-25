@@ -65,10 +65,10 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#10](https://github.com/hoshiyuki-tamako/file-split-to-directory/issues/10) in [hoshiyuki-tamako/file-split-to-directory](https://github.com/hoshiyuki-tamako/file-split-to-directory)
-2. ❗️ Reopened issue [#1](https://github.com/warengonzaga/thirdweb-art-engine/issues/1) in [warengonzaga/thirdweb-art-engine](https://github.com/warengonzaga/thirdweb-art-engine)
-3. 🗣 Commented on [#1](https://github.com/warengonzaga/thirdweb-art-engine/issues/1) in [warengonzaga/thirdweb-art-engine](https://github.com/warengonzaga/thirdweb-art-engine)
-4. ❗️ Opened issue [#10](https://github.com/hoshiyuki-tamako/file-split-to-directory/issues/10) in [hoshiyuki-tamako/file-split-to-directory](https://github.com/hoshiyuki-tamako/file-split-to-directory)
-5. ❗️ Closed issue [#9](https://github.com/hoshiyuki-tamako/file-split-to-directory/issues/9) in [hoshiyuki-tamako/file-split-to-directory](https://github.com/hoshiyuki-tamako/file-split-to-directory)
+2. 🗣 Commented on [#10](https://github.com/hoshiyuki-tamako/file-split-to-directory/issues/10) in [hoshiyuki-tamako/file-split-to-directory](https://github.com/hoshiyuki-tamako/file-split-to-directory)
+3. ❗️ Reopened issue [#1](https://github.com/warengonzaga/thirdweb-art-engine/issues/1) in [warengonzaga/thirdweb-art-engine](https://github.com/warengonzaga/thirdweb-art-engine)
+4. 🗣 Commented on [#1](https://github.com/warengonzaga/thirdweb-art-engine/issues/1) in [warengonzaga/thirdweb-art-engine](https://github.com/warengonzaga/thirdweb-art-engine)
+5. ❗️ Opened issue [#10](https://github.com/hoshiyuki-tamako/file-split-to-directory/issues/10) in [hoshiyuki-tamako/file-split-to-directory](https://github.com/hoshiyuki-tamako/file-split-to-directory)
 <!--END_SECTION:activity-->
 
 </details>
