@@ -64,11 +64,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#8](https://github.com/warengonzaga/thirdweb-art-engine/issues/8) in [warengonzaga/thirdweb-art-engine](https://github.com/warengonzaga/thirdweb-art-engine)
-2. ❗️ Opened issue [#14](https://github.com/warengonzaga/thirdweb-tools-cli/issues/14) in [warengonzaga/thirdweb-tools-cli](https://github.com/warengonzaga/thirdweb-tools-cli)
-3. ❗️ Opened issue [#13](https://github.com/warengonzaga/thirdweb-tools-cli/issues/13) in [warengonzaga/thirdweb-tools-cli](https://github.com/warengonzaga/thirdweb-tools-cli)
-4. ❗️ Opened issue [#12](https://github.com/warengonzaga/thirdweb-tools-cli/issues/12) in [warengonzaga/thirdweb-tools-cli](https://github.com/warengonzaga/thirdweb-tools-cli)
-5. 🎉 Merged PR [#3](https://github.com/warengonzaga/thirdweb-art-engine/pull/3) in [warengonzaga/thirdweb-art-engine](https://github.com/warengonzaga/thirdweb-art-engine)
+1. 💪 Opened PR [#9](https://github.com/warengonzaga/thirdweb-art-engine/pull/9) in [warengonzaga/thirdweb-art-engine](https://github.com/warengonzaga/thirdweb-art-engine)
+2. ❌ Closed PR [#7](https://github.com/warengonzaga/thirdweb-art-engine/pull/7) in [warengonzaga/thirdweb-art-engine](https://github.com/warengonzaga/thirdweb-art-engine)
+3. 🗣 Commented on [#7](https://github.com/warengonzaga/thirdweb-art-engine/issues/7) in [warengonzaga/thirdweb-art-engine](https://github.com/warengonzaga/thirdweb-art-engine)
+4. ❗️ Opened issue [#8](https://github.com/warengonzaga/thirdweb-art-engine/issues/8) in [warengonzaga/thirdweb-art-engine](https://github.com/warengonzaga/thirdweb-art-engine)
+5. ❗️ Opened issue [#14](https://github.com/warengonzaga/thirdweb-tools-cli/issues/14) in [warengonzaga/thirdweb-tools-cli](https://github.com/warengonzaga/thirdweb-tools-cli)
 <!--END_SECTION:activity-->
 
 </details>
