@@ -64,11 +64,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#63](https://github.com/web3phl/directory/pull/63) in [web3phl/directory](https://github.com/web3phl/directory)
-2. 🗣 Commented on [#63](https://github.com/web3phl/directory/issues/63) in [web3phl/directory](https://github.com/web3phl/directory)
-3. 💪 Opened PR [#66](https://github.com/web3phl/directory/pull/66) in [web3phl/directory](https://github.com/web3phl/directory)
-4. 💪 Opened PR [#9](https://github.com/warengonzaga/thirdweb-art-engine/pull/9) in [warengonzaga/thirdweb-art-engine](https://github.com/warengonzaga/thirdweb-art-engine)
-5. ❌ Closed PR [#7](https://github.com/warengonzaga/thirdweb-art-engine/pull/7) in [warengonzaga/thirdweb-art-engine](https://github.com/warengonzaga/thirdweb-art-engine)
+1. 🗣 Commented on [#65](https://github.com/web3phl/directory/issues/65) in [web3phl/directory](https://github.com/web3phl/directory)
+2. 🗣 Commented on [#65](https://github.com/web3phl/directory/issues/65) in [web3phl/directory](https://github.com/web3phl/directory)
+3. ❌ Closed PR [#63](https://github.com/web3phl/directory/pull/63) in [web3phl/directory](https://github.com/web3phl/directory)
+4. 🗣 Commented on [#63](https://github.com/web3phl/directory/issues/63) in [web3phl/directory](https://github.com/web3phl/directory)
+5. 💪 Opened PR [#66](https://github.com/web3phl/directory/pull/66) in [web3phl/directory](https://github.com/web3phl/directory)
 <!--END_SECTION:activity-->
 
 </details>
