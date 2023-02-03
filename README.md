@@ -64,11 +64,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#10](https://github.com/warengonzaga/thirdweb-art-engine/issues/10) in [warengonzaga/thirdweb-art-engine](https://github.com/warengonzaga/thirdweb-art-engine)
-2. 🗣 Commented on [#65](https://github.com/web3phl/directory/issues/65) in [web3phl/directory](https://github.com/web3phl/directory)
-3. 🗣 Commented on [#65](https://github.com/web3phl/directory/issues/65) in [web3phl/directory](https://github.com/web3phl/directory)
-4. ❌ Closed PR [#63](https://github.com/web3phl/directory/pull/63) in [web3phl/directory](https://github.com/web3phl/directory)
-5. 🗣 Commented on [#63](https://github.com/web3phl/directory/issues/63) in [web3phl/directory](https://github.com/web3phl/directory)
+1. ❗️ Closed issue [#10](https://github.com/warengonzaga/thirdweb-art-engine/issues/10) in [warengonzaga/thirdweb-art-engine](https://github.com/warengonzaga/thirdweb-art-engine)
+2. 🗣 Commented on [#10](https://github.com/warengonzaga/thirdweb-art-engine/issues/10) in [warengonzaga/thirdweb-art-engine](https://github.com/warengonzaga/thirdweb-art-engine)
+3. ❗️ Opened issue [#10](https://github.com/warengonzaga/thirdweb-art-engine/issues/10) in [warengonzaga/thirdweb-art-engine](https://github.com/warengonzaga/thirdweb-art-engine)
+4. 🗣 Commented on [#65](https://github.com/web3phl/directory/issues/65) in [web3phl/directory](https://github.com/web3phl/directory)
+5. 🗣 Commented on [#65](https://github.com/web3phl/directory/issues/65) in [web3phl/directory](https://github.com/web3phl/directory)
 <!--END_SECTION:activity-->
 
 </details>
