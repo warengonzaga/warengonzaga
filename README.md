@@ -64,11 +64,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/web3phl/directory-api/pull/13) in [web3phl/directory-api](https://github.com/web3phl/directory-api)
-2. 🗣 Commented on [#3](https://github.com/warengonzaga/thirdweb-wp/issues/3) in [warengonzaga/thirdweb-wp](https://github.com/warengonzaga/thirdweb-wp)
-3. ❗️ Closed issue [#10](https://github.com/warengonzaga/thirdweb-art-engine/issues/10) in [warengonzaga/thirdweb-art-engine](https://github.com/warengonzaga/thirdweb-art-engine)
-4. 🗣 Commented on [#10](https://github.com/warengonzaga/thirdweb-art-engine/issues/10) in [warengonzaga/thirdweb-art-engine](https://github.com/warengonzaga/thirdweb-art-engine)
-5. ❗️ Opened issue [#10](https://github.com/warengonzaga/thirdweb-art-engine/issues/10) in [warengonzaga/thirdweb-art-engine](https://github.com/warengonzaga/thirdweb-art-engine)
+1. 🗣 Commented on [#7](https://github.com/web3phl/homepage/issues/7) in [web3phl/homepage](https://github.com/web3phl/homepage)
+2. ❗️ Opened issue [#7](https://github.com/web3phl/homepage/issues/7) in [web3phl/homepage](https://github.com/web3phl/homepage)
+3. 🎉 Merged PR [#13](https://github.com/web3phl/directory-api/pull/13) in [web3phl/directory-api](https://github.com/web3phl/directory-api)
+4. 🗣 Commented on [#3](https://github.com/warengonzaga/thirdweb-wp/issues/3) in [warengonzaga/thirdweb-wp](https://github.com/warengonzaga/thirdweb-wp)
+5. ❗️ Closed issue [#10](https://github.com/warengonzaga/thirdweb-art-engine/issues/10) in [warengonzaga/thirdweb-art-engine](https://github.com/warengonzaga/thirdweb-art-engine)
 <!--END_SECTION:activity-->
 
 </details>
