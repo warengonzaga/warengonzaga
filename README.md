@@ -64,11 +64,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#34](https://github.com/warengonzaga/css-text-portrait-builder/issues/34) in [warengonzaga/css-text-portrait-builder](https://github.com/warengonzaga/css-text-portrait-builder)
-2. ❗️ Closed issue [#34](https://github.com/warengonzaga/css-text-portrait-builder/issues/34) in [warengonzaga/css-text-portrait-builder](https://github.com/warengonzaga/css-text-portrait-builder)
-3. 🗣 Commented on [#7](https://github.com/web3phl/homepage/issues/7) in [web3phl/homepage](https://github.com/web3phl/homepage)
-4. ❗️ Opened issue [#7](https://github.com/web3phl/homepage/issues/7) in [web3phl/homepage](https://github.com/web3phl/homepage)
-5. 🎉 Merged PR [#13](https://github.com/web3phl/directory-api/pull/13) in [web3phl/directory-api](https://github.com/web3phl/directory-api)
+1. ❗️ Closed issue [#9](https://github.com/warengonzaga/css-text-portrait-builder/issues/9) in [warengonzaga/css-text-portrait-builder](https://github.com/warengonzaga/css-text-portrait-builder)
+2. 🗣 Commented on [#9](https://github.com/warengonzaga/css-text-portrait-builder/issues/9) in [warengonzaga/css-text-portrait-builder](https://github.com/warengonzaga/css-text-portrait-builder)
+3. 🗣 Commented on [#54](https://github.com/warengonzaga/css-text-portrait-builder/issues/54) in [warengonzaga/css-text-portrait-builder](https://github.com/warengonzaga/css-text-portrait-builder)
+4. ❗️ Closed issue [#54](https://github.com/warengonzaga/css-text-portrait-builder/issues/54) in [warengonzaga/css-text-portrait-builder](https://github.com/warengonzaga/css-text-portrait-builder)
+5. ❗️ Closed issue [#53](https://github.com/warengonzaga/css-text-portrait-builder/issues/53) in [warengonzaga/css-text-portrait-builder](https://github.com/warengonzaga/css-text-portrait-builder)
 <!--END_SECTION:activity-->
 
 </details>
