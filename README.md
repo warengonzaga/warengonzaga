@@ -64,11 +64,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#5](https://github.com/warengonzaga/thirdweb-support-discord-bot/issues/5) in [warengonzaga/thirdweb-support-discord-bot](https://github.com/warengonzaga/thirdweb-support-discord-bot)
-2. 🎉 Merged PR [#4](https://github.com/warengonzaga/thirdweb-support-discord-bot/pull/4) in [warengonzaga/thirdweb-support-discord-bot](https://github.com/warengonzaga/thirdweb-support-discord-bot)
-3. 💪 Opened PR [#4](https://github.com/warengonzaga/thirdweb-support-discord-bot/pull/4) in [warengonzaga/thirdweb-support-discord-bot](https://github.com/warengonzaga/thirdweb-support-discord-bot)
-4. 🎉 Merged PR [#2](https://github.com/warengonzaga/thirdweb-support-discord-bot/pull/2) in [warengonzaga/thirdweb-support-discord-bot](https://github.com/warengonzaga/thirdweb-support-discord-bot)
-5. ❗️ Opened issue [#3](https://github.com/warengonzaga/thirdweb-support-discord-bot/issues/3) in [warengonzaga/thirdweb-support-discord-bot](https://github.com/warengonzaga/thirdweb-support-discord-bot)
+1. ❗️ Opened issue [#6](https://github.com/warengonzaga/thirdweb-support-discord-bot/issues/6) in [warengonzaga/thirdweb-support-discord-bot](https://github.com/warengonzaga/thirdweb-support-discord-bot)
+2. ❗️ Opened issue [#5](https://github.com/warengonzaga/thirdweb-support-discord-bot/issues/5) in [warengonzaga/thirdweb-support-discord-bot](https://github.com/warengonzaga/thirdweb-support-discord-bot)
+3. 🎉 Merged PR [#4](https://github.com/warengonzaga/thirdweb-support-discord-bot/pull/4) in [warengonzaga/thirdweb-support-discord-bot](https://github.com/warengonzaga/thirdweb-support-discord-bot)
+4. 💪 Opened PR [#4](https://github.com/warengonzaga/thirdweb-support-discord-bot/pull/4) in [warengonzaga/thirdweb-support-discord-bot](https://github.com/warengonzaga/thirdweb-support-discord-bot)
+5. 🎉 Merged PR [#2](https://github.com/warengonzaga/thirdweb-support-discord-bot/pull/2) in [warengonzaga/thirdweb-support-discord-bot](https://github.com/warengonzaga/thirdweb-support-discord-bot)
 <!--END_SECTION:activity-->
 
 </details>
