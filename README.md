@@ -64,11 +64,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#10](https://github.com/warengonzaga/thirdweb-support-discord-bot/issues/10) in [warengonzaga/thirdweb-support-discord-bot](https://github.com/warengonzaga/thirdweb-support-discord-bot)
-2. ❗️ Opened issue [#2](https://github.com/warengonzaga/nft-dummy-assets/issues/2) in [warengonzaga/nft-dummy-assets](https://github.com/warengonzaga/nft-dummy-assets)
-3. ❗️ Opened issue [#9](https://github.com/warengonzaga/thirdweb-support-discord-bot/issues/9) in [warengonzaga/thirdweb-support-discord-bot](https://github.com/warengonzaga/thirdweb-support-discord-bot)
-4. ❗️ Opened issue [#8](https://github.com/warengonzaga/thirdweb-support-discord-bot/issues/8) in [warengonzaga/thirdweb-support-discord-bot](https://github.com/warengonzaga/thirdweb-support-discord-bot)
-5. ❗️ Opened issue [#7](https://github.com/warengonzaga/thirdweb-support-discord-bot/issues/7) in [warengonzaga/thirdweb-support-discord-bot](https://github.com/warengonzaga/thirdweb-support-discord-bot)
+1. 🗣 Commented on [#1658](https://github.com/animate-css/animate.css/issues/1658) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+2. 🗣 Commented on [#1660](https://github.com/animate-css/animate.css/issues/1660) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+3. ❗️ Opened issue [#10](https://github.com/warengonzaga/thirdweb-support-discord-bot/issues/10) in [warengonzaga/thirdweb-support-discord-bot](https://github.com/warengonzaga/thirdweb-support-discord-bot)
+4. ❗️ Opened issue [#2](https://github.com/warengonzaga/nft-dummy-assets/issues/2) in [warengonzaga/nft-dummy-assets](https://github.com/warengonzaga/nft-dummy-assets)
+5. ❗️ Opened issue [#9](https://github.com/warengonzaga/thirdweb-support-discord-bot/issues/9) in [warengonzaga/thirdweb-support-discord-bot](https://github.com/warengonzaga/thirdweb-support-discord-bot)
 <!--END_SECTION:activity-->
 
 </details>
