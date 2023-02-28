@@ -64,11 +64,11 @@ and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what 
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#8](https://github.com/warengonzaga/thirdweb-support-discord-bot/issues/8) in [warengonzaga/thirdweb-support-discord-bot](https://github.com/warengonzaga/thirdweb-support-discord-bot)
-2. 🗣 Commented on [#8](https://github.com/warengonzaga/thirdweb-support-discord-bot/issues/8) in [warengonzaga/thirdweb-support-discord-bot](https://github.com/warengonzaga/thirdweb-support-discord-bot)
-3. 💪 Opened PR [#11](https://github.com/warengonzaga/thirdweb-support-discord-bot/pull/11) in [warengonzaga/thirdweb-support-discord-bot](https://github.com/warengonzaga/thirdweb-support-discord-bot)
-4. 🗣 Commented on [#1658](https://github.com/animate-css/animate.css/issues/1658) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
-5. 🗣 Commented on [#1660](https://github.com/animate-css/animate.css/issues/1660) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+1. ❗️ Opened issue [#12](https://github.com/warengonzaga/thirdweb-support-discord-bot/issues/12) in [warengonzaga/thirdweb-support-discord-bot](https://github.com/warengonzaga/thirdweb-support-discord-bot)
+2. ❗️ Closed issue [#8](https://github.com/warengonzaga/thirdweb-support-discord-bot/issues/8) in [warengonzaga/thirdweb-support-discord-bot](https://github.com/warengonzaga/thirdweb-support-discord-bot)
+3. 🗣 Commented on [#8](https://github.com/warengonzaga/thirdweb-support-discord-bot/issues/8) in [warengonzaga/thirdweb-support-discord-bot](https://github.com/warengonzaga/thirdweb-support-discord-bot)
+4. 💪 Opened PR [#11](https://github.com/warengonzaga/thirdweb-support-discord-bot/pull/11) in [warengonzaga/thirdweb-support-discord-bot](https://github.com/warengonzaga/thirdweb-support-discord-bot)
+5. 🗣 Commented on [#1658](https://github.com/animate-css/animate.css/issues/1658) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
 <!--END_SECTION:activity-->
 
 </details>
