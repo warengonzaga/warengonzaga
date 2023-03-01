@@ -13,9 +13,8 @@ Filipino senior software engineer, opensource developer and advocate, cybersecur
 - 💝 Author of multiple open source projects (~50 to date).
 - 💼 Community Manager @ [thirdweb](https://github.com/thirdweb-dev)
 - 😎 Co-Founder @ [Web3 Philippines](https://web3philippines.org)
+- 🤝 Co-Founder @ [OSS Philippines](https://ossph.org)
 - 💜 Core @ [Polygon Guild Manila](https://twitter.com/polygonguildmnl)
-- 🤝 Core @ [OSS Philippines](https://ossph.org)
-- 🖥️ Founder @ [Wareneutron Devs](https://github.com/wareneutron)
 - 🔏 Bug bounty hunter in free time.
 - ☕ Coffee lover, turning it into code, [you can buy me a coffee](https://buymeacoff.ee/warengonzaga) or [send me some love](https://github.com/sponsors/warengonzaga).
 - 🎯 Wasting my time to save other people's time.
@@ -31,17 +30,11 @@ Filipino senior software engineer, opensource developer and advocate, cybersecur
 
 ![skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,php,wordpress,nodejs,vue,react,mongodb,mysql,py,vim,docker,kubernetes,md,git,figma,bash,cloudflare,jquery,nginx,vscode&theme=light)
 
-## 🌏 My Community
+## 🌏 Co-Founded Tech Communities
 
-Wanna see some of my future projects? Join today!
+Wanna have chat with me? Join my tech communities!
 
-[![Community](https://discordapp.com/api/guilds/659684980137656340/widget.png?style=banner2)](https://wrngnz.ga/discord) [![Community](https://discordapp.com/api/guilds/694612151444439081/widget.png?style=banner2)](https://wareneutron.com/discord)
-
-## 🍀 Sponsors and Supporters
-
-[![BuyMeaCoffee](https://img.shields.io/badge/Buymeacoffee-%23FFDD00.svg?&style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoff.ee/warengonzaga) [![Vercel](https://img.shields.io/badge/Vercel-%23000.svg?&style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com) [![CircleCI](https://img.shields.io/badge/CircleCI-%23000.svg?&style=for-the-badge&logo=CircleCI&logoColor=white)](https://vercel.com) [![GitBook](https://img.shields.io/badge/GitBook-%233884FF.svg?&style=for-the-badge&logo=gitbook&logoColor=white)](https://gitbook.io) [![Digital Ocean](https://img.shields.io/badge/Digital%20Ocean-%230080ff.svg?&style=for-the-badge&logo=digitalocean&logoColor=white)](https://digitalocean.com) [![Deepware](https://img.shields.io/badge/deepware-%23cb2653.svg?&style=for-the-badge&logoColor=white)](https://deepware.ai/) [![NOWPayments](https://img.shields.io/badge/NOWPayments-%2364ACFF.svg?&style=for-the-badge&logoColor=white)](https://nowpayments.io) [![StackHawk](https://img.shields.io/badge/Stackhawk-%2300CBC6.svg?&style=for-the-badge&logoColor=white)](https://stackhawk.com)
-
-and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what I do!
+[![Community](https://discordapp.com/api/guilds/970915199617990707/widget.png?style=banner2)](https://web3philippines.org) [![Community](https://discordapp.com/api/guilds/905496362982981723/widget.png?style=banner2)](https://ossph.org)
 
 ---
 
