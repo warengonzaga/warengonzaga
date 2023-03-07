@@ -57,11 +57,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#11](https://github.com/warengonzaga/thirdweb-art-engine-legacy/pull/11) in [warengonzaga/thirdweb-art-engine-legacy](https://github.com/warengonzaga/thirdweb-art-engine-legacy)
-2. 🎉 Merged PR [#9](https://github.com/warengonzaga/thirdweb-art-engine-legacy/pull/9) in [warengonzaga/thirdweb-art-engine-legacy](https://github.com/warengonzaga/thirdweb-art-engine-legacy)
-3. ❗️ Closed issue [#1](https://github.com/warengonzaga/thirdweb-art-engine-legacy/issues/1) in [warengonzaga/thirdweb-art-engine-legacy](https://github.com/warengonzaga/thirdweb-art-engine-legacy)
-4. 🗣 Commented on [#1](https://github.com/warengonzaga/thirdweb-art-engine-legacy/issues/1) in [warengonzaga/thirdweb-art-engine-legacy](https://github.com/warengonzaga/thirdweb-art-engine-legacy)
-5. ❗️ Closed issue [#8](https://github.com/warengonzaga/thirdweb-art-engine-legacy/issues/8) in [warengonzaga/thirdweb-art-engine-legacy](https://github.com/warengonzaga/thirdweb-art-engine-legacy)
+1. 🗣 Commented on [#1](https://github.com/warengonzaga/thirdweb-art-engine-legacy/issues/1) in [warengonzaga/thirdweb-art-engine-legacy](https://github.com/warengonzaga/thirdweb-art-engine-legacy)
+2. 💪 Opened PR [#11](https://github.com/warengonzaga/thirdweb-art-engine-legacy/pull/11) in [warengonzaga/thirdweb-art-engine-legacy](https://github.com/warengonzaga/thirdweb-art-engine-legacy)
+3. 🎉 Merged PR [#9](https://github.com/warengonzaga/thirdweb-art-engine-legacy/pull/9) in [warengonzaga/thirdweb-art-engine-legacy](https://github.com/warengonzaga/thirdweb-art-engine-legacy)
+4. ❗️ Closed issue [#1](https://github.com/warengonzaga/thirdweb-art-engine-legacy/issues/1) in [warengonzaga/thirdweb-art-engine-legacy](https://github.com/warengonzaga/thirdweb-art-engine-legacy)
+5. 🗣 Commented on [#1](https://github.com/warengonzaga/thirdweb-art-engine-legacy/issues/1) in [warengonzaga/thirdweb-art-engine-legacy](https://github.com/warengonzaga/thirdweb-art-engine-legacy)
 <!--END_SECTION:activity-->
 
 </details>
