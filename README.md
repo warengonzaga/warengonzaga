@@ -57,11 +57,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13](https://github.com/warengonzaga/thirdweb-support-discord-bot/issues/13) in [warengonzaga/thirdweb-support-discord-bot](https://github.com/warengonzaga/thirdweb-support-discord-bot)
-2. 🎉 Merged PR [#11](https://github.com/warengonzaga/thirdweb-art-engine-legacy/pull/11) in [warengonzaga/thirdweb-art-engine-legacy](https://github.com/warengonzaga/thirdweb-art-engine-legacy)
-3. 🗣 Commented on [#1](https://github.com/warengonzaga/thirdweb-art-engine-legacy/issues/1) in [warengonzaga/thirdweb-art-engine-legacy](https://github.com/warengonzaga/thirdweb-art-engine-legacy)
-4. 💪 Opened PR [#11](https://github.com/warengonzaga/thirdweb-art-engine-legacy/pull/11) in [warengonzaga/thirdweb-art-engine-legacy](https://github.com/warengonzaga/thirdweb-art-engine-legacy)
-5. 🎉 Merged PR [#9](https://github.com/warengonzaga/thirdweb-art-engine-legacy/pull/9) in [warengonzaga/thirdweb-art-engine-legacy](https://github.com/warengonzaga/thirdweb-art-engine-legacy)
+1. ❗️ Opened issue [#15](https://github.com/warengonzaga/thirdweb-support-discord-bot/issues/15) in [warengonzaga/thirdweb-support-discord-bot](https://github.com/warengonzaga/thirdweb-support-discord-bot)
+2. ❗️ Opened issue [#14](https://github.com/warengonzaga/thirdweb-support-discord-bot/issues/14) in [warengonzaga/thirdweb-support-discord-bot](https://github.com/warengonzaga/thirdweb-support-discord-bot)
+3. 🗣 Commented on [#13](https://github.com/warengonzaga/thirdweb-support-discord-bot/issues/13) in [warengonzaga/thirdweb-support-discord-bot](https://github.com/warengonzaga/thirdweb-support-discord-bot)
+4. 🎉 Merged PR [#11](https://github.com/warengonzaga/thirdweb-art-engine-legacy/pull/11) in [warengonzaga/thirdweb-art-engine-legacy](https://github.com/warengonzaga/thirdweb-art-engine-legacy)
+5. 🗣 Commented on [#1](https://github.com/warengonzaga/thirdweb-art-engine-legacy/issues/1) in [warengonzaga/thirdweb-art-engine-legacy](https://github.com/warengonzaga/thirdweb-art-engine-legacy)
 <!--END_SECTION:activity-->
 
 </details>
