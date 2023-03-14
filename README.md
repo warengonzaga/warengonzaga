@@ -57,11 +57,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/pk910/PoWFaucet/issues/5) in [pk910/PoWFaucet](https://github.com/pk910/PoWFaucet)
-2. ❗️ Closed issue [#13](https://github.com/warengonzaga/thirdweb-support-discord-bot/issues/13) in [warengonzaga/thirdweb-support-discord-bot](https://github.com/warengonzaga/thirdweb-support-discord-bot)
-3. 🗣 Commented on [#13](https://github.com/warengonzaga/thirdweb-support-discord-bot/issues/13) in [warengonzaga/thirdweb-support-discord-bot](https://github.com/warengonzaga/thirdweb-support-discord-bot)
-4. ❗️ Closed issue [#15](https://github.com/warengonzaga/thirdweb-support-discord-bot/issues/15) in [warengonzaga/thirdweb-support-discord-bot](https://github.com/warengonzaga/thirdweb-support-discord-bot)
-5. ❗️ Opened issue [#16](https://github.com/warengonzaga/thirdweb-support-discord-bot/issues/16) in [warengonzaga/thirdweb-support-discord-bot](https://github.com/warengonzaga/thirdweb-support-discord-bot)
+1. 🗣 Commented on [#4683](https://github.com/badges/shields/issues/4683) in [badges/shields](https://github.com/badges/shields)
+2. 🗣 Commented on [#5](https://github.com/pk910/PoWFaucet/issues/5) in [pk910/PoWFaucet](https://github.com/pk910/PoWFaucet)
+3. ❗️ Closed issue [#13](https://github.com/warengonzaga/thirdweb-support-discord-bot/issues/13) in [warengonzaga/thirdweb-support-discord-bot](https://github.com/warengonzaga/thirdweb-support-discord-bot)
+4. 🗣 Commented on [#13](https://github.com/warengonzaga/thirdweb-support-discord-bot/issues/13) in [warengonzaga/thirdweb-support-discord-bot](https://github.com/warengonzaga/thirdweb-support-discord-bot)
+5. ❗️ Closed issue [#15](https://github.com/warengonzaga/thirdweb-support-discord-bot/issues/15) in [warengonzaga/thirdweb-support-discord-bot](https://github.com/warengonzaga/thirdweb-support-discord-bot)
 <!--END_SECTION:activity-->
 
 </details>
