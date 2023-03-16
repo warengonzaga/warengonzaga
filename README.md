@@ -57,11 +57,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#18](https://github.com/pk910/PoWFaucet/issues/18) in [pk910/PoWFaucet](https://github.com/pk910/PoWFaucet)
-2. 🗣 Commented on [#18](https://github.com/pk910/PoWFaucet/issues/18) in [pk910/PoWFaucet](https://github.com/pk910/PoWFaucet)
-3. ❗️ Opened issue [#18](https://github.com/pk910/PoWFaucet/issues/18) in [pk910/PoWFaucet](https://github.com/pk910/PoWFaucet)
-4. 🗣 Commented on [#4683](https://github.com/badges/shields/issues/4683) in [badges/shields](https://github.com/badges/shields)
-5. 🗣 Commented on [#5](https://github.com/pk910/PoWFaucet/issues/5) in [pk910/PoWFaucet](https://github.com/pk910/PoWFaucet)
+1. ❗️ Closed issue [#67](https://github.com/OSSPhilippines/covid19-tracker-cli/issues/67) in [OSSPhilippines/covid19-tracker-cli](https://github.com/OSSPhilippines/covid19-tracker-cli)
+2. 🗣 Commented on [#67](https://github.com/OSSPhilippines/covid19-tracker-cli/issues/67) in [OSSPhilippines/covid19-tracker-cli](https://github.com/OSSPhilippines/covid19-tracker-cli)
+3. 🎉 Merged PR [#100](https://github.com/OSSPhilippines/covid19-tracker-cli/pull/100) in [OSSPhilippines/covid19-tracker-cli](https://github.com/OSSPhilippines/covid19-tracker-cli)
+4. 💪 Opened PR [#101](https://github.com/OSSPhilippines/covid19-tracker-cli/pull/101) in [OSSPhilippines/covid19-tracker-cli](https://github.com/OSSPhilippines/covid19-tracker-cli)
+5. ❗️ Closed issue [#18](https://github.com/pk910/PoWFaucet/issues/18) in [pk910/PoWFaucet](https://github.com/pk910/PoWFaucet)
 <!--END_SECTION:activity-->
 
 </details>
