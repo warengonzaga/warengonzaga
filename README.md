@@ -57,11 +57,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#12007](https://github.com/MetaMask/eth-phishing-detect/pull/12007) in [MetaMask/eth-phishing-detect](https://github.com/MetaMask/eth-phishing-detect)
-2. ❗️ Closed issue [#67](https://github.com/OSSPhilippines/covid19-tracker-cli/issues/67) in [OSSPhilippines/covid19-tracker-cli](https://github.com/OSSPhilippines/covid19-tracker-cli)
-3. 🗣 Commented on [#67](https://github.com/OSSPhilippines/covid19-tracker-cli/issues/67) in [OSSPhilippines/covid19-tracker-cli](https://github.com/OSSPhilippines/covid19-tracker-cli)
-4. 🎉 Merged PR [#100](https://github.com/OSSPhilippines/covid19-tracker-cli/pull/100) in [OSSPhilippines/covid19-tracker-cli](https://github.com/OSSPhilippines/covid19-tracker-cli)
-5. 💪 Opened PR [#101](https://github.com/OSSPhilippines/covid19-tracker-cli/pull/101) in [OSSPhilippines/covid19-tracker-cli](https://github.com/OSSPhilippines/covid19-tracker-cli)
+1. 🗣 Commented on [#12007](https://github.com/MetaMask/eth-phishing-detect/issues/12007) in [MetaMask/eth-phishing-detect](https://github.com/MetaMask/eth-phishing-detect)
+2. 💪 Opened PR [#12007](https://github.com/MetaMask/eth-phishing-detect/pull/12007) in [MetaMask/eth-phishing-detect](https://github.com/MetaMask/eth-phishing-detect)
+3. ❗️ Closed issue [#67](https://github.com/OSSPhilippines/covid19-tracker-cli/issues/67) in [OSSPhilippines/covid19-tracker-cli](https://github.com/OSSPhilippines/covid19-tracker-cli)
+4. 🗣 Commented on [#67](https://github.com/OSSPhilippines/covid19-tracker-cli/issues/67) in [OSSPhilippines/covid19-tracker-cli](https://github.com/OSSPhilippines/covid19-tracker-cli)
+5. 🎉 Merged PR [#100](https://github.com/OSSPhilippines/covid19-tracker-cli/pull/100) in [OSSPhilippines/covid19-tracker-cli](https://github.com/OSSPhilippines/covid19-tracker-cli)
 <!--END_SECTION:activity-->
 
 </details>
