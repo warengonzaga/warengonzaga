@@ -57,11 +57,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/thirdweb-example/token-drop/pull/3) in [thirdweb-example/token-drop](https://github.com/thirdweb-example/token-drop)
-2. 🗣 Commented on [#12007](https://github.com/MetaMask/eth-phishing-detect/issues/12007) in [MetaMask/eth-phishing-detect](https://github.com/MetaMask/eth-phishing-detect)
-3. 💪 Opened PR [#12007](https://github.com/MetaMask/eth-phishing-detect/pull/12007) in [MetaMask/eth-phishing-detect](https://github.com/MetaMask/eth-phishing-detect)
-4. ❗️ Closed issue [#67](https://github.com/OSSPhilippines/covid19-tracker-cli/issues/67) in [OSSPhilippines/covid19-tracker-cli](https://github.com/OSSPhilippines/covid19-tracker-cli)
-5. 🗣 Commented on [#67](https://github.com/OSSPhilippines/covid19-tracker-cli/issues/67) in [OSSPhilippines/covid19-tracker-cli](https://github.com/OSSPhilippines/covid19-tracker-cli)
+1. 🗣 Commented on [#8](https://github.com/web3phl/homepage/issues/8) in [web3phl/homepage](https://github.com/web3phl/homepage)
+2. 💪 Opened PR [#3](https://github.com/thirdweb-example/token-drop/pull/3) in [thirdweb-example/token-drop](https://github.com/thirdweb-example/token-drop)
+3. 🗣 Commented on [#12007](https://github.com/MetaMask/eth-phishing-detect/issues/12007) in [MetaMask/eth-phishing-detect](https://github.com/MetaMask/eth-phishing-detect)
+4. 💪 Opened PR [#12007](https://github.com/MetaMask/eth-phishing-detect/pull/12007) in [MetaMask/eth-phishing-detect](https://github.com/MetaMask/eth-phishing-detect)
+5. ❗️ Closed issue [#67](https://github.com/OSSPhilippines/covid19-tracker-cli/issues/67) in [OSSPhilippines/covid19-tracker-cli](https://github.com/OSSPhilippines/covid19-tracker-cli)
 <!--END_SECTION:activity-->
 
 </details>
