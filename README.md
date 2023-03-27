@@ -57,11 +57,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11](https://github.com/web3phl/homepage/issues/11) in [web3phl/homepage](https://github.com/web3phl/homepage)
-2. 🗣 Commented on [#4](https://github.com/web3phl/homepage/issues/4) in [web3phl/homepage](https://github.com/web3phl/homepage)
-3. ❗️ Closed issue [#7](https://github.com/web3phl/homepage/issues/7) in [web3phl/homepage](https://github.com/web3phl/homepage)
-4. 🗣 Commented on [#7](https://github.com/web3phl/homepage/issues/7) in [web3phl/homepage](https://github.com/web3phl/homepage)
-5. 🗣 Commented on [#4](https://github.com/web3phl/homepage/issues/4) in [web3phl/homepage](https://github.com/web3phl/homepage)
+1. 🎉 Merged PR [#11](https://github.com/web3phl/homepage/pull/11) in [web3phl/homepage](https://github.com/web3phl/homepage)
+2. 🗣 Commented on [#11](https://github.com/web3phl/homepage/issues/11) in [web3phl/homepage](https://github.com/web3phl/homepage)
+3. 🗣 Commented on [#11](https://github.com/web3phl/homepage/issues/11) in [web3phl/homepage](https://github.com/web3phl/homepage)
+4. 🗣 Commented on [#4](https://github.com/web3phl/homepage/issues/4) in [web3phl/homepage](https://github.com/web3phl/homepage)
+5. ❗️ Closed issue [#7](https://github.com/web3phl/homepage/issues/7) in [web3phl/homepage](https://github.com/web3phl/homepage)
 <!--END_SECTION:activity-->
 
 </details>
