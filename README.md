@@ -57,11 +57,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/thirdweb-example/marketplace-with-signature-based-minting/issues/3) in [thirdweb-example/marketplace-with-signature-based-minting](https://github.com/thirdweb-example/marketplace-with-signature-based-minting)
-2. 💪 Opened PR [#3](https://github.com/thirdweb-example/marketplace-with-signature-based-minting/pull/3) in [thirdweb-example/marketplace-with-signature-based-minting](https://github.com/thirdweb-example/marketplace-with-signature-based-minting)
-3. ❗️ Closed issue [#27](https://github.com/warengonzaga/thirdweb-support-discord-bot/issues/27) in [warengonzaga/thirdweb-support-discord-bot](https://github.com/warengonzaga/thirdweb-support-discord-bot)
-4. 🗣 Commented on [#27](https://github.com/warengonzaga/thirdweb-support-discord-bot/issues/27) in [warengonzaga/thirdweb-support-discord-bot](https://github.com/warengonzaga/thirdweb-support-discord-bot)
-5. ❗️ Opened issue [#28](https://github.com/warengonzaga/thirdweb-support-discord-bot/issues/28) in [warengonzaga/thirdweb-support-discord-bot](https://github.com/warengonzaga/thirdweb-support-discord-bot)
+1. ❗️ Opened issue [#29](https://github.com/warengonzaga/thirdweb-support-discord-bot/issues/29) in [warengonzaga/thirdweb-support-discord-bot](https://github.com/warengonzaga/thirdweb-support-discord-bot)
+2. 🗣 Commented on [#3](https://github.com/thirdweb-example/marketplace-with-signature-based-minting/issues/3) in [thirdweb-example/marketplace-with-signature-based-minting](https://github.com/thirdweb-example/marketplace-with-signature-based-minting)
+3. 💪 Opened PR [#3](https://github.com/thirdweb-example/marketplace-with-signature-based-minting/pull/3) in [thirdweb-example/marketplace-with-signature-based-minting](https://github.com/thirdweb-example/marketplace-with-signature-based-minting)
+4. ❗️ Closed issue [#27](https://github.com/warengonzaga/thirdweb-support-discord-bot/issues/27) in [warengonzaga/thirdweb-support-discord-bot](https://github.com/warengonzaga/thirdweb-support-discord-bot)
+5. 🗣 Commented on [#27](https://github.com/warengonzaga/thirdweb-support-discord-bot/issues/27) in [warengonzaga/thirdweb-support-discord-bot](https://github.com/warengonzaga/thirdweb-support-discord-bot)
 <!--END_SECTION:activity-->
 
 </details>
