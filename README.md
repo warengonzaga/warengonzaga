@@ -57,11 +57,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#38](https://github.com/thirdweb-dev/support-discord-bot/issues/38) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
-2. 💪 Opened PR [#16](https://github.com/OSSPhilippines/ossph.org/pull/16) in [OSSPhilippines/ossph.org](https://github.com/OSSPhilippines/ossph.org)
-3. ❌ Closed PR [#15](https://github.com/OSSPhilippines/ossph.org/pull/15) in [OSSPhilippines/ossph.org](https://github.com/OSSPhilippines/ossph.org)
-4. 🗣 Commented on [#3](https://github.com/thirdweb-example/marketplace-with-signature-based-minting/issues/3) in [thirdweb-example/marketplace-with-signature-based-minting](https://github.com/thirdweb-example/marketplace-with-signature-based-minting)
-5. 🗣 Commented on [#15](https://github.com/OSSPhilippines/ossph.org/issues/15) in [OSSPhilippines/ossph.org](https://github.com/OSSPhilippines/ossph.org)
+1. 🗣 Commented on [#18](https://github.com/OSSPhilippines/philippine-map-app/issues/18) in [OSSPhilippines/philippine-map-app](https://github.com/OSSPhilippines/philippine-map-app)
+2. ❗️ Opened issue [#38](https://github.com/thirdweb-dev/support-discord-bot/issues/38) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
+3. 💪 Opened PR [#16](https://github.com/OSSPhilippines/ossph.org/pull/16) in [OSSPhilippines/ossph.org](https://github.com/OSSPhilippines/ossph.org)
+4. ❌ Closed PR [#15](https://github.com/OSSPhilippines/ossph.org/pull/15) in [OSSPhilippines/ossph.org](https://github.com/OSSPhilippines/ossph.org)
+5. 🗣 Commented on [#3](https://github.com/thirdweb-example/marketplace-with-signature-based-minting/issues/3) in [thirdweb-example/marketplace-with-signature-based-minting](https://github.com/thirdweb-example/marketplace-with-signature-based-minting)
 <!--END_SECTION:activity-->
 
 </details>
