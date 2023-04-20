@@ -57,11 +57,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#15](https://github.com/OSSPhilippines/philippine-map-app/issues/15) in [OSSPhilippines/philippine-map-app](https://github.com/OSSPhilippines/philippine-map-app)
-2. 🗣 Commented on [#18](https://github.com/OSSPhilippines/philippine-map-app/issues/18) in [OSSPhilippines/philippine-map-app](https://github.com/OSSPhilippines/philippine-map-app)
-3. ❗️ Opened issue [#38](https://github.com/thirdweb-dev/support-discord-bot/issues/38) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
-4. 💪 Opened PR [#16](https://github.com/OSSPhilippines/ossph.org/pull/16) in [OSSPhilippines/ossph.org](https://github.com/OSSPhilippines/ossph.org)
-5. ❌ Closed PR [#15](https://github.com/OSSPhilippines/ossph.org/pull/15) in [OSSPhilippines/ossph.org](https://github.com/OSSPhilippines/ossph.org)
+1. 💪 Opened PR [#1](https://github.com/thirdweb-example/3d-asset-nft-script/pull/1) in [thirdweb-example/3d-asset-nft-script](https://github.com/thirdweb-example/3d-asset-nft-script)
+2. 🗣 Commented on [#15](https://github.com/OSSPhilippines/philippine-map-app/issues/15) in [OSSPhilippines/philippine-map-app](https://github.com/OSSPhilippines/philippine-map-app)
+3. 🗣 Commented on [#18](https://github.com/OSSPhilippines/philippine-map-app/issues/18) in [OSSPhilippines/philippine-map-app](https://github.com/OSSPhilippines/philippine-map-app)
+4. ❗️ Opened issue [#38](https://github.com/thirdweb-dev/support-discord-bot/issues/38) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
+5. 💪 Opened PR [#16](https://github.com/OSSPhilippines/ossph.org/pull/16) in [OSSPhilippines/ossph.org](https://github.com/OSSPhilippines/ossph.org)
 <!--END_SECTION:activity-->
 
 </details>
