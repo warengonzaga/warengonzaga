@@ -57,11 +57,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#21](https://github.com/OSSPhilippines/philippine-map-app/issues/21) in [OSSPhilippines/philippine-map-app](https://github.com/OSSPhilippines/philippine-map-app)
+1. 🗣 Commented on [#20](https://github.com/OSSPhilippines/philippine-map-app/issues/20) in [OSSPhilippines/philippine-map-app](https://github.com/OSSPhilippines/philippine-map-app)
 2. 🗣 Commented on [#21](https://github.com/OSSPhilippines/philippine-map-app/issues/21) in [OSSPhilippines/philippine-map-app](https://github.com/OSSPhilippines/philippine-map-app)
 3. 🗣 Commented on [#21](https://github.com/OSSPhilippines/philippine-map-app/issues/21) in [OSSPhilippines/philippine-map-app](https://github.com/OSSPhilippines/philippine-map-app)
-4. ❗️ Opened issue [#22](https://github.com/OSSPhilippines/philippine-map-app/issues/22) in [OSSPhilippines/philippine-map-app](https://github.com/OSSPhilippines/philippine-map-app)
-5. 💪 Opened PR [#21](https://github.com/OSSPhilippines/philippine-map-app/pull/21) in [OSSPhilippines/philippine-map-app](https://github.com/OSSPhilippines/philippine-map-app)
+4. 🗣 Commented on [#21](https://github.com/OSSPhilippines/philippine-map-app/issues/21) in [OSSPhilippines/philippine-map-app](https://github.com/OSSPhilippines/philippine-map-app)
+5. 🗣 Commented on [#21](https://github.com/OSSPhilippines/philippine-map-app/issues/21) in [OSSPhilippines/philippine-map-app](https://github.com/OSSPhilippines/philippine-map-app)
 <!--END_SECTION:activity-->
 
 </details>
