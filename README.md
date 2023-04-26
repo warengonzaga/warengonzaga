@@ -57,11 +57,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#14](https://github.com/web3phl/directory-api/issues/14) in [web3phl/directory-api](https://github.com/web3phl/directory-api)
-2. 🗣 Commented on [#14](https://github.com/web3phl/directory-api/issues/14) in [web3phl/directory-api](https://github.com/web3phl/directory-api)
-3. 🎉 Merged PR [#15](https://github.com/web3phl/directory-api/pull/15) in [web3phl/directory-api](https://github.com/web3phl/directory-api)
-4. 🗣 Commented on [#15](https://github.com/web3phl/directory-api/issues/15) in [web3phl/directory-api](https://github.com/web3phl/directory-api)
-5. 🗣 Commented on [#20](https://github.com/OSSPhilippines/philippine-map-app/issues/20) in [OSSPhilippines/philippine-map-app](https://github.com/OSSPhilippines/philippine-map-app)
+1. 🗣 Commented on [#10](https://github.com/OSSPhilippines/philippines-travel-level-map/issues/10) in [OSSPhilippines/philippines-travel-level-map](https://github.com/OSSPhilippines/philippines-travel-level-map)
+2. ❗️ Closed issue [#14](https://github.com/web3phl/directory-api/issues/14) in [web3phl/directory-api](https://github.com/web3phl/directory-api)
+3. 🗣 Commented on [#14](https://github.com/web3phl/directory-api/issues/14) in [web3phl/directory-api](https://github.com/web3phl/directory-api)
+4. 🎉 Merged PR [#15](https://github.com/web3phl/directory-api/pull/15) in [web3phl/directory-api](https://github.com/web3phl/directory-api)
+5. 🗣 Commented on [#15](https://github.com/web3phl/directory-api/issues/15) in [web3phl/directory-api](https://github.com/web3phl/directory-api)
 <!--END_SECTION:activity-->
 
 </details>
