@@ -57,11 +57,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10](https://github.com/OSSPhilippines/philippines-travel-level-map/issues/10) in [OSSPhilippines/philippines-travel-level-map](https://github.com/OSSPhilippines/philippines-travel-level-map)
-2. 🗣 Commented on [#10](https://github.com/OSSPhilippines/philippines-travel-level-map/issues/10) in [OSSPhilippines/philippines-travel-level-map](https://github.com/OSSPhilippines/philippines-travel-level-map)
-3. ❗️ Closed issue [#14](https://github.com/web3phl/directory-api/issues/14) in [web3phl/directory-api](https://github.com/web3phl/directory-api)
-4. 🗣 Commented on [#14](https://github.com/web3phl/directory-api/issues/14) in [web3phl/directory-api](https://github.com/web3phl/directory-api)
-5. 🎉 Merged PR [#15](https://github.com/web3phl/directory-api/pull/15) in [web3phl/directory-api](https://github.com/web3phl/directory-api)
+1. ❗️ Opened issue [#31](https://github.com/OSSPhilippines/philippines-travel-level-map/issues/31) in [OSSPhilippines/philippines-travel-level-map](https://github.com/OSSPhilippines/philippines-travel-level-map)
+2. 🗣 Commented on [#29](https://github.com/OSSPhilippines/philippines-travel-level-map/issues/29) in [OSSPhilippines/philippines-travel-level-map](https://github.com/OSSPhilippines/philippines-travel-level-map)
+3. 🗣 Commented on [#10](https://github.com/OSSPhilippines/philippines-travel-level-map/issues/10) in [OSSPhilippines/philippines-travel-level-map](https://github.com/OSSPhilippines/philippines-travel-level-map)
+4. 🗣 Commented on [#10](https://github.com/OSSPhilippines/philippines-travel-level-map/issues/10) in [OSSPhilippines/philippines-travel-level-map](https://github.com/OSSPhilippines/philippines-travel-level-map)
+5. ❗️ Closed issue [#14](https://github.com/web3phl/directory-api/issues/14) in [web3phl/directory-api](https://github.com/web3phl/directory-api)
 <!--END_SECTION:activity-->
 
 </details>
