@@ -58,10 +58,10 @@ Wanna have chat with me? Join my tech communities!
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#23](https://github.com/OSSPhilippines/philippines-travel-level-map/issues/23) in [OSSPhilippines/philippines-travel-level-map](https://github.com/OSSPhilippines/philippines-travel-level-map)
-2. 🎉 Merged PR [#39](https://github.com/OSSPhilippines/philippines-travel-level-map/pull/39) in [OSSPhilippines/philippines-travel-level-map](https://github.com/OSSPhilippines/philippines-travel-level-map)
-3. 🗣 Commented on [#39](https://github.com/OSSPhilippines/philippines-travel-level-map/issues/39) in [OSSPhilippines/philippines-travel-level-map](https://github.com/OSSPhilippines/philippines-travel-level-map)
-4. 💪 Opened PR [#39](https://github.com/OSSPhilippines/philippines-travel-level-map/pull/39) in [OSSPhilippines/philippines-travel-level-map](https://github.com/OSSPhilippines/philippines-travel-level-map)
-5. ❗️ Closed issue [#31](https://github.com/OSSPhilippines/philippines-travel-level-map/issues/31) in [OSSPhilippines/philippines-travel-level-map](https://github.com/OSSPhilippines/philippines-travel-level-map)
+2. 🗣 Commented on [#35](https://github.com/OSSPhilippines/philippines-travel-level-map/issues/35) in [OSSPhilippines/philippines-travel-level-map](https://github.com/OSSPhilippines/philippines-travel-level-map)
+3. 🗣 Commented on [#40](https://github.com/OSSPhilippines/philippines-travel-level-map/issues/40) in [OSSPhilippines/philippines-travel-level-map](https://github.com/OSSPhilippines/philippines-travel-level-map)
+4. 🗣 Commented on [#23](https://github.com/OSSPhilippines/philippines-travel-level-map/issues/23) in [OSSPhilippines/philippines-travel-level-map](https://github.com/OSSPhilippines/philippines-travel-level-map)
+5. 🎉 Merged PR [#39](https://github.com/OSSPhilippines/philippines-travel-level-map/pull/39) in [OSSPhilippines/philippines-travel-level-map](https://github.com/OSSPhilippines/philippines-travel-level-map)
 <!--END_SECTION:activity-->
 
 </details>
