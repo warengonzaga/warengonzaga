@@ -57,11 +57,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#39](https://github.com/thirdweb-dev/support-discord-bot/issues/39) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
-2. 🗣 Commented on [#23](https://github.com/OSSPhilippines/philippines-travel-level-map/issues/23) in [OSSPhilippines/philippines-travel-level-map](https://github.com/OSSPhilippines/philippines-travel-level-map)
-3. 🗣 Commented on [#35](https://github.com/OSSPhilippines/philippines-travel-level-map/issues/35) in [OSSPhilippines/philippines-travel-level-map](https://github.com/OSSPhilippines/philippines-travel-level-map)
-4. 🗣 Commented on [#40](https://github.com/OSSPhilippines/philippines-travel-level-map/issues/40) in [OSSPhilippines/philippines-travel-level-map](https://github.com/OSSPhilippines/philippines-travel-level-map)
-5. 🗣 Commented on [#23](https://github.com/OSSPhilippines/philippines-travel-level-map/issues/23) in [OSSPhilippines/philippines-travel-level-map](https://github.com/OSSPhilippines/philippines-travel-level-map)
+1. ❗️ Opened issue [#40](https://github.com/thirdweb-dev/support-discord-bot/issues/40) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
+2. 🗣 Commented on [#515](https://github.com/thirdweb-dev/js/issues/515) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)
+3. ❗️ Opened issue [#39](https://github.com/thirdweb-dev/support-discord-bot/issues/39) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
+4. 🗣 Commented on [#23](https://github.com/OSSPhilippines/philippines-travel-level-map/issues/23) in [OSSPhilippines/philippines-travel-level-map](https://github.com/OSSPhilippines/philippines-travel-level-map)
+5. 🗣 Commented on [#35](https://github.com/OSSPhilippines/philippines-travel-level-map/issues/35) in [OSSPhilippines/philippines-travel-level-map](https://github.com/OSSPhilippines/philippines-travel-level-map)
 <!--END_SECTION:activity-->
 
 </details>
