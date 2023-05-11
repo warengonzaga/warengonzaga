@@ -58,10 +58,10 @@ Wanna have chat with me? Join my tech communities!
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#40](https://github.com/OSSPhilippines/philippines-travel-level-map/issues/40) in [OSSPhilippines/philippines-travel-level-map](https://github.com/OSSPhilippines/philippines-travel-level-map)
-2. 💪 Opened PR [#50](https://github.com/thirdweb-dev/support-discord-bot/pull/50) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
-3. ❗️ Opened issue [#49](https://github.com/thirdweb-dev/support-discord-bot/issues/49) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
-4. ❗️ Opened issue [#3](https://github.com/thirdweb-example/marketplace-v3/issues/3) in [thirdweb-example/marketplace-v3](https://github.com/thirdweb-example/marketplace-v3)
-5. 🎉 Merged PR [#44](https://github.com/thirdweb-dev/support-discord-bot/pull/44) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
+2. 🗣 Commented on [#40](https://github.com/OSSPhilippines/philippines-travel-level-map/issues/40) in [OSSPhilippines/philippines-travel-level-map](https://github.com/OSSPhilippines/philippines-travel-level-map)
+3. 💪 Opened PR [#50](https://github.com/thirdweb-dev/support-discord-bot/pull/50) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
+4. ❗️ Opened issue [#49](https://github.com/thirdweb-dev/support-discord-bot/issues/49) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
+5. ❗️ Opened issue [#3](https://github.com/thirdweb-example/marketplace-v3/issues/3) in [thirdweb-example/marketplace-v3](https://github.com/thirdweb-example/marketplace-v3)
 <!--END_SECTION:activity-->
 
 </details>
