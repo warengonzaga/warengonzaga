@@ -57,11 +57,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#464](https://github.com/makeswift/makeswift/issues/464) in [makeswift/makeswift](https://github.com/makeswift/makeswift)
-2. 💪 Opened PR [#464](https://github.com/makeswift/makeswift/pull/464) in [makeswift/makeswift](https://github.com/makeswift/makeswift)
-3. ❗️ Opened issue [#463](https://github.com/makeswift/makeswift/issues/463) in [makeswift/makeswift](https://github.com/makeswift/makeswift)
-4. ❗️ Opened issue [#462](https://github.com/makeswift/makeswift/issues/462) in [makeswift/makeswift](https://github.com/makeswift/makeswift)
-5. 🗣 Commented on [#448](https://github.com/makeswift/makeswift/issues/448) in [makeswift/makeswift](https://github.com/makeswift/makeswift)
+1. 💪 Opened PR [#26](https://github.com/OSSPhilippines/ossph.org/pull/26) in [OSSPhilippines/ossph.org](https://github.com/OSSPhilippines/ossph.org)
+2. 🗣 Commented on [#464](https://github.com/makeswift/makeswift/issues/464) in [makeswift/makeswift](https://github.com/makeswift/makeswift)
+3. 💪 Opened PR [#464](https://github.com/makeswift/makeswift/pull/464) in [makeswift/makeswift](https://github.com/makeswift/makeswift)
+4. ❗️ Opened issue [#463](https://github.com/makeswift/makeswift/issues/463) in [makeswift/makeswift](https://github.com/makeswift/makeswift)
+5. ❗️ Opened issue [#462](https://github.com/makeswift/makeswift/issues/462) in [makeswift/makeswift](https://github.com/makeswift/makeswift)
 <!--END_SECTION:activity-->
 
 </details>
