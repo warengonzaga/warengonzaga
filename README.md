@@ -57,11 +57,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#51](https://github.com/thirdweb-dev/support-discord-bot/issues/51) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
-2. 💪 Opened PR [#26](https://github.com/OSSPhilippines/ossph.org/pull/26) in [OSSPhilippines/ossph.org](https://github.com/OSSPhilippines/ossph.org)
-3. 🗣 Commented on [#464](https://github.com/makeswift/makeswift/issues/464) in [makeswift/makeswift](https://github.com/makeswift/makeswift)
-4. 💪 Opened PR [#464](https://github.com/makeswift/makeswift/pull/464) in [makeswift/makeswift](https://github.com/makeswift/makeswift)
-5. ❗️ Opened issue [#463](https://github.com/makeswift/makeswift/issues/463) in [makeswift/makeswift](https://github.com/makeswift/makeswift)
+1. 🗣 Commented on [#53](https://github.com/thirdweb-dev/support-discord-bot/issues/53) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
+2. ❗️ Closed issue [#53](https://github.com/thirdweb-dev/support-discord-bot/issues/53) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
+3. ❗️ Opened issue [#53](https://github.com/thirdweb-dev/support-discord-bot/issues/53) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
+4. 💪 Opened PR [#52](https://github.com/thirdweb-dev/support-discord-bot/pull/52) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
+5. ❗️ Opened issue [#51](https://github.com/thirdweb-dev/support-discord-bot/issues/51) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
 <!--END_SECTION:activity-->
 
 </details>
