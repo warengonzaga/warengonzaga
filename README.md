@@ -57,11 +57,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#53](https://github.com/thirdweb-dev/support-discord-bot/issues/53) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
-2. ❗️ Closed issue [#53](https://github.com/thirdweb-dev/support-discord-bot/issues/53) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
-3. ❗️ Opened issue [#53](https://github.com/thirdweb-dev/support-discord-bot/issues/53) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
-4. 💪 Opened PR [#52](https://github.com/thirdweb-dev/support-discord-bot/pull/52) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
-5. ❗️ Opened issue [#51](https://github.com/thirdweb-dev/support-discord-bot/issues/51) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
+1. ❗️ Opened issue [#1234](https://github.com/thirdweb-dev/dashboard/issues/1234) in [thirdweb-dev/dashboard](https://github.com/thirdweb-dev/dashboard)
+2. 🗣 Commented on [#53](https://github.com/thirdweb-dev/support-discord-bot/issues/53) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
+3. ❗️ Closed issue [#53](https://github.com/thirdweb-dev/support-discord-bot/issues/53) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
+4. ❗️ Opened issue [#53](https://github.com/thirdweb-dev/support-discord-bot/issues/53) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
+5. 💪 Opened PR [#52](https://github.com/thirdweb-dev/support-discord-bot/pull/52) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
 <!--END_SECTION:activity-->
 
 </details>
