@@ -57,11 +57,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#45](https://github.com/OSSPhilippines/philippines-travel-level-map/issues/45) in [OSSPhilippines/philippines-travel-level-map](https://github.com/OSSPhilippines/philippines-travel-level-map)
-2. ❗️ Opened issue [#2](https://github.com/warengonzaga/ipfs-support-extension/issues/2) in [warengonzaga/ipfs-support-extension](https://github.com/warengonzaga/ipfs-support-extension)
-3. ❗️ Opened issue [#56](https://github.com/thirdweb-dev/support-discord-bot/issues/56) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
-4. 🎉 Merged PR [#55](https://github.com/thirdweb-dev/support-discord-bot/pull/55) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
-5. 💪 Opened PR [#55](https://github.com/thirdweb-dev/support-discord-bot/pull/55) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
+1. ❗️ Closed issue [#45](https://github.com/OSSPhilippines/philippines-travel-level-map/issues/45) in [OSSPhilippines/philippines-travel-level-map](https://github.com/OSSPhilippines/philippines-travel-level-map)
+2. 🗣 Commented on [#45](https://github.com/OSSPhilippines/philippines-travel-level-map/issues/45) in [OSSPhilippines/philippines-travel-level-map](https://github.com/OSSPhilippines/philippines-travel-level-map)
+3. 🗣 Commented on [#45](https://github.com/OSSPhilippines/philippines-travel-level-map/issues/45) in [OSSPhilippines/philippines-travel-level-map](https://github.com/OSSPhilippines/philippines-travel-level-map)
+4. ❗️ Opened issue [#2](https://github.com/warengonzaga/ipfs-support-extension/issues/2) in [warengonzaga/ipfs-support-extension](https://github.com/warengonzaga/ipfs-support-extension)
+5. ❗️ Opened issue [#56](https://github.com/thirdweb-dev/support-discord-bot/issues/56) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
 <!--END_SECTION:activity-->
 
 </details>
