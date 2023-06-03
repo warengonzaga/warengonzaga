@@ -57,11 +57,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#42](https://github.com/warengonzaga/wifi-passview/issues/42) in [warengonzaga/wifi-passview](https://github.com/warengonzaga/wifi-passview)
-2. ❗ Opened issue [#1](https://github.com/warengonzaga/forum-based-support-discord-bot/issues/1) in [warengonzaga/forum-based-support-discord-bot](https://github.com/warengonzaga/forum-based-support-discord-bot)
-3. 🗣 Commented on [#45](https://github.com/OSSPhilippines/philippines-travel-level-map/issues/45) in [OSSPhilippines/philippines-travel-level-map](https://github.com/OSSPhilippines/philippines-travel-level-map)
-4. ❗ Opened issue [#1449](https://github.com/lacolaco/contributors-img/issues/1449) in [lacolaco/contributors-img](https://github.com/lacolaco/contributors-img)
-5. 🔒 Closed issue [#45](https://github.com/OSSPhilippines/philippines-travel-level-map/issues/45) in [OSSPhilippines/philippines-travel-level-map](https://github.com/OSSPhilippines/philippines-travel-level-map)
+1. ❗ Opened issue [#3](https://github.com/warengonzaga/forum-based-support-discord-bot/issues/3) in [warengonzaga/forum-based-support-discord-bot](https://github.com/warengonzaga/forum-based-support-discord-bot)
+2. ❗ Opened issue [#42](https://github.com/warengonzaga/wifi-passview/issues/42) in [warengonzaga/wifi-passview](https://github.com/warengonzaga/wifi-passview)
+3. ❗ Opened issue [#1](https://github.com/warengonzaga/forum-based-support-discord-bot/issues/1) in [warengonzaga/forum-based-support-discord-bot](https://github.com/warengonzaga/forum-based-support-discord-bot)
+4. 🗣 Commented on [#45](https://github.com/OSSPhilippines/philippines-travel-level-map/issues/45) in [OSSPhilippines/philippines-travel-level-map](https://github.com/OSSPhilippines/philippines-travel-level-map)
+5. ❗ Opened issue [#1449](https://github.com/lacolaco/contributors-img/issues/1449) in [lacolaco/contributors-img](https://github.com/lacolaco/contributors-img)
 <!--END_SECTION:activity-->
 
 </details>
