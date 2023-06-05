@@ -58,10 +58,10 @@ Wanna have chat with me? Join my tech communities!
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#464](https://github.com/makeswift/makeswift/issues/464) in [makeswift/makeswift](https://github.com/makeswift/makeswift)
-2. ❗ Opened issue [#3](https://github.com/warengonzaga/ipfs-support-extension/issues/3) in [warengonzaga/ipfs-support-extension](https://github.com/warengonzaga/ipfs-support-extension)
-3. ❗ Opened issue [#3](https://github.com/warengonzaga/forum-based-support-discord-bot/issues/3) in [warengonzaga/forum-based-support-discord-bot](https://github.com/warengonzaga/forum-based-support-discord-bot)
-4. ❗ Opened issue [#42](https://github.com/warengonzaga/wifi-passview/issues/42) in [warengonzaga/wifi-passview](https://github.com/warengonzaga/wifi-passview)
-5. ❗ Opened issue [#1](https://github.com/warengonzaga/forum-based-support-discord-bot/issues/1) in [warengonzaga/forum-based-support-discord-bot](https://github.com/warengonzaga/forum-based-support-discord-bot)
+2. 🗣 Commented on [#464](https://github.com/makeswift/makeswift/issues/464) in [makeswift/makeswift](https://github.com/makeswift/makeswift)
+3. ❗ Opened issue [#3](https://github.com/warengonzaga/ipfs-support-extension/issues/3) in [warengonzaga/ipfs-support-extension](https://github.com/warengonzaga/ipfs-support-extension)
+4. ❗ Opened issue [#3](https://github.com/warengonzaga/forum-based-support-discord-bot/issues/3) in [warengonzaga/forum-based-support-discord-bot](https://github.com/warengonzaga/forum-based-support-discord-bot)
+5. ❗ Opened issue [#42](https://github.com/warengonzaga/wifi-passview/issues/42) in [warengonzaga/wifi-passview](https://github.com/warengonzaga/wifi-passview)
 <!--END_SECTION:activity-->
 
 </details>
