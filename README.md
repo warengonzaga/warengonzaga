@@ -58,10 +58,10 @@ Wanna have chat with me? Join my tech communities!
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1674](https://github.com/animate-css/animate.css/issues/1674) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
-2. 🔒 Closed issue [#480](https://github.com/makeswift/makeswift/issues/480) in [makeswift/makeswift](https://github.com/makeswift/makeswift)
-3. 🔒 Closed issue [#462](https://github.com/makeswift/makeswift/issues/462) in [makeswift/makeswift](https://github.com/makeswift/makeswift)
-4. ❗ Opened issue [#480](https://github.com/makeswift/makeswift/issues/480) in [makeswift/makeswift](https://github.com/makeswift/makeswift)
-5. 🗣 Commented on [#464](https://github.com/makeswift/makeswift/issues/464) in [makeswift/makeswift](https://github.com/makeswift/makeswift)
+2. 🗣 Commented on [#1674](https://github.com/animate-css/animate.css/issues/1674) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+3. 🔒 Closed issue [#480](https://github.com/makeswift/makeswift/issues/480) in [makeswift/makeswift](https://github.com/makeswift/makeswift)
+4. 🔒 Closed issue [#462](https://github.com/makeswift/makeswift/issues/462) in [makeswift/makeswift](https://github.com/makeswift/makeswift)
+5. ❗ Opened issue [#480](https://github.com/makeswift/makeswift/issues/480) in [makeswift/makeswift](https://github.com/makeswift/makeswift)
 <!--END_SECTION:activity-->
 
 </details>
