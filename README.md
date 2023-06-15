@@ -57,11 +57,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2](https://github.com/dturska12/thirdweb-collection-preview/issues/2) in [dturska12/thirdweb-collection-preview](https://github.com/dturska12/thirdweb-collection-preview)
-2. ❗ Opened issue [#1](https://github.com/dturska12/thirdweb-collection-preview/issues/1) in [dturska12/thirdweb-collection-preview](https://github.com/dturska12/thirdweb-collection-preview)
-3. 🗣 Commented on [#35](https://github.com/thirdweb-example/nft-staking-app/issues/35) in [thirdweb-example/nft-staking-app](https://github.com/thirdweb-example/nft-staking-app)
-4. ❗ Opened issue [#35](https://github.com/thirdweb-example/nft-staking-app/issues/35) in [thirdweb-example/nft-staking-app](https://github.com/thirdweb-example/nft-staking-app)
-5. 🗣 Commented on [#1674](https://github.com/animate-css/animate.css/issues/1674) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+1. 🗣 Commented on [#1](https://github.com/dturska12/thirdweb-collection-preview/issues/1) in [dturska12/thirdweb-collection-preview](https://github.com/dturska12/thirdweb-collection-preview)
+2. ❗ Opened issue [#2](https://github.com/dturska12/thirdweb-collection-preview/issues/2) in [dturska12/thirdweb-collection-preview](https://github.com/dturska12/thirdweb-collection-preview)
+3. ❗ Opened issue [#1](https://github.com/dturska12/thirdweb-collection-preview/issues/1) in [dturska12/thirdweb-collection-preview](https://github.com/dturska12/thirdweb-collection-preview)
+4. 🗣 Commented on [#35](https://github.com/thirdweb-example/nft-staking-app/issues/35) in [thirdweb-example/nft-staking-app](https://github.com/thirdweb-example/nft-staking-app)
+5. ❗ Opened issue [#35](https://github.com/thirdweb-example/nft-staking-app/issues/35) in [thirdweb-example/nft-staking-app](https://github.com/thirdweb-example/nft-staking-app)
 <!--END_SECTION:activity-->
 
 </details>
