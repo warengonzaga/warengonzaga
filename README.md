@@ -58,10 +58,10 @@ Wanna have chat with me? Join my tech communities!
 
 <!--START_SECTION:activity-->
 1. ❗ Opened issue [#1](https://github.com/web3phl/cli/issues/1) in [web3phl/cli](https://github.com/web3phl/cli)
-2. 🗣 Commented on [#2](https://github.com/web3phl/rust-cli/issues/2) in [web3phl/rust-cli](https://github.com/web3phl/rust-cli)
-3. ❗ Opened issue [#2](https://github.com/web3phl/cli/issues/2) in [web3phl/cli](https://github.com/web3phl/cli)
-4. 🗣 Commented on [#2](https://github.com/dturska12/thirdweb-collection-preview/issues/2) in [dturska12/thirdweb-collection-preview](https://github.com/dturska12/thirdweb-collection-preview)
-5. 🗣 Commented on [#1](https://github.com/dturska12/thirdweb-collection-preview/issues/1) in [dturska12/thirdweb-collection-preview](https://github.com/dturska12/thirdweb-collection-preview)
+2. 🗣 Commented on [#2](https://github.com/dturska12/thirdweb-collection-preview/issues/2) in [dturska12/thirdweb-collection-preview](https://github.com/dturska12/thirdweb-collection-preview)
+3. 🗣 Commented on [#1](https://github.com/dturska12/thirdweb-collection-preview/issues/1) in [dturska12/thirdweb-collection-preview](https://github.com/dturska12/thirdweb-collection-preview)
+4. ❗ Opened issue [#2](https://github.com/dturska12/thirdweb-collection-preview/issues/2) in [dturska12/thirdweb-collection-preview](https://github.com/dturska12/thirdweb-collection-preview)
+5. ❗ Opened issue [#1](https://github.com/dturska12/thirdweb-collection-preview/issues/1) in [dturska12/thirdweb-collection-preview](https://github.com/dturska12/thirdweb-collection-preview)
 <!--END_SECTION:activity-->
 
 </details>
