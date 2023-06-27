@@ -57,11 +57,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#3](https://github.com/web3phl/cli/issues/3) in [web3phl/cli](https://github.com/web3phl/cli)
-2. 🚀 Published release [v0.1.0](https://github.com/v0.1.0) in [web3phl/matuto](https://github.com/web3phl/matuto)
-3. 🎉 Merged PR [#9](https://github.com/web3phl/matuto/pull/9) in [web3phl/matuto](https://github.com/web3phl/matuto)
-4. 🗣 Commented on [#3](https://github.com/web3phl/matuto/issues/3) in [web3phl/matuto](https://github.com/web3phl/matuto)
-5. 💪 Opened PR [#9](https://github.com/web3phl/matuto/pull/9) in [web3phl/matuto](https://github.com/web3phl/matuto)
+1. 💪 Opened PR [#42](https://github.com/OSSPhilippines/v-animate-css/pull/42) in [OSSPhilippines/v-animate-css](https://github.com/OSSPhilippines/v-animate-css)
+2. ❗ Opened issue [#3](https://github.com/web3phl/cli/issues/3) in [web3phl/cli](https://github.com/web3phl/cli)
+3. 🚀 Published release [v0.1.0](https://github.com/v0.1.0) in [web3phl/matuto](https://github.com/web3phl/matuto)
+4. 🎉 Merged PR [#9](https://github.com/web3phl/matuto/pull/9) in [web3phl/matuto](https://github.com/web3phl/matuto)
+5. 🗣 Commented on [#3](https://github.com/web3phl/matuto/issues/3) in [web3phl/matuto](https://github.com/web3phl/matuto)
 <!--END_SECTION:activity-->
 
 </details>
