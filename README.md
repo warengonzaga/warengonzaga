@@ -57,11 +57,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#11](https://github.com/web3phl/matuto/issues/11) in [web3phl/matuto](https://github.com/web3phl/matuto)
-2. 💪 Opened PR [#34](https://github.com/OSSPhilippines/ossph.org/pull/34) in [OSSPhilippines/ossph.org](https://github.com/OSSPhilippines/ossph.org)
-3. ❌ Closed PR [#33](https://github.com/OSSPhilippines/ossph.org/pull/33) in [OSSPhilippines/ossph.org](https://github.com/OSSPhilippines/ossph.org)
-4. 💪 Opened PR [#33](https://github.com/OSSPhilippines/ossph.org/pull/33) in [OSSPhilippines/ossph.org](https://github.com/OSSPhilippines/ossph.org)
-5. 🗣 Commented on [#42](https://github.com/OSSPhilippines/v-animate-css/issues/42) in [OSSPhilippines/v-animate-css](https://github.com/OSSPhilippines/v-animate-css)
+1. 🔒 Closed issue [#11](https://github.com/web3phl/matuto/issues/11) in [web3phl/matuto](https://github.com/web3phl/matuto)
+2. 🗣 Commented on [#11](https://github.com/web3phl/matuto/issues/11) in [web3phl/matuto](https://github.com/web3phl/matuto)
+3. ❗ Opened issue [#11](https://github.com/web3phl/matuto/issues/11) in [web3phl/matuto](https://github.com/web3phl/matuto)
+4. 💪 Opened PR [#34](https://github.com/OSSPhilippines/ossph.org/pull/34) in [OSSPhilippines/ossph.org](https://github.com/OSSPhilippines/ossph.org)
+5. ❌ Closed PR [#33](https://github.com/OSSPhilippines/ossph.org/pull/33) in [OSSPhilippines/ossph.org](https://github.com/OSSPhilippines/ossph.org)
 <!--END_SECTION:activity-->
 
 </details>
