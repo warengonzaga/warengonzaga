@@ -57,11 +57,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#4](https://github.com/web3phl/homepage/pull/4) in [web3phl/homepage](https://github.com/web3phl/homepage)
-2. 🗣 Commented on [#4](https://github.com/web3phl/homepage/issues/4) in [web3phl/homepage](https://github.com/web3phl/homepage)
-3. 🎉 Merged PR [#12](https://github.com/web3phl/homepage/pull/12) in [web3phl/homepage](https://github.com/web3phl/homepage)
-4. 🔒 Closed issue [#11](https://github.com/web3phl/matuto/issues/11) in [web3phl/matuto](https://github.com/web3phl/matuto)
-5. 🗣 Commented on [#11](https://github.com/web3phl/matuto/issues/11) in [web3phl/matuto](https://github.com/web3phl/matuto)
+1. 🗣 Commented on [#44](https://github.com/code-atlantic/content-control/issues/44) in [code-atlantic/content-control](https://github.com/code-atlantic/content-control)
+2. ❌ Closed PR [#4](https://github.com/web3phl/homepage/pull/4) in [web3phl/homepage](https://github.com/web3phl/homepage)
+3. 🗣 Commented on [#4](https://github.com/web3phl/homepage/issues/4) in [web3phl/homepage](https://github.com/web3phl/homepage)
+4. 🎉 Merged PR [#12](https://github.com/web3phl/homepage/pull/12) in [web3phl/homepage](https://github.com/web3phl/homepage)
+5. 🔒 Closed issue [#11](https://github.com/web3phl/matuto/issues/11) in [web3phl/matuto](https://github.com/web3phl/matuto)
 <!--END_SECTION:activity-->
 
 </details>
