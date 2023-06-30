@@ -57,11 +57,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#12](https://github.com/web3phl/matuto/issues/12) in [web3phl/matuto](https://github.com/web3phl/matuto)
-2. 🗣 Commented on [#12](https://github.com/web3phl/matuto/issues/12) in [web3phl/matuto](https://github.com/web3phl/matuto)
-3. ❗ Opened issue [#12](https://github.com/web3phl/matuto/issues/12) in [web3phl/matuto](https://github.com/web3phl/matuto)
-4. 🗣 Commented on [#44](https://github.com/code-atlantic/content-control/issues/44) in [code-atlantic/content-control](https://github.com/code-atlantic/content-control)
-5. ❌ Closed PR [#4](https://github.com/web3phl/homepage/pull/4) in [web3phl/homepage](https://github.com/web3phl/homepage)
+1. 💪 Opened PR [#766](https://github.com/thirdweb-dev/docs/pull/766) in [thirdweb-dev/docs](https://github.com/thirdweb-dev/docs)
+2. 🔒 Closed issue [#12](https://github.com/web3phl/matuto/issues/12) in [web3phl/matuto](https://github.com/web3phl/matuto)
+3. 🗣 Commented on [#12](https://github.com/web3phl/matuto/issues/12) in [web3phl/matuto](https://github.com/web3phl/matuto)
+4. ❗ Opened issue [#12](https://github.com/web3phl/matuto/issues/12) in [web3phl/matuto](https://github.com/web3phl/matuto)
+5. 🗣 Commented on [#44](https://github.com/code-atlantic/content-control/issues/44) in [code-atlantic/content-control](https://github.com/code-atlantic/content-control)
 <!--END_SECTION:activity-->
 
 </details>
