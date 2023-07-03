@@ -57,11 +57,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.1.2](https://github.com/v0.1.2) in [web3phl/matuto](https://github.com/web3phl/matuto)
-2. 🎉 Merged PR [#13](https://github.com/web3phl/matuto/pull/13) in [web3phl/matuto](https://github.com/web3phl/matuto)
-3. 💪 Opened PR [#13](https://github.com/web3phl/matuto/pull/13) in [web3phl/matuto](https://github.com/web3phl/matuto)
-4. 💪 Opened PR [#766](https://github.com/thirdweb-dev/docs/pull/766) in [thirdweb-dev/docs](https://github.com/thirdweb-dev/docs)
-5. 🔒 Closed issue [#12](https://github.com/web3phl/matuto/issues/12) in [web3phl/matuto](https://github.com/web3phl/matuto)
+1. ❗ Opened issue [#16](https://github.com/web3phl/matuto/issues/16) in [web3phl/matuto](https://github.com/web3phl/matuto)
+2. 🚀 Published release [v0.1.2](https://github.com/v0.1.2) in [web3phl/matuto](https://github.com/web3phl/matuto)
+3. 🎉 Merged PR [#13](https://github.com/web3phl/matuto/pull/13) in [web3phl/matuto](https://github.com/web3phl/matuto)
+4. 💪 Opened PR [#13](https://github.com/web3phl/matuto/pull/13) in [web3phl/matuto](https://github.com/web3phl/matuto)
+5. 💪 Opened PR [#766](https://github.com/thirdweb-dev/docs/pull/766) in [thirdweb-dev/docs](https://github.com/thirdweb-dev/docs)
 <!--END_SECTION:activity-->
 
 </details>
