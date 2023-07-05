@@ -57,11 +57,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12](https://github.com/thirdweb-example/nft-drop/issues/12) in [thirdweb-example/nft-drop](https://github.com/thirdweb-example/nft-drop)
-2. 💪 Opened PR [#28](https://github.com/thirdweb-example/nft-drop/pull/28) in [thirdweb-example/nft-drop](https://github.com/thirdweb-example/nft-drop)
-3. ❗ Opened issue [#16](https://github.com/web3phl/matuto/issues/16) in [web3phl/matuto](https://github.com/web3phl/matuto)
-4. 🚀 Published release [v0.1.2](https://github.com/v0.1.2) in [web3phl/matuto](https://github.com/web3phl/matuto)
-5. 🎉 Merged PR [#13](https://github.com/web3phl/matuto/pull/13) in [web3phl/matuto](https://github.com/web3phl/matuto)
+1. 🔒 Closed issue [#1284](https://github.com/thirdweb-dev/js/issues/1284) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)
+2. 🗣 Commented on [#12](https://github.com/thirdweb-example/nft-drop/issues/12) in [thirdweb-example/nft-drop](https://github.com/thirdweb-example/nft-drop)
+3. 💪 Opened PR [#28](https://github.com/thirdweb-example/nft-drop/pull/28) in [thirdweb-example/nft-drop](https://github.com/thirdweb-example/nft-drop)
+4. ❗ Opened issue [#16](https://github.com/web3phl/matuto/issues/16) in [web3phl/matuto](https://github.com/web3phl/matuto)
+5. 🚀 Published release [v0.1.2](https://github.com/v0.1.2) in [web3phl/matuto](https://github.com/web3phl/matuto)
 <!--END_SECTION:activity-->
 
 </details>
