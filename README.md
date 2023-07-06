@@ -57,11 +57,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#16](https://github.com/web3phl/matuto/issues/16) in [web3phl/matuto](https://github.com/web3phl/matuto)
-2. 🗣 Commented on [#16](https://github.com/web3phl/matuto/issues/16) in [web3phl/matuto](https://github.com/web3phl/matuto)
-3. ❗ Opened issue [#37](https://github.com/OSSPhilippines/psgc-api/issues/37) in [OSSPhilippines/psgc-api](https://github.com/OSSPhilippines/psgc-api)
-4. 🗣 Commented on [#7](https://github.com/OSSPhilippines/psgc-api/issues/7) in [OSSPhilippines/psgc-api](https://github.com/OSSPhilippines/psgc-api)
-5. 🔒 Closed issue [#8](https://github.com/thirdweb-dev/widgets/issues/8) in [thirdweb-dev/widgets](https://github.com/thirdweb-dev/widgets)
+1. ❗ Opened issue [#19](https://github.com/web3phl/matuto/issues/19) in [web3phl/matuto](https://github.com/web3phl/matuto)
+2. 🗣 Commented on [#17](https://github.com/web3phl/matuto/issues/17) in [web3phl/matuto](https://github.com/web3phl/matuto)
+3. ❗ Opened issue [#18](https://github.com/web3phl/matuto/issues/18) in [web3phl/matuto](https://github.com/web3phl/matuto)
+4. ❗ Opened issue [#17](https://github.com/web3phl/matuto/issues/17) in [web3phl/matuto](https://github.com/web3phl/matuto)
+5. 🔒 Closed issue [#16](https://github.com/web3phl/matuto/issues/16) in [web3phl/matuto](https://github.com/web3phl/matuto)
 <!--END_SECTION:activity-->
 
 </details>
