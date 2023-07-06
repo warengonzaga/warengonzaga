@@ -57,11 +57,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#8](https://github.com/thirdweb-dev/widgets/issues/8) in [thirdweb-dev/widgets](https://github.com/thirdweb-dev/widgets)
-2. 🗣 Commented on [#8](https://github.com/thirdweb-dev/widgets/issues/8) in [thirdweb-dev/widgets](https://github.com/thirdweb-dev/widgets)
-3. 🗣 Commented on [#109](https://github.com/thirdweb-dev/widgets/issues/109) in [thirdweb-dev/widgets](https://github.com/thirdweb-dev/widgets)
-4. 🗣 Commented on [#27](https://github.com/thirdweb-example/nft-drop/issues/27) in [thirdweb-example/nft-drop](https://github.com/thirdweb-example/nft-drop)
-5. 🗣 Commented on [#18](https://github.com/thirdweb-example/nft-drop/issues/18) in [thirdweb-example/nft-drop](https://github.com/thirdweb-example/nft-drop)
+1. ❗ Opened issue [#37](https://github.com/OSSPhilippines/psgc-api/issues/37) in [OSSPhilippines/psgc-api](https://github.com/OSSPhilippines/psgc-api)
+2. 🗣 Commented on [#7](https://github.com/OSSPhilippines/psgc-api/issues/7) in [OSSPhilippines/psgc-api](https://github.com/OSSPhilippines/psgc-api)
+3. 🔒 Closed issue [#8](https://github.com/thirdweb-dev/widgets/issues/8) in [thirdweb-dev/widgets](https://github.com/thirdweb-dev/widgets)
+4. 🗣 Commented on [#8](https://github.com/thirdweb-dev/widgets/issues/8) in [thirdweb-dev/widgets](https://github.com/thirdweb-dev/widgets)
+5. 🗣 Commented on [#109](https://github.com/thirdweb-dev/widgets/issues/109) in [thirdweb-dev/widgets](https://github.com/thirdweb-dev/widgets)
 <!--END_SECTION:activity-->
 
 </details>
