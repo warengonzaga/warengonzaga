@@ -57,11 +57,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#19](https://github.com/web3phl/matuto/issues/19) in [web3phl/matuto](https://github.com/web3phl/matuto)
-2. 🗣 Commented on [#17](https://github.com/web3phl/matuto/issues/17) in [web3phl/matuto](https://github.com/web3phl/matuto)
-3. ❗ Opened issue [#18](https://github.com/web3phl/matuto/issues/18) in [web3phl/matuto](https://github.com/web3phl/matuto)
-4. ❗ Opened issue [#17](https://github.com/web3phl/matuto/issues/17) in [web3phl/matuto](https://github.com/web3phl/matuto)
-5. 🔒 Closed issue [#16](https://github.com/web3phl/matuto/issues/16) in [web3phl/matuto](https://github.com/web3phl/matuto)
+1. 🔒 Closed issue [#912](https://github.com/thirdweb-dev/js/issues/912) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)
+2. ❗ Opened issue [#19](https://github.com/web3phl/matuto/issues/19) in [web3phl/matuto](https://github.com/web3phl/matuto)
+3. 🗣 Commented on [#17](https://github.com/web3phl/matuto/issues/17) in [web3phl/matuto](https://github.com/web3phl/matuto)
+4. ❗ Opened issue [#18](https://github.com/web3phl/matuto/issues/18) in [web3phl/matuto](https://github.com/web3phl/matuto)
+5. ❗ Opened issue [#17](https://github.com/web3phl/matuto/issues/17) in [web3phl/matuto](https://github.com/web3phl/matuto)
 <!--END_SECTION:activity-->
 
 </details>
