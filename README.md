@@ -57,11 +57,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#24](https://github.com/web3phl/matuto/issues/24) in [web3phl/matuto](https://github.com/web3phl/matuto)
-2. 🎉 Merged PR [#24](https://github.com/web3phl/matuto/pull/24) in [web3phl/matuto](https://github.com/web3phl/matuto)
-3. 🗣 Commented on [#24](https://github.com/web3phl/matuto/issues/24) in [web3phl/matuto](https://github.com/web3phl/matuto)
-4. 🚀 Published release [v0.1.3](https://github.com/v0.1.3) in [web3phl/matuto](https://github.com/web3phl/matuto)
-5. 🔒 Closed issue [#17](https://github.com/web3phl/matuto/issues/17) in [web3phl/matuto](https://github.com/web3phl/matuto)
+1. 💪 Opened PR [#25](https://github.com/web3phl/matuto/pull/25) in [web3phl/matuto](https://github.com/web3phl/matuto)
+2. 🗣 Commented on [#24](https://github.com/web3phl/matuto/issues/24) in [web3phl/matuto](https://github.com/web3phl/matuto)
+3. 🎉 Merged PR [#24](https://github.com/web3phl/matuto/pull/24) in [web3phl/matuto](https://github.com/web3phl/matuto)
+4. 🗣 Commented on [#24](https://github.com/web3phl/matuto/issues/24) in [web3phl/matuto](https://github.com/web3phl/matuto)
+5. 🚀 Published release [v0.1.3](https://github.com/v0.1.3) in [web3phl/matuto](https://github.com/web3phl/matuto)
 <!--END_SECTION:activity-->
 
 </details>
