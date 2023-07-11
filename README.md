@@ -57,11 +57,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#19](https://github.com/thirdweb-example/nft-gated-website/issues/19) in [thirdweb-example/nft-gated-website](https://github.com/thirdweb-example/nft-gated-website)
-2. 💪 Opened PR [#25](https://github.com/web3phl/matuto/pull/25) in [web3phl/matuto](https://github.com/web3phl/matuto)
-3. 🗣 Commented on [#24](https://github.com/web3phl/matuto/issues/24) in [web3phl/matuto](https://github.com/web3phl/matuto)
-4. 🎉 Merged PR [#24](https://github.com/web3phl/matuto/pull/24) in [web3phl/matuto](https://github.com/web3phl/matuto)
-5. 🗣 Commented on [#24](https://github.com/web3phl/matuto/issues/24) in [web3phl/matuto](https://github.com/web3phl/matuto)
+1. 💪 Opened PR [#7](https://github.com/thirdweb-example/marketplace-v3/pull/7) in [thirdweb-example/marketplace-v3](https://github.com/thirdweb-example/marketplace-v3)
+2. ❗ Opened issue [#19](https://github.com/thirdweb-example/nft-gated-website/issues/19) in [thirdweb-example/nft-gated-website](https://github.com/thirdweb-example/nft-gated-website)
+3. 💪 Opened PR [#25](https://github.com/web3phl/matuto/pull/25) in [web3phl/matuto](https://github.com/web3phl/matuto)
+4. 🗣 Commented on [#24](https://github.com/web3phl/matuto/issues/24) in [web3phl/matuto](https://github.com/web3phl/matuto)
+5. 🎉 Merged PR [#24](https://github.com/web3phl/matuto/pull/24) in [web3phl/matuto](https://github.com/web3phl/matuto)
 <!--END_SECTION:activity-->
 
 </details>
