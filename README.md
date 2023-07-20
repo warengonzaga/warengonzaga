@@ -57,11 +57,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#533](https://github.com/makeswift/makeswift/issues/533) in [makeswift/makeswift](https://github.com/makeswift/makeswift)
-2. 🗣 Commented on [#31](https://github.com/web3phl/matuto/pull/31#issuecomment-1637095778) in [web3phl/matuto](https://github.com/web3phl/matuto)
-3. 🗣 Commented on [#30](https://github.com/web3phl/matuto/pull/30#issuecomment-1637062937) in [web3phl/matuto](https://github.com/web3phl/matuto)
-4. 🗣 Commented on [#18](https://github.com/web3phl/matuto/issues/18#issuecomment-1636853808) in [web3phl/matuto](https://github.com/web3phl/matuto)
-5. 💪 Opened PR [#530](https://github.com/makeswift/makeswift/pull/530) in [makeswift/makeswift](https://github.com/makeswift/makeswift)
+1. ❗ Opened issue [#534](https://github.com/makeswift/makeswift/issues/534) in [makeswift/makeswift](https://github.com/makeswift/makeswift)
+2. ❗ Opened issue [#533](https://github.com/makeswift/makeswift/issues/533) in [makeswift/makeswift](https://github.com/makeswift/makeswift)
+3. 🗣 Commented on [#31](https://github.com/web3phl/matuto/pull/31#issuecomment-1637095778) in [web3phl/matuto](https://github.com/web3phl/matuto)
+4. 🗣 Commented on [#30](https://github.com/web3phl/matuto/pull/30#issuecomment-1637062937) in [web3phl/matuto](https://github.com/web3phl/matuto)
+5. 🗣 Commented on [#18](https://github.com/web3phl/matuto/issues/18#issuecomment-1636853808) in [web3phl/matuto](https://github.com/web3phl/matuto)
 <!--END_SECTION:activity-->
 
 </details>
