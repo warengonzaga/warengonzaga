@@ -57,11 +57,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#5](https://github.com/Web3Philippines/nas-community-pass/issues/5) in [Web3Philippines/nas-community-pass](https://github.com/Web3Philippines/nas-community-pass)
-2. 🗣 Commented on [#5](https://github.com/Web3Philippines/nas-community-pass/issues/5#issuecomment-1646368520) in [Web3Philippines/nas-community-pass](https://github.com/Web3Philippines/nas-community-pass)
-3. ❗ Opened issue [#534](https://github.com/makeswift/makeswift/issues/534) in [makeswift/makeswift](https://github.com/makeswift/makeswift)
-4. ❗ Opened issue [#533](https://github.com/makeswift/makeswift/issues/533) in [makeswift/makeswift](https://github.com/makeswift/makeswift)
-5. 🗣 Commented on [#31](https://github.com/web3phl/matuto/pull/31#issuecomment-1637095778) in [web3phl/matuto](https://github.com/web3phl/matuto)
+1. ❗ Opened issue [#541](https://github.com/makeswift/makeswift/issues/541) in [makeswift/makeswift](https://github.com/makeswift/makeswift)
+2. 🔒 Closed issue [#5](https://github.com/Web3Philippines/nas-community-pass/issues/5) in [Web3Philippines/nas-community-pass](https://github.com/Web3Philippines/nas-community-pass)
+3. 🗣 Commented on [#5](https://github.com/Web3Philippines/nas-community-pass/issues/5#issuecomment-1646368520) in [Web3Philippines/nas-community-pass](https://github.com/Web3Philippines/nas-community-pass)
+4. ❗ Opened issue [#534](https://github.com/makeswift/makeswift/issues/534) in [makeswift/makeswift](https://github.com/makeswift/makeswift)
+5. ❗ Opened issue [#533](https://github.com/makeswift/makeswift/issues/533) in [makeswift/makeswift](https://github.com/makeswift/makeswift)
 <!--END_SECTION:activity-->
 
 </details>
