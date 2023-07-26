@@ -57,11 +57,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#541](https://github.com/makeswift/makeswift/issues/541) in [makeswift/makeswift](https://github.com/makeswift/makeswift)
-2. 🔒 Closed issue [#5](https://github.com/Web3Philippines/nas-community-pass/issues/5) in [Web3Philippines/nas-community-pass](https://github.com/Web3Philippines/nas-community-pass)
-3. 🗣 Commented on [#5](https://github.com/Web3Philippines/nas-community-pass/issues/5#issuecomment-1646368520) in [Web3Philippines/nas-community-pass](https://github.com/Web3Philippines/nas-community-pass)
-4. ❗ Opened issue [#534](https://github.com/makeswift/makeswift/issues/534) in [makeswift/makeswift](https://github.com/makeswift/makeswift)
-5. ❗ Opened issue [#533](https://github.com/makeswift/makeswift/issues/533) in [makeswift/makeswift](https://github.com/makeswift/makeswift)
+1. 🗣 Commented on [#435](https://github.com/ipfs/public-gateway-checker/pull/435#issuecomment-1651522251) in [ipfs/public-gateway-checker](https://github.com/ipfs/public-gateway-checker)
+2. ❗ Opened issue [#541](https://github.com/makeswift/makeswift/issues/541) in [makeswift/makeswift](https://github.com/makeswift/makeswift)
+3. 🔒 Closed issue [#5](https://github.com/Web3Philippines/nas-community-pass/issues/5) in [Web3Philippines/nas-community-pass](https://github.com/Web3Philippines/nas-community-pass)
+4. 🗣 Commented on [#5](https://github.com/Web3Philippines/nas-community-pass/issues/5#issuecomment-1646368520) in [Web3Philippines/nas-community-pass](https://github.com/Web3Philippines/nas-community-pass)
+5. ❗ Opened issue [#534](https://github.com/makeswift/makeswift/issues/534) in [makeswift/makeswift](https://github.com/makeswift/makeswift)
 <!--END_SECTION:activity-->
 
 </details>
