@@ -57,11 +57,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#57](https://github.com/thirdweb-dev/support-discord-bot/issues/57) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
-2. 🗣 Commented on [#435](https://github.com/ipfs/public-gateway-checker/pull/435#issuecomment-1651522251) in [ipfs/public-gateway-checker](https://github.com/ipfs/public-gateway-checker)
-3. ❗ Opened issue [#541](https://github.com/makeswift/makeswift/issues/541) in [makeswift/makeswift](https://github.com/makeswift/makeswift)
-4. 🔒 Closed issue [#5](https://github.com/Web3Philippines/nas-community-pass/issues/5) in [Web3Philippines/nas-community-pass](https://github.com/Web3Philippines/nas-community-pass)
-5. 🗣 Commented on [#5](https://github.com/Web3Philippines/nas-community-pass/issues/5#issuecomment-1646368520) in [Web3Philippines/nas-community-pass](https://github.com/Web3Philippines/nas-community-pass)
+1. 🗣 Commented on [#13](https://github.com/Web3Philippines/homepage/pull/13#issuecomment-1656769177) in [Web3Philippines/homepage](https://github.com/Web3Philippines/homepage)
+2. ❗ Opened issue [#57](https://github.com/thirdweb-dev/support-discord-bot/issues/57) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
+3. 🗣 Commented on [#435](https://github.com/ipfs/public-gateway-checker/pull/435#issuecomment-1651522251) in [ipfs/public-gateway-checker](https://github.com/ipfs/public-gateway-checker)
+4. ❗ Opened issue [#541](https://github.com/makeswift/makeswift/issues/541) in [makeswift/makeswift](https://github.com/makeswift/makeswift)
+5. 🔒 Closed issue [#5](https://github.com/Web3Philippines/nas-community-pass/issues/5) in [Web3Philippines/nas-community-pass](https://github.com/Web3Philippines/nas-community-pass)
 <!--END_SECTION:activity-->
 
 </details>
