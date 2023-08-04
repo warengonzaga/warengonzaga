@@ -57,11 +57,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4926](https://github.com/microsoft/WSL/issues/4926#issuecomment-1662207144) in [microsoft/WSL](https://github.com/microsoft/WSL)
-2. 🗣 Commented on [#13](https://github.com/Web3Philippines/homepage/pull/13#issuecomment-1657054850) in [Web3Philippines/homepage](https://github.com/Web3Philippines/homepage)
-3. 🎉 Merged PR [#13](https://github.com/Web3Philippines/homepage/pull/13) in [Web3Philippines/homepage](https://github.com/Web3Philippines/homepage)
-4. 🗣 Commented on [#13](https://github.com/Web3Philippines/homepage/pull/13#issuecomment-1656769177) in [Web3Philippines/homepage](https://github.com/Web3Philippines/homepage)
-5. ❗ Opened issue [#57](https://github.com/thirdweb-dev/support-discord-bot/issues/57) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
+1. 💪 Opened PR [#1486](https://github.com/thirdweb-dev/dashboard/pull/1486) in [thirdweb-dev/dashboard](https://github.com/thirdweb-dev/dashboard)
+2. 🗣 Commented on [#4926](https://github.com/microsoft/WSL/issues/4926#issuecomment-1662207144) in [microsoft/WSL](https://github.com/microsoft/WSL)
+3. 🗣 Commented on [#13](https://github.com/Web3Philippines/homepage/pull/13#issuecomment-1657054850) in [Web3Philippines/homepage](https://github.com/Web3Philippines/homepage)
+4. 🎉 Merged PR [#13](https://github.com/Web3Philippines/homepage/pull/13) in [Web3Philippines/homepage](https://github.com/Web3Philippines/homepage)
+5. 🗣 Commented on [#13](https://github.com/Web3Philippines/homepage/pull/13#issuecomment-1656769177) in [Web3Philippines/homepage](https://github.com/Web3Philippines/homepage)
 <!--END_SECTION:activity-->
 
 </details>
