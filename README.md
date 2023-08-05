@@ -57,11 +57,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#30](https://github.com/Web3Philippines/matuto/pull/30) in [Web3Philippines/matuto](https://github.com/Web3Philippines/matuto)
-2. 🗣 Commented on [#30](https://github.com/Web3Philippines/matuto/pull/30#issuecomment-1666515319) in [Web3Philippines/matuto](https://github.com/Web3Philippines/matuto)
-3. 🗣 Commented on [#27](https://github.com/thirdweb-example/erc721/pull/27#issuecomment-1666511653) in [thirdweb-example/erc721](https://github.com/thirdweb-example/erc721)
-4. 💪 Opened PR [#1486](https://github.com/thirdweb-dev/dashboard/pull/1486) in [thirdweb-dev/dashboard](https://github.com/thirdweb-dev/dashboard)
-5. 🗣 Commented on [#4926](https://github.com/microsoft/WSL/issues/4926#issuecomment-1662207144) in [microsoft/WSL](https://github.com/microsoft/WSL)
+1. 🗣 Commented on [#29](https://github.com/Web3Philippines/matuto/issues/29#issuecomment-1666527513) in [Web3Philippines/matuto](https://github.com/Web3Philippines/matuto)
+2. 🔒 Closed issue [#29](https://github.com/Web3Philippines/matuto/issues/29) in [Web3Philippines/matuto](https://github.com/Web3Philippines/matuto)
+3. 🎉 Merged PR [#31](https://github.com/Web3Philippines/matuto/pull/31) in [Web3Philippines/matuto](https://github.com/Web3Philippines/matuto)
+4. 🎉 Merged PR [#30](https://github.com/Web3Philippines/matuto/pull/30) in [Web3Philippines/matuto](https://github.com/Web3Philippines/matuto)
+5. 🗣 Commented on [#30](https://github.com/Web3Philippines/matuto/pull/30#issuecomment-1666515319) in [Web3Philippines/matuto](https://github.com/Web3Philippines/matuto)
 <!--END_SECTION:activity-->
 
 </details>
