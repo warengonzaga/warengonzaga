@@ -57,11 +57,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#560](https://github.com/makeswift/makeswift/pull/560#issuecomment-1676504939) in [makeswift/makeswift](https://github.com/makeswift/makeswift)
-2. 💪 Opened PR [#560](https://github.com/makeswift/makeswift/pull/560) in [makeswift/makeswift](https://github.com/makeswift/makeswift)
-3. 🔒 Reopened issue [#29](https://github.com/Web3Philippines/matuto/issues/29) in [Web3Philippines/matuto](https://github.com/Web3Philippines/matuto)
-4. 🗣 Commented on [#29](https://github.com/Web3Philippines/matuto/issues/29#issuecomment-1674239958) in [Web3Philippines/matuto](https://github.com/Web3Philippines/matuto)
-5. ❗ Opened issue [#58](https://github.com/thirdweb-dev/support-discord-bot/issues/58) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
+1. ❗ Opened issue [#561](https://github.com/makeswift/makeswift/issues/561) in [makeswift/makeswift](https://github.com/makeswift/makeswift)
+2. 🗣 Commented on [#560](https://github.com/makeswift/makeswift/pull/560#issuecomment-1676504939) in [makeswift/makeswift](https://github.com/makeswift/makeswift)
+3. 💪 Opened PR [#560](https://github.com/makeswift/makeswift/pull/560) in [makeswift/makeswift](https://github.com/makeswift/makeswift)
+4. 🔒 Reopened issue [#29](https://github.com/Web3Philippines/matuto/issues/29) in [Web3Philippines/matuto](https://github.com/Web3Philippines/matuto)
+5. 🗣 Commented on [#29](https://github.com/Web3Philippines/matuto/issues/29#issuecomment-1674239958) in [Web3Philippines/matuto](https://github.com/Web3Philippines/matuto)
 <!--END_SECTION:activity-->
 
 </details>
