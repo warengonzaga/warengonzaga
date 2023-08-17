@@ -13,6 +13,7 @@ Filipino senior software engineer, opensource developer and advocate, cybersecur
 - 💝 Author of multiple open source projects (~50 to date).
 - 💼 Community Manager @ [thirdweb](https://github.com/thirdweb-dev)
 - 😎 Co-Founder @ [Web3 Philippines](https://web3philippines.org)
+- 🌱 Building @ [WG Technology Labs](https://wgtechlabs.com)
 - 🤝 Co-Founder @ [OSS Philippines](https://ossph.org)
 - 💜 Core @ [Polygon Guild Manila](https://twitter.com/polygonguildmnl)
 - 🔏 Bug bounty hunter in free time.
