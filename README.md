@@ -58,11 +58,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#109](https://github.com/thirdweb-dev/widgets/pull/109#issuecomment-1682050871) in [thirdweb-dev/widgets](https://github.com/thirdweb-dev/widgets)
-2. 🔒 Closed issue [#44](https://github.com/code-atlantic/content-control/issues/44) in [code-atlantic/content-control](https://github.com/code-atlantic/content-control)
-3. 🗣 Commented on [#44](https://github.com/code-atlantic/content-control/issues/44#issuecomment-1682049273) in [code-atlantic/content-control](https://github.com/code-atlantic/content-control)
-4. 🔒 Closed issue [#29](https://github.com/Web3Philippines/matuto/issues/29) in [Web3Philippines/matuto](https://github.com/Web3Philippines/matuto)
-5. 🗣 Commented on [#29](https://github.com/Web3Philippines/matuto/issues/29#issuecomment-1681991680) in [Web3Philippines/matuto](https://github.com/Web3Philippines/matuto)
+1. ❗ Opened issue [#4](https://github.com/warengonzaga/ipfs-support-extension/issues/4) in [warengonzaga/ipfs-support-extension](https://github.com/warengonzaga/ipfs-support-extension)
+2. 🗣 Commented on [#109](https://github.com/thirdweb-dev/widgets/pull/109#issuecomment-1682050871) in [thirdweb-dev/widgets](https://github.com/thirdweb-dev/widgets)
+3. 🔒 Closed issue [#44](https://github.com/code-atlantic/content-control/issues/44) in [code-atlantic/content-control](https://github.com/code-atlantic/content-control)
+4. 🗣 Commented on [#44](https://github.com/code-atlantic/content-control/issues/44#issuecomment-1682049273) in [code-atlantic/content-control](https://github.com/code-atlantic/content-control)
+5. 🔒 Closed issue [#29](https://github.com/Web3Philippines/matuto/issues/29) in [Web3Philippines/matuto](https://github.com/Web3Philippines/matuto)
 <!--END_SECTION:activity-->
 
 </details>
