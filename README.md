@@ -58,11 +58,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#35](https://github.com/thirdweb-example/erc721/pull/35#issuecomment-1689388481) in [thirdweb-example/erc721](https://github.com/thirdweb-example/erc721)
-2. 💪 Opened PR [#35](https://github.com/thirdweb-example/erc721/pull/35) in [thirdweb-example/erc721](https://github.com/thirdweb-example/erc721)
-3. ❗ Opened issue [#4](https://github.com/warengonzaga/ipfs-support-extension/issues/4) in [warengonzaga/ipfs-support-extension](https://github.com/warengonzaga/ipfs-support-extension)
-4. 🗣 Commented on [#109](https://github.com/thirdweb-dev/widgets/pull/109#issuecomment-1682050871) in [thirdweb-dev/widgets](https://github.com/thirdweb-dev/widgets)
-5. 🔒 Closed issue [#44](https://github.com/code-atlantic/content-control/issues/44) in [code-atlantic/content-control](https://github.com/code-atlantic/content-control)
+1. 🗣 Commented on [#35](https://github.com/thirdweb-example/erc721/pull/35#issuecomment-1690951732) in [thirdweb-example/erc721](https://github.com/thirdweb-example/erc721)
+2. 🗣 Commented on [#35](https://github.com/thirdweb-example/erc721/pull/35#issuecomment-1689388481) in [thirdweb-example/erc721](https://github.com/thirdweb-example/erc721)
+3. 💪 Opened PR [#35](https://github.com/thirdweb-example/erc721/pull/35) in [thirdweb-example/erc721](https://github.com/thirdweb-example/erc721)
+4. ❗ Opened issue [#4](https://github.com/warengonzaga/ipfs-support-extension/issues/4) in [warengonzaga/ipfs-support-extension](https://github.com/warengonzaga/ipfs-support-extension)
+5. 🗣 Commented on [#109](https://github.com/thirdweb-dev/widgets/pull/109#issuecomment-1682050871) in [thirdweb-dev/widgets](https://github.com/thirdweb-dev/widgets)
 <!--END_SECTION:activity-->
 
 </details>
