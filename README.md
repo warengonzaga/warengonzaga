@@ -58,11 +58,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#47](https://github.com/OSSPhilippines/philippines-travel-level-map/issues/47#issuecomment-1693496511) in [OSSPhilippines/philippines-travel-level-map](https://github.com/OSSPhilippines/philippines-travel-level-map)
-2. 🗣 Commented on [#35](https://github.com/thirdweb-example/erc721/pull/35#issuecomment-1690951732) in [thirdweb-example/erc721](https://github.com/thirdweb-example/erc721)
-3. 🗣 Commented on [#35](https://github.com/thirdweb-example/erc721/pull/35#issuecomment-1689388481) in [thirdweb-example/erc721](https://github.com/thirdweb-example/erc721)
-4. 💪 Opened PR [#35](https://github.com/thirdweb-example/erc721/pull/35) in [thirdweb-example/erc721](https://github.com/thirdweb-example/erc721)
-5. ❗ Opened issue [#4](https://github.com/warengonzaga/ipfs-support-extension/issues/4) in [warengonzaga/ipfs-support-extension](https://github.com/warengonzaga/ipfs-support-extension)
+1. 🗣 Commented on [#820](https://github.com/thirdweb-dev/docs/pull/820#issuecomment-1698236246) in [thirdweb-dev/docs](https://github.com/thirdweb-dev/docs)
+2. 🗣 Commented on [#47](https://github.com/OSSPhilippines/philippines-travel-level-map/issues/47#issuecomment-1693496511) in [OSSPhilippines/philippines-travel-level-map](https://github.com/OSSPhilippines/philippines-travel-level-map)
+3. 🗣 Commented on [#35](https://github.com/thirdweb-example/erc721/pull/35#issuecomment-1690951732) in [thirdweb-example/erc721](https://github.com/thirdweb-example/erc721)
+4. 🗣 Commented on [#35](https://github.com/thirdweb-example/erc721/pull/35#issuecomment-1689388481) in [thirdweb-example/erc721](https://github.com/thirdweb-example/erc721)
+5. 💪 Opened PR [#35](https://github.com/thirdweb-example/erc721/pull/35) in [thirdweb-example/erc721](https://github.com/thirdweb-example/erc721)
 <!--END_SECTION:activity-->
 
 </details>
