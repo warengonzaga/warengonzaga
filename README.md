@@ -58,11 +58,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#142](https://github.com/thirdweb-dev/python-sdk/issues/142) in [thirdweb-dev/python-sdk](https://github.com/thirdweb-dev/python-sdk)
-2. 🗣 Commented on [#820](https://github.com/thirdweb-dev/docs/pull/820#issuecomment-1698236246) in [thirdweb-dev/docs](https://github.com/thirdweb-dev/docs)
-3. 🗣 Commented on [#47](https://github.com/OSSPhilippines/philippines-travel-level-map/issues/47#issuecomment-1693496511) in [OSSPhilippines/philippines-travel-level-map](https://github.com/OSSPhilippines/philippines-travel-level-map)
-4. 🗣 Commented on [#35](https://github.com/thirdweb-example/erc721/pull/35#issuecomment-1690951732) in [thirdweb-example/erc721](https://github.com/thirdweb-example/erc721)
-5. 🗣 Commented on [#35](https://github.com/thirdweb-example/erc721/pull/35#issuecomment-1689388481) in [thirdweb-example/erc721](https://github.com/thirdweb-example/erc721)
+1. ❗ Opened issue [#44](https://github.com/warengonzaga/wifi-passview/issues/44) in [warengonzaga/wifi-passview](https://github.com/warengonzaga/wifi-passview)
+2. ❗ Opened issue [#142](https://github.com/thirdweb-dev/python-sdk/issues/142) in [thirdweb-dev/python-sdk](https://github.com/thirdweb-dev/python-sdk)
+3. 🗣 Commented on [#820](https://github.com/thirdweb-dev/docs/pull/820#issuecomment-1698236246) in [thirdweb-dev/docs](https://github.com/thirdweb-dev/docs)
+4. 🗣 Commented on [#47](https://github.com/OSSPhilippines/philippines-travel-level-map/issues/47#issuecomment-1693496511) in [OSSPhilippines/philippines-travel-level-map](https://github.com/OSSPhilippines/philippines-travel-level-map)
+5. 🗣 Commented on [#35](https://github.com/thirdweb-example/erc721/pull/35#issuecomment-1690951732) in [thirdweb-example/erc721](https://github.com/thirdweb-example/erc721)
 <!--END_SECTION:activity-->
 
 </details>
