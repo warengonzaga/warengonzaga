@@ -58,11 +58,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#36](https://github.com/Web3Philippines/matuto/pull/36) in [Web3Philippines/matuto](https://github.com/Web3Philippines/matuto)
-2. 🎉 Merged PR [#43](https://github.com/warengonzaga/wifi-passview/pull/43) in [warengonzaga/wifi-passview](https://github.com/warengonzaga/wifi-passview)
-3. ❗ Opened issue [#44](https://github.com/warengonzaga/wifi-passview/issues/44) in [warengonzaga/wifi-passview](https://github.com/warengonzaga/wifi-passview)
-4. ❗ Opened issue [#142](https://github.com/thirdweb-dev/python-sdk/issues/142) in [thirdweb-dev/python-sdk](https://github.com/thirdweb-dev/python-sdk)
-5. 🗣 Commented on [#820](https://github.com/thirdweb-dev/docs/pull/820#issuecomment-1698236246) in [thirdweb-dev/docs](https://github.com/thirdweb-dev/docs)
+1. 💪 Opened PR [#1](https://github.com/DustinTurska/thirdweb-snapshot-tool/pull/1) in [DustinTurska/thirdweb-snapshot-tool](https://github.com/DustinTurska/thirdweb-snapshot-tool)
+2. 🎉 Merged PR [#36](https://github.com/Web3Philippines/matuto/pull/36) in [Web3Philippines/matuto](https://github.com/Web3Philippines/matuto)
+3. 🎉 Merged PR [#43](https://github.com/warengonzaga/wifi-passview/pull/43) in [warengonzaga/wifi-passview](https://github.com/warengonzaga/wifi-passview)
+4. ❗ Opened issue [#44](https://github.com/warengonzaga/wifi-passview/issues/44) in [warengonzaga/wifi-passview](https://github.com/warengonzaga/wifi-passview)
+5. ❗ Opened issue [#142](https://github.com/thirdweb-dev/python-sdk/issues/142) in [thirdweb-dev/python-sdk](https://github.com/thirdweb-dev/python-sdk)
 <!--END_SECTION:activity-->
 
 </details>
