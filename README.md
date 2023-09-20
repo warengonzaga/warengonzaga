@@ -58,11 +58,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#64](https://github.com/thirdweb-dev/support-discord-bot/pull/64) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
-2. 🗣 Commented on [#64](https://github.com/thirdweb-dev/support-discord-bot/pull/64#issuecomment-1726889105) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
-3. 🎉 Merged PR [#63](https://github.com/thirdweb-dev/support-discord-bot/pull/63) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
-4. 🗣 Commented on [#62](https://github.com/thirdweb-dev/support-discord-bot/pull/62#issuecomment-1716980199) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
-5. 🎉 Merged PR [#61](https://github.com/thirdweb-dev/support-discord-bot/pull/61) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
+1. 💪 Opened PR [#65](https://github.com/thirdweb-dev/support-discord-bot/pull/65) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
+2. 🎉 Merged PR [#64](https://github.com/thirdweb-dev/support-discord-bot/pull/64) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
+3. 🗣 Commented on [#64](https://github.com/thirdweb-dev/support-discord-bot/pull/64#issuecomment-1726889105) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
+4. 🎉 Merged PR [#63](https://github.com/thirdweb-dev/support-discord-bot/pull/63) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
+5. 🗣 Commented on [#62](https://github.com/thirdweb-dev/support-discord-bot/pull/62#issuecomment-1716980199) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
 <!--END_SECTION:activity-->
 
 </details>
