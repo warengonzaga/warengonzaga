@@ -58,11 +58,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#38](https://github.com/Web3Philippines/matuto/pull/38#issuecomment-1742306909) in [Web3Philippines/matuto](https://github.com/Web3Philippines/matuto)
-2. 🗣 Commented on [#37](https://github.com/Web3Philippines/matuto/pull/37#issuecomment-1742305819) in [Web3Philippines/matuto](https://github.com/Web3Philippines/matuto)
-3. ❗ Opened issue [#40](https://github.com/Web3Philippines/matuto/issues/40) in [Web3Philippines/matuto](https://github.com/Web3Philippines/matuto)
-4. ❗ Opened issue [#39](https://github.com/Web3Philippines/matuto/issues/39) in [Web3Philippines/matuto](https://github.com/Web3Philippines/matuto)
-5. ❗ Opened issue [#67](https://github.com/thirdweb-dev/support-discord-bot/issues/67) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
+1. 🗣 Commented on [#40](https://github.com/Web3Philippines/matuto/issues/40#issuecomment-1742339558) in [Web3Philippines/matuto](https://github.com/Web3Philippines/matuto)
+2. 🗣 Commented on [#38](https://github.com/Web3Philippines/matuto/pull/38#issuecomment-1742306909) in [Web3Philippines/matuto](https://github.com/Web3Philippines/matuto)
+3. 🗣 Commented on [#37](https://github.com/Web3Philippines/matuto/pull/37#issuecomment-1742305819) in [Web3Philippines/matuto](https://github.com/Web3Philippines/matuto)
+4. ❗ Opened issue [#40](https://github.com/Web3Philippines/matuto/issues/40) in [Web3Philippines/matuto](https://github.com/Web3Philippines/matuto)
+5. ❗ Opened issue [#39](https://github.com/Web3Philippines/matuto/issues/39) in [Web3Philippines/matuto](https://github.com/Web3Philippines/matuto)
 <!--END_SECTION:activity-->
 
 </details>
