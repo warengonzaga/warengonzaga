@@ -58,11 +58,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1694](https://github.com/thirdweb-dev/js/issues/1694) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)
-2. 🗣 Commented on [#40](https://github.com/Web3Philippines/matuto/issues/40#issuecomment-1742339558) in [Web3Philippines/matuto](https://github.com/Web3Philippines/matuto)
-3. 🗣 Commented on [#38](https://github.com/Web3Philippines/matuto/pull/38#issuecomment-1742306909) in [Web3Philippines/matuto](https://github.com/Web3Philippines/matuto)
-4. 🗣 Commented on [#37](https://github.com/Web3Philippines/matuto/pull/37#issuecomment-1742305819) in [Web3Philippines/matuto](https://github.com/Web3Philippines/matuto)
-5. ❗ Opened issue [#40](https://github.com/Web3Philippines/matuto/issues/40) in [Web3Philippines/matuto](https://github.com/Web3Philippines/matuto)
+1. 🎉 Merged PR [#34](https://github.com/OSSPhilippines/awesome-pinoy-made/pull/34) in [OSSPhilippines/awesome-pinoy-made](https://github.com/OSSPhilippines/awesome-pinoy-made)
+2. 🗣 Commented on [#34](https://github.com/OSSPhilippines/awesome-pinoy-made/pull/34#issuecomment-1744274384) in [OSSPhilippines/awesome-pinoy-made](https://github.com/OSSPhilippines/awesome-pinoy-made)
+3. 🗣 Commented on [#40](https://github.com/Web3Philippines/matuto/issues/40#issuecomment-1744272573) in [Web3Philippines/matuto](https://github.com/Web3Philippines/matuto)
+4. ❗ Opened issue [#1694](https://github.com/thirdweb-dev/js/issues/1694) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)
+5. 🗣 Commented on [#40](https://github.com/Web3Philippines/matuto/issues/40#issuecomment-1742339558) in [Web3Philippines/matuto](https://github.com/Web3Philippines/matuto)
 <!--END_SECTION:activity-->
 
 </details>
