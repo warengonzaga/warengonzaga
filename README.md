@@ -58,11 +58,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#986](https://github.com/thirdweb-dev/docs/pull/986) in [thirdweb-dev/docs](https://github.com/thirdweb-dev/docs)
-2. 💪 Opened PR [#977](https://github.com/thirdweb-dev/docs/pull/977) in [thirdweb-dev/docs](https://github.com/thirdweb-dev/docs)
-3. 🎉 Merged PR [#69](https://github.com/thirdweb-dev/support-discord-bot/pull/69) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
-4. 🎉 Merged PR [#68](https://github.com/thirdweb-dev/support-discord-bot/pull/68) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
-5. 🗣 Commented on [#1741](https://github.com/thirdweb-dev/js/issues/1741#issuecomment-1755123637) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)
+1. ❗ Opened issue [#1822](https://github.com/thirdweb-dev/js/issues/1822) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)
+2. 💪 Opened PR [#986](https://github.com/thirdweb-dev/docs/pull/986) in [thirdweb-dev/docs](https://github.com/thirdweb-dev/docs)
+3. 💪 Opened PR [#977](https://github.com/thirdweb-dev/docs/pull/977) in [thirdweb-dev/docs](https://github.com/thirdweb-dev/docs)
+4. 🎉 Merged PR [#69](https://github.com/thirdweb-dev/support-discord-bot/pull/69) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
+5. 🎉 Merged PR [#68](https://github.com/thirdweb-dev/support-discord-bot/pull/68) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
 <!--END_SECTION:activity-->
 
 </details>
