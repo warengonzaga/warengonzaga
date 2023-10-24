@@ -58,11 +58,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/warengonzaga/nft-dummy-assets/issues/1#issuecomment-1774499709) in [warengonzaga/nft-dummy-assets](https://github.com/warengonzaga/nft-dummy-assets)
-2. ❗ Opened issue [#1818](https://github.com/thirdweb-dev/dashboard/issues/1818) in [thirdweb-dev/dashboard](https://github.com/thirdweb-dev/dashboard)
-3. ❗ Opened issue [#1822](https://github.com/thirdweb-dev/js/issues/1822) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)
-4. 💪 Opened PR [#986](https://github.com/thirdweb-dev/docs/pull/986) in [thirdweb-dev/docs](https://github.com/thirdweb-dev/docs)
-5. 💪 Opened PR [#977](https://github.com/thirdweb-dev/docs/pull/977) in [thirdweb-dev/docs](https://github.com/thirdweb-dev/docs)
+1. 🗣 Commented on [#66](https://github.com/thirdweb-dev/support-discord-bot/pull/66#issuecomment-1776564313) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
+2. 🗣 Commented on [#1](https://github.com/warengonzaga/nft-dummy-assets/issues/1#issuecomment-1774499709) in [warengonzaga/nft-dummy-assets](https://github.com/warengonzaga/nft-dummy-assets)
+3. ❗ Opened issue [#1818](https://github.com/thirdweb-dev/dashboard/issues/1818) in [thirdweb-dev/dashboard](https://github.com/thirdweb-dev/dashboard)
+4. ❗ Opened issue [#1822](https://github.com/thirdweb-dev/js/issues/1822) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)
+5. 💪 Opened PR [#986](https://github.com/thirdweb-dev/docs/pull/986) in [thirdweb-dev/docs](https://github.com/thirdweb-dev/docs)
 <!--END_SECTION:activity-->
 
 </details>
