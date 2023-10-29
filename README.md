@@ -58,11 +58,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#4](https://github.com/warengonzaga/ipfs-support-extension/issues/4) in [warengonzaga/ipfs-support-extension](https://github.com/warengonzaga/ipfs-support-extension)
-2. 🎉 Merged PR [#6](https://github.com/warengonzaga/ipfs-support-extension/pull/6) in [warengonzaga/ipfs-support-extension](https://github.com/warengonzaga/ipfs-support-extension)
-3. 🎉 Merged PR [#5](https://github.com/warengonzaga/ipfs-support-extension/pull/5) in [warengonzaga/ipfs-support-extension](https://github.com/warengonzaga/ipfs-support-extension)
-4. 💪 Opened PR [#6](https://github.com/warengonzaga/ipfs-support-extension/pull/6) in [warengonzaga/ipfs-support-extension](https://github.com/warengonzaga/ipfs-support-extension)
-5. 🎉 Merged PR [#23](https://github.com/warengonzaga/wrn-cleaner/pull/23) in [warengonzaga/wrn-cleaner](https://github.com/warengonzaga/wrn-cleaner)
+1. 💪 Opened PR [#19](https://github.com/warengonzaga/wrn-fix-it/pull/19) in [warengonzaga/wrn-fix-it](https://github.com/warengonzaga/wrn-fix-it)
+2. 🔒 Closed issue [#4](https://github.com/warengonzaga/ipfs-support-extension/issues/4) in [warengonzaga/ipfs-support-extension](https://github.com/warengonzaga/ipfs-support-extension)
+3. 🎉 Merged PR [#6](https://github.com/warengonzaga/ipfs-support-extension/pull/6) in [warengonzaga/ipfs-support-extension](https://github.com/warengonzaga/ipfs-support-extension)
+4. 🎉 Merged PR [#5](https://github.com/warengonzaga/ipfs-support-extension/pull/5) in [warengonzaga/ipfs-support-extension](https://github.com/warengonzaga/ipfs-support-extension)
+5. 💪 Opened PR [#6](https://github.com/warengonzaga/ipfs-support-extension/pull/6) in [warengonzaga/ipfs-support-extension](https://github.com/warengonzaga/ipfs-support-extension)
 <!--END_SECTION:activity-->
 
 </details>
