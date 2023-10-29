@@ -58,11 +58,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#66](https://github.com/thirdweb-dev/support-discord-bot/pull/66) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
-2. 🗣 Commented on [#66](https://github.com/thirdweb-dev/support-discord-bot/pull/66#issuecomment-1776564313) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
-3. 🗣 Commented on [#1](https://github.com/warengonzaga/nft-dummy-assets/issues/1#issuecomment-1774499709) in [warengonzaga/nft-dummy-assets](https://github.com/warengonzaga/nft-dummy-assets)
-4. ❗ Opened issue [#1818](https://github.com/thirdweb-dev/dashboard/issues/1818) in [thirdweb-dev/dashboard](https://github.com/thirdweb-dev/dashboard)
-5. ❗ Opened issue [#1822](https://github.com/thirdweb-dev/js/issues/1822) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)
+1. 🎉 Merged PR [#23](https://github.com/warengonzaga/wrn-cleaner/pull/23) in [warengonzaga/wrn-cleaner](https://github.com/warengonzaga/wrn-cleaner)
+2. 🎉 Merged PR [#66](https://github.com/thirdweb-dev/support-discord-bot/pull/66) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
+3. 🗣 Commented on [#66](https://github.com/thirdweb-dev/support-discord-bot/pull/66#issuecomment-1776564313) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
+4. 🗣 Commented on [#1](https://github.com/warengonzaga/nft-dummy-assets/issues/1#issuecomment-1774499709) in [warengonzaga/nft-dummy-assets](https://github.com/warengonzaga/nft-dummy-assets)
+5. ❗ Opened issue [#1818](https://github.com/thirdweb-dev/dashboard/issues/1818) in [thirdweb-dev/dashboard](https://github.com/thirdweb-dev/dashboard)
 <!--END_SECTION:activity-->
 
 </details>
