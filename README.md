@@ -58,11 +58,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#72](https://github.com/thirdweb-dev/support-discord-bot/issues/72) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
-2. 🎉 Merged PR [#70](https://github.com/thirdweb-dev/support-discord-bot/pull/70) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
-3. 🎉 Merged PR [#71](https://github.com/thirdweb-dev/support-discord-bot/pull/71) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
-4. 🚀 Published release [v1.0.0](https://github.com/warengonzaga/wrn-fix-it/releases/tag/1.0.0) in [warengonzaga/wrn-fix-it](https://github.com/warengonzaga/wrn-fix-it)
-5. 🔒 Closed issue [#4](https://github.com/warengonzaga/wrn-fix-it/issues/4) in [warengonzaga/wrn-fix-it](https://github.com/warengonzaga/wrn-fix-it)
+1. 🎉 Merged PR [#24](https://github.com/warengonzaga/wrn-cleaner/pull/24) in [warengonzaga/wrn-cleaner](https://github.com/warengonzaga/wrn-cleaner)
+2. 💪 Opened PR [#24](https://github.com/warengonzaga/wrn-cleaner/pull/24) in [warengonzaga/wrn-cleaner](https://github.com/warengonzaga/wrn-cleaner)
+3. ❗ Opened issue [#72](https://github.com/thirdweb-dev/support-discord-bot/issues/72) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
+4. 🎉 Merged PR [#70](https://github.com/thirdweb-dev/support-discord-bot/pull/70) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
+5. 🎉 Merged PR [#71](https://github.com/thirdweb-dev/support-discord-bot/pull/71) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
 <!--END_SECTION:activity-->
 
 </details>
