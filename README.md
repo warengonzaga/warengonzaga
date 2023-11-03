@@ -58,11 +58,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/warengonzaga/googlemotanga/pull/4) in [warengonzaga/googlemotanga](https://github.com/warengonzaga/googlemotanga)
-2. 💪 Opened PR [#4](https://github.com/warengonzaga/googlemotanga/pull/4) in [warengonzaga/googlemotanga](https://github.com/warengonzaga/googlemotanga)
-3. 🎉 Merged PR [#24](https://github.com/warengonzaga/wrn-cleaner/pull/24) in [warengonzaga/wrn-cleaner](https://github.com/warengonzaga/wrn-cleaner)
-4. 💪 Opened PR [#24](https://github.com/warengonzaga/wrn-cleaner/pull/24) in [warengonzaga/wrn-cleaner](https://github.com/warengonzaga/wrn-cleaner)
-5. ❗ Opened issue [#72](https://github.com/thirdweb-dev/support-discord-bot/issues/72) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
+1. 🗣 Commented on [#1234](https://github.com/thirdweb-dev/dashboard/issues/1234#issuecomment-1791807360) in [thirdweb-dev/dashboard](https://github.com/thirdweb-dev/dashboard)
+2. 🎉 Merged PR [#4](https://github.com/warengonzaga/googlemotanga/pull/4) in [warengonzaga/googlemotanga](https://github.com/warengonzaga/googlemotanga)
+3. 💪 Opened PR [#4](https://github.com/warengonzaga/googlemotanga/pull/4) in [warengonzaga/googlemotanga](https://github.com/warengonzaga/googlemotanga)
+4. 🎉 Merged PR [#24](https://github.com/warengonzaga/wrn-cleaner/pull/24) in [warengonzaga/wrn-cleaner](https://github.com/warengonzaga/wrn-cleaner)
+5. 💪 Opened PR [#24](https://github.com/warengonzaga/wrn-cleaner/pull/24) in [warengonzaga/wrn-cleaner](https://github.com/warengonzaga/wrn-cleaner)
 <!--END_SECTION:activity-->
 
 </details>
