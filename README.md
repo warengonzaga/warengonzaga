@@ -58,11 +58,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#73](https://github.com/thirdweb-dev/support-discord-bot/pull/73) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
-2. 🗣 Commented on [#1234](https://github.com/thirdweb-dev/dashboard/issues/1234#issuecomment-1791807360) in [thirdweb-dev/dashboard](https://github.com/thirdweb-dev/dashboard)
-3. 🎉 Merged PR [#4](https://github.com/warengonzaga/googlemotanga/pull/4) in [warengonzaga/googlemotanga](https://github.com/warengonzaga/googlemotanga)
-4. 💪 Opened PR [#4](https://github.com/warengonzaga/googlemotanga/pull/4) in [warengonzaga/googlemotanga](https://github.com/warengonzaga/googlemotanga)
-5. 🎉 Merged PR [#24](https://github.com/warengonzaga/wrn-cleaner/pull/24) in [warengonzaga/wrn-cleaner](https://github.com/warengonzaga/wrn-cleaner)
+1. 🎉 Merged PR [#73](https://github.com/thirdweb-dev/support-discord-bot/pull/73) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
+2. 💪 Opened PR [#73](https://github.com/thirdweb-dev/support-discord-bot/pull/73) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
+3. 🗣 Commented on [#1234](https://github.com/thirdweb-dev/dashboard/issues/1234#issuecomment-1791807360) in [thirdweb-dev/dashboard](https://github.com/thirdweb-dev/dashboard)
+4. 🎉 Merged PR [#4](https://github.com/warengonzaga/googlemotanga/pull/4) in [warengonzaga/googlemotanga](https://github.com/warengonzaga/googlemotanga)
+5. 💪 Opened PR [#4](https://github.com/warengonzaga/googlemotanga/pull/4) in [warengonzaga/googlemotanga](https://github.com/warengonzaga/googlemotanga)
 <!--END_SECTION:activity-->
 
 </details>
