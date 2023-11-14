@@ -58,11 +58,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1940](https://github.com/thirdweb-dev/js/issues/1940#issuecomment-1809742887) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)
-2. 🗣 Commented on [#58](https://github.com/thirdweb-dev/support-discord-bot/issues/58#issuecomment-1809686534) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
-3. 🔒 Closed issue [#58](https://github.com/thirdweb-dev/support-discord-bot/issues/58) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
-4. 🔒 Closed issue [#72](https://github.com/thirdweb-dev/support-discord-bot/issues/72) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
-5. 🗣 Commented on [#72](https://github.com/thirdweb-dev/support-discord-bot/issues/72#issuecomment-1809683484) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
+1. ❗ Opened issue [#1941](https://github.com/thirdweb-dev/js/issues/1941) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)
+2. 🗣 Commented on [#1940](https://github.com/thirdweb-dev/js/issues/1940#issuecomment-1809742887) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)
+3. 🗣 Commented on [#58](https://github.com/thirdweb-dev/support-discord-bot/issues/58#issuecomment-1809686534) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
+4. 🔒 Closed issue [#58](https://github.com/thirdweb-dev/support-discord-bot/issues/58) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
+5. 🔒 Closed issue [#72](https://github.com/thirdweb-dev/support-discord-bot/issues/72) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
 <!--END_SECTION:activity-->
 
 </details>
