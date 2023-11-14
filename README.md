@@ -58,11 +58,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.0.1 - Alpha](https://github.com/warengonzaga/thirdweb-wp/releases/tag/v0.0.1) in [warengonzaga/thirdweb-wp](https://github.com/warengonzaga/thirdweb-wp)
-2. 🗣 Commented on [#21](https://github.com/DenverCoder1/readme-typing-svg/issues/21#issuecomment-1803555163) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-3. 🚀 Published release [v5.0.0](https://github.com/warengonzaga/wifi-passview/releases/tag/5.0.0) in [warengonzaga/wifi-passview](https://github.com/warengonzaga/wifi-passview)
-4. 🗣 Commented on [#44](https://github.com/warengonzaga/wifi-passview/issues/44#issuecomment-1794955592) in [warengonzaga/wifi-passview](https://github.com/warengonzaga/wifi-passview)
-5. 🔒 Closed issue [#44](https://github.com/warengonzaga/wifi-passview/issues/44) in [warengonzaga/wifi-passview](https://github.com/warengonzaga/wifi-passview)
+1. 🗣 Commented on [#58](https://github.com/thirdweb-dev/support-discord-bot/issues/58#issuecomment-1809686534) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
+2. 🔒 Closed issue [#58](https://github.com/thirdweb-dev/support-discord-bot/issues/58) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
+3. 🔒 Closed issue [#72](https://github.com/thirdweb-dev/support-discord-bot/issues/72) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
+4. 🗣 Commented on [#72](https://github.com/thirdweb-dev/support-discord-bot/issues/72#issuecomment-1809683484) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
+5. 🚀 Published release [v0.0.1 - Alpha](https://github.com/warengonzaga/thirdweb-wp/releases/tag/v0.0.1) in [warengonzaga/thirdweb-wp](https://github.com/warengonzaga/thirdweb-wp)
 <!--END_SECTION:activity-->
 
 </details>
