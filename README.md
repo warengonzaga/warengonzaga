@@ -58,11 +58,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1964](https://github.com/thirdweb-dev/js/pull/1964) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)
-2. ❗ Opened issue [#3](https://github.com/thirdweb-example/engine-phygital/issues/3) in [thirdweb-example/engine-phygital](https://github.com/thirdweb-example/engine-phygital)
-3. 🗣 Commented on [#1940](https://github.com/thirdweb-dev/js/issues/1940#issuecomment-1811954205) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)
-4. 🔒 Closed issue [#1940](https://github.com/thirdweb-dev/js/issues/1940) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)
-5. ❗ Opened issue [#1941](https://github.com/thirdweb-dev/js/issues/1941) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)
+1. 🗣 Commented on [#1964](https://github.com/thirdweb-dev/js/pull/1964#issuecomment-1814674360) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)
+2. 💪 Opened PR [#1964](https://github.com/thirdweb-dev/js/pull/1964) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)
+3. ❗ Opened issue [#3](https://github.com/thirdweb-example/engine-phygital/issues/3) in [thirdweb-example/engine-phygital](https://github.com/thirdweb-example/engine-phygital)
+4. 🗣 Commented on [#1940](https://github.com/thirdweb-dev/js/issues/1940#issuecomment-1811954205) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)
+5. 🔒 Closed issue [#1940](https://github.com/thirdweb-dev/js/issues/1940) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)
 <!--END_SECTION:activity-->
 
 </details>
