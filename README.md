@@ -58,11 +58,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#295](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/295#issuecomment-1824810280) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
-2. ❌ Closed PR [#2](https://github.com/roninliu/gulp-jszip/pull/2) in [roninliu/gulp-jszip](https://github.com/roninliu/gulp-jszip)
-3. ❌ Closed PR [#26](https://github.com/b374k/b374k/pull/26) in [b374k/b374k](https://github.com/b374k/b374k)
-4. 🗣 Commented on [#1964](https://github.com/thirdweb-dev/js/pull/1964#issuecomment-1824361959) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)
-5. 🗣 Commented on [#29](https://github.com/thirdweb-dev/support-discord-bot/issues/29#issuecomment-1824050588) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
+1. ❗ Opened issue [#74](https://github.com/thirdweb-dev/support-discord-bot/issues/74) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
+2. 🗣 Commented on [#295](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/295#issuecomment-1824810280) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+3. ❌ Closed PR [#2](https://github.com/roninliu/gulp-jszip/pull/2) in [roninliu/gulp-jszip](https://github.com/roninliu/gulp-jszip)
+4. ❌ Closed PR [#26](https://github.com/b374k/b374k/pull/26) in [b374k/b374k](https://github.com/b374k/b374k)
+5. 🗣 Commented on [#1964](https://github.com/thirdweb-dev/js/pull/1964#issuecomment-1824361959) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)
 <!--END_SECTION:activity-->
 
 </details>
