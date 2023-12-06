@@ -58,11 +58,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#584](https://github.com/thirdweb-dev/contracts/issues/584) in [thirdweb-dev/contracts](https://github.com/thirdweb-dev/contracts)
-2. 🗣 Commented on [#2016](https://github.com/thirdweb-dev/dashboard/issues/2016#issuecomment-1831359159) in [thirdweb-dev/dashboard](https://github.com/thirdweb-dev/dashboard)
-3. ❗ Opened issue [#74](https://github.com/thirdweb-dev/support-discord-bot/issues/74) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
-4. 🗣 Commented on [#295](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/295#issuecomment-1824810280) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
-5. ❌ Closed PR [#2](https://github.com/roninliu/gulp-jszip/pull/2) in [roninliu/gulp-jszip](https://github.com/roninliu/gulp-jszip)
+1. 🗣 Commented on [#1964](https://github.com/thirdweb-dev/js/pull/1964#issuecomment-1842475395) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)
+2. ❗ Opened issue [#584](https://github.com/thirdweb-dev/contracts/issues/584) in [thirdweb-dev/contracts](https://github.com/thirdweb-dev/contracts)
+3. 🗣 Commented on [#2016](https://github.com/thirdweb-dev/dashboard/issues/2016#issuecomment-1831359159) in [thirdweb-dev/dashboard](https://github.com/thirdweb-dev/dashboard)
+4. ❗ Opened issue [#74](https://github.com/thirdweb-dev/support-discord-bot/issues/74) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
+5. 🗣 Commented on [#295](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/295#issuecomment-1824810280) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
 <!--END_SECTION:activity-->
 
 </details>
