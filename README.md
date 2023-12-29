@@ -58,11 +58,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8](https://github.com/warengonzaga/ipfs-support-extension/issues/8#issuecomment-1864848422) in [warengonzaga/ipfs-support-extension](https://github.com/warengonzaga/ipfs-support-extension)
-2. 🗣 Commented on [#8](https://github.com/warengonzaga/ipfs-support-extension/issues/8#issuecomment-1864847775) in [warengonzaga/ipfs-support-extension](https://github.com/warengonzaga/ipfs-support-extension)
-3. 🗣 Commented on [#7](https://github.com/warengonzaga/ipfs-support-extension/issues/7#issuecomment-1864846488) in [warengonzaga/ipfs-support-extension](https://github.com/warengonzaga/ipfs-support-extension)
-4. 💪 Opened PR [#14431](https://github.com/MetaMask/eth-phishing-detect/pull/14431) in [MetaMask/eth-phishing-detect](https://github.com/MetaMask/eth-phishing-detect)
-5. 🗣 Commented on [#1964](https://github.com/thirdweb-dev/js/pull/1964#issuecomment-1842475395) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)
+1. 🚀 Published release [v0.1.1](https://github.com/warengonzaga/ipfs-support-extension/releases/tag/0.1.1) in [warengonzaga/ipfs-support-extension](https://github.com/warengonzaga/ipfs-support-extension)
+2. 🗣 Commented on [#8](https://github.com/warengonzaga/ipfs-support-extension/issues/8#issuecomment-1864848422) in [warengonzaga/ipfs-support-extension](https://github.com/warengonzaga/ipfs-support-extension)
+3. 🗣 Commented on [#8](https://github.com/warengonzaga/ipfs-support-extension/issues/8#issuecomment-1864847775) in [warengonzaga/ipfs-support-extension](https://github.com/warengonzaga/ipfs-support-extension)
+4. 🗣 Commented on [#7](https://github.com/warengonzaga/ipfs-support-extension/issues/7#issuecomment-1864846488) in [warengonzaga/ipfs-support-extension](https://github.com/warengonzaga/ipfs-support-extension)
+5. 💪 Opened PR [#14431](https://github.com/MetaMask/eth-phishing-detect/pull/14431) in [MetaMask/eth-phishing-detect](https://github.com/MetaMask/eth-phishing-detect)
 <!--END_SECTION:activity-->
 
 </details>
