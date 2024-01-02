@@ -58,11 +58,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.1.2](https://github.com/warengonzaga/ipfs-support-extension/releases/tag/0.1.2) in [warengonzaga/ipfs-support-extension](https://github.com/warengonzaga/ipfs-support-extension)
-2. 🔒 Closed issue [#9](https://github.com/warengonzaga/ipfs-support-extension/issues/9) in [warengonzaga/ipfs-support-extension](https://github.com/warengonzaga/ipfs-support-extension)
-3. 🎉 Merged PR [#10](https://github.com/warengonzaga/ipfs-support-extension/pull/10) in [warengonzaga/ipfs-support-extension](https://github.com/warengonzaga/ipfs-support-extension)
-4. 💪 Opened PR [#10](https://github.com/warengonzaga/ipfs-support-extension/pull/10) in [warengonzaga/ipfs-support-extension](https://github.com/warengonzaga/ipfs-support-extension)
-5. 🗣 Commented on [#7](https://github.com/warengonzaga/ipfs-support-extension/issues/7#issuecomment-1872485506) in [warengonzaga/ipfs-support-extension](https://github.com/warengonzaga/ipfs-support-extension)
+1. 🎉 Merged PR [#11](https://github.com/warengonzaga/ipfs-support-extension/pull/11) in [warengonzaga/ipfs-support-extension](https://github.com/warengonzaga/ipfs-support-extension)
+2. 🚀 Published release [v0.1.2](https://github.com/warengonzaga/ipfs-support-extension/releases/tag/0.1.2) in [warengonzaga/ipfs-support-extension](https://github.com/warengonzaga/ipfs-support-extension)
+3. 🔒 Closed issue [#9](https://github.com/warengonzaga/ipfs-support-extension/issues/9) in [warengonzaga/ipfs-support-extension](https://github.com/warengonzaga/ipfs-support-extension)
+4. 🎉 Merged PR [#10](https://github.com/warengonzaga/ipfs-support-extension/pull/10) in [warengonzaga/ipfs-support-extension](https://github.com/warengonzaga/ipfs-support-extension)
+5. 💪 Opened PR [#10](https://github.com/warengonzaga/ipfs-support-extension/pull/10) in [warengonzaga/ipfs-support-extension](https://github.com/warengonzaga/ipfs-support-extension)
 <!--END_SECTION:activity-->
 
 </details>
