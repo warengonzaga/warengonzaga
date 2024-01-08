@@ -58,11 +58,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8](https://github.com/warengonzaga/ipfs-support-extension/issues/8#issuecomment-1878619235) in [warengonzaga/ipfs-support-extension](https://github.com/warengonzaga/ipfs-support-extension)
-2. 🔒 Closed issue [#8](https://github.com/warengonzaga/ipfs-support-extension/issues/8) in [warengonzaga/ipfs-support-extension](https://github.com/warengonzaga/ipfs-support-extension)
-3. 🗣 Commented on [#8](https://github.com/warengonzaga/ipfs-support-extension/issues/8#issuecomment-1877283863) in [warengonzaga/ipfs-support-extension](https://github.com/warengonzaga/ipfs-support-extension)
-4. 🗣 Commented on [#7](https://github.com/warengonzaga/ipfs-support-extension/issues/7#issuecomment-1877280152) in [warengonzaga/ipfs-support-extension](https://github.com/warengonzaga/ipfs-support-extension)
-5. 🗣 Commented on [#1964](https://github.com/thirdweb-dev/js/pull/1964#issuecomment-1877120462) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)
+1. 🗣 Commented on [#2123](https://github.com/thirdweb-dev/js/issues/2123#issuecomment-1880431837) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)
+2. 🗣 Commented on [#8](https://github.com/warengonzaga/ipfs-support-extension/issues/8#issuecomment-1878619235) in [warengonzaga/ipfs-support-extension](https://github.com/warengonzaga/ipfs-support-extension)
+3. 🔒 Closed issue [#8](https://github.com/warengonzaga/ipfs-support-extension/issues/8) in [warengonzaga/ipfs-support-extension](https://github.com/warengonzaga/ipfs-support-extension)
+4. 🗣 Commented on [#8](https://github.com/warengonzaga/ipfs-support-extension/issues/8#issuecomment-1877283863) in [warengonzaga/ipfs-support-extension](https://github.com/warengonzaga/ipfs-support-extension)
+5. 🗣 Commented on [#7](https://github.com/warengonzaga/ipfs-support-extension/issues/7#issuecomment-1877280152) in [warengonzaga/ipfs-support-extension](https://github.com/warengonzaga/ipfs-support-extension)
 <!--END_SECTION:activity-->
 
 </details>
