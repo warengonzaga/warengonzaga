@@ -58,11 +58,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#6](https://github.com/thirdweb-example/smart-wallet-react/issues/6) in [thirdweb-example/smart-wallet-react](https://github.com/thirdweb-example/smart-wallet-react)
-2. 🗣 Commented on [#1964](https://github.com/thirdweb-dev/js/pull/1964#issuecomment-1886627794) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)
-3. 🗣 Commented on [#2134](https://github.com/thirdweb-dev/js/issues/2134#issuecomment-1882555920) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)
-4. 🗣 Commented on [#595](https://github.com/thirdweb-dev/contracts/issues/595#issuecomment-1882499982) in [thirdweb-dev/contracts](https://github.com/thirdweb-dev/contracts)
-5. 🗣 Commented on [#2123](https://github.com/thirdweb-dev/js/issues/2123#issuecomment-1880431837) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)
+1. ❗ Opened issue [#383](https://github.com/thirdweb-dev/engine/issues/383) in [thirdweb-dev/engine](https://github.com/thirdweb-dev/engine)
+2. ❗ Opened issue [#6](https://github.com/thirdweb-example/smart-wallet-react/issues/6) in [thirdweb-example/smart-wallet-react](https://github.com/thirdweb-example/smart-wallet-react)
+3. 🗣 Commented on [#1964](https://github.com/thirdweb-dev/js/pull/1964#issuecomment-1886627794) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)
+4. 🗣 Commented on [#2134](https://github.com/thirdweb-dev/js/issues/2134#issuecomment-1882555920) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)
+5. 🗣 Commented on [#595](https://github.com/thirdweb-dev/contracts/issues/595#issuecomment-1882499982) in [thirdweb-dev/contracts](https://github.com/thirdweb-dev/contracts)
 <!--END_SECTION:activity-->
 
 </details>
