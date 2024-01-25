@@ -58,11 +58,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#600](https://github.com/thirdweb-dev/contracts/issues/600#issuecomment-1907290440) in [thirdweb-dev/contracts](https://github.com/thirdweb-dev/contracts)
-2. 🗣 Commented on [#600](https://github.com/thirdweb-dev/contracts/issues/600#issuecomment-1907288050) in [thirdweb-dev/contracts](https://github.com/thirdweb-dev/contracts)
-3. ❗ Opened issue [#383](https://github.com/thirdweb-dev/engine/issues/383) in [thirdweb-dev/engine](https://github.com/thirdweb-dev/engine)
-4. ❗ Opened issue [#6](https://github.com/thirdweb-example/smart-wallet-react/issues/6) in [thirdweb-example/smart-wallet-react](https://github.com/thirdweb-example/smart-wallet-react)
-5. 🗣 Commented on [#1964](https://github.com/thirdweb-dev/js/pull/1964#issuecomment-1886627794) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)
+1. 🗣 Commented on [#2214](https://github.com/thirdweb-dev/js/issues/2214#issuecomment-1909488672) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)
+2. 🗣 Commented on [#600](https://github.com/thirdweb-dev/contracts/issues/600#issuecomment-1907290440) in [thirdweb-dev/contracts](https://github.com/thirdweb-dev/contracts)
+3. 🗣 Commented on [#600](https://github.com/thirdweb-dev/contracts/issues/600#issuecomment-1907288050) in [thirdweb-dev/contracts](https://github.com/thirdweb-dev/contracts)
+4. ❗ Opened issue [#383](https://github.com/thirdweb-dev/engine/issues/383) in [thirdweb-dev/engine](https://github.com/thirdweb-dev/engine)
+5. ❗ Opened issue [#6](https://github.com/thirdweb-example/smart-wallet-react/issues/6) in [thirdweb-example/smart-wallet-react](https://github.com/thirdweb-example/smart-wallet-react)
 <!--END_SECTION:activity-->
 
 </details>
