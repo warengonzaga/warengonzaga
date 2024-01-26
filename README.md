@@ -58,11 +58,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#44](https://github.com/Web3Philippines/matuto/pull/44) in [Web3Philippines/matuto](https://github.com/Web3Philippines/matuto)
-2. 🗣 Commented on [#44](https://github.com/Web3Philippines/matuto/pull/44#issuecomment-1912150744) in [Web3Philippines/matuto](https://github.com/Web3Philippines/matuto)
-3. 🎉 Merged PR [#37](https://github.com/Web3Philippines/matuto/pull/37) in [Web3Philippines/matuto](https://github.com/Web3Philippines/matuto)
-4. 🗣 Commented on [#37](https://github.com/Web3Philippines/matuto/pull/37#issuecomment-1912133283) in [Web3Philippines/matuto](https://github.com/Web3Philippines/matuto)
-5. ❗ Opened issue [#2227](https://github.com/thirdweb-dev/js/issues/2227) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)
+1. 🎉 Merged PR [#45](https://github.com/Web3Philippines/matuto/pull/45) in [Web3Philippines/matuto](https://github.com/Web3Philippines/matuto)
+2. ❌ Closed PR [#44](https://github.com/Web3Philippines/matuto/pull/44) in [Web3Philippines/matuto](https://github.com/Web3Philippines/matuto)
+3. 🗣 Commented on [#44](https://github.com/Web3Philippines/matuto/pull/44#issuecomment-1912150744) in [Web3Philippines/matuto](https://github.com/Web3Philippines/matuto)
+4. 🎉 Merged PR [#37](https://github.com/Web3Philippines/matuto/pull/37) in [Web3Philippines/matuto](https://github.com/Web3Philippines/matuto)
+5. 🗣 Commented on [#37](https://github.com/Web3Philippines/matuto/pull/37#issuecomment-1912133283) in [Web3Philippines/matuto](https://github.com/Web3Philippines/matuto)
 <!--END_SECTION:activity-->
 
 </details>
