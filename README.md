@@ -58,11 +58,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#45](https://github.com/Web3Philippines/matuto/pull/45) in [Web3Philippines/matuto](https://github.com/Web3Philippines/matuto)
-2. ❌ Closed PR [#44](https://github.com/Web3Philippines/matuto/pull/44) in [Web3Philippines/matuto](https://github.com/Web3Philippines/matuto)
-3. 🗣 Commented on [#44](https://github.com/Web3Philippines/matuto/pull/44#issuecomment-1912150744) in [Web3Philippines/matuto](https://github.com/Web3Philippines/matuto)
-4. 🎉 Merged PR [#37](https://github.com/Web3Philippines/matuto/pull/37) in [Web3Philippines/matuto](https://github.com/Web3Philippines/matuto)
-5. 🗣 Commented on [#37](https://github.com/Web3Philippines/matuto/pull/37#issuecomment-1912133283) in [Web3Philippines/matuto](https://github.com/Web3Philippines/matuto)
+1. 🚀 Published release [v0.1.5](https://github.com/Web3Philippines/matuto/releases/tag/v0.1.5) in [Web3Philippines/matuto](https://github.com/Web3Philippines/matuto)
+2. 🎉 Merged PR [#34](https://github.com/Web3Philippines/matuto/pull/34) in [Web3Philippines/matuto](https://github.com/Web3Philippines/matuto)
+3. 🔒 Closed issue [#39](https://github.com/Web3Philippines/matuto/issues/39) in [Web3Philippines/matuto](https://github.com/Web3Philippines/matuto)
+4. 🗣 Commented on [#39](https://github.com/Web3Philippines/matuto/issues/39#issuecomment-1912261652) in [Web3Philippines/matuto](https://github.com/Web3Philippines/matuto)
+5. 🎉 Merged PR [#45](https://github.com/Web3Philippines/matuto/pull/45) in [Web3Philippines/matuto](https://github.com/Web3Philippines/matuto)
 <!--END_SECTION:activity-->
 
 </details>
