@@ -58,11 +58,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2216](https://github.com/thirdweb-dev/js/pull/2216#issuecomment-1909882429) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)
-2. 🗣 Commented on [#2214](https://github.com/thirdweb-dev/js/issues/2214#issuecomment-1909488672) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)
-3. 🗣 Commented on [#600](https://github.com/thirdweb-dev/contracts/issues/600#issuecomment-1907290440) in [thirdweb-dev/contracts](https://github.com/thirdweb-dev/contracts)
-4. 🗣 Commented on [#600](https://github.com/thirdweb-dev/contracts/issues/600#issuecomment-1907288050) in [thirdweb-dev/contracts](https://github.com/thirdweb-dev/contracts)
-5. ❗ Opened issue [#383](https://github.com/thirdweb-dev/engine/issues/383) in [thirdweb-dev/engine](https://github.com/thirdweb-dev/engine)
+1. ❗ Opened issue [#2227](https://github.com/thirdweb-dev/js/issues/2227) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)
+2. 🗣 Commented on [#2226](https://github.com/thirdweb-dev/js/issues/2226#issuecomment-1911574278) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)
+3. ❗ Opened issue [#2226](https://github.com/thirdweb-dev/js/issues/2226) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)
+4. 🗣 Commented on [#2216](https://github.com/thirdweb-dev/js/pull/2216#issuecomment-1909882429) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)
+5. 🗣 Commented on [#2214](https://github.com/thirdweb-dev/js/issues/2214#issuecomment-1909488672) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)
 <!--END_SECTION:activity-->
 
 </details>
