@@ -58,11 +58,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.1.0](https://github.com/warengonzaga/arweave-support-extension/releases/tag/0.1.0) in [warengonzaga/arweave-support-extension](https://github.com/warengonzaga/arweave-support-extension)
-2. 🗣 Commented on [#8](https://github.com/warengonzaga/ipfs-support-extension/issues/8#issuecomment-1913182181) in [warengonzaga/ipfs-support-extension](https://github.com/warengonzaga/ipfs-support-extension)
-3. 🚀 Published release [v0.1.5](https://github.com/Web3Philippines/matuto/releases/tag/v0.1.5) in [Web3Philippines/matuto](https://github.com/Web3Philippines/matuto)
-4. 🎉 Merged PR [#34](https://github.com/Web3Philippines/matuto/pull/34) in [Web3Philippines/matuto](https://github.com/Web3Philippines/matuto)
-5. 🔒 Closed issue [#39](https://github.com/Web3Philippines/matuto/issues/39) in [Web3Philippines/matuto](https://github.com/Web3Philippines/matuto)
+1. 🗣 Commented on [#8](https://github.com/warengonzaga/ipfs-support-extension/issues/8#issuecomment-1913477613) in [warengonzaga/ipfs-support-extension](https://github.com/warengonzaga/ipfs-support-extension)
+2. 🚀 Published release [v0.1.0](https://github.com/warengonzaga/arweave-support-extension/releases/tag/0.1.0) in [warengonzaga/arweave-support-extension](https://github.com/warengonzaga/arweave-support-extension)
+3. 🗣 Commented on [#8](https://github.com/warengonzaga/ipfs-support-extension/issues/8#issuecomment-1913182181) in [warengonzaga/ipfs-support-extension](https://github.com/warengonzaga/ipfs-support-extension)
+4. 🚀 Published release [v0.1.5](https://github.com/Web3Philippines/matuto/releases/tag/v0.1.5) in [Web3Philippines/matuto](https://github.com/Web3Philippines/matuto)
+5. 🎉 Merged PR [#34](https://github.com/Web3Philippines/matuto/pull/34) in [Web3Philippines/matuto](https://github.com/Web3Philippines/matuto)
 <!--END_SECTION:activity-->
 
 </details>
