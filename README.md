@@ -57,11 +57,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2216](https://github.com/thirdweb-dev/js/pull/2216#issuecomment-1916257163) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)
-2. ❗ Opened issue [#2](https://github.com/warengonzaga/arweave-support-extension/issues/2) in [warengonzaga/arweave-support-extension](https://github.com/warengonzaga/arweave-support-extension)
-3. ❗ Opened issue [#1](https://github.com/warengonzaga/arweave-support-extension/issues/1) in [warengonzaga/arweave-support-extension](https://github.com/warengonzaga/arweave-support-extension)
-4. ❗ Opened issue [#16](https://github.com/thirdweb-example/react-native-typescript-starter/issues/16) in [thirdweb-example/react-native-typescript-starter](https://github.com/thirdweb-example/react-native-typescript-starter)
-5. 🗣 Commented on [#8](https://github.com/warengonzaga/ipfs-support-extension/issues/8#issuecomment-1913477613) in [warengonzaga/ipfs-support-extension](https://github.com/warengonzaga/ipfs-support-extension)
+1. 💪 Opened PR [#3](https://github.com/warengonzaga/arweave-support-extension/pull/3) in [warengonzaga/arweave-support-extension](https://github.com/warengonzaga/arweave-support-extension)
+2. 🗣 Commented on [#2216](https://github.com/thirdweb-dev/js/pull/2216#issuecomment-1916257163) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)
+3. ❗ Opened issue [#2](https://github.com/warengonzaga/arweave-support-extension/issues/2) in [warengonzaga/arweave-support-extension](https://github.com/warengonzaga/arweave-support-extension)
+4. ❗ Opened issue [#1](https://github.com/warengonzaga/arweave-support-extension/issues/1) in [warengonzaga/arweave-support-extension](https://github.com/warengonzaga/arweave-support-extension)
+5. ❗ Opened issue [#16](https://github.com/thirdweb-example/react-native-typescript-starter/issues/16) in [thirdweb-example/react-native-typescript-starter](https://github.com/thirdweb-example/react-native-typescript-starter)
 <!--END_SECTION:activity-->
 
 </details>
