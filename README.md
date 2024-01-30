@@ -11,11 +11,10 @@ Filipino senior software engineer, opensource developer and advocate, cybersecur
 🎙 [Recent Tech Talks](https://www.polywork.com/warengonzaga/collections/1284) • 📦 [Open Source Updates](https://www.polywork.com/warengonzaga/collections/1194)
 
 - 💝 Author of multiple open source projects (~50 to date).
-- 💼 Community Manager @ [thirdweb](https://github.com/thirdweb-dev)
-- 😎 Co-Founder @ [Web3 Philippines](https://web3philippines.org)
+- 💼 Customer Success Engineer @ [thirdweb](https://github.com/thirdweb-dev)
 - 🌱 Building @ [WG Technology Labs](https://wgtechlabs.com)
 - 🤝 Co-Founder @ [OSS Philippines](https://ossph.org)
-- 💜 Core @ [Polygon Guild Manila](https://twitter.com/polygonguildmnl)
+- 😎 Co-Founder @ [Web3 Philippines](https://web3philippines.org)
 - 🔏 Bug bounty hunter in free time.
 - ☕ Coffee lover, turning it into code, [you can buy me a coffee](https://buymeacoff.ee/warengonzaga) or [send me some love](https://github.com/sponsors/warengonzaga).
 - 🎯 Wasting my time to save other people's time.
