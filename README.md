@@ -58,11 +58,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/warengonzaga/arweave-support-extension/issues/1) in [warengonzaga/arweave-support-extension](https://github.com/warengonzaga/arweave-support-extension)
-2. ❗ Opened issue [#16](https://github.com/thirdweb-example/react-native-typescript-starter/issues/16) in [thirdweb-example/react-native-typescript-starter](https://github.com/thirdweb-example/react-native-typescript-starter)
-3. 🗣 Commented on [#8](https://github.com/warengonzaga/ipfs-support-extension/issues/8#issuecomment-1913477613) in [warengonzaga/ipfs-support-extension](https://github.com/warengonzaga/ipfs-support-extension)
-4. 🚀 Published release [v0.1.0](https://github.com/warengonzaga/arweave-support-extension/releases/tag/0.1.0) in [warengonzaga/arweave-support-extension](https://github.com/warengonzaga/arweave-support-extension)
-5. 🗣 Commented on [#8](https://github.com/warengonzaga/ipfs-support-extension/issues/8#issuecomment-1913182181) in [warengonzaga/ipfs-support-extension](https://github.com/warengonzaga/ipfs-support-extension)
+1. ❗ Opened issue [#2](https://github.com/warengonzaga/arweave-support-extension/issues/2) in [warengonzaga/arweave-support-extension](https://github.com/warengonzaga/arweave-support-extension)
+2. ❗ Opened issue [#1](https://github.com/warengonzaga/arweave-support-extension/issues/1) in [warengonzaga/arweave-support-extension](https://github.com/warengonzaga/arweave-support-extension)
+3. ❗ Opened issue [#16](https://github.com/thirdweb-example/react-native-typescript-starter/issues/16) in [thirdweb-example/react-native-typescript-starter](https://github.com/thirdweb-example/react-native-typescript-starter)
+4. 🗣 Commented on [#8](https://github.com/warengonzaga/ipfs-support-extension/issues/8#issuecomment-1913477613) in [warengonzaga/ipfs-support-extension](https://github.com/warengonzaga/ipfs-support-extension)
+5. 🚀 Published release [v0.1.0](https://github.com/warengonzaga/arweave-support-extension/releases/tag/0.1.0) in [warengonzaga/arweave-support-extension](https://github.com/warengonzaga/arweave-support-extension)
 <!--END_SECTION:activity-->
 
 </details>
