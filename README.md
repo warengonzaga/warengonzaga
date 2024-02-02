@@ -57,11 +57,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2251](https://github.com/thirdweb-dev/js/issues/2251) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)
-2. 💪 Opened PR [#3](https://github.com/warengonzaga/arweave-support-extension/pull/3) in [warengonzaga/arweave-support-extension](https://github.com/warengonzaga/arweave-support-extension)
-3. 🗣 Commented on [#2216](https://github.com/thirdweb-dev/js/pull/2216#issuecomment-1916257163) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)
-4. ❗ Opened issue [#2](https://github.com/warengonzaga/arweave-support-extension/issues/2) in [warengonzaga/arweave-support-extension](https://github.com/warengonzaga/arweave-support-extension)
-5. ❗ Opened issue [#1](https://github.com/warengonzaga/arweave-support-extension/issues/1) in [warengonzaga/arweave-support-extension](https://github.com/warengonzaga/arweave-support-extension)
+1. 🗣 Commented on [#7](https://github.com/thirdweb-example/thirdweb-auth-next-auth/issues/7#issuecomment-1922572239) in [thirdweb-example/thirdweb-auth-next-auth](https://github.com/thirdweb-example/thirdweb-auth-next-auth)
+2. 🗣 Commented on [#600](https://github.com/thirdweb-dev/contracts/issues/600#issuecomment-1922568380) in [thirdweb-dev/contracts](https://github.com/thirdweb-dev/contracts)
+3. ❗ Opened issue [#2251](https://github.com/thirdweb-dev/js/issues/2251) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)
+4. 💪 Opened PR [#3](https://github.com/warengonzaga/arweave-support-extension/pull/3) in [warengonzaga/arweave-support-extension](https://github.com/warengonzaga/arweave-support-extension)
+5. 🗣 Commented on [#2216](https://github.com/thirdweb-dev/js/pull/2216#issuecomment-1916257163) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)
 <!--END_SECTION:activity-->
 
 </details>
