@@ -57,11 +57,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/DustinTurska/github-Engine-rewards/pull/4) in [DustinTurska/github-Engine-rewards](https://github.com/DustinTurska/github-Engine-rewards)
-2. ❗ Opened issue [#13](https://github.com/warengonzaga/ipfs-support-extension/issues/13) in [warengonzaga/ipfs-support-extension](https://github.com/warengonzaga/ipfs-support-extension)
-3. ❗ Opened issue [#4](https://github.com/warengonzaga/arweave-support-extension/issues/4) in [warengonzaga/arweave-support-extension](https://github.com/warengonzaga/arweave-support-extension)
-4. 🗣 Commented on [#7](https://github.com/thirdweb-example/thirdweb-auth-next-auth/issues/7#issuecomment-1922572239) in [thirdweb-example/thirdweb-auth-next-auth](https://github.com/thirdweb-example/thirdweb-auth-next-auth)
-5. 🗣 Commented on [#600](https://github.com/thirdweb-dev/contracts/issues/600#issuecomment-1922568380) in [thirdweb-dev/contracts](https://github.com/thirdweb-dev/contracts)
+1. ❗ Opened issue [#2269](https://github.com/thirdweb-dev/js/issues/2269) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)
+2. 💪 Opened PR [#4](https://github.com/DustinTurska/github-Engine-rewards/pull/4) in [DustinTurska/github-Engine-rewards](https://github.com/DustinTurska/github-Engine-rewards)
+3. ❗ Opened issue [#13](https://github.com/warengonzaga/ipfs-support-extension/issues/13) in [warengonzaga/ipfs-support-extension](https://github.com/warengonzaga/ipfs-support-extension)
+4. ❗ Opened issue [#4](https://github.com/warengonzaga/arweave-support-extension/issues/4) in [warengonzaga/arweave-support-extension](https://github.com/warengonzaga/arweave-support-extension)
+5. 🗣 Commented on [#7](https://github.com/thirdweb-example/thirdweb-auth-next-auth/issues/7#issuecomment-1922572239) in [thirdweb-example/thirdweb-auth-next-auth](https://github.com/thirdweb-example/thirdweb-auth-next-auth)
 <!--END_SECTION:activity-->
 
 </details>
