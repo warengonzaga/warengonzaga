@@ -57,11 +57,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/warengonzaga/thirdweb-wp/pull/6) in [warengonzaga/thirdweb-wp](https://github.com/warengonzaga/thirdweb-wp)
-2. 💪 Opened PR [#6](https://github.com/warengonzaga/thirdweb-wp/pull/6) in [warengonzaga/thirdweb-wp](https://github.com/warengonzaga/thirdweb-wp)
-3. 🗣 Commented on [#2320](https://github.com/thirdweb-dev/js/issues/2320#issuecomment-1949938270) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)
-4. 🗣 Commented on [#176](https://github.com/paperxyz/js-sdk/issues/176#issuecomment-1949809851) in [paperxyz/js-sdk](https://github.com/paperxyz/js-sdk)
-5. 🗣 Commented on [#177](https://github.com/paperxyz/js-sdk/pull/177#issuecomment-1949808595) in [paperxyz/js-sdk](https://github.com/paperxyz/js-sdk)
+1. 🚀 Published release [0.0.2](https://github.com/warengonzaga/thirdweb-wp/releases/tag/0.0.2) in [warengonzaga/thirdweb-wp](https://github.com/warengonzaga/thirdweb-wp)
+2. 🎉 Merged PR [#6](https://github.com/warengonzaga/thirdweb-wp/pull/6) in [warengonzaga/thirdweb-wp](https://github.com/warengonzaga/thirdweb-wp)
+3. 💪 Opened PR [#6](https://github.com/warengonzaga/thirdweb-wp/pull/6) in [warengonzaga/thirdweb-wp](https://github.com/warengonzaga/thirdweb-wp)
+4. 🗣 Commented on [#2320](https://github.com/thirdweb-dev/js/issues/2320#issuecomment-1949938270) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)
+5. 🗣 Commented on [#176](https://github.com/paperxyz/js-sdk/issues/176#issuecomment-1949809851) in [paperxyz/js-sdk](https://github.com/paperxyz/js-sdk)
 <!--END_SECTION:activity-->
 
 </details>
