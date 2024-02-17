@@ -57,11 +57,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2173](https://github.com/thirdweb-dev/dashboard/issues/2173#issuecomment-1945671605) in [thirdweb-dev/dashboard](https://github.com/thirdweb-dev/dashboard)
-2. ❗ Opened issue [#615](https://github.com/thirdweb-dev/contracts/issues/615) in [thirdweb-dev/contracts](https://github.com/thirdweb-dev/contracts)
-3. ❗ Opened issue [#2269](https://github.com/thirdweb-dev/js/issues/2269) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)
-4. 💪 Opened PR [#4](https://github.com/DustinTurska/github-Engine-rewards/pull/4) in [DustinTurska/github-Engine-rewards](https://github.com/DustinTurska/github-Engine-rewards)
-5. ❗ Opened issue [#13](https://github.com/warengonzaga/ipfs-support-extension/issues/13) in [warengonzaga/ipfs-support-extension](https://github.com/warengonzaga/ipfs-support-extension)
+1. 🗣 Commented on [#176](https://github.com/paperxyz/js-sdk/issues/176#issuecomment-1949809851) in [paperxyz/js-sdk](https://github.com/paperxyz/js-sdk)
+2. 🗣 Commented on [#177](https://github.com/paperxyz/js-sdk/pull/177#issuecomment-1949808595) in [paperxyz/js-sdk](https://github.com/paperxyz/js-sdk)
+3. 🗣 Commented on [#2173](https://github.com/thirdweb-dev/dashboard/issues/2173#issuecomment-1945671605) in [thirdweb-dev/dashboard](https://github.com/thirdweb-dev/dashboard)
+4. ❗ Opened issue [#615](https://github.com/thirdweb-dev/contracts/issues/615) in [thirdweb-dev/contracts](https://github.com/thirdweb-dev/contracts)
+5. ❗ Opened issue [#2269](https://github.com/thirdweb-dev/js/issues/2269) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)
 <!--END_SECTION:activity-->
 
 </details>
