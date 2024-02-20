@@ -57,11 +57,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#12](https://github.com/warengonzaga/update-your-footer-wp/pull/12) in [warengonzaga/update-your-footer-wp](https://github.com/warengonzaga/update-your-footer-wp)
-2. 🚀 Published release [v1.3.0](https://github.com/warengonzaga/update-your-footer-wp/releases/tag/1.3.0) in [warengonzaga/update-your-footer-wp](https://github.com/warengonzaga/update-your-footer-wp)
-3. 🎉 Merged PR [#11](https://github.com/warengonzaga/update-your-footer-wp/pull/11) in [warengonzaga/update-your-footer-wp](https://github.com/warengonzaga/update-your-footer-wp)
-4. 💪 Opened PR [#11](https://github.com/warengonzaga/update-your-footer-wp/pull/11) in [warengonzaga/update-your-footer-wp](https://github.com/warengonzaga/update-your-footer-wp)
-5. 🚀 Published release [0.0.2](https://github.com/warengonzaga/thirdweb-wp/releases/tag/0.0.2) in [warengonzaga/thirdweb-wp](https://github.com/warengonzaga/thirdweb-wp)
+1. 🗣 Commented on [#2320](https://github.com/thirdweb-dev/js/issues/2320#issuecomment-1953394733) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)
+2. 🔒 Closed issue [#2320](https://github.com/thirdweb-dev/js/issues/2320) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)
+3. 🗣 Commented on [#2330](https://github.com/thirdweb-dev/js/issues/2330#issuecomment-1953393319) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)
+4. 💪 Opened PR [#12](https://github.com/warengonzaga/update-your-footer-wp/pull/12) in [warengonzaga/update-your-footer-wp](https://github.com/warengonzaga/update-your-footer-wp)
+5. 🚀 Published release [v1.3.0](https://github.com/warengonzaga/update-your-footer-wp/releases/tag/1.3.0) in [warengonzaga/update-your-footer-wp](https://github.com/warengonzaga/update-your-footer-wp)
 <!--END_SECTION:activity-->
 
 </details>
