@@ -57,11 +57,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#75](https://github.com/thirdweb-dev/support-discord-bot/pull/75) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
-2. 🗣 Commented on [#2340](https://github.com/thirdweb-dev/js/issues/2340#issuecomment-1958567851) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)
-3. 🗣 Commented on [#2320](https://github.com/thirdweb-dev/js/issues/2320#issuecomment-1953394733) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)
-4. 🔒 Closed issue [#2320](https://github.com/thirdweb-dev/js/issues/2320) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)
-5. 🗣 Commented on [#2330](https://github.com/thirdweb-dev/js/issues/2330#issuecomment-1953393319) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)
+1. 🚀 Published release [v0.1.0](https://github.com/warengonzaga/xplorescan/releases/tag/0.1.0) in [warengonzaga/xplorescan](https://github.com/warengonzaga/xplorescan)
+2. 🎉 Merged PR [#75](https://github.com/thirdweb-dev/support-discord-bot/pull/75) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
+3. 🗣 Commented on [#2340](https://github.com/thirdweb-dev/js/issues/2340#issuecomment-1958567851) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)
+4. 🗣 Commented on [#2320](https://github.com/thirdweb-dev/js/issues/2320#issuecomment-1953394733) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)
+5. 🔒 Closed issue [#2320](https://github.com/thirdweb-dev/js/issues/2320) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)
 <!--END_SECTION:activity-->
 
 </details>
