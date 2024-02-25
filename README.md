@@ -57,11 +57,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#4](https://github.com/warengonzaga/xplorescan/issues/4) in [warengonzaga/xplorescan](https://github.com/warengonzaga/xplorescan)
-2. ❗ Opened issue [#3](https://github.com/warengonzaga/xplorescan/issues/3) in [warengonzaga/xplorescan](https://github.com/warengonzaga/xplorescan)
-3. 💪 Opened PR [#2](https://github.com/warengonzaga/xplorescan/pull/2) in [warengonzaga/xplorescan](https://github.com/warengonzaga/xplorescan)
-4. 🎉 Merged PR [#1](https://github.com/warengonzaga/xplorescan/pull/1) in [warengonzaga/xplorescan](https://github.com/warengonzaga/xplorescan)
-5. 🚀 Published release [v0.1.0](https://github.com/warengonzaga/xplorescan/releases/tag/0.1.0) in [warengonzaga/xplorescan](https://github.com/warengonzaga/xplorescan)
+1. 🚀 Published release [v0.1.1](https://github.com/warengonzaga/xplorescan/releases/tag/0.1.1) in [warengonzaga/xplorescan](https://github.com/warengonzaga/xplorescan)
+2. 🎉 Merged PR [#2](https://github.com/warengonzaga/xplorescan/pull/2) in [warengonzaga/xplorescan](https://github.com/warengonzaga/xplorescan)
+3. ❗ Opened issue [#4](https://github.com/warengonzaga/xplorescan/issues/4) in [warengonzaga/xplorescan](https://github.com/warengonzaga/xplorescan)
+4. ❗ Opened issue [#3](https://github.com/warengonzaga/xplorescan/issues/3) in [warengonzaga/xplorescan](https://github.com/warengonzaga/xplorescan)
+5. 💪 Opened PR [#2](https://github.com/warengonzaga/xplorescan/pull/2) in [warengonzaga/xplorescan](https://github.com/warengonzaga/xplorescan)
 <!--END_SECTION:activity-->
 
 </details>
