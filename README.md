@@ -57,11 +57,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/warengonzaga/xplorescan/pull/2) in [warengonzaga/xplorescan](https://github.com/warengonzaga/xplorescan)
-2. 🎉 Merged PR [#1](https://github.com/warengonzaga/xplorescan/pull/1) in [warengonzaga/xplorescan](https://github.com/warengonzaga/xplorescan)
-3. 🚀 Published release [v0.1.0](https://github.com/warengonzaga/xplorescan/releases/tag/0.1.0) in [warengonzaga/xplorescan](https://github.com/warengonzaga/xplorescan)
-4. 🎉 Merged PR [#75](https://github.com/thirdweb-dev/support-discord-bot/pull/75) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
-5. 🗣 Commented on [#2340](https://github.com/thirdweb-dev/js/issues/2340#issuecomment-1958567851) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)
+1. ❗ Opened issue [#4](https://github.com/warengonzaga/xplorescan/issues/4) in [warengonzaga/xplorescan](https://github.com/warengonzaga/xplorescan)
+2. ❗ Opened issue [#3](https://github.com/warengonzaga/xplorescan/issues/3) in [warengonzaga/xplorescan](https://github.com/warengonzaga/xplorescan)
+3. 💪 Opened PR [#2](https://github.com/warengonzaga/xplorescan/pull/2) in [warengonzaga/xplorescan](https://github.com/warengonzaga/xplorescan)
+4. 🎉 Merged PR [#1](https://github.com/warengonzaga/xplorescan/pull/1) in [warengonzaga/xplorescan](https://github.com/warengonzaga/xplorescan)
+5. 🚀 Published release [v0.1.0](https://github.com/warengonzaga/xplorescan/releases/tag/0.1.0) in [warengonzaga/xplorescan](https://github.com/warengonzaga/xplorescan)
 <!--END_SECTION:activity-->
 
 </details>
