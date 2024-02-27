@@ -57,11 +57,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#45](https://github.com/warengonzaga/wifi-passview/pull/45) in [warengonzaga/wifi-passview](https://github.com/warengonzaga/wifi-passview)
-2. 🗣 Commented on [#595](https://github.com/thirdweb-dev/contracts/issues/595#issuecomment-1966709990) in [thirdweb-dev/contracts](https://github.com/thirdweb-dev/contracts)
-3. 🎉 Merged PR [#26](https://github.com/warengonzaga/wrn-cleaner/pull/26) in [warengonzaga/wrn-cleaner](https://github.com/warengonzaga/wrn-cleaner)
-4. 🗣 Commented on [#6](https://github.com/warengonzaga/xplorescan/issues/6#issuecomment-1966705204) in [warengonzaga/xplorescan](https://github.com/warengonzaga/xplorescan)
-5. 🗣 Commented on [#7](https://github.com/warengonzaga/xplorescan/issues/7#issuecomment-1966703283) in [warengonzaga/xplorescan](https://github.com/warengonzaga/xplorescan)
+1. 🎉 Merged PR [#25](https://github.com/warengonzaga/wrn-cleaner/pull/25) in [warengonzaga/wrn-cleaner](https://github.com/warengonzaga/wrn-cleaner)
+2. 🎉 Merged PR [#45](https://github.com/warengonzaga/wifi-passview/pull/45) in [warengonzaga/wifi-passview](https://github.com/warengonzaga/wifi-passview)
+3. 🗣 Commented on [#595](https://github.com/thirdweb-dev/contracts/issues/595#issuecomment-1966709990) in [thirdweb-dev/contracts](https://github.com/thirdweb-dev/contracts)
+4. 🎉 Merged PR [#26](https://github.com/warengonzaga/wrn-cleaner/pull/26) in [warengonzaga/wrn-cleaner](https://github.com/warengonzaga/wrn-cleaner)
+5. 🗣 Commented on [#6](https://github.com/warengonzaga/xplorescan/issues/6#issuecomment-1966705204) in [warengonzaga/xplorescan](https://github.com/warengonzaga/xplorescan)
 <!--END_SECTION:activity-->
 
 </details>
