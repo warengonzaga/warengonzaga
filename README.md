@@ -57,11 +57,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.1.6](https://github.com/warengonzaga/xplorescan/releases/tag/0.1.6) in [warengonzaga/xplorescan](https://github.com/warengonzaga/xplorescan)
-2. 🗣 Commented on [#8](https://github.com/warengonzaga/xplorescan/issues/8#issuecomment-1966652616) in [warengonzaga/xplorescan](https://github.com/warengonzaga/xplorescan)
-3. 🔒 Closed issue [#8](https://github.com/warengonzaga/xplorescan/issues/8) in [warengonzaga/xplorescan](https://github.com/warengonzaga/xplorescan)
-4. ❗ Opened issue [#14](https://github.com/warengonzaga/xplorescan/issues/14) in [warengonzaga/xplorescan](https://github.com/warengonzaga/xplorescan)
-5. 🎉 Merged PR [#13](https://github.com/warengonzaga/xplorescan/pull/13) in [warengonzaga/xplorescan](https://github.com/warengonzaga/xplorescan)
+1. 🗣 Commented on [#595](https://github.com/thirdweb-dev/contracts/issues/595#issuecomment-1966709990) in [thirdweb-dev/contracts](https://github.com/thirdweb-dev/contracts)
+2. 🎉 Merged PR [#26](https://github.com/warengonzaga/wrn-cleaner/pull/26) in [warengonzaga/wrn-cleaner](https://github.com/warengonzaga/wrn-cleaner)
+3. 🗣 Commented on [#6](https://github.com/warengonzaga/xplorescan/issues/6#issuecomment-1966705204) in [warengonzaga/xplorescan](https://github.com/warengonzaga/xplorescan)
+4. 🗣 Commented on [#7](https://github.com/warengonzaga/xplorescan/issues/7#issuecomment-1966703283) in [warengonzaga/xplorescan](https://github.com/warengonzaga/xplorescan)
+5. 🚀 Published release [v0.1.6](https://github.com/warengonzaga/xplorescan/releases/tag/0.1.6) in [warengonzaga/xplorescan](https://github.com/warengonzaga/xplorescan)
 <!--END_SECTION:activity-->
 
 </details>
