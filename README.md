@@ -57,11 +57,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/thirdweb-example/dao/issues/5#issuecomment-1968323596) in [thirdweb-example/dao](https://github.com/thirdweb-example/dao)
-2. 🗣 Commented on [#5](https://github.com/thirdweb-example/dao/issues/5#issuecomment-1968288213) in [thirdweb-example/dao](https://github.com/thirdweb-example/dao)
-3. 🎉 Merged PR [#76](https://github.com/thirdweb-dev/support-discord-bot/pull/76) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
-4. 🗣 Commented on [#76](https://github.com/thirdweb-dev/support-discord-bot/pull/76#issuecomment-1968145484) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
-5. 🎉 Merged PR [#25](https://github.com/warengonzaga/wrn-cleaner/pull/25) in [warengonzaga/wrn-cleaner](https://github.com/warengonzaga/wrn-cleaner)
+1. 🗣 Commented on [#65](https://github.com/thirdweb-dev/support-discord-bot/pull/65#issuecomment-1972686262) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
+2. ❌ Closed PR [#65](https://github.com/thirdweb-dev/support-discord-bot/pull/65) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
+3. 🗣 Commented on [#5](https://github.com/thirdweb-example/dao/issues/5#issuecomment-1968323596) in [thirdweb-example/dao](https://github.com/thirdweb-example/dao)
+4. 🗣 Commented on [#5](https://github.com/thirdweb-example/dao/issues/5#issuecomment-1968288213) in [thirdweb-example/dao](https://github.com/thirdweb-example/dao)
+5. 🎉 Merged PR [#76](https://github.com/thirdweb-dev/support-discord-bot/pull/76) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
 <!--END_SECTION:activity-->
 
 </details>
