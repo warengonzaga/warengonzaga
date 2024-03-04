@@ -57,11 +57,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1583](https://github.com/animate-css/animate.css/pull/1583#issuecomment-1974865588) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
-2. 🗣 Commented on [#1713](https://github.com/animate-css/animate.css/issues/1713#issuecomment-1974865168) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
-3. 🗣 Commented on [#65](https://github.com/thirdweb-dev/support-discord-bot/pull/65#issuecomment-1972686262) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
-4. ❌ Closed PR [#65](https://github.com/thirdweb-dev/support-discord-bot/pull/65) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
-5. 🗣 Commented on [#5](https://github.com/thirdweb-example/dao/issues/5#issuecomment-1968323596) in [thirdweb-example/dao](https://github.com/thirdweb-example/dao)
+1. 🗣 Commented on [#7](https://github.com/JureSotosek/ink-divider/issues/7#issuecomment-1976761681) in [JureSotosek/ink-divider](https://github.com/JureSotosek/ink-divider)
+2. 🗣 Commented on [#7](https://github.com/JureSotosek/ink-divider/issues/7#issuecomment-1976756397) in [JureSotosek/ink-divider](https://github.com/JureSotosek/ink-divider)
+3. 🗣 Commented on [#1583](https://github.com/animate-css/animate.css/pull/1583#issuecomment-1974865588) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+4. 🗣 Commented on [#1713](https://github.com/animate-css/animate.css/issues/1713#issuecomment-1974865168) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+5. 🗣 Commented on [#65](https://github.com/thirdweb-dev/support-discord-bot/pull/65#issuecomment-1972686262) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
 <!--END_SECTION:activity-->
 
 </details>
