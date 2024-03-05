@@ -57,11 +57,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#80](https://github.com/thirdweb-dev/support-discord-bot/pull/80) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
-2. 🎉 Merged PR [#23](https://github.com/warengonzaga/daisy.js/pull/23) in [warengonzaga/daisy.js](https://github.com/warengonzaga/daisy.js)
-3. 🎉 Merged PR [#24](https://github.com/warengonzaga/daisy.js/pull/24) in [warengonzaga/daisy.js](https://github.com/warengonzaga/daisy.js)
-4. 🎉 Merged PR [#25](https://github.com/warengonzaga/daisy.js/pull/25) in [warengonzaga/daisy.js](https://github.com/warengonzaga/daisy.js)
-5. 🎉 Merged PR [#79](https://github.com/thirdweb-dev/support-discord-bot/pull/79) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
+1. 🚀 Published release [v0.1.3](https://github.com/warengonzaga/magic-commit/releases/tag/0.1.3) in [warengonzaga/magic-commit](https://github.com/warengonzaga/magic-commit)
+2. 🎉 Merged PR [#80](https://github.com/thirdweb-dev/support-discord-bot/pull/80) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
+3. 🎉 Merged PR [#23](https://github.com/warengonzaga/daisy.js/pull/23) in [warengonzaga/daisy.js](https://github.com/warengonzaga/daisy.js)
+4. 🎉 Merged PR [#24](https://github.com/warengonzaga/daisy.js/pull/24) in [warengonzaga/daisy.js](https://github.com/warengonzaga/daisy.js)
+5. 🎉 Merged PR [#25](https://github.com/warengonzaga/daisy.js/pull/25) in [warengonzaga/daisy.js](https://github.com/warengonzaga/daisy.js)
 <!--END_SECTION:activity-->
 
 </details>
