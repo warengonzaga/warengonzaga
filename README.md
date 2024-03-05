@@ -57,11 +57,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.1.0](https://github.com/warengonzaga/magic-commit/releases/tag/0.1.0) in [warengonzaga/magic-commit](https://github.com/warengonzaga/magic-commit)
-2. 🗣 Commented on [#7](https://github.com/JureSotosek/ink-divider/issues/7#issuecomment-1976761681) in [JureSotosek/ink-divider](https://github.com/JureSotosek/ink-divider)
-3. 🗣 Commented on [#7](https://github.com/JureSotosek/ink-divider/issues/7#issuecomment-1976756397) in [JureSotosek/ink-divider](https://github.com/JureSotosek/ink-divider)
-4. 🗣 Commented on [#1583](https://github.com/animate-css/animate.css/pull/1583#issuecomment-1974865588) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
-5. 🗣 Commented on [#1713](https://github.com/animate-css/animate.css/issues/1713#issuecomment-1974865168) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+1. ❗ Opened issue [#1](https://github.com/warengonzaga/magic-commit/issues/1) in [warengonzaga/magic-commit](https://github.com/warengonzaga/magic-commit)
+2. 🚀 Published release [v0.1.2](https://github.com/warengonzaga/magic-commit/releases/tag/0.1.2) in [warengonzaga/magic-commit](https://github.com/warengonzaga/magic-commit)
+3. 🚀 Published release [v0.1.0](https://github.com/warengonzaga/magic-commit/releases/tag/0.1.0) in [warengonzaga/magic-commit](https://github.com/warengonzaga/magic-commit)
+4. 🗣 Commented on [#7](https://github.com/JureSotosek/ink-divider/issues/7#issuecomment-1976761681) in [JureSotosek/ink-divider](https://github.com/JureSotosek/ink-divider)
+5. 🗣 Commented on [#7](https://github.com/JureSotosek/ink-divider/issues/7#issuecomment-1976756397) in [JureSotosek/ink-divider](https://github.com/JureSotosek/ink-divider)
 <!--END_SECTION:activity-->
 
 </details>
