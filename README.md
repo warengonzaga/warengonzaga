@@ -57,11 +57,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#85](https://github.com/thirdweb-dev/support-discord-bot/pull/85) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
-2. 💪 Opened PR [#85](https://github.com/thirdweb-dev/support-discord-bot/pull/85) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
-3. 🗣 Commented on [#84](https://github.com/thirdweb-dev/support-discord-bot/pull/84#issuecomment-1982172091) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
-4. 🎉 Merged PR [#84](https://github.com/thirdweb-dev/support-discord-bot/pull/84) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
-5. 🗣 Commented on [#84](https://github.com/thirdweb-dev/support-discord-bot/pull/84#issuecomment-1982123134) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
+1. 🔒 Closed issue [#5](https://github.com/warengonzaga/xplorescan/issues/5) in [warengonzaga/xplorescan](https://github.com/warengonzaga/xplorescan)
+2. 🎉 Merged PR [#15](https://github.com/warengonzaga/xplorescan/pull/15) in [warengonzaga/xplorescan](https://github.com/warengonzaga/xplorescan)
+3. 💪 Opened PR [#15](https://github.com/warengonzaga/xplorescan/pull/15) in [warengonzaga/xplorescan](https://github.com/warengonzaga/xplorescan)
+4. 🎉 Merged PR [#85](https://github.com/thirdweb-dev/support-discord-bot/pull/85) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
+5. 💪 Opened PR [#85](https://github.com/thirdweb-dev/support-discord-bot/pull/85) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
 <!--END_SECTION:activity-->
 
 </details>
