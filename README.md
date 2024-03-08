@@ -57,11 +57,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#5](https://github.com/warengonzaga/xplorescan/issues/5) in [warengonzaga/xplorescan](https://github.com/warengonzaga/xplorescan)
-2. 🎉 Merged PR [#15](https://github.com/warengonzaga/xplorescan/pull/15) in [warengonzaga/xplorescan](https://github.com/warengonzaga/xplorescan)
-3. 💪 Opened PR [#15](https://github.com/warengonzaga/xplorescan/pull/15) in [warengonzaga/xplorescan](https://github.com/warengonzaga/xplorescan)
-4. 🎉 Merged PR [#85](https://github.com/thirdweb-dev/support-discord-bot/pull/85) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
-5. 💪 Opened PR [#85](https://github.com/thirdweb-dev/support-discord-bot/pull/85) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
+1. 🎉 Merged PR [#26](https://github.com/warengonzaga/daisy.js/pull/26) in [warengonzaga/daisy.js](https://github.com/warengonzaga/daisy.js)
+2. 🎉 Merged PR [#27](https://github.com/warengonzaga/daisy.js/pull/27) in [warengonzaga/daisy.js](https://github.com/warengonzaga/daisy.js)
+3. 🗣 Commented on [#16](https://github.com/thirdweb-example/react-native-typescript-starter/issues/16#issuecomment-1984989874) in [thirdweb-example/react-native-typescript-starter](https://github.com/thirdweb-example/react-native-typescript-starter)
+4. 🗣 Commented on [#42](https://github.com/thirdweb-dev/support-discord-bot/issues/42#issuecomment-1984989524) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
+5. 🔒 Closed issue [#42](https://github.com/thirdweb-dev/support-discord-bot/issues/42) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
 <!--END_SECTION:activity-->
 
 </details>
