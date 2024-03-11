@@ -57,11 +57,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v2.0.10](https://github.com/thirdweb-dev/support-discord-bot/releases/tag/2.0.10) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
-2. 🎉 Merged PR [#90](https://github.com/thirdweb-dev/support-discord-bot/pull/90) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
-3. 💪 Opened PR [#90](https://github.com/thirdweb-dev/support-discord-bot/pull/90) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
-4. 🚀 Published release [v2.0.9](https://github.com/thirdweb-dev/support-discord-bot/releases/tag/2.0.9) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
-5. 🎉 Merged PR [#89](https://github.com/thirdweb-dev/support-discord-bot/pull/89) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
+1. 🗣 Commented on [#2445](https://github.com/thirdweb-dev/js/issues/2445#issuecomment-1988335277) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)
+2. 🚀 Published release [v2.0.10](https://github.com/thirdweb-dev/support-discord-bot/releases/tag/2.0.10) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
+3. 🎉 Merged PR [#90](https://github.com/thirdweb-dev/support-discord-bot/pull/90) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
+4. 💪 Opened PR [#90](https://github.com/thirdweb-dev/support-discord-bot/pull/90) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
+5. 🚀 Published release [v2.0.9](https://github.com/thirdweb-dev/support-discord-bot/releases/tag/2.0.9) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
 <!--END_SECTION:activity-->
 
 </details>
