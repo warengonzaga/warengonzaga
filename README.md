@@ -55,11 +55,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#91](https://github.com/thirdweb-dev/support-discord-bot/pull/91) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
-2. 💪 Opened PR [#91](https://github.com/thirdweb-dev/support-discord-bot/pull/91) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
-3. ❗ Opened issue [#7](https://github.com/warengonzaga/thirdweb-wp/issues/7) in [warengonzaga/thirdweb-wp](https://github.com/warengonzaga/thirdweb-wp)
-4. 🗣 Commented on [#2445](https://github.com/thirdweb-dev/js/issues/2445#issuecomment-1988335277) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)
-5. 🚀 Published release [v2.0.10](https://github.com/thirdweb-dev/support-discord-bot/releases/tag/2.0.10) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
+1. 🎉 Merged PR [#92](https://github.com/thirdweb-dev/support-discord-bot/pull/92) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
+2. 🎉 Merged PR [#91](https://github.com/thirdweb-dev/support-discord-bot/pull/91) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
+3. 💪 Opened PR [#91](https://github.com/thirdweb-dev/support-discord-bot/pull/91) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
+4. ❗ Opened issue [#7](https://github.com/warengonzaga/thirdweb-wp/issues/7) in [warengonzaga/thirdweb-wp](https://github.com/warengonzaga/thirdweb-wp)
+5. 🗣 Commented on [#2445](https://github.com/thirdweb-dev/js/issues/2445#issuecomment-1988335277) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)
 <!--END_SECTION:activity-->
 
 </details>
