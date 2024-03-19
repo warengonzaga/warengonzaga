@@ -55,11 +55,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#159](https://github.com/thirdweb-dev/unity-sdk/issues/159#issuecomment-2003109288) in [thirdweb-dev/unity-sdk](https://github.com/thirdweb-dev/unity-sdk)
-2. 🎉 Merged PR [#92](https://github.com/thirdweb-dev/support-discord-bot/pull/92) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
-3. 🎉 Merged PR [#91](https://github.com/thirdweb-dev/support-discord-bot/pull/91) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
-4. 💪 Opened PR [#91](https://github.com/thirdweb-dev/support-discord-bot/pull/91) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
-5. ❗ Opened issue [#7](https://github.com/warengonzaga/thirdweb-wp/issues/7) in [warengonzaga/thirdweb-wp](https://github.com/warengonzaga/thirdweb-wp)
+1. 🚀 Published release [v0.1.8](https://github.com/warengonzaga/xplorescan/releases/tag/0.1.8) in [warengonzaga/xplorescan](https://github.com/warengonzaga/xplorescan)
+2. 🎉 Merged PR [#16](https://github.com/warengonzaga/xplorescan/pull/16) in [warengonzaga/xplorescan](https://github.com/warengonzaga/xplorescan)
+3. 💪 Opened PR [#16](https://github.com/warengonzaga/xplorescan/pull/16) in [warengonzaga/xplorescan](https://github.com/warengonzaga/xplorescan)
+4. 🚀 Published release [v0.1.7](https://github.com/warengonzaga/xplorescan/releases/tag/0.1.7) in [warengonzaga/xplorescan](https://github.com/warengonzaga/xplorescan)
+5. 🗣 Commented on [#159](https://github.com/thirdweb-dev/unity-sdk/issues/159#issuecomment-2003109288) in [thirdweb-dev/unity-sdk](https://github.com/thirdweb-dev/unity-sdk)
 <!--END_SECTION:activity-->
 
 </details>
