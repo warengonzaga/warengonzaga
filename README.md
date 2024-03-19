@@ -42,11 +42,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128240 <b>Latest Blogs Posts</b></summary><br/>
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Enable Buy Me a Coffee to your Open Source Project on GitHub?](https://blog.warengonzaga.com/how-to-enable-buy-me-a-coffee-to-your-open-source-project-on-github)
 - [How to Recover the Ownership of Your thirdweb Pre-built Contract?](https://blog.warengonzaga.com/how-to-recover-the-ownership-of-your-thirdweb-pre-built-contract)
 - [Deploy Next.js App to GitHub Pages with new GitHub Actions](https://blog.warengonzaga.com/deploy-nextjs-app-to-github-pages-with-new-github-actions)
 - [Maintenance Your Windows Machine Like a Pro](https://blog.warengonzaga.com/maintenance-your-windows-machine-like-a-pro)
 - [7 Awesome: Free Websites to Learn Web3](https://blog.warengonzaga.com/7-awesome-free-websites-to-learn-web3)
-- [7 Awesome: Web Animation Libraries and Frameworks](https://blog.warengonzaga.com/7-awesome-web-animation-libraries-and-frameworks)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
