@@ -55,11 +55,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10672](https://github.com/simple-icons/simple-icons/pull/10672#issuecomment-2009490808) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-2. 🚀 Published release [v0.1.8](https://github.com/warengonzaga/xplorescan/releases/tag/0.1.8) in [warengonzaga/xplorescan](https://github.com/warengonzaga/xplorescan)
-3. 🎉 Merged PR [#16](https://github.com/warengonzaga/xplorescan/pull/16) in [warengonzaga/xplorescan](https://github.com/warengonzaga/xplorescan)
-4. 💪 Opened PR [#16](https://github.com/warengonzaga/xplorescan/pull/16) in [warengonzaga/xplorescan](https://github.com/warengonzaga/xplorescan)
-5. 🚀 Published release [v0.1.7](https://github.com/warengonzaga/xplorescan/releases/tag/0.1.7) in [warengonzaga/xplorescan](https://github.com/warengonzaga/xplorescan)
+1. 🗣 Commented on [#441](https://github.com/0xmetaschool/Learning-Projects/pull/441#issuecomment-2009931934) in [0xmetaschool/Learning-Projects](https://github.com/0xmetaschool/Learning-Projects)
+2. 💪 Opened PR [#441](https://github.com/0xmetaschool/Learning-Projects/pull/441) in [0xmetaschool/Learning-Projects](https://github.com/0xmetaschool/Learning-Projects)
+3. 🗣 Commented on [#10672](https://github.com/simple-icons/simple-icons/pull/10672#issuecomment-2009490808) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+4. 🚀 Published release [v0.1.8](https://github.com/warengonzaga/xplorescan/releases/tag/0.1.8) in [warengonzaga/xplorescan](https://github.com/warengonzaga/xplorescan)
+5. 🎉 Merged PR [#16](https://github.com/warengonzaga/xplorescan/pull/16) in [warengonzaga/xplorescan](https://github.com/warengonzaga/xplorescan)
 <!--END_SECTION:activity-->
 
 </details>
