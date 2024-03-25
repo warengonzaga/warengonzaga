@@ -55,11 +55,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#14](https://github.com/Web3Philippines/homepage/pull/14) in [Web3Philippines/homepage](https://github.com/Web3Philippines/homepage)
-2. ❗ Opened issue [#1](https://github.com/bonham000/kuzco-inference-client/issues/1) in [bonham000/kuzco-inference-client](https://github.com/bonham000/kuzco-inference-client)
-3. 🗣 Commented on [#441](https://github.com/0xmetaschool/Learning-Projects/pull/441#issuecomment-2009931934) in [0xmetaschool/Learning-Projects](https://github.com/0xmetaschool/Learning-Projects)
-4. 💪 Opened PR [#441](https://github.com/0xmetaschool/Learning-Projects/pull/441) in [0xmetaschool/Learning-Projects](https://github.com/0xmetaschool/Learning-Projects)
-5. 🗣 Commented on [#10672](https://github.com/simple-icons/simple-icons/pull/10672#issuecomment-2009490808) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+1. 🎉 Merged PR [#14](https://github.com/Web3Philippines/homepage/pull/14) in [Web3Philippines/homepage](https://github.com/Web3Philippines/homepage)
+2. 💪 Opened PR [#14](https://github.com/Web3Philippines/homepage/pull/14) in [Web3Philippines/homepage](https://github.com/Web3Philippines/homepage)
+3. ❗ Opened issue [#1](https://github.com/bonham000/kuzco-inference-client/issues/1) in [bonham000/kuzco-inference-client](https://github.com/bonham000/kuzco-inference-client)
+4. 🗣 Commented on [#441](https://github.com/0xmetaschool/Learning-Projects/pull/441#issuecomment-2009931934) in [0xmetaschool/Learning-Projects](https://github.com/0xmetaschool/Learning-Projects)
+5. 💪 Opened PR [#441](https://github.com/0xmetaschool/Learning-Projects/pull/441) in [0xmetaschool/Learning-Projects](https://github.com/0xmetaschool/Learning-Projects)
 <!--END_SECTION:activity-->
 
 </details>
