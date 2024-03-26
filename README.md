@@ -55,11 +55,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#15](https://github.com/Web3Philippines/homepage/pull/15#issuecomment-2018449565) in [Web3Philippines/homepage](https://github.com/Web3Philippines/homepage)
-2. 🗣 Commented on [#15](https://github.com/Web3Philippines/homepage/pull/15#issuecomment-2018441922) in [Web3Philippines/homepage](https://github.com/Web3Philippines/homepage)
-3. 🗣 Commented on [#15](https://github.com/Web3Philippines/homepage/pull/15#issuecomment-2018440352) in [Web3Philippines/homepage](https://github.com/Web3Philippines/homepage)
-4. 🗣 Commented on [#15](https://github.com/Web3Philippines/homepage/pull/15#issuecomment-2018437438) in [Web3Philippines/homepage](https://github.com/Web3Philippines/homepage)
-5. 🎉 Merged PR [#14](https://github.com/Web3Philippines/homepage/pull/14) in [Web3Philippines/homepage](https://github.com/Web3Philippines/homepage)
+1. 🗣 Commented on [#15](https://github.com/Web3Philippines/homepage/pull/15#issuecomment-2019207446) in [Web3Philippines/homepage](https://github.com/Web3Philippines/homepage)
+2. 🗣 Commented on [#15](https://github.com/Web3Philippines/homepage/pull/15#issuecomment-2018449565) in [Web3Philippines/homepage](https://github.com/Web3Philippines/homepage)
+3. 🗣 Commented on [#15](https://github.com/Web3Philippines/homepage/pull/15#issuecomment-2018441922) in [Web3Philippines/homepage](https://github.com/Web3Philippines/homepage)
+4. 🗣 Commented on [#15](https://github.com/Web3Philippines/homepage/pull/15#issuecomment-2018440352) in [Web3Philippines/homepage](https://github.com/Web3Philippines/homepage)
+5. 🗣 Commented on [#15](https://github.com/Web3Philippines/homepage/pull/15#issuecomment-2018437438) in [Web3Philippines/homepage](https://github.com/Web3Philippines/homepage)
 <!--END_SECTION:activity-->
 
 </details>
