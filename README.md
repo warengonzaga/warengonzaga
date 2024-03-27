@@ -55,11 +55,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#16](https://github.com/Web3Philippines/homepage/pull/16#issuecomment-2021789828) in [Web3Philippines/homepage](https://github.com/Web3Philippines/homepage)
-2. ❗ Opened issue [#17](https://github.com/Web3Philippines/homepage/issues/17) in [Web3Philippines/homepage](https://github.com/Web3Philippines/homepage)
-3. 💪 Opened PR [#16](https://github.com/Web3Philippines/homepage/pull/16) in [Web3Philippines/homepage](https://github.com/Web3Philippines/homepage)
-4. 🎉 Merged PR [#15](https://github.com/Web3Philippines/homepage/pull/15) in [Web3Philippines/homepage](https://github.com/Web3Philippines/homepage)
-5. 🗣 Commented on [#15](https://github.com/Web3Philippines/homepage/pull/15#issuecomment-2020937795) in [Web3Philippines/homepage](https://github.com/Web3Philippines/homepage)
+1. 🗣 Commented on [#16](https://github.com/Web3Philippines/homepage/pull/16#issuecomment-2021795005) in [Web3Philippines/homepage](https://github.com/Web3Philippines/homepage)
+2. ❗ Opened issue [#18](https://github.com/Web3Philippines/homepage/issues/18) in [Web3Philippines/homepage](https://github.com/Web3Philippines/homepage)
+3. 🗣 Commented on [#16](https://github.com/Web3Philippines/homepage/pull/16#issuecomment-2021789828) in [Web3Philippines/homepage](https://github.com/Web3Philippines/homepage)
+4. ❗ Opened issue [#17](https://github.com/Web3Philippines/homepage/issues/17) in [Web3Philippines/homepage](https://github.com/Web3Philippines/homepage)
+5. 💪 Opened PR [#16](https://github.com/Web3Philippines/homepage/pull/16) in [Web3Philippines/homepage](https://github.com/Web3Philippines/homepage)
 <!--END_SECTION:activity-->
 
 </details>
