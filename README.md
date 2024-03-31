@@ -55,11 +55,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/warengonzaga/thirdweb-wp/issues/7#issuecomment-2028555849) in [warengonzaga/thirdweb-wp](https://github.com/warengonzaga/thirdweb-wp)
-2. 🔒 Closed issue [#1](https://github.com/bonham000/kuzco-inference-client/issues/1) in [bonham000/kuzco-inference-client](https://github.com/bonham000/kuzco-inference-client)
-3. 🗣 Commented on [#1](https://github.com/bonham000/kuzco-inference-client/issues/1#issuecomment-2028541080) in [bonham000/kuzco-inference-client](https://github.com/bonham000/kuzco-inference-client)
-4. 🗣 Commented on [#16](https://github.com/Web3Philippines/homepage/pull/16#issuecomment-2021795005) in [Web3Philippines/homepage](https://github.com/Web3Philippines/homepage)
-5. ❗ Opened issue [#18](https://github.com/Web3Philippines/homepage/issues/18) in [Web3Philippines/homepage](https://github.com/Web3Philippines/homepage)
+1. 🗣 Commented on [#7](https://github.com/warengonzaga/thirdweb-wp/issues/7#issuecomment-2028559818) in [warengonzaga/thirdweb-wp](https://github.com/warengonzaga/thirdweb-wp)
+2. 🗣 Commented on [#7](https://github.com/warengonzaga/thirdweb-wp/issues/7#issuecomment-2028557605) in [warengonzaga/thirdweb-wp](https://github.com/warengonzaga/thirdweb-wp)
+3. 🗣 Commented on [#7](https://github.com/warengonzaga/thirdweb-wp/issues/7#issuecomment-2028555849) in [warengonzaga/thirdweb-wp](https://github.com/warengonzaga/thirdweb-wp)
+4. 🔒 Closed issue [#1](https://github.com/bonham000/kuzco-inference-client/issues/1) in [bonham000/kuzco-inference-client](https://github.com/bonham000/kuzco-inference-client)
+5. 🗣 Commented on [#1](https://github.com/bonham000/kuzco-inference-client/issues/1#issuecomment-2028541080) in [bonham000/kuzco-inference-client](https://github.com/bonham000/kuzco-inference-client)
 <!--END_SECTION:activity-->
 
 </details>
