@@ -55,11 +55,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#16](https://github.com/Web3Philippines/homepage/pull/16#issuecomment-2021795005) in [Web3Philippines/homepage](https://github.com/Web3Philippines/homepage)
-2. ❗ Opened issue [#18](https://github.com/Web3Philippines/homepage/issues/18) in [Web3Philippines/homepage](https://github.com/Web3Philippines/homepage)
-3. 🗣 Commented on [#16](https://github.com/Web3Philippines/homepage/pull/16#issuecomment-2021789828) in [Web3Philippines/homepage](https://github.com/Web3Philippines/homepage)
-4. ❗ Opened issue [#17](https://github.com/Web3Philippines/homepage/issues/17) in [Web3Philippines/homepage](https://github.com/Web3Philippines/homepage)
-5. 💪 Opened PR [#16](https://github.com/Web3Philippines/homepage/pull/16) in [Web3Philippines/homepage](https://github.com/Web3Philippines/homepage)
+1. 🔒 Closed issue [#1](https://github.com/bonham000/kuzco-inference-client/issues/1) in [bonham000/kuzco-inference-client](https://github.com/bonham000/kuzco-inference-client)
+2. 🗣 Commented on [#1](https://github.com/bonham000/kuzco-inference-client/issues/1#issuecomment-2028541080) in [bonham000/kuzco-inference-client](https://github.com/bonham000/kuzco-inference-client)
+3. 🗣 Commented on [#16](https://github.com/Web3Philippines/homepage/pull/16#issuecomment-2021795005) in [Web3Philippines/homepage](https://github.com/Web3Philippines/homepage)
+4. ❗ Opened issue [#18](https://github.com/Web3Philippines/homepage/issues/18) in [Web3Philippines/homepage](https://github.com/Web3Philippines/homepage)
+5. 🗣 Commented on [#16](https://github.com/Web3Philippines/homepage/pull/16#issuecomment-2021789828) in [Web3Philippines/homepage](https://github.com/Web3Philippines/homepage)
 <!--END_SECTION:activity-->
 
 </details>
