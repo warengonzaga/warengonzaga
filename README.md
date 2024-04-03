@@ -55,11 +55,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3167](https://github.com/calcom/cal.com/issues/3167#issuecomment-2033207358) in [calcom/cal.com](https://github.com/calcom/cal.com)
-2. 🗣 Commented on [#14300](https://github.com/calcom/cal.com/issues/14300#issuecomment-2033205666) in [calcom/cal.com](https://github.com/calcom/cal.com)
-3. 🗣 Commented on [#3167](https://github.com/calcom/cal.com/issues/3167#issuecomment-2032477166) in [calcom/cal.com](https://github.com/calcom/cal.com)
-4. ❗ Opened issue [#2625](https://github.com/thirdweb-dev/js/issues/2625) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)
-5. 🗣 Commented on [#16](https://github.com/Web3Philippines/homepage/pull/16#issuecomment-2029979979) in [Web3Philippines/homepage](https://github.com/Web3Philippines/homepage)
+1. ❗ Opened issue [#22](https://github.com/Web3Philippines/homepage/issues/22) in [Web3Philippines/homepage](https://github.com/Web3Philippines/homepage)
+2. 🗣 Commented on [#18](https://github.com/Web3Philippines/homepage/issues/18#issuecomment-2034119098) in [Web3Philippines/homepage](https://github.com/Web3Philippines/homepage)
+3. 🔒 Closed issue [#18](https://github.com/Web3Philippines/homepage/issues/18) in [Web3Philippines/homepage](https://github.com/Web3Philippines/homepage)
+4. 🔒 Closed issue [#17](https://github.com/Web3Philippines/homepage/issues/17) in [Web3Philippines/homepage](https://github.com/Web3Philippines/homepage)
+5. 🎉 Merged PR [#16](https://github.com/Web3Philippines/homepage/pull/16) in [Web3Philippines/homepage](https://github.com/Web3Philippines/homepage)
 <!--END_SECTION:activity-->
 
 </details>
