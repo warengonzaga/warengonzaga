@@ -55,11 +55,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#22](https://github.com/Web3Philippines/homepage/issues/22#issuecomment-2040025981) in [Web3Philippines/homepage](https://github.com/Web3Philippines/homepage)
-2. 🔒 Closed issue [#22](https://github.com/Web3Philippines/homepage/issues/22) in [Web3Philippines/homepage](https://github.com/Web3Philippines/homepage)
-3. 🎉 Merged PR [#23](https://github.com/Web3Philippines/homepage/pull/23) in [Web3Philippines/homepage](https://github.com/Web3Philippines/homepage)
-4. 🗣 Commented on [#14300](https://github.com/calcom/cal.com/issues/14300#issuecomment-2035512449) in [calcom/cal.com](https://github.com/calcom/cal.com)
-5. ❗ Opened issue [#22](https://github.com/Web3Philippines/homepage/issues/22) in [Web3Philippines/homepage](https://github.com/Web3Philippines/homepage)
+1. 💪 Opened PR [#1285](https://github.com/jellydn/dapp-starter/pull/1285) in [jellydn/dapp-starter](https://github.com/jellydn/dapp-starter)
+2. 🗣 Commented on [#6](https://github.com/nastyox/Repo-Roster/issues/6#issuecomment-2046295242) in [nastyox/Repo-Roster](https://github.com/nastyox/Repo-Roster)
+3. 🗣 Commented on [#22](https://github.com/Web3Philippines/homepage/issues/22#issuecomment-2040025981) in [Web3Philippines/homepage](https://github.com/Web3Philippines/homepage)
+4. 🔒 Closed issue [#22](https://github.com/Web3Philippines/homepage/issues/22) in [Web3Philippines/homepage](https://github.com/Web3Philippines/homepage)
+5. 🎉 Merged PR [#23](https://github.com/Web3Philippines/homepage/pull/23) in [Web3Philippines/homepage](https://github.com/Web3Philippines/homepage)
 <!--END_SECTION:activity-->
 
 </details>
