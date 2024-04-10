@@ -55,11 +55,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#490](https://github.com/thirdweb-dev/engine/pull/490#issuecomment-2046914783) in [thirdweb-dev/engine](https://github.com/thirdweb-dev/engine)
-2. ❌ Closed PR [#94](https://github.com/thirdweb-dev/support-discord-bot/pull/94) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
-3. 💪 Opened PR [#94](https://github.com/thirdweb-dev/support-discord-bot/pull/94) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
-4. 🎉 Merged PR [#93](https://github.com/thirdweb-dev/support-discord-bot/pull/93) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
-5. 💪 Opened PR [#490](https://github.com/thirdweb-dev/engine/pull/490) in [thirdweb-dev/engine](https://github.com/thirdweb-dev/engine)
+1. ❌ Closed PR [#490](https://github.com/thirdweb-dev/engine/pull/490) in [thirdweb-dev/engine](https://github.com/thirdweb-dev/engine)
+2. 🗣 Commented on [#490](https://github.com/thirdweb-dev/engine/pull/490#issuecomment-2047091281) in [thirdweb-dev/engine](https://github.com/thirdweb-dev/engine)
+3. 🗣 Commented on [#490](https://github.com/thirdweb-dev/engine/pull/490#issuecomment-2046914783) in [thirdweb-dev/engine](https://github.com/thirdweb-dev/engine)
+4. ❌ Closed PR [#94](https://github.com/thirdweb-dev/support-discord-bot/pull/94) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
+5. 💪 Opened PR [#94](https://github.com/thirdweb-dev/support-discord-bot/pull/94) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
 <!--END_SECTION:activity-->
 
 </details>
