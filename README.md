@@ -55,11 +55,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1285](https://github.com/jellydn/dapp-starter/pull/1285) in [jellydn/dapp-starter](https://github.com/jellydn/dapp-starter)
-2. 🗣 Commented on [#6](https://github.com/nastyox/Repo-Roster/issues/6#issuecomment-2046295242) in [nastyox/Repo-Roster](https://github.com/nastyox/Repo-Roster)
-3. 🗣 Commented on [#22](https://github.com/Web3Philippines/homepage/issues/22#issuecomment-2040025981) in [Web3Philippines/homepage](https://github.com/Web3Philippines/homepage)
-4. 🔒 Closed issue [#22](https://github.com/Web3Philippines/homepage/issues/22) in [Web3Philippines/homepage](https://github.com/Web3Philippines/homepage)
-5. 🎉 Merged PR [#23](https://github.com/Web3Philippines/homepage/pull/23) in [Web3Philippines/homepage](https://github.com/Web3Philippines/homepage)
+1. 💪 Opened PR [#490](https://github.com/thirdweb-dev/engine/pull/490) in [thirdweb-dev/engine](https://github.com/thirdweb-dev/engine)
+2. 💪 Opened PR [#1285](https://github.com/jellydn/dapp-starter/pull/1285) in [jellydn/dapp-starter](https://github.com/jellydn/dapp-starter)
+3. 🗣 Commented on [#6](https://github.com/nastyox/Repo-Roster/issues/6#issuecomment-2046295242) in [nastyox/Repo-Roster](https://github.com/nastyox/Repo-Roster)
+4. 🗣 Commented on [#22](https://github.com/Web3Philippines/homepage/issues/22#issuecomment-2040025981) in [Web3Philippines/homepage](https://github.com/Web3Philippines/homepage)
+5. 🔒 Closed issue [#22](https://github.com/Web3Philippines/homepage/issues/22) in [Web3Philippines/homepage](https://github.com/Web3Philippines/homepage)
 <!--END_SECTION:activity-->
 
 </details>
