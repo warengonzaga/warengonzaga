@@ -55,11 +55,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❌ Reopened PR [#490](https://github.com/thirdweb-dev/engine/pull/490) in [thirdweb-dev/engine](https://github.com/thirdweb-dev/engine)
-2. 🗣 Commented on [#490](https://github.com/thirdweb-dev/engine/pull/490#issuecomment-2048207402) in [thirdweb-dev/engine](https://github.com/thirdweb-dev/engine)
-3. ❌ Closed PR [#490](https://github.com/thirdweb-dev/engine/pull/490) in [thirdweb-dev/engine](https://github.com/thirdweb-dev/engine)
-4. 🗣 Commented on [#490](https://github.com/thirdweb-dev/engine/pull/490#issuecomment-2047091281) in [thirdweb-dev/engine](https://github.com/thirdweb-dev/engine)
-5. 🗣 Commented on [#490](https://github.com/thirdweb-dev/engine/pull/490#issuecomment-2046914783) in [thirdweb-dev/engine](https://github.com/thirdweb-dev/engine)
+1. 🎉 Merged PR [#27](https://github.com/warengonzaga/wrn-cleaner/pull/27) in [warengonzaga/wrn-cleaner](https://github.com/warengonzaga/wrn-cleaner)
+2. ❌ Reopened PR [#490](https://github.com/thirdweb-dev/engine/pull/490) in [thirdweb-dev/engine](https://github.com/thirdweb-dev/engine)
+3. 🗣 Commented on [#490](https://github.com/thirdweb-dev/engine/pull/490#issuecomment-2048207402) in [thirdweb-dev/engine](https://github.com/thirdweb-dev/engine)
+4. ❌ Closed PR [#490](https://github.com/thirdweb-dev/engine/pull/490) in [thirdweb-dev/engine](https://github.com/thirdweb-dev/engine)
+5. 🗣 Commented on [#490](https://github.com/thirdweb-dev/engine/pull/490#issuecomment-2047091281) in [thirdweb-dev/engine](https://github.com/thirdweb-dev/engine)
 <!--END_SECTION:activity-->
 
 </details>
