@@ -55,11 +55,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#501](https://github.com/thirdweb-dev/engine/pull/501) in [thirdweb-dev/engine](https://github.com/thirdweb-dev/engine)
-2. 🗣 Commented on [#2776](https://github.com/thirdweb-dev/js/issues/2776#issuecomment-2054573733) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)
-3. 🗣 Commented on [#2776](https://github.com/thirdweb-dev/js/issues/2776#issuecomment-2054564309) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)
-4. ❗ Opened issue [#2776](https://github.com/thirdweb-dev/js/issues/2776) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)
-5. 🗣 Commented on [#1516](https://github.com/animate-css/animate.css/issues/1516#issuecomment-2054268415) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+1. 🎉 Merged PR [#1](https://github.com/warengonzaga/love-cards/pull/1) in [warengonzaga/love-cards](https://github.com/warengonzaga/love-cards)
+2. 💪 Opened PR [#501](https://github.com/thirdweb-dev/engine/pull/501) in [thirdweb-dev/engine](https://github.com/thirdweb-dev/engine)
+3. 🗣 Commented on [#2776](https://github.com/thirdweb-dev/js/issues/2776#issuecomment-2054573733) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)
+4. 🗣 Commented on [#2776](https://github.com/thirdweb-dev/js/issues/2776#issuecomment-2054564309) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)
+5. ❗ Opened issue [#2776](https://github.com/thirdweb-dev/js/issues/2776) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)
 <!--END_SECTION:activity-->
 
 </details>
