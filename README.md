@@ -55,11 +55,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#504](https://github.com/thirdweb-dev/engine/issues/504#issuecomment-2066860417) in [thirdweb-dev/engine](https://github.com/thirdweb-dev/engine)
-2. 🎉 Merged PR [#1](https://github.com/warengonzaga/love-cards/pull/1) in [warengonzaga/love-cards](https://github.com/warengonzaga/love-cards)
-3. 💪 Opened PR [#501](https://github.com/thirdweb-dev/engine/pull/501) in [thirdweb-dev/engine](https://github.com/thirdweb-dev/engine)
-4. 🗣 Commented on [#2776](https://github.com/thirdweb-dev/js/issues/2776#issuecomment-2054573733) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)
-5. 🗣 Commented on [#2776](https://github.com/thirdweb-dev/js/issues/2776#issuecomment-2054564309) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)
+1. 🗣 Commented on [#504](https://github.com/thirdweb-dev/engine/issues/504#issuecomment-2067602704) in [thirdweb-dev/engine](https://github.com/thirdweb-dev/engine)
+2. 🗣 Commented on [#504](https://github.com/thirdweb-dev/engine/issues/504#issuecomment-2066860417) in [thirdweb-dev/engine](https://github.com/thirdweb-dev/engine)
+3. 🎉 Merged PR [#1](https://github.com/warengonzaga/love-cards/pull/1) in [warengonzaga/love-cards](https://github.com/warengonzaga/love-cards)
+4. 💪 Opened PR [#501](https://github.com/thirdweb-dev/engine/pull/501) in [thirdweb-dev/engine](https://github.com/thirdweb-dev/engine)
+5. 🗣 Commented on [#2776](https://github.com/thirdweb-dev/js/issues/2776#issuecomment-2054573733) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)
 <!--END_SECTION:activity-->
 
 </details>
