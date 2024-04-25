@@ -55,11 +55,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/thirdweb-example/engine-deploy-local/pull/1) in [thirdweb-example/engine-deploy-local](https://github.com/thirdweb-example/engine-deploy-local)
-2. 🗣 Commented on [#504](https://github.com/thirdweb-dev/engine/issues/504#issuecomment-2067602704) in [thirdweb-dev/engine](https://github.com/thirdweb-dev/engine)
-3. 🗣 Commented on [#504](https://github.com/thirdweb-dev/engine/issues/504#issuecomment-2066860417) in [thirdweb-dev/engine](https://github.com/thirdweb-dev/engine)
-4. 🎉 Merged PR [#1](https://github.com/warengonzaga/love-cards/pull/1) in [warengonzaga/love-cards](https://github.com/warengonzaga/love-cards)
-5. 💪 Opened PR [#501](https://github.com/thirdweb-dev/engine/pull/501) in [thirdweb-dev/engine](https://github.com/thirdweb-dev/engine)
+1. 🗣 Commented on [#1](https://github.com/thirdweb-example/engine-deploy-local/pull/1#issuecomment-2076463553) in [thirdweb-example/engine-deploy-local](https://github.com/thirdweb-example/engine-deploy-local)
+2. 💪 Opened PR [#1](https://github.com/thirdweb-example/engine-deploy-local/pull/1) in [thirdweb-example/engine-deploy-local](https://github.com/thirdweb-example/engine-deploy-local)
+3. 🗣 Commented on [#504](https://github.com/thirdweb-dev/engine/issues/504#issuecomment-2067602704) in [thirdweb-dev/engine](https://github.com/thirdweb-dev/engine)
+4. 🗣 Commented on [#504](https://github.com/thirdweb-dev/engine/issues/504#issuecomment-2066860417) in [thirdweb-dev/engine](https://github.com/thirdweb-dev/engine)
+5. 🎉 Merged PR [#1](https://github.com/warengonzaga/love-cards/pull/1) in [warengonzaga/love-cards](https://github.com/warengonzaga/love-cards)
 <!--END_SECTION:activity-->
 
 </details>
