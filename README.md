@@ -55,11 +55,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/tscircuit/tscircuit/issues/6#issuecomment-2084257107) in [tscircuit/tscircuit](https://github.com/tscircuit/tscircuit)
-2. 💪 Opened PR [#97](https://github.com/thirdweb-dev/support-discord-bot/pull/97) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
-3. 🗣 Commented on [#1](https://github.com/thirdweb-example/engine-deploy-local/pull/1#issuecomment-2076463553) in [thirdweb-example/engine-deploy-local](https://github.com/thirdweb-example/engine-deploy-local)
-4. 💪 Opened PR [#1](https://github.com/thirdweb-example/engine-deploy-local/pull/1) in [thirdweb-example/engine-deploy-local](https://github.com/thirdweb-example/engine-deploy-local)
-5. 🗣 Commented on [#504](https://github.com/thirdweb-dev/engine/issues/504#issuecomment-2067602704) in [thirdweb-dev/engine](https://github.com/thirdweb-dev/engine)
+1. 🗣 Commented on [#98](https://github.com/thirdweb-dev/support-discord-bot/pull/98#issuecomment-2084635973) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
+2. 🎉 Merged PR [#98](https://github.com/thirdweb-dev/support-discord-bot/pull/98) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
+3. 🗣 Commented on [#6](https://github.com/tscircuit/tscircuit/issues/6#issuecomment-2084257107) in [tscircuit/tscircuit](https://github.com/tscircuit/tscircuit)
+4. 💪 Opened PR [#97](https://github.com/thirdweb-dev/support-discord-bot/pull/97) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
+5. 🗣 Commented on [#1](https://github.com/thirdweb-example/engine-deploy-local/pull/1#issuecomment-2076463553) in [thirdweb-example/engine-deploy-local](https://github.com/thirdweb-example/engine-deploy-local)
 <!--END_SECTION:activity-->
 
 </details>
