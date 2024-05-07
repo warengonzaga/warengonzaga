@@ -55,11 +55,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#98](https://github.com/thirdweb-dev/support-discord-bot/pull/98#issuecomment-2084635973) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
-2. 🎉 Merged PR [#98](https://github.com/thirdweb-dev/support-discord-bot/pull/98) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
-3. 🗣 Commented on [#6](https://github.com/tscircuit/tscircuit/issues/6#issuecomment-2084257107) in [tscircuit/tscircuit](https://github.com/tscircuit/tscircuit)
-4. 💪 Opened PR [#97](https://github.com/thirdweb-dev/support-discord-bot/pull/97) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
-5. 🗣 Commented on [#1](https://github.com/thirdweb-example/engine-deploy-local/pull/1#issuecomment-2076463553) in [thirdweb-example/engine-deploy-local](https://github.com/thirdweb-example/engine-deploy-local)
+1. 🔒 Closed issue [#36](https://github.com/thirdweb-dev/support-discord-bot/issues/36) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
+2. 🗣 Commented on [#36](https://github.com/thirdweb-dev/support-discord-bot/issues/36#issuecomment-2097584396) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
+3. 🗣 Commented on [#28](https://github.com/thirdweb-dev/support-discord-bot/issues/28#issuecomment-2097583205) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
+4. 🔒 Closed issue [#28](https://github.com/thirdweb-dev/support-discord-bot/issues/28) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
+5. 🗣 Commented on [#33](https://github.com/thirdweb-dev/support-discord-bot/issues/33#issuecomment-2097582713) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
 <!--END_SECTION:activity-->
 
 </details>
