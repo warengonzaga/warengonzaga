@@ -55,11 +55,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#36](https://github.com/thirdweb-dev/support-discord-bot/issues/36) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
-2. 🗣 Commented on [#36](https://github.com/thirdweb-dev/support-discord-bot/issues/36#issuecomment-2097584396) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
-3. 🗣 Commented on [#28](https://github.com/thirdweb-dev/support-discord-bot/issues/28#issuecomment-2097583205) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
-4. 🔒 Closed issue [#28](https://github.com/thirdweb-dev/support-discord-bot/issues/28) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
-5. 🗣 Commented on [#33](https://github.com/thirdweb-dev/support-discord-bot/issues/33#issuecomment-2097582713) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
+1. 🎉 Merged PR [#100](https://github.com/thirdweb-dev/support-discord-bot/pull/100) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
+2. 🔒 Closed issue [#36](https://github.com/thirdweb-dev/support-discord-bot/issues/36) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
+3. 🗣 Commented on [#36](https://github.com/thirdweb-dev/support-discord-bot/issues/36#issuecomment-2097584396) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
+4. 🗣 Commented on [#28](https://github.com/thirdweb-dev/support-discord-bot/issues/28#issuecomment-2097583205) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
+5. 🔒 Closed issue [#28](https://github.com/thirdweb-dev/support-discord-bot/issues/28) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
 <!--END_SECTION:activity-->
 
 </details>
