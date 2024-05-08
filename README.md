@@ -55,11 +55,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1774](https://github.com/animate-css/animate.css/pull/1774#issuecomment-2099674010) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
-2. 🗣 Commented on [#1772](https://github.com/animate-css/animate.css/pull/1772#issuecomment-2099673117) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
-3. 🎉 Merged PR [#100](https://github.com/thirdweb-dev/support-discord-bot/pull/100) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
-4. 🔒 Closed issue [#36](https://github.com/thirdweb-dev/support-discord-bot/issues/36) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
-5. 🗣 Commented on [#36](https://github.com/thirdweb-dev/support-discord-bot/issues/36#issuecomment-2097584396) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
+1. 🗣 Commented on [#1720](https://github.com/animate-css/animate.css/pull/1720#issuecomment-2099677060) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+2. 🗣 Commented on [#1774](https://github.com/animate-css/animate.css/pull/1774#issuecomment-2099674010) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+3. 🗣 Commented on [#1772](https://github.com/animate-css/animate.css/pull/1772#issuecomment-2099673117) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+4. 🎉 Merged PR [#100](https://github.com/thirdweb-dev/support-discord-bot/pull/100) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
+5. 🔒 Closed issue [#36](https://github.com/thirdweb-dev/support-discord-bot/issues/36) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
 <!--END_SECTION:activity-->
 
 </details>
