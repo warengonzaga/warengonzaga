@@ -55,11 +55,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#104](https://github.com/thirdweb-dev/support-discord-bot/issues/104) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
-2. 🗣 Commented on [#102](https://github.com/thirdweb-dev/support-discord-bot/pull/102#issuecomment-2104273216) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
-3. ❗ Opened issue [#103](https://github.com/thirdweb-dev/support-discord-bot/issues/103) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
-4. 💪 Opened PR [#102](https://github.com/thirdweb-dev/support-discord-bot/pull/102) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
-5. 🚀 Published release [v3.2.0](https://github.com/thirdweb-dev/support-discord-bot/releases/tag/3.2.0) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
+1. 🗣 Commented on [#14300](https://github.com/calcom/cal.com/issues/14300#issuecomment-2121898432) in [calcom/cal.com](https://github.com/calcom/cal.com)
+2. ❗ Opened issue [#104](https://github.com/thirdweb-dev/support-discord-bot/issues/104) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
+3. 🗣 Commented on [#102](https://github.com/thirdweb-dev/support-discord-bot/pull/102#issuecomment-2104273216) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
+4. ❗ Opened issue [#103](https://github.com/thirdweb-dev/support-discord-bot/issues/103) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
+5. 💪 Opened PR [#102](https://github.com/thirdweb-dev/support-discord-bot/pull/102) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
 <!--END_SECTION:activity-->
 
 </details>
