@@ -55,11 +55,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3179](https://github.com/thirdweb-dev/js/issues/3179#issuecomment-2138560389) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)
-2. ❗ Opened issue [#3179](https://github.com/thirdweb-dev/js/issues/3179) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)
-3. 🗣 Commented on [#2](https://github.com/thirdweb-example/engine-deploy-local/pull/2#issuecomment-2128347204) in [thirdweb-example/engine-deploy-local](https://github.com/thirdweb-example/engine-deploy-local)
-4. 💪 Opened PR [#2](https://github.com/thirdweb-example/engine-deploy-local/pull/2) in [thirdweb-example/engine-deploy-local](https://github.com/thirdweb-example/engine-deploy-local)
-5. 🗣 Commented on [#14300](https://github.com/calcom/cal.com/issues/14300#issuecomment-2123908068) in [calcom/cal.com](https://github.com/calcom/cal.com)
+1. 🗣 Commented on [#3179](https://github.com/thirdweb-dev/js/issues/3179#issuecomment-2138574518) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)
+2. 🗣 Commented on [#3179](https://github.com/thirdweb-dev/js/issues/3179#issuecomment-2138574064) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)
+3. 🗣 Commented on [#3179](https://github.com/thirdweb-dev/js/issues/3179#issuecomment-2138569690) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)
+4. 🗣 Commented on [#3179](https://github.com/thirdweb-dev/js/issues/3179#issuecomment-2138560389) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)
+5. ❗ Opened issue [#3179](https://github.com/thirdweb-dev/js/issues/3179) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)
 <!--END_SECTION:activity-->
 
 </details>
