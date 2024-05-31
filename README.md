@@ -55,11 +55,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/warengonzaga/love-cards/pull/2) in [warengonzaga/love-cards](https://github.com/warengonzaga/love-cards)
-2. 🗣 Commented on [#3179](https://github.com/thirdweb-dev/js/issues/3179#issuecomment-2138574518) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)
-3. 🗣 Commented on [#3179](https://github.com/thirdweb-dev/js/issues/3179#issuecomment-2138574064) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)
-4. 🗣 Commented on [#3179](https://github.com/thirdweb-dev/js/issues/3179#issuecomment-2138569690) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)
-5. 🗣 Commented on [#3179](https://github.com/thirdweb-dev/js/issues/3179#issuecomment-2138560389) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)
+1. 💪 Opened PR [#2](https://github.com/warengonzaga/thirdweb-art-engine/pull/2) in [warengonzaga/thirdweb-art-engine](https://github.com/warengonzaga/thirdweb-art-engine)
+2. 💪 Opened PR [#2](https://github.com/warengonzaga/love-cards/pull/2) in [warengonzaga/love-cards](https://github.com/warengonzaga/love-cards)
+3. 🗣 Commented on [#3179](https://github.com/thirdweb-dev/js/issues/3179#issuecomment-2138574518) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)
+4. 🗣 Commented on [#3179](https://github.com/thirdweb-dev/js/issues/3179#issuecomment-2138574064) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)
+5. 🗣 Commented on [#3179](https://github.com/thirdweb-dev/js/issues/3179#issuecomment-2138569690) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)
 <!--END_SECTION:activity-->
 
 </details>
