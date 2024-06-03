@@ -55,11 +55,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/warengonzaga/thirdweb-art-engine/pull/2) in [warengonzaga/thirdweb-art-engine](https://github.com/warengonzaga/thirdweb-art-engine)
-2. 💪 Opened PR [#2](https://github.com/warengonzaga/love-cards/pull/2) in [warengonzaga/love-cards](https://github.com/warengonzaga/love-cards)
-3. 🗣 Commented on [#3179](https://github.com/thirdweb-dev/js/issues/3179#issuecomment-2138574518) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)
-4. 🗣 Commented on [#3179](https://github.com/thirdweb-dev/js/issues/3179#issuecomment-2138574064) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)
-5. 🗣 Commented on [#3179](https://github.com/thirdweb-dev/js/issues/3179#issuecomment-2138569690) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)
+1. ❗ Opened issue [#62](https://github.com/OSSPhilippines/ossph.org/issues/62) in [OSSPhilippines/ossph.org](https://github.com/OSSPhilippines/ossph.org)
+2. 💪 Opened PR [#2](https://github.com/warengonzaga/thirdweb-art-engine/pull/2) in [warengonzaga/thirdweb-art-engine](https://github.com/warengonzaga/thirdweb-art-engine)
+3. 💪 Opened PR [#2](https://github.com/warengonzaga/love-cards/pull/2) in [warengonzaga/love-cards](https://github.com/warengonzaga/love-cards)
+4. 🗣 Commented on [#3179](https://github.com/thirdweb-dev/js/issues/3179#issuecomment-2138574518) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)
+5. 🗣 Commented on [#3179](https://github.com/thirdweb-dev/js/issues/3179#issuecomment-2138574064) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)
 <!--END_SECTION:activity-->
 
 </details>
