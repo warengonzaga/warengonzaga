@@ -55,11 +55,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/thirdweb-example/engine-deploy-local/pull/3) in [thirdweb-example/engine-deploy-local](https://github.com/thirdweb-example/engine-deploy-local)
-2. 🗣 Commented on [#3](https://github.com/thirdweb-example/engine-deploy-local/pull/3#issuecomment-2183811094) in [thirdweb-example/engine-deploy-local](https://github.com/thirdweb-example/engine-deploy-local)
-3. 💪 Opened PR [#3](https://github.com/thirdweb-example/engine-deploy-local/pull/3) in [thirdweb-example/engine-deploy-local](https://github.com/thirdweb-example/engine-deploy-local)
-4. 🗣 Commented on [#15454](https://github.com/calcom/cal.com/pull/15454#issuecomment-2173916681) in [calcom/cal.com](https://github.com/calcom/cal.com)
-5. 🗣 Commented on [#5756](https://github.com/calcom/cal.com/issues/5756#issuecomment-2167181558) in [calcom/cal.com](https://github.com/calcom/cal.com)
+1. 🗣 Commented on [#20](https://github.com/thirdweb-example/marketplace-template/issues/20#issuecomment-2195989812) in [thirdweb-example/marketplace-template](https://github.com/thirdweb-example/marketplace-template)
+2. 🎉 Merged PR [#3](https://github.com/thirdweb-example/engine-deploy-local/pull/3) in [thirdweb-example/engine-deploy-local](https://github.com/thirdweb-example/engine-deploy-local)
+3. 🗣 Commented on [#3](https://github.com/thirdweb-example/engine-deploy-local/pull/3#issuecomment-2183811094) in [thirdweb-example/engine-deploy-local](https://github.com/thirdweb-example/engine-deploy-local)
+4. 💪 Opened PR [#3](https://github.com/thirdweb-example/engine-deploy-local/pull/3) in [thirdweb-example/engine-deploy-local](https://github.com/thirdweb-example/engine-deploy-local)
+5. 🗣 Commented on [#15454](https://github.com/calcom/cal.com/pull/15454#issuecomment-2173916681) in [calcom/cal.com](https://github.com/calcom/cal.com)
 <!--END_SECTION:activity-->
 
 </details>
