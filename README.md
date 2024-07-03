@@ -55,11 +55,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1251](https://github.com/dailydotdev/daily/issues/1251) in [dailydotdev/daily](https://github.com/dailydotdev/daily)
-2. 🗣 Commented on [#20](https://github.com/thirdweb-example/marketplace-template/issues/20#issuecomment-2195989812) in [thirdweb-example/marketplace-template](https://github.com/thirdweb-example/marketplace-template)
-3. 🎉 Merged PR [#3](https://github.com/thirdweb-example/engine-deploy-local/pull/3) in [thirdweb-example/engine-deploy-local](https://github.com/thirdweb-example/engine-deploy-local)
-4. 🗣 Commented on [#3](https://github.com/thirdweb-example/engine-deploy-local/pull/3#issuecomment-2183811094) in [thirdweb-example/engine-deploy-local](https://github.com/thirdweb-example/engine-deploy-local)
-5. 💪 Opened PR [#3](https://github.com/thirdweb-example/engine-deploy-local/pull/3) in [thirdweb-example/engine-deploy-local](https://github.com/thirdweb-example/engine-deploy-local)
+1. 🚀 Published release [v0.0.2](https://github.com/warengonzaga/bini-theme/releases/tag/v0.0.2) in [warengonzaga/bini-theme](https://github.com/warengonzaga/bini-theme)
+2. ❗ Opened issue [#1251](https://github.com/dailydotdev/daily/issues/1251) in [dailydotdev/daily](https://github.com/dailydotdev/daily)
+3. 🗣 Commented on [#20](https://github.com/thirdweb-example/marketplace-template/issues/20#issuecomment-2195989812) in [thirdweb-example/marketplace-template](https://github.com/thirdweb-example/marketplace-template)
+4. 🎉 Merged PR [#3](https://github.com/thirdweb-example/engine-deploy-local/pull/3) in [thirdweb-example/engine-deploy-local](https://github.com/thirdweb-example/engine-deploy-local)
+5. 🗣 Commented on [#3](https://github.com/thirdweb-example/engine-deploy-local/pull/3#issuecomment-2183811094) in [thirdweb-example/engine-deploy-local](https://github.com/thirdweb-example/engine-deploy-local)
 <!--END_SECTION:activity-->
 
 </details>
