@@ -55,11 +55,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/warengonzaga/bini-theme/issues/1#issuecomment-2207767114) in [warengonzaga/bini-theme](https://github.com/warengonzaga/bini-theme)
-2. 🚀 Published release [v0.0.2](https://github.com/warengonzaga/bini-theme/releases/tag/v0.0.2) in [warengonzaga/bini-theme](https://github.com/warengonzaga/bini-theme)
-3. ❗ Opened issue [#1251](https://github.com/dailydotdev/daily/issues/1251) in [dailydotdev/daily](https://github.com/dailydotdev/daily)
-4. 🗣 Commented on [#20](https://github.com/thirdweb-example/marketplace-template/issues/20#issuecomment-2195989812) in [thirdweb-example/marketplace-template](https://github.com/thirdweb-example/marketplace-template)
-5. 🎉 Merged PR [#3](https://github.com/thirdweb-example/engine-deploy-local/pull/3) in [thirdweb-example/engine-deploy-local](https://github.com/thirdweb-example/engine-deploy-local)
+1. 🗣 Commented on [#3](https://github.com/warengonzaga/magic-commit/issues/3#issuecomment-2208433101) in [warengonzaga/magic-commit](https://github.com/warengonzaga/magic-commit)
+2. 🗣 Commented on [#1](https://github.com/warengonzaga/bini-theme/issues/1#issuecomment-2207767114) in [warengonzaga/bini-theme](https://github.com/warengonzaga/bini-theme)
+3. 🚀 Published release [v0.0.2](https://github.com/warengonzaga/bini-theme/releases/tag/v0.0.2) in [warengonzaga/bini-theme](https://github.com/warengonzaga/bini-theme)
+4. ❗ Opened issue [#1251](https://github.com/dailydotdev/daily/issues/1251) in [dailydotdev/daily](https://github.com/dailydotdev/daily)
+5. 🗣 Commented on [#20](https://github.com/thirdweb-example/marketplace-template/issues/20#issuecomment-2195989812) in [thirdweb-example/marketplace-template](https://github.com/thirdweb-example/marketplace-template)
 <!--END_SECTION:activity-->
 
 </details>
