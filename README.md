@@ -55,11 +55,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/warengonzaga/bini-theme/pull/2#issuecomment-2212382997) in [warengonzaga/bini-theme](https://github.com/warengonzaga/bini-theme)
-2. 🗣 Commented on [#1](https://github.com/warengonzaga/bini-theme/issues/1#issuecomment-2212375245) in [warengonzaga/bini-theme](https://github.com/warengonzaga/bini-theme)
-3. ❗ Opened issue [#2721](https://github.com/EclipseFdn/open-vsx.org/issues/2721) in [EclipseFdn/open-vsx.org](https://github.com/EclipseFdn/open-vsx.org)
-4. 🚀 Published release [v0.0.4](https://github.com/warengonzaga/bini-theme/releases/tag/v0.0.4) in [warengonzaga/bini-theme](https://github.com/warengonzaga/bini-theme)
-5. 🚀 Published release [v0.0.3](https://github.com/warengonzaga/bini-theme/releases/tag/v0.0.3) in [warengonzaga/bini-theme](https://github.com/warengonzaga/bini-theme)
+1. 🗣 Commented on [#3](https://github.com/warengonzaga/magic-commit/issues/3#issuecomment-2217888371) in [warengonzaga/magic-commit](https://github.com/warengonzaga/magic-commit)
+2. 🗣 Commented on [#3](https://github.com/warengonzaga/magic-commit/issues/3#issuecomment-2217886519) in [warengonzaga/magic-commit](https://github.com/warengonzaga/magic-commit)
+3. 🗣 Commented on [#2](https://github.com/warengonzaga/bini-theme/pull/2#issuecomment-2212382997) in [warengonzaga/bini-theme](https://github.com/warengonzaga/bini-theme)
+4. 🗣 Commented on [#1](https://github.com/warengonzaga/bini-theme/issues/1#issuecomment-2212375245) in [warengonzaga/bini-theme](https://github.com/warengonzaga/bini-theme)
+5. ❗ Opened issue [#2721](https://github.com/EclipseFdn/open-vsx.org/issues/2721) in [EclipseFdn/open-vsx.org](https://github.com/EclipseFdn/open-vsx.org)
 <!--END_SECTION:activity-->
 
 </details>
