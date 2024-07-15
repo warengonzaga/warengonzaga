@@ -55,11 +55,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/thirdweb-example/engine-deploy-local/pull/4) in [thirdweb-example/engine-deploy-local](https://github.com/thirdweb-example/engine-deploy-local)
-2. 🗣 Commented on [#15454](https://github.com/calcom/cal.com/pull/15454#issuecomment-2219351879) in [calcom/cal.com](https://github.com/calcom/cal.com)
-3. 🗣 Commented on [#15454](https://github.com/calcom/cal.com/pull/15454#issuecomment-2219345415) in [calcom/cal.com](https://github.com/calcom/cal.com)
-4. 🎉 Merged PR [#4](https://github.com/warengonzaga/magic-commit/pull/4) in [warengonzaga/magic-commit](https://github.com/warengonzaga/magic-commit)
-5. 🗣 Commented on [#3](https://github.com/warengonzaga/magic-commit/issues/3#issuecomment-2217888371) in [warengonzaga/magic-commit](https://github.com/warengonzaga/magic-commit)
+1. 🗣 Commented on [#4](https://github.com/thirdweb-example/engine-deploy-local/pull/4#issuecomment-2227961507) in [thirdweb-example/engine-deploy-local](https://github.com/thirdweb-example/engine-deploy-local)
+2. 💪 Opened PR [#4](https://github.com/thirdweb-example/engine-deploy-local/pull/4) in [thirdweb-example/engine-deploy-local](https://github.com/thirdweb-example/engine-deploy-local)
+3. 🗣 Commented on [#15454](https://github.com/calcom/cal.com/pull/15454#issuecomment-2219351879) in [calcom/cal.com](https://github.com/calcom/cal.com)
+4. 🗣 Commented on [#15454](https://github.com/calcom/cal.com/pull/15454#issuecomment-2219345415) in [calcom/cal.com](https://github.com/calcom/cal.com)
+5. 🎉 Merged PR [#4](https://github.com/warengonzaga/magic-commit/pull/4) in [warengonzaga/magic-commit](https://github.com/warengonzaga/magic-commit)
 <!--END_SECTION:activity-->
 
 </details>
