@@ -55,11 +55,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#105](https://github.com/thirdweb-dev/support-discord-bot/pull/105) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
-2. 🗣 Commented on [#1772](https://github.com/animate-css/animate.css/pull/1772#issuecomment-2236081647) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
-3. 🗣 Commented on [#15454](https://github.com/calcom/cal.com/pull/15454#issuecomment-2231004872) in [calcom/cal.com](https://github.com/calcom/cal.com)
-4. 🎉 Merged PR [#4](https://github.com/thirdweb-example/engine-deploy-local/pull/4) in [thirdweb-example/engine-deploy-local](https://github.com/thirdweb-example/engine-deploy-local)
-5. 🗣 Commented on [#15454](https://github.com/calcom/cal.com/pull/15454#issuecomment-2228795597) in [calcom/cal.com](https://github.com/calcom/cal.com)
+1. 🗣 Commented on [#5756](https://github.com/calcom/cal.com/issues/5756#issuecomment-2257742668) in [calcom/cal.com](https://github.com/calcom/cal.com)
+2. 🗣 Commented on [#14089](https://github.com/calcom/cal.com/issues/14089#issuecomment-2257741937) in [calcom/cal.com](https://github.com/calcom/cal.com)
+3. 🗣 Commented on [#14884](https://github.com/calcom/cal.com/issues/14884#issuecomment-2257741274) in [calcom/cal.com](https://github.com/calcom/cal.com)
+4. ❗ Opened issue [#1](https://github.com/MuneerAhmed03/codeflex/issues/1) in [MuneerAhmed03/codeflex](https://github.com/MuneerAhmed03/codeflex)
+5. 🎉 Merged PR [#105](https://github.com/thirdweb-dev/support-discord-bot/pull/105) in [thirdweb-dev/support-discord-bot](https://github.com/thirdweb-dev/support-discord-bot)
 <!--END_SECTION:activity-->
 
 </details>
