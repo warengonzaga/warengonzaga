@@ -55,11 +55,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/warengonzaga/magic-commit/issues/3#issuecomment-2314119111) in [warengonzaga/magic-commit](https://github.com/warengonzaga/magic-commit)
-2. 🔒 Closed issue [#3](https://github.com/warengonzaga/magic-commit/issues/3) in [warengonzaga/magic-commit](https://github.com/warengonzaga/magic-commit)
-3. 🗣 Commented on [#5](https://github.com/warengonzaga/magic-commit/issues/5#issuecomment-2314118196) in [warengonzaga/magic-commit](https://github.com/warengonzaga/magic-commit)
-4. ❗ Opened issue [#19](https://github.com/LearnWebCode/brads-boilerplate-wordpress/issues/19) in [LearnWebCode/brads-boilerplate-wordpress](https://github.com/LearnWebCode/brads-boilerplate-wordpress)
-5. 🗣 Commented on [#1](https://github.com/MuneerAhmed03/codeflex/issues/1#issuecomment-2258597540) in [MuneerAhmed03/codeflex](https://github.com/MuneerAhmed03/codeflex)
+1. ❗ Opened issue [#259](https://github.com/bostrot/wsl2-distro-manager/issues/259) in [bostrot/wsl2-distro-manager](https://github.com/bostrot/wsl2-distro-manager)
+2. 🗣 Commented on [#3](https://github.com/warengonzaga/magic-commit/issues/3#issuecomment-2314119111) in [warengonzaga/magic-commit](https://github.com/warengonzaga/magic-commit)
+3. 🔒 Closed issue [#3](https://github.com/warengonzaga/magic-commit/issues/3) in [warengonzaga/magic-commit](https://github.com/warengonzaga/magic-commit)
+4. 🗣 Commented on [#5](https://github.com/warengonzaga/magic-commit/issues/5#issuecomment-2314118196) in [warengonzaga/magic-commit](https://github.com/warengonzaga/magic-commit)
+5. ❗ Opened issue [#19](https://github.com/LearnWebCode/brads-boilerplate-wordpress/issues/19) in [LearnWebCode/brads-boilerplate-wordpress](https://github.com/LearnWebCode/brads-boilerplate-wordpress)
 <!--END_SECTION:activity-->
 
 </details>
