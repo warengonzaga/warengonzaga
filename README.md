@@ -55,11 +55,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/watase-eth/polygon-zkevm-play-to-earn-game/issues/1#issuecomment-2345438910) in [watase-eth/polygon-zkevm-play-to-earn-game](https://github.com/watase-eth/polygon-zkevm-play-to-earn-game)
-2. 💪 Opened PR [#3](https://github.com/thirdweb-example/hardhat-javascript-starter/pull/3) in [thirdweb-example/hardhat-javascript-starter](https://github.com/thirdweb-example/hardhat-javascript-starter)
-3. ❗ Opened issue [#259](https://github.com/bostrot/wsl2-distro-manager/issues/259) in [bostrot/wsl2-distro-manager](https://github.com/bostrot/wsl2-distro-manager)
-4. 🗣 Commented on [#3](https://github.com/warengonzaga/magic-commit/issues/3#issuecomment-2314119111) in [warengonzaga/magic-commit](https://github.com/warengonzaga/magic-commit)
-5. 🔒 Closed issue [#3](https://github.com/warengonzaga/magic-commit/issues/3) in [warengonzaga/magic-commit](https://github.com/warengonzaga/magic-commit)
+1. 🗣 Commented on [#1](https://github.com/watase-eth/polygon-zkevm-play-to-earn-game/issues/1#issuecomment-2345490649) in [watase-eth/polygon-zkevm-play-to-earn-game](https://github.com/watase-eth/polygon-zkevm-play-to-earn-game)
+2. 🗣 Commented on [#1](https://github.com/watase-eth/polygon-zkevm-play-to-earn-game/issues/1#issuecomment-2345438910) in [watase-eth/polygon-zkevm-play-to-earn-game](https://github.com/watase-eth/polygon-zkevm-play-to-earn-game)
+3. 💪 Opened PR [#3](https://github.com/thirdweb-example/hardhat-javascript-starter/pull/3) in [thirdweb-example/hardhat-javascript-starter](https://github.com/thirdweb-example/hardhat-javascript-starter)
+4. ❗ Opened issue [#259](https://github.com/bostrot/wsl2-distro-manager/issues/259) in [bostrot/wsl2-distro-manager](https://github.com/bostrot/wsl2-distro-manager)
+5. 🗣 Commented on [#3](https://github.com/warengonzaga/magic-commit/issues/3#issuecomment-2314119111) in [warengonzaga/magic-commit](https://github.com/warengonzaga/magic-commit)
 <!--END_SECTION:activity-->
 
 </details>
