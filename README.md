@@ -55,11 +55,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1447](https://github.com/dailydotdev/daily/issues/1447) in [dailydotdev/daily](https://github.com/dailydotdev/daily)
-2. 🗣 Commented on [#1](https://github.com/watase-eth/polygon-zkevm-play-to-earn-game/issues/1#issuecomment-2345490649) in [watase-eth/polygon-zkevm-play-to-earn-game](https://github.com/watase-eth/polygon-zkevm-play-to-earn-game)
-3. 🗣 Commented on [#1](https://github.com/watase-eth/polygon-zkevm-play-to-earn-game/issues/1#issuecomment-2345438910) in [watase-eth/polygon-zkevm-play-to-earn-game](https://github.com/watase-eth/polygon-zkevm-play-to-earn-game)
-4. 💪 Opened PR [#3](https://github.com/thirdweb-example/hardhat-javascript-starter/pull/3) in [thirdweb-example/hardhat-javascript-starter](https://github.com/thirdweb-example/hardhat-javascript-starter)
-5. ❗ Opened issue [#259](https://github.com/bostrot/wsl2-distro-manager/issues/259) in [bostrot/wsl2-distro-manager](https://github.com/bostrot/wsl2-distro-manager)
+1. 🗣 Commented on [#1447](https://github.com/dailydotdev/daily/issues/1447#issuecomment-2370649912) in [dailydotdev/daily](https://github.com/dailydotdev/daily)
+2. ❗ Opened issue [#1447](https://github.com/dailydotdev/daily/issues/1447) in [dailydotdev/daily](https://github.com/dailydotdev/daily)
+3. 🗣 Commented on [#1](https://github.com/watase-eth/polygon-zkevm-play-to-earn-game/issues/1#issuecomment-2345490649) in [watase-eth/polygon-zkevm-play-to-earn-game](https://github.com/watase-eth/polygon-zkevm-play-to-earn-game)
+4. 🗣 Commented on [#1](https://github.com/watase-eth/polygon-zkevm-play-to-earn-game/issues/1#issuecomment-2345438910) in [watase-eth/polygon-zkevm-play-to-earn-game](https://github.com/watase-eth/polygon-zkevm-play-to-earn-game)
+5. 💪 Opened PR [#3](https://github.com/thirdweb-example/hardhat-javascript-starter/pull/3) in [thirdweb-example/hardhat-javascript-starter](https://github.com/thirdweb-example/hardhat-javascript-starter)
 <!--END_SECTION:activity-->
 
 </details>
