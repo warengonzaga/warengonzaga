@@ -55,11 +55,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1447](https://github.com/dailydotdev/daily/issues/1447#issuecomment-2370649912) in [dailydotdev/daily](https://github.com/dailydotdev/daily)
-2. ❗ Opened issue [#1447](https://github.com/dailydotdev/daily/issues/1447) in [dailydotdev/daily](https://github.com/dailydotdev/daily)
-3. 🗣 Commented on [#1](https://github.com/watase-eth/polygon-zkevm-play-to-earn-game/issues/1#issuecomment-2345490649) in [watase-eth/polygon-zkevm-play-to-earn-game](https://github.com/watase-eth/polygon-zkevm-play-to-earn-game)
-4. 🗣 Commented on [#1](https://github.com/watase-eth/polygon-zkevm-play-to-earn-game/issues/1#issuecomment-2345438910) in [watase-eth/polygon-zkevm-play-to-earn-game](https://github.com/watase-eth/polygon-zkevm-play-to-earn-game)
-5. 💪 Opened PR [#3](https://github.com/thirdweb-example/hardhat-javascript-starter/pull/3) in [thirdweb-example/hardhat-javascript-starter](https://github.com/thirdweb-example/hardhat-javascript-starter)
+1. 🎉 Merged PR [#9](https://github.com/warengonzaga/awesome-thirdweb/pull/9) in [warengonzaga/awesome-thirdweb](https://github.com/warengonzaga/awesome-thirdweb)
+2. 🗣 Commented on [#9](https://github.com/warengonzaga/awesome-thirdweb/pull/9#issuecomment-2370945233) in [warengonzaga/awesome-thirdweb](https://github.com/warengonzaga/awesome-thirdweb)
+3. 🗣 Commented on [#1447](https://github.com/dailydotdev/daily/issues/1447#issuecomment-2370649912) in [dailydotdev/daily](https://github.com/dailydotdev/daily)
+4. ❗ Opened issue [#1447](https://github.com/dailydotdev/daily/issues/1447) in [dailydotdev/daily](https://github.com/dailydotdev/daily)
+5. 🗣 Commented on [#1](https://github.com/watase-eth/polygon-zkevm-play-to-earn-game/issues/1#issuecomment-2345490649) in [watase-eth/polygon-zkevm-play-to-earn-game](https://github.com/watase-eth/polygon-zkevm-play-to-earn-game)
 <!--END_SECTION:activity-->
 
 </details>
