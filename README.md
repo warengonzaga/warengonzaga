@@ -55,11 +55,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.2.0](https://github.com/warengonzaga/magic-commit/releases/tag/0.2.0) in [warengonzaga/magic-commit](https://github.com/warengonzaga/magic-commit)
-2. 🗣 Commented on [#5](https://github.com/warengonzaga/magic-commit/issues/5#issuecomment-2394226176) in [warengonzaga/magic-commit](https://github.com/warengonzaga/magic-commit)
-3. 🔒 Closed issue [#2](https://github.com/warengonzaga/magic-commit/issues/2) in [warengonzaga/magic-commit](https://github.com/warengonzaga/magic-commit)
-4. 🔒 Closed issue [#5](https://github.com/warengonzaga/magic-commit/issues/5) in [warengonzaga/magic-commit](https://github.com/warengonzaga/magic-commit)
-5. 🎉 Merged PR [#8](https://github.com/warengonzaga/magic-commit/pull/8) in [warengonzaga/magic-commit](https://github.com/warengonzaga/magic-commit)
+1. 🗣 Commented on [#259](https://github.com/bostrot/wsl2-distro-manager/issues/259#issuecomment-2394325328) in [bostrot/wsl2-distro-manager](https://github.com/bostrot/wsl2-distro-manager)
+2. 🎉 Merged PR [#3](https://github.com/warengonzaga/love-cards/pull/3) in [warengonzaga/love-cards](https://github.com/warengonzaga/love-cards)
+3. ❗ Opened issue [#9](https://github.com/warengonzaga/magic-commit/issues/9) in [warengonzaga/magic-commit](https://github.com/warengonzaga/magic-commit)
+4. 🚀 Published release [v0.2.1](https://github.com/warengonzaga/magic-commit/releases/tag/0.2.1) in [warengonzaga/magic-commit](https://github.com/warengonzaga/magic-commit)
+5. 🚀 Published release [v0.2.0](https://github.com/warengonzaga/magic-commit/releases/tag/0.2.0) in [warengonzaga/magic-commit](https://github.com/warengonzaga/magic-commit)
 <!--END_SECTION:activity-->
 
 </details>
