@@ -55,11 +55,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10](https://github.com/warengonzaga/magic-commit/issues/10#issuecomment-2395357267) in [warengonzaga/magic-commit](https://github.com/warengonzaga/magic-commit)
-2. 🗣 Commented on [#10](https://github.com/warengonzaga/magic-commit/issues/10#issuecomment-2395310381) in [warengonzaga/magic-commit](https://github.com/warengonzaga/magic-commit)
-3. 🗣 Commented on [#10](https://github.com/warengonzaga/magic-commit/issues/10#issuecomment-2394821808) in [warengonzaga/magic-commit](https://github.com/warengonzaga/magic-commit)
-4. 🔒 Closed issue [#11](https://github.com/warengonzaga/magic-commit/issues/11) in [warengonzaga/magic-commit](https://github.com/warengonzaga/magic-commit)
-5. 🗣 Commented on [#11](https://github.com/warengonzaga/magic-commit/issues/11#issuecomment-2394351417) in [warengonzaga/magic-commit](https://github.com/warengonzaga/magic-commit)
+1. 🗣 Commented on [#9](https://github.com/warengonzaga/magic-commit/issues/9#issuecomment-2395362792) in [warengonzaga/magic-commit](https://github.com/warengonzaga/magic-commit)
+2. 🔒 Closed issue [#9](https://github.com/warengonzaga/magic-commit/issues/9) in [warengonzaga/magic-commit](https://github.com/warengonzaga/magic-commit)
+3. 💪 Opened PR [#13](https://github.com/warengonzaga/magic-commit/pull/13) in [warengonzaga/magic-commit](https://github.com/warengonzaga/magic-commit)
+4. 🎉 Merged PR [#12](https://github.com/warengonzaga/magic-commit/pull/12) in [warengonzaga/magic-commit](https://github.com/warengonzaga/magic-commit)
+5. 🗣 Commented on [#10](https://github.com/warengonzaga/magic-commit/issues/10#issuecomment-2395357267) in [warengonzaga/magic-commit](https://github.com/warengonzaga/magic-commit)
 <!--END_SECTION:activity-->
 
 </details>
