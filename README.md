@@ -55,11 +55,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#62](https://github.com/OSSPhilippines/ossph.org/issues/62#issuecomment-2408929816) in [OSSPhilippines/ossph.org](https://github.com/OSSPhilippines/ossph.org)
-2. 🗣 Commented on [#10](https://github.com/warengonzaga/magic-commit/issues/10#issuecomment-2408418445) in [warengonzaga/magic-commit](https://github.com/warengonzaga/magic-commit)
-3. 🗣 Commented on [#10](https://github.com/warengonzaga/magic-commit/issues/10#issuecomment-2408417706) in [warengonzaga/magic-commit](https://github.com/warengonzaga/magic-commit)
-4. ❗ Opened issue [#18](https://github.com/warengonzaga/magic-commit/issues/18) in [warengonzaga/magic-commit](https://github.com/warengonzaga/magic-commit)
-5. 🗣 Commented on [#16](https://github.com/warengonzaga/magic-commit/issues/16#issuecomment-2408412047) in [warengonzaga/magic-commit](https://github.com/warengonzaga/magic-commit)
+1. 🗣 Commented on [#17](https://github.com/warengonzaga/magic-commit/issues/17#issuecomment-2408942759) in [warengonzaga/magic-commit](https://github.com/warengonzaga/magic-commit)
+2. 🗣 Commented on [#17](https://github.com/warengonzaga/magic-commit/issues/17#issuecomment-2408942477) in [warengonzaga/magic-commit](https://github.com/warengonzaga/magic-commit)
+3. 🗣 Commented on [#62](https://github.com/OSSPhilippines/ossph.org/issues/62#issuecomment-2408929816) in [OSSPhilippines/ossph.org](https://github.com/OSSPhilippines/ossph.org)
+4. 🗣 Commented on [#10](https://github.com/warengonzaga/magic-commit/issues/10#issuecomment-2408418445) in [warengonzaga/magic-commit](https://github.com/warengonzaga/magic-commit)
+5. 🗣 Commented on [#10](https://github.com/warengonzaga/magic-commit/issues/10#issuecomment-2408417706) in [warengonzaga/magic-commit](https://github.com/warengonzaga/magic-commit)
 <!--END_SECTION:activity-->
 
 </details>
