@@ -4,10 +4,10 @@
 
 <!-- markdownlint-disable MD033 -->
 <a href="https://holopin.io/@warengonzaga">
-    <img src="https://holopin.me/warengonzaga" width="100%" alt="An image of @warengonzaga's Holopin badges, which is a link to view their full Holopin profile"/>
+    <img src="https://www.holopin.io/api/user/board?user=warengonzaga" width="100%" alt="An image of @warengonzaga's Holopin badges, which is a link to view their full Holopin profile"/>
 </a>
 <a href="https://app.daily.dev/warengonzaga">
-    <img src="https://api.daily.dev/devcards/v2/5dwfVl5B1.png?type=default&r=c16" style="min-width: 200px; max-width: 356px; width: 25%" alt="Waren Gonzaga's Dev Card" align="right"/>
+    <img src="https://api.daily.dev/devcards/v2/5dwfVl5B1.png?type=default&r=c16" style="min-width: 200px; max-width: 356px; width: 30%" alt="Waren Gonzaga's Dev Card" align="right"/>
 </a>
 <!-- markdownlint-enable MD033 -->
 
