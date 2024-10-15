@@ -1,23 +1,17 @@
 # 👋 Waren Gonzaga (💻💖☕) [![nominate](https://img.shields.io/badge/nominate-%20@warengonzaga%20as%20GitHub%20Star-yellow.svg?logo=github&labelColor=181717&longCache=true&style=flat-square)](https://stars.github.com/nominate)
 
-<!-- markdownlint-disable MD033 -->
-<div style="display: inline-flex; align-items: center;">
-  <span style="color: #7B3FE4; font-size: 30px; font-family: Roboto;">I'm</span>
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=30&pause=1000&color=7B3FE4&width=435&lines=a+self-taught+Software+Engineer;an+Open-Source+Maintainer;an+Open-Source+Contributor;an+Open-Source+Advocate;a+Cybersecurity+Researcher;a+Web3+Engineer;a+Technopreneur;an+amateur+Singer%2FSongwriter;a+Music+Producer" alt="Typing SVG" style="margin-left: 10px; margin-top: 20px; min-width: 435px; flex-shrink: 0;" />
-</div>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=30&pause=1000&color=7B3FE4&width=435&lines=Self-taught+Software+Engineer;Open-Source+Maintainer;Open-Source+Contributor;Open-Source+Advocate;Cybersecurity+Researcher;Web3+Engineer;Technopreneur;Amateur+Singer%2FSongwriter;Music+Producer)
 
+<!-- markdownlint-disable MD033 -->
 <a href="https://holopin.io/@warengonzaga">
     <img src="https://holopin.me/warengonzaga" width="100%" alt="An image of @warengonzaga's Holopin badges, which is a link to view their full Holopin profile"/>
 </a>
-<!-- markdownlint-disable MD033 -->
+<a href="https://app.daily.dev/warengonzaga">
+    <img src="https://api.daily.dev/devcards/v2/5dwfVl5B1.png?type=default&r=c16" style="min-width: 200px; max-width: 356px; width: 25%" alt="Waren Gonzaga's Dev Card" align="right"/>
+</a>
+<!-- markdownlint-enable MD033 -->
 
 A multi-talented Filipino self-taught software engineer, open-source maintainer/contributor, cybersecurity researcher, tech community builder, web3 engineer, technopreneur, amateur singer/songwriter, and music producer from the Philippines. 💻💖☕
-
-<!-- markdownlint-disable MD033 -->
-<a href="https://app.daily.dev/warengonzaga">
-    <img src="https://api.daily.dev/devcards/v2/5dwfVl5B1.png?type=default&r=c16" style="min-width: 200px; max-width: 356px; width: 30%" alt="Waren Gonzaga's Dev Card" align="right"/>
-</a>
-<!-- markdownlint-disable MD033 -->
 
 - 💝 Author of multiple open source projects (~50 to date).
 - 💼 Customer Success Engineer @ [thirdweb](https://github.com/thirdweb-dev)
@@ -90,14 +84,19 @@ Wanna have chat with me? Join my tech communities!
 
 </details>
 
+<!-- markdownlint-enable MD033 -->
+
 ---
 
 💻💖☕ by [Waren Gonzaga](https://warengonzaga.com) | [YHWH](https://youtu.be/HHrxS4diLew?t=44) 🙏
 
+<!-- 
 [personal website]: https://warengonzaga.com
-[business website]: https://wgcompanyhq.com
+[business website]: https://wgtechlabs.com
 [biolink]: https://bio.link/warengonzaga
 [facebook]: https://facebook.com/warengonzagaofficial
+[instagram]: https://instagram.com/warengonzagaofficial
 [twitter]: https://twitter.com/warengonzaga
-[instagram]: https://instagram.com/wrngnzg
 [youtube]: https://youtube.com/warengonzaga
+[github]: https://github.com/warengonzaga
+-->
