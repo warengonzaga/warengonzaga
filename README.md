@@ -1,7 +1,6 @@
-# 👋 Waren Gonzaga (💻💖☕)
+# 👋 Waren Gonzaga (💻💖☕) [![buymeacoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%E2%9D%A4-%237b3fe4.svg?&logo=buymeacoffee&logoColor=white&labelColor=181717&style=flat-square)](https://github.com/sponsors/warengonzaga) [![sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-%23db61a2.svg?&logo=github&logoColor=white&labelColor=181717&style=flat-square)](https://github.com/sponsors/warengonzaga)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=30&pause=1000&color=7B3FE4&width=435&lines=Self-taught+Software+Engineer;Open-Source+Maintainer;Open-Source+Contributor;Open-Source+Advocate;Cybersecurity+Researcher;Web3+Engineer;Technopreneur)
-[![An image of @warengonzaga's Holopin badges, which is a link to view their full Holopin profile](https://www.holopin.io/api/user/board?user=warengonzaga)](https://holopin.io/@warengonzaga)
+[![holopin badges](https://www.holopin.io/api/user/board?user=warengonzaga)](https://holopin.io/@warengonzaga)
 
 <!-- markdownlint-disable MD033 -->
 <a href="https://app.daily.dev/warengonzaga">
@@ -9,9 +8,10 @@
 </a>
 <!-- markdownlint-enable MD033 -->
 
-[![nominate](https://img.shields.io/badge/Star-Nominate%20@warengonzaga-ffdd00.svg?logo=github&labelColor=181717&longCache=true&style=for-the-badge)](https://stars.github.com/nominate) [![sponsors](https://img.shields.io/badge/sponsor-%E2%9D%A4-%23db61a2.svg?&logo=github&logoColor=white&labelColor=181717&style=for-the-badge)](https://github.com/sponsors/warengonzaga) [![buymeacoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%E2%9D%A4-%237b3fe4.svg?&logo=buymeacoffee&logoColor=white&labelColor=181717&style=for-the-badge)](https://github.com/sponsors/warengonzaga)
-
+![typing svg](https://readme-typing-svg.demolab.com?font=Roboto&size=30&pause=1000&color=7B3FE4&width=435&lines=Self-taught+Software+Engineer;Open-Source+Maintainer;Open-Source+Contributor;Open-Source+Advocate;Cybersecurity+Researcher;Web3+Engineer;Technopreneur)
 A multi-talented Filipino self-taught software engineer, open-source maintainer/contributor, cybersecurity researcher, tech community builder, web3 engineer, technopreneur, amateur singer/songwriter, and music producer from the Philippines. 💻💖☕
+
+[![nominate](https://img.shields.io/badge/Star-Nominate%20@warengonzaga-ffdd00.svg?logo=github&labelColor=181717&longCache=true&style=for-the-badge)](https://stars.github.com/nominate)
 
 - 💝 Author of multiple open source projects (~50 to date).
 - 💼 Customer Success Engineer @ [thirdweb](https://github.com/thirdweb-dev)
