@@ -1,19 +1,31 @@
-# Hi, I'm Waren Gonzaga (💻💖☕) [![nominate](https://img.shields.io/badge/nominate-%20@warengonzaga%20as%20GitHub%20Star-yellow.svg?logo=github&labelColor=181717&longCache=true&style=flat-square)](https://stars.github.com/nominate)
+# 👋 Waren Gonzaga (💻💖☕) [![nominate](https://img.shields.io/badge/nominate-%20@warengonzaga%20as%20GitHub%20Star-yellow.svg?logo=github&labelColor=181717&longCache=true&style=flat-square)](https://stars.github.com/nominate)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Self-taught+Software+Engineer;Open-Source+Maintainer;Open-Source+Advocate;Cybersecurity+Researcher;Web3+Enthusiast;Technopreneur)](https://git.io/typing-svg)
+<!-- markdownlint-disable MD033 -->
+<div style="display: inline-flex; align-items: center;">
+  <span style="color: #7B3FE4; font-size: 30px; font-family: Roboto;">I'm</span>
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=30&pause=1000&color=7B3FE4&width=435&lines=a+self-taught+Software+Engineer;an+Open-Source+Maintainer;an+Open-Source+Contributor;an+Open-Source+Advocate;a+Cybersecurity+Researcher;a+Web3+Engineer;a+Technopreneur;an+amateur+Singer%2FSongwriter;a+Music+Producer" alt="Typing SVG" style="margin-left: 10px; margin-top: 20px; min-width: 435px; flex-shrink: 0;" />
+</div>
 
-[![An image of @warengonzaga's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/warengonzaga)](https://holopin.io/@warengonzaga)
+<a href="https://holopin.io/@warengonzaga">
+    <img src="https://holopin.me/warengonzaga" width="100%" alt="An image of @warengonzaga's Holopin badges, which is a link to view their full Holopin profile"/>
+</a>
+<!-- markdownlint-disable MD033 -->
 
-A Filipino self-taught software engineer, open-source maintainer, cybersecurity researcher, tech community builder, web3 enthusiast, and technopreneur from the Philippines. 💻💖☕
+A multi-talented Filipino self-taught software engineer, open-source maintainer/contributor, cybersecurity researcher, tech community builder, web3 engineer, technopreneur, amateur singer/songwriter, and music producer from the Philippines. 💻💖☕
 
-🎙 [Recent Tech Talks](https://www.polywork.com/warengonzaga/collections/1284) • 📦 [Open Source Updates](https://www.polywork.com/warengonzaga/collections/1194)
+<!-- markdownlint-disable MD033 -->
+<a href="https://app.daily.dev/warengonzaga">
+    <img src="https://api.daily.dev/devcards/v2/5dwfVl5B1.png?type=default&r=c16" style="min-width: 200px; max-width: 356px; width: 30%" alt="Waren Gonzaga's Dev Card" align="right"/>
+</a>
+<!-- markdownlint-disable MD033 -->
 
 - 💝 Author of multiple open source projects (~50 to date).
 - 💼 Customer Success Engineer @ [thirdweb](https://github.com/thirdweb-dev)
 - 🌱 Building @ [WG Technology Labs](https://wgtechlabs.com)
+- 🎵 Making Music @ [Barangay Kuwago](https://bio.brgykuwagomusic.com/)
 - 🤝 Co-Founder @ [OSS Philippines](https://ossph.org)
 - 😎 Co-Founder @ [Web3 Philippines](https://web3philippines.org)
-- 🔏 Bug bounty hunter in free time.
+- 🔏 Bug bounty hunter @ [Bugcrowd](https://bugcrowd.com/warengonzaga)/[HackerOne](https://hackerone.com/warengonzaga)/[Hack The Box](https://app.hackthebox.com/profile/72159)
 - ☕ Coffee lover, turning it into code, [you can buy me a coffee](https://buymeacoff.ee/warengonzaga) or [send me some love](https://github.com/sponsors/warengonzaga).
 - 🎯 Wasting my time to save other people's time.
 - 💡 [Learn more about me](https://bio.link/warengonzaga).
