@@ -9,6 +9,7 @@
 <!-- markdownlint-enable MD033 -->
 
 ![typing svg](https://readme-typing-svg.demolab.com?font=Roboto&size=30&pause=1000&color=7B3FE4&width=435&lines=Self-taught+Software+Engineer;Open-Source+Maintainer;Open-Source+Contributor;Open-Source+Advocate;Cybersecurity+Researcher;Web3+Engineer;Technopreneur)
+
 A multi-talented Filipino self-taught software engineer, open-source maintainer/contributor, cybersecurity researcher, tech community builder, web3 engineer, technopreneur, amateur singer/songwriter, and music producer from the Philippines. 💻💖☕
 
 [![nominate](https://img.shields.io/badge/Star-Nominate%20@warengonzaga-ffdd00.svg?logo=github&labelColor=181717&longCache=true&style=for-the-badge)](https://stars.github.com/nominate)
