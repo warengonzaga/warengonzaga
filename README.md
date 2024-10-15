@@ -1,15 +1,15 @@
-# 👋 Waren Gonzaga (💻💖☕) [![nominate](https://img.shields.io/badge/nominate-%20@warengonzaga%20as%20GitHub%20Star-yellow.svg?logo=github&labelColor=181717&longCache=true&style=flat-square)](https://stars.github.com/nominate)
+# 👋 Waren Gonzaga (💻💖☕)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=30&pause=1000&color=7B3FE4&width=435&lines=Self-taught+Software+Engineer;Open-Source+Maintainer;Open-Source+Contributor;Open-Source+Advocate;Cybersecurity+Researcher;Web3+Engineer;Technopreneur;Amateur+Singer%2FSongwriter;Music+Producer)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=30&pause=1000&color=7B3FE4&width=435&lines=Self-taught+Software+Engineer;Open-Source+Maintainer;Open-Source+Contributor;Open-Source+Advocate;Cybersecurity+Researcher;Web3+Engineer;Technopreneur)
+[![An image of @warengonzaga's Holopin badges, which is a link to view their full Holopin profile](https://www.holopin.io/api/user/board?user=warengonzaga)](https://holopin.io/@warengonzaga)
 
 <!-- markdownlint-disable MD033 -->
-<a href="https://holopin.io/@warengonzaga">
-    <img src="https://www.holopin.io/api/user/board?user=warengonzaga" width="100%" alt="An image of @warengonzaga's Holopin badges, which is a link to view their full Holopin profile"/>
-</a>
 <a href="https://app.daily.dev/warengonzaga">
-    <img src="https://api.daily.dev/devcards/v2/5dwfVl5B1.png?type=default&r=c16" style="min-width: 200px; max-width: 356px; width: 30%" alt="Waren Gonzaga's Dev Card" align="right"/>
+    <img src="https://api.daily.dev/devcards/v2/5dwfVl5B1.png?type=default&r=c16" style="min-width: 200px; max-width: 250px; width: 30%" alt="Waren Gonzaga's Dev Card" align="right"/>
 </a>
 <!-- markdownlint-enable MD033 -->
+
+[![nominate](https://img.shields.io/badge/Star-Nominate%20@warengonzaga-ffdd00.svg?logo=github&labelColor=181717&longCache=true&style=for-the-badge)](https://stars.github.com/nominate) [![sponsors](https://img.shields.io/badge/sponsor-%E2%9D%A4-%23db61a2.svg?&logo=github&logoColor=white&labelColor=181717&style=for-the-badge)](https://github.com/sponsors/warengonzaga) [![buymeacoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%E2%9D%A4-%237b3fe4.svg?&logo=buymeacoffee&logoColor=white&labelColor=181717&style=for-the-badge)](https://github.com/sponsors/warengonzaga)
 
 A multi-talented Filipino self-taught software engineer, open-source maintainer/contributor, cybersecurity researcher, tech community builder, web3 engineer, technopreneur, amateur singer/songwriter, and music producer from the Philippines. 💻💖☕
 
