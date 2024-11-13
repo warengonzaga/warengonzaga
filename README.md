@@ -62,11 +62,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10](https://github.com/warengonzaga/magic-commit/issues/10#issuecomment-2425386203) in [warengonzaga/magic-commit](https://github.com/warengonzaga/magic-commit)
-2. 🗣 Commented on [#10](https://github.com/warengonzaga/magic-commit/issues/10#issuecomment-2424656855) in [warengonzaga/magic-commit](https://github.com/warengonzaga/magic-commit)
-3. ❗ Opened issue [#28](https://github.com/warengonzaga/magic-commit/issues/28) in [warengonzaga/magic-commit](https://github.com/warengonzaga/magic-commit)
-4. ❗ Opened issue [#27](https://github.com/warengonzaga/magic-commit/issues/27) in [warengonzaga/magic-commit](https://github.com/warengonzaga/magic-commit)
-5. ❗ Opened issue [#26](https://github.com/warengonzaga/magic-commit/issues/26) in [warengonzaga/magic-commit](https://github.com/warengonzaga/magic-commit)
+1. 🗣 Commented on [#219](https://github.com/thirdweb-dev/unity-sdk/issues/219#issuecomment-2472720667) in [thirdweb-dev/unity-sdk](https://github.com/thirdweb-dev/unity-sdk)
+2. 🗣 Commented on [#10](https://github.com/warengonzaga/magic-commit/issues/10#issuecomment-2425386203) in [warengonzaga/magic-commit](https://github.com/warengonzaga/magic-commit)
+3. 🗣 Commented on [#10](https://github.com/warengonzaga/magic-commit/issues/10#issuecomment-2424656855) in [warengonzaga/magic-commit](https://github.com/warengonzaga/magic-commit)
+4. ❗ Opened issue [#28](https://github.com/warengonzaga/magic-commit/issues/28) in [warengonzaga/magic-commit](https://github.com/warengonzaga/magic-commit)
+5. ❗ Opened issue [#27](https://github.com/warengonzaga/magic-commit/issues/27) in [warengonzaga/magic-commit](https://github.com/warengonzaga/magic-commit)
 <!--END_SECTION:activity-->
 
 </details>
