@@ -62,11 +62,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1815](https://github.com/animate-css/animate.css/pull/1815#issuecomment-2527676542) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
-2. 🗣 Commented on [#1772](https://github.com/animate-css/animate.css/pull/1772#issuecomment-2527673271) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
-3. 🗣 Commented on [#102030](https://github.com/MetaMask/eth-phishing-detect/pull/102030#issuecomment-2500115709) in [MetaMask/eth-phishing-detect](https://github.com/MetaMask/eth-phishing-detect)
-4. 💪 Opened PR [#102130](https://github.com/MetaMask/eth-phishing-detect/pull/102130) in [MetaMask/eth-phishing-detect](https://github.com/MetaMask/eth-phishing-detect)
-5. ❌ Closed PR [#102030](https://github.com/MetaMask/eth-phishing-detect/pull/102030) in [MetaMask/eth-phishing-detect](https://github.com/MetaMask/eth-phishing-detect)
+1. 🎉 Merged PR [#6](https://github.com/thirdweb-example/engine-deploy-local/pull/6) in [thirdweb-example/engine-deploy-local](https://github.com/thirdweb-example/engine-deploy-local)
+2. 🗣 Commented on [#1815](https://github.com/animate-css/animate.css/pull/1815#issuecomment-2527676542) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+3. 🗣 Commented on [#1772](https://github.com/animate-css/animate.css/pull/1772#issuecomment-2527673271) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+4. 🗣 Commented on [#102030](https://github.com/MetaMask/eth-phishing-detect/pull/102030#issuecomment-2500115709) in [MetaMask/eth-phishing-detect](https://github.com/MetaMask/eth-phishing-detect)
+5. 💪 Opened PR [#102130](https://github.com/MetaMask/eth-phishing-detect/pull/102130) in [MetaMask/eth-phishing-detect](https://github.com/MetaMask/eth-phishing-detect)
 <!--END_SECTION:activity-->
 
 </details>
