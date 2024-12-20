@@ -49,11 +49,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128240 <b>Latest Blogs Posts</b></summary><br/>
 
 <!-- BLOG-POST-LIST:START -->
-- [My Experience as Maintainer for Hacktoberfest 2021](https://dev.to/warengonzaga/my-experience-as-maintainer-for-hacktoberfest-2021-4opm)
-- [7 Helpful GitHub Repositories for Developers](https://dev.to/warengonzaga/7-helpful-github-repositories-for-developers-2kkm)
-- [GitHub Codespaces](https://dev.to/warengonzaga/github-codespaces-1i8k)
-- [Animate.css v4 Update!](https://dev.to/warengonzaga/animate-css-v4-update-18m8)
-- [An open-source curl-based command line tracker for coronavirus or covid-19 with historical chart.](https://dev.to/warengonzaga/an-open-source-curl-based-command-line-tracker-for-coronavirus-or-covid-19-with-historical-chart-3op9)
+- [How to Set Up thirdweb Engine Quickly On Your Local Machine](https://blog.warengonzaga.com/how-to-set-up-thirdweb-engine-quickly-on-your-local-machine)
+- [How to Deploy a Self-hosted thirdweb Engine On Railway In Less Than 3 Minutes](https://blog.warengonzaga.com/how-to-deploy-a-self-hosted-thirdweb-engine-on-railway-in-less-than-3-minutes)
+- [Enable Buy Me a Coffee to your Github Open Source Project](https://blog.warengonzaga.com/how-to-enable-buy-me-a-coffee-to-your-open-source-project-on-github)
+- [How to Recover the Ownership of Your thirdweb Pre-built Contract](https://blog.warengonzaga.com/how-to-recover-the-ownership-of-your-thirdweb-pre-built-contract)
+- [Deploy Next.js App to GitHub Pages with new GitHub Actions](https://blog.warengonzaga.com/deploy-nextjs-app-to-github-pages-with-new-github-actions)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
