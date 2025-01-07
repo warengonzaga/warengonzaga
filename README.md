@@ -62,11 +62,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/RLabs-Inc/rlabs/issues/1) in [RLabs-Inc/rlabs](https://github.com/RLabs-Inc/rlabs)
-2. 🎉 Merged PR [#6](https://github.com/thirdweb-example/engine-deploy-local/pull/6) in [thirdweb-example/engine-deploy-local](https://github.com/thirdweb-example/engine-deploy-local)
-3. 🗣 Commented on [#1815](https://github.com/animate-css/animate.css/pull/1815#issuecomment-2527676542) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
-4. 🗣 Commented on [#1772](https://github.com/animate-css/animate.css/pull/1772#issuecomment-2527673271) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
-5. 🗣 Commented on [#102030](https://github.com/MetaMask/eth-phishing-detect/pull/102030#issuecomment-2500115709) in [MetaMask/eth-phishing-detect](https://github.com/MetaMask/eth-phishing-detect)
+1. ❗ Opened issue [#11](https://github.com/warengonzaga/thirdweb-wp/issues/11) in [warengonzaga/thirdweb-wp](https://github.com/warengonzaga/thirdweb-wp)
+2. ❗ Opened issue [#1](https://github.com/RLabs-Inc/rlabs/issues/1) in [RLabs-Inc/rlabs](https://github.com/RLabs-Inc/rlabs)
+3. 🎉 Merged PR [#6](https://github.com/thirdweb-example/engine-deploy-local/pull/6) in [thirdweb-example/engine-deploy-local](https://github.com/thirdweb-example/engine-deploy-local)
+4. 🗣 Commented on [#1815](https://github.com/animate-css/animate.css/pull/1815#issuecomment-2527676542) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+5. 🗣 Commented on [#1772](https://github.com/animate-css/animate.css/pull/1772#issuecomment-2527673271) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
 <!--END_SECTION:activity-->
 
 </details>
