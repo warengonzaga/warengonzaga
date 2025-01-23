@@ -62,11 +62,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.0.2](https://github.com/warengonzaga/thirdweb-nft-minting-page-railway/releases/tag/v0.0.2) in [warengonzaga/thirdweb-nft-minting-page-railway](https://github.com/warengonzaga/thirdweb-nft-minting-page-railway)
-2. ❗ Opened issue [#4](https://github.com/thirdweb-example/nft-minting-template/issues/4) in [thirdweb-example/nft-minting-template](https://github.com/thirdweb-example/nft-minting-template)
-3. ❗ Opened issue [#11](https://github.com/warengonzaga/thirdweb-wp/issues/11) in [warengonzaga/thirdweb-wp](https://github.com/warengonzaga/thirdweb-wp)
-4. ❗ Opened issue [#1](https://github.com/RLabs-Inc/rlabs/issues/1) in [RLabs-Inc/rlabs](https://github.com/RLabs-Inc/rlabs)
-5. 🎉 Merged PR [#6](https://github.com/thirdweb-example/engine-deploy-local/pull/6) in [thirdweb-example/engine-deploy-local](https://github.com/thirdweb-example/engine-deploy-local)
+1. 🗣 Commented on [#4](https://github.com/thirdweb-example/nft-minting-template/issues/4#issuecomment-2608748119) in [thirdweb-example/nft-minting-template](https://github.com/thirdweb-example/nft-minting-template)
+2. 🔒 Closed issue [#4](https://github.com/thirdweb-example/nft-minting-template/issues/4) in [thirdweb-example/nft-minting-template](https://github.com/thirdweb-example/nft-minting-template)
+3. 🚀 Published release [v0.0.2](https://github.com/warengonzaga/thirdweb-nft-minting-page-railway/releases/tag/v0.0.2) in [warengonzaga/thirdweb-nft-minting-page-railway](https://github.com/warengonzaga/thirdweb-nft-minting-page-railway)
+4. ❗ Opened issue [#4](https://github.com/thirdweb-example/nft-minting-template/issues/4) in [thirdweb-example/nft-minting-template](https://github.com/thirdweb-example/nft-minting-template)
+5. ❗ Opened issue [#11](https://github.com/warengonzaga/thirdweb-wp/issues/11) in [warengonzaga/thirdweb-wp](https://github.com/warengonzaga/thirdweb-wp)
 <!--END_SECTION:activity-->
 
 </details>
