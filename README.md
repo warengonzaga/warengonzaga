@@ -62,11 +62,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6081](https://github.com/thirdweb-dev/js/issues/6081#issuecomment-2620315944) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)
-2. 🗣 Commented on [#4](https://github.com/thirdweb-example/nft-minting-template/issues/4#issuecomment-2608748119) in [thirdweb-example/nft-minting-template](https://github.com/thirdweb-example/nft-minting-template)
-3. 🔒 Closed issue [#4](https://github.com/thirdweb-example/nft-minting-template/issues/4) in [thirdweb-example/nft-minting-template](https://github.com/thirdweb-example/nft-minting-template)
-4. 🚀 Published release [v0.0.2](https://github.com/warengonzaga/thirdweb-nft-minting-page-railway/releases/tag/v0.0.2) in [warengonzaga/thirdweb-nft-minting-page-railway](https://github.com/warengonzaga/thirdweb-nft-minting-page-railway)
-5. ❗ Opened issue [#4](https://github.com/thirdweb-example/nft-minting-template/issues/4) in [thirdweb-example/nft-minting-template](https://github.com/thirdweb-example/nft-minting-template)
+1. 🗣 Commented on [#6081](https://github.com/thirdweb-dev/js/issues/6081#issuecomment-2647018614) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)
+2. 🔒 Closed issue [#6081](https://github.com/thirdweb-dev/js/issues/6081) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)
+3. 🗣 Commented on [#6081](https://github.com/thirdweb-dev/js/issues/6081#issuecomment-2620315944) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)
+4. 🗣 Commented on [#4](https://github.com/thirdweb-example/nft-minting-template/issues/4#issuecomment-2608748119) in [thirdweb-example/nft-minting-template](https://github.com/thirdweb-example/nft-minting-template)
+5. 🔒 Closed issue [#4](https://github.com/thirdweb-example/nft-minting-template/issues/4) in [thirdweb-example/nft-minting-template](https://github.com/thirdweb-example/nft-minting-template)
 <!--END_SECTION:activity-->
 
 </details>
