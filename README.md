@@ -1,7 +1,5 @@
 # 👋 Waren Gonzaga (💻💖☕) [![buymeacoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%E2%9D%A4-%237b3fe4.svg?&logo=buymeacoffee&logoColor=white&labelColor=181717&style=flat-square)](https://github.com/sponsors/warengonzaga) [![sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-%23db61a2.svg?&logo=github&logoColor=white&labelColor=181717&style=flat-square)](https://github.com/sponsors/warengonzaga)
 
-[![holopin badges](https://www.holopin.io/api/user/board?user=warengonzaga)](https://holopin.io/@warengonzaga)
-
 <!-- markdownlint-disable MD033 -->
 <a href="https://app.daily.dev/warengonzaga">
     <img src="https://api.daily.dev/devcards/v2/5dwfVl5B1.png?type=default&r=c16" style="min-width: 200px; max-width: 250px; width: 30%" alt="Waren Gonzaga's Dev Card" align="right"/>
@@ -16,14 +14,18 @@ A multi-talented Filipino self-taught software engineer, open-source maintainer/
 
 - 💝 Author of multiple open source projects (~50 to date).
 - 💼 Customer Success Engineer @ [thirdweb](https://github.com/thirdweb-dev)
-- 🌱 Building @ [WG Technology Labs](https://wgtechlabs.com)
-- 🎵 Making Music @ [Barangay Kuwago](https://bio.brgykuwagomusic.com/)
-- 🤝 Co-Founder @ [OSS Philippines](https://ossph.org)
-- 😎 Co-Founder @ [Web3 Philippines](https://web3philippines.org)
+- 🌱 Founder @ [WG Technology Labs](https://wgtechlabs.com)
+- 🌱 Founder @ [WG Music Records](https://wgmusicrecords.com)
+- 🎵 Artist @ [Barangay Kuwago](https://brgykuwagomusic.com/)/[Siren of the Stars](https://sirenofthestarsmusic.com)
 - 🔏 Bug bounty hunter @ [Bugcrowd](https://bugcrowd.com/warengonzaga)/[HackerOne](https://hackerone.com/warengonzaga)/[Hack The Box](https://app.hackthebox.com/profile/72159)
 - ☕ Coffee lover, turning it into code, [you can buy me a coffee](https://buymeacoff.ee/warengonzaga) or [send me some love](https://github.com/sponsors/warengonzaga).
 - 🎯 Wasting my time to save other people's time.
 - 💡 [Learn more about me](https://bio.link/warengonzaga).
+
+<!--
+- 🤝 Co-Founder @ [OSS Philippines](https://ossph.org)
+- 😎 Co-Founder @ [Web3 Philippines](https://web3philippines.org)
+-->
 
 ## 🎧 Spotify Playing
 
@@ -35,12 +37,13 @@ A multi-talented Filipino self-taught software engineer, open-source maintainer/
 
 ![skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,php,wordpress,nodejs,vue,react,mongodb,mysql,py,vim,docker,kubernetes,md,git,figma,bash,cloudflare,jquery,nginx,vscode&theme=light)
 
+<!--
 ## 🌏 Co-Founded Tech Communities
 
 Wanna have chat with me? Join my tech communities!
 
 [![Community](https://discordapp.com/api/guilds/970915199617990707/widget.png?style=banner2)](https://web3philippines.org) [![Community](https://discordapp.com/api/guilds/905496362982981723/widget.png?style=banner2)](https://ossph.org)
-
+-->
 ---
 
 <!-- markdownlint-disable MD033 -->
