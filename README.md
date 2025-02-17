@@ -65,11 +65,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#62](https://github.com/OSSPhilippines/ossph.org/issues/62#issuecomment-2660778809) in [OSSPhilippines/ossph.org](https://github.com/OSSPhilippines/ossph.org)
-2. 🔒 Closed issue [#62](https://github.com/OSSPhilippines/ossph.org/issues/62) in [OSSPhilippines/ossph.org](https://github.com/OSSPhilippines/ossph.org)
-3. 🗣 Commented on [#1631](https://github.com/animate-css/animate.css/issues/1631#issuecomment-2660773303) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
-4. 🗣 Commented on [#27](https://github.com/warengonzaga/magic-commit/issues/27#issuecomment-2647211106) in [warengonzaga/magic-commit](https://github.com/warengonzaga/magic-commit)
-5. 🔒 Closed issue [#22](https://github.com/warengonzaga/magic-commit/issues/22) in [warengonzaga/magic-commit](https://github.com/warengonzaga/magic-commit)
+1. 💪 Opened PR [#6270](https://github.com/thirdweb-dev/js/pull/6270) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)
+2. 🗣 Commented on [#62](https://github.com/OSSPhilippines/ossph.org/issues/62#issuecomment-2660778809) in [OSSPhilippines/ossph.org](https://github.com/OSSPhilippines/ossph.org)
+3. 🔒 Closed issue [#62](https://github.com/OSSPhilippines/ossph.org/issues/62) in [OSSPhilippines/ossph.org](https://github.com/OSSPhilippines/ossph.org)
+4. 🗣 Commented on [#1631](https://github.com/animate-css/animate.css/issues/1631#issuecomment-2660773303) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+5. 🗣 Commented on [#27](https://github.com/warengonzaga/magic-commit/issues/27#issuecomment-2647211106) in [warengonzaga/magic-commit](https://github.com/warengonzaga/magic-commit)
 <!--END_SECTION:activity-->
 
 </details>
