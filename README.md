@@ -65,11 +65,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/warengonzaga/warengonzaga/pull/3) in [warengonzaga/warengonzaga](https://github.com/warengonzaga/warengonzaga)
-2. 💪 Opened PR [#3](https://github.com/warengonzaga/warengonzaga/pull/3) in [warengonzaga/warengonzaga](https://github.com/warengonzaga/warengonzaga)
-3. 💪 Opened PR [#6302](https://github.com/thirdweb-dev/js/pull/6302) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)
-4. 💪 Opened PR [#6270](https://github.com/thirdweb-dev/js/pull/6270) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)
-5. 🗣 Commented on [#62](https://github.com/OSSPhilippines/ossph.org/issues/62#issuecomment-2660778809) in [OSSPhilippines/ossph.org](https://github.com/OSSPhilippines/ossph.org)
+1. 🗣 Commented on [#54](https://github.com/OSSPhilippines/philippines-travel-level-map/issues/54#issuecomment-2692774535) in [OSSPhilippines/philippines-travel-level-map](https://github.com/OSSPhilippines/philippines-travel-level-map)
+2. 🎉 Merged PR [#3](https://github.com/warengonzaga/warengonzaga/pull/3) in [warengonzaga/warengonzaga](https://github.com/warengonzaga/warengonzaga)
+3. 💪 Opened PR [#3](https://github.com/warengonzaga/warengonzaga/pull/3) in [warengonzaga/warengonzaga](https://github.com/warengonzaga/warengonzaga)
+4. 💪 Opened PR [#6302](https://github.com/thirdweb-dev/js/pull/6302) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)
+5. 💪 Opened PR [#6270](https://github.com/thirdweb-dev/js/pull/6270) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)
 <!--END_SECTION:activity-->
 
 </details>
