@@ -65,11 +65,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6425](https://github.com/thirdweb-dev/js/pull/6425) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)
-2. 🗣 Commented on [#1847](https://github.com/animate-css/animate.css/pull/1847#issuecomment-2693022833) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
-3. 🎉 Merged PR [#55](https://github.com/OSSPhilippines/philippines-travel-level-map/pull/55) in [OSSPhilippines/philippines-travel-level-map](https://github.com/OSSPhilippines/philippines-travel-level-map)
-4. 💪 Opened PR [#55](https://github.com/OSSPhilippines/philippines-travel-level-map/pull/55) in [OSSPhilippines/philippines-travel-level-map](https://github.com/OSSPhilippines/philippines-travel-level-map)
-5. 🗣 Commented on [#54](https://github.com/OSSPhilippines/philippines-travel-level-map/issues/54#issuecomment-2692774535) in [OSSPhilippines/philippines-travel-level-map](https://github.com/OSSPhilippines/philippines-travel-level-map)
+1. 🗣 Commented on [#5756](https://github.com/calcom/cal.com/issues/5756#issuecomment-2721164107) in [calcom/cal.com](https://github.com/calcom/cal.com)
+2. 💪 Opened PR [#6425](https://github.com/thirdweb-dev/js/pull/6425) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)
+3. 🗣 Commented on [#1847](https://github.com/animate-css/animate.css/pull/1847#issuecomment-2693022833) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+4. 🎉 Merged PR [#55](https://github.com/OSSPhilippines/philippines-travel-level-map/pull/55) in [OSSPhilippines/philippines-travel-level-map](https://github.com/OSSPhilippines/philippines-travel-level-map)
+5. 💪 Opened PR [#55](https://github.com/OSSPhilippines/philippines-travel-level-map/pull/55) in [OSSPhilippines/philippines-travel-level-map](https://github.com/OSSPhilippines/philippines-travel-level-map)
 <!--END_SECTION:activity-->
 
 </details>
