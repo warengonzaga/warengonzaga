@@ -65,11 +65,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/thirdweb-dev/ai/pull/2) in [thirdweb-dev/ai](https://github.com/thirdweb-dev/ai)
-2. 🗣 Commented on [#6](https://github.com/thirdweb-example/nft-minting-template/pull/6#issuecomment-2731560531) in [thirdweb-example/nft-minting-template](https://github.com/thirdweb-example/nft-minting-template)
-3. 💪 Opened PR [#7](https://github.com/thirdweb-example/nft-minting-template/pull/7) in [thirdweb-example/nft-minting-template](https://github.com/thirdweb-example/nft-minting-template)
-4. 🗣 Commented on [#5756](https://github.com/calcom/cal.com/issues/5756#issuecomment-2721164107) in [calcom/cal.com](https://github.com/calcom/cal.com)
-5. 💪 Opened PR [#6425](https://github.com/thirdweb-dev/js/pull/6425) in [thirdweb-dev/js](https://github.com/thirdweb-dev/js)
+1. 💪 Opened PR [#19](https://github.com/thirdweb-example/thirdweb-auth-next/pull/19) in [thirdweb-example/thirdweb-auth-next](https://github.com/thirdweb-example/thirdweb-auth-next)
+2. 💪 Opened PR [#2](https://github.com/thirdweb-dev/ai/pull/2) in [thirdweb-dev/ai](https://github.com/thirdweb-dev/ai)
+3. 🗣 Commented on [#6](https://github.com/thirdweb-example/nft-minting-template/pull/6#issuecomment-2731560531) in [thirdweb-example/nft-minting-template](https://github.com/thirdweb-example/nft-minting-template)
+4. 💪 Opened PR [#7](https://github.com/thirdweb-example/nft-minting-template/pull/7) in [thirdweb-example/nft-minting-template](https://github.com/thirdweb-example/nft-minting-template)
+5. 🗣 Commented on [#5756](https://github.com/calcom/cal.com/issues/5756#issuecomment-2721164107) in [calcom/cal.com](https://github.com/calcom/cal.com)
 <!--END_SECTION:activity-->
 
 </details>
