@@ -65,11 +65,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/thirdweb-example/nft-minting-template/pull/7#issuecomment-2734945115) in [thirdweb-example/nft-minting-template](https://github.com/thirdweb-example/nft-minting-template)
-2. ❌ Closed PR [#7](https://github.com/thirdweb-example/nft-minting-template/pull/7) in [thirdweb-example/nft-minting-template](https://github.com/thirdweb-example/nft-minting-template)
-3. 💪 Opened PR [#19](https://github.com/thirdweb-example/thirdweb-auth-next/pull/19) in [thirdweb-example/thirdweb-auth-next](https://github.com/thirdweb-example/thirdweb-auth-next)
-4. 💪 Opened PR [#2](https://github.com/thirdweb-dev/ai/pull/2) in [thirdweb-dev/ai](https://github.com/thirdweb-dev/ai)
-5. 🗣 Commented on [#6](https://github.com/thirdweb-example/nft-minting-template/pull/6#issuecomment-2731560531) in [thirdweb-example/nft-minting-template](https://github.com/thirdweb-example/nft-minting-template)
+1. 🗣 Commented on [#54](https://github.com/OSSPhilippines/philippines-travel-level-map/issues/54#issuecomment-2743549522) in [OSSPhilippines/philippines-travel-level-map](https://github.com/OSSPhilippines/philippines-travel-level-map)
+2. 🗣 Commented on [#7](https://github.com/thirdweb-example/nft-minting-template/pull/7#issuecomment-2734945115) in [thirdweb-example/nft-minting-template](https://github.com/thirdweb-example/nft-minting-template)
+3. ❌ Closed PR [#7](https://github.com/thirdweb-example/nft-minting-template/pull/7) in [thirdweb-example/nft-minting-template](https://github.com/thirdweb-example/nft-minting-template)
+4. 💪 Opened PR [#19](https://github.com/thirdweb-example/thirdweb-auth-next/pull/19) in [thirdweb-example/thirdweb-auth-next](https://github.com/thirdweb-example/thirdweb-auth-next)
+5. 💪 Opened PR [#2](https://github.com/thirdweb-dev/ai/pull/2) in [thirdweb-dev/ai](https://github.com/thirdweb-dev/ai)
 <!--END_SECTION:activity-->
 
 </details>
