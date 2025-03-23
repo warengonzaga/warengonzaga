@@ -65,11 +65,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#54](https://github.com/OSSPhilippines/philippines-travel-level-map/issues/54#issuecomment-2743549522) in [OSSPhilippines/philippines-travel-level-map](https://github.com/OSSPhilippines/philippines-travel-level-map)
-2. 🗣 Commented on [#7](https://github.com/thirdweb-example/nft-minting-template/pull/7#issuecomment-2734945115) in [thirdweb-example/nft-minting-template](https://github.com/thirdweb-example/nft-minting-template)
-3. ❌ Closed PR [#7](https://github.com/thirdweb-example/nft-minting-template/pull/7) in [thirdweb-example/nft-minting-template](https://github.com/thirdweb-example/nft-minting-template)
-4. 💪 Opened PR [#19](https://github.com/thirdweb-example/thirdweb-auth-next/pull/19) in [thirdweb-example/thirdweb-auth-next](https://github.com/thirdweb-example/thirdweb-auth-next)
-5. 💪 Opened PR [#2](https://github.com/thirdweb-dev/ai/pull/2) in [thirdweb-dev/ai](https://github.com/thirdweb-dev/ai)
+1. 🗣 Commented on [#15](https://github.com/OSSPhilippines/philippines-travel-level-map/issues/15#issuecomment-2745372419) in [OSSPhilippines/philippines-travel-level-map](https://github.com/OSSPhilippines/philippines-travel-level-map)
+2. 🗣 Commented on [#49](https://github.com/OSSPhilippines/philippines-travel-level-map/pull/49#issuecomment-2745368725) in [OSSPhilippines/philippines-travel-level-map](https://github.com/OSSPhilippines/philippines-travel-level-map)
+3. ❌ Closed PR [#49](https://github.com/OSSPhilippines/philippines-travel-level-map/pull/49) in [OSSPhilippines/philippines-travel-level-map](https://github.com/OSSPhilippines/philippines-travel-level-map)
+4. 🔒 Closed issue [#10](https://github.com/OSSPhilippines/philippines-travel-level-map/issues/10) in [OSSPhilippines/philippines-travel-level-map](https://github.com/OSSPhilippines/philippines-travel-level-map)
+5. 🗣 Commented on [#54](https://github.com/OSSPhilippines/philippines-travel-level-map/issues/54#issuecomment-2745361229) in [OSSPhilippines/philippines-travel-level-map](https://github.com/OSSPhilippines/philippines-travel-level-map)
 <!--END_SECTION:activity-->
 
 </details>
