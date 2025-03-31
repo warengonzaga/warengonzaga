@@ -65,11 +65,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/wgtechlabs/unthread-discord-bot/pull/3#issuecomment-2766557149) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
-2. 🎉 Merged PR [#3](https://github.com/wgtechlabs/unthread-discord-bot/pull/3) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
-3. 🗣 Commented on [#3](https://github.com/wgtechlabs/unthread-discord-bot/pull/3#issuecomment-2758188649) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
-4. 🗣 Commented on [#5756](https://github.com/calcom/cal.com/issues/5756#issuecomment-2747360503) in [calcom/cal.com](https://github.com/calcom/cal.com)
-5. 🗣 Commented on [#54](https://github.com/OSSPhilippines/philippines-travel-level-map/issues/54#issuecomment-2747056583) in [OSSPhilippines/philippines-travel-level-map](https://github.com/OSSPhilippines/philippines-travel-level-map)
+1. 💪 Opened PR [#6](https://github.com/wgtechlabs/unthread-discord-bot/pull/6) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
+2. 🎉 Merged PR [#5](https://github.com/wgtechlabs/unthread-discord-bot/pull/5) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
+3. 🗣 Commented on [#3](https://github.com/wgtechlabs/unthread-discord-bot/pull/3#issuecomment-2766557149) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
+4. 🎉 Merged PR [#3](https://github.com/wgtechlabs/unthread-discord-bot/pull/3) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
+5. 🗣 Commented on [#3](https://github.com/wgtechlabs/unthread-discord-bot/pull/3#issuecomment-2758188649) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
 <!--END_SECTION:activity-->
 
 </details>
