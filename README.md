@@ -65,11 +65,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5756](https://github.com/calcom/cal.com/issues/5756#issuecomment-2774779779) in [calcom/cal.com](https://github.com/calcom/cal.com)
-2. ❗ Opened issue [#12](https://github.com/wgtechlabs/unthread-discord-bot/issues/12) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
-3. 🗣 Commented on [#5](https://github.com/wgtechlabs/unthread-discord-bot/pull/5#issuecomment-2772982929) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
-4. ❗ Opened issue [#11](https://github.com/wgtechlabs/unthread-discord-bot/issues/11) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
-5. 🗣 Commented on [#5](https://github.com/wgtechlabs/unthread-discord-bot/pull/5#issuecomment-2770993958) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
+1. 🗣 Commented on [#7](https://github.com/wgtechlabs/unthread-discord-bot/issues/7#issuecomment-2775528406) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
+2. 🗣 Commented on [#5756](https://github.com/calcom/cal.com/issues/5756#issuecomment-2774779779) in [calcom/cal.com](https://github.com/calcom/cal.com)
+3. ❗ Opened issue [#12](https://github.com/wgtechlabs/unthread-discord-bot/issues/12) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
+4. 🗣 Commented on [#5](https://github.com/wgtechlabs/unthread-discord-bot/pull/5#issuecomment-2772982929) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
+5. ❗ Opened issue [#11](https://github.com/wgtechlabs/unthread-discord-bot/issues/11) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
 <!--END_SECTION:activity-->
 
 </details>
