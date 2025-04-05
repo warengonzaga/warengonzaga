@@ -13,7 +13,6 @@ A multi-talented Filipino self-taught software engineer, open-source maintainer/
 [![nominate](https://img.shields.io/badge/Star-Nominate%20@warengonzaga-ffdd00.svg?logo=github&labelColor=181717&longCache=true&style=for-the-badge)](https://stars.github.com/nominate)
 
 - 💝 Author of multiple open source projects (~50 to date).
-- 💼 Customer Success Engineer @ [thirdweb](https://github.com/thirdweb-dev)
 - 🌱 Founder @ [WG Technology Labs](https://wgtechlabs.com)
 - 🌱 Founder @ [WG Music Records](https://wgmusicrecords.com)
 - 🎵 Artist @ [Barangay Kuwago](https://brgykuwagomusic.com/)/[Siren of the Stars](https://sirenofthestarsmusic.com)
@@ -26,6 +25,16 @@ A multi-talented Filipino self-taught software engineer, open-source maintainer/
 - 🤝 Co-Founder @ [OSS Philippines](https://ossph.org)
 - 😎 Co-Founder @ [Web3 Philippines](https://web3philippines.org)
 -->
+
+## 🧑‍💻 Talk is Cheap, Here's My Code
+
+<!-- markdownlint-disable MD033 -->
+<a href="https://gitroll.io/profile/utE73x4NTn3S4a883PO02c93s5Db2" target="_blank">
+    <img src="https://gitroll.io/api/badges/profiles/v1/utE73x4NTn3S4a883PO02c93s5Db2?theme=dark" 
+             width="600px"
+             alt="GitRoll Profile Badge"/>
+</a>
+<!-- markdownlint-enable MD033 -->
 
 ## 🎧 Spotify Playing
 
