@@ -74,11 +74,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.2.0-beta.1](https://github.com/wgtechlabs/unthread-discord-bot/releases/tag/0.2.0-beta.1) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
-2. 🚀 Published release [v0.2.0-beta](https://github.com/wgtechlabs/unthread-discord-bot/releases/tag/0.2.0) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
-3. 🔒 Closed issue [#13](https://github.com/wgtechlabs/unthread-discord-bot/issues/13) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
-4. 🔒 Closed issue [#12](https://github.com/wgtechlabs/unthread-discord-bot/issues/12) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
-5. 🔒 Closed issue [#11](https://github.com/wgtechlabs/unthread-discord-bot/issues/11) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
+1. ❗ Opened issue [#18](https://github.com/wgtechlabs/unthread-discord-bot/issues/18) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
+2. 🗣 Commented on [#15](https://github.com/wgtechlabs/unthread-discord-bot/issues/15#issuecomment-2780829710) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
+3. 🔒 Closed issue [#15](https://github.com/wgtechlabs/unthread-discord-bot/issues/15) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
+4. 🚀 Published release [v0.2.0-beta.2](https://github.com/wgtechlabs/unthread-discord-bot/releases/tag/0.2.0-beta.2) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
+5. 🚀 Published release [v0.2.0-beta.1](https://github.com/wgtechlabs/unthread-discord-bot/releases/tag/0.2.0-beta.1) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
 <!--END_SECTION:activity-->
 
 </details>
