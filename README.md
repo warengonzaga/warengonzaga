@@ -74,11 +74,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#14](https://github.com/gitroll-dev/gitroll-profile-card/issues/14) in [gitroll-dev/gitroll-profile-card](https://github.com/gitroll-dev/gitroll-profile-card)
-2. ❗ Opened issue [#18](https://github.com/wgtechlabs/unthread-discord-bot/issues/18) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
-3. 🗣 Commented on [#15](https://github.com/wgtechlabs/unthread-discord-bot/issues/15#issuecomment-2780829710) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
-4. 🔒 Closed issue [#15](https://github.com/wgtechlabs/unthread-discord-bot/issues/15) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
-5. 🚀 Published release [v0.2.0-beta.2](https://github.com/wgtechlabs/unthread-discord-bot/releases/tag/0.2.0-beta.2) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
+1. 🗣 Commented on [#1849](https://github.com/animate-css/animate.css/pull/1849#issuecomment-2783320571) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+2. ❗ Opened issue [#14](https://github.com/gitroll-dev/gitroll-profile-card/issues/14) in [gitroll-dev/gitroll-profile-card](https://github.com/gitroll-dev/gitroll-profile-card)
+3. ❗ Opened issue [#18](https://github.com/wgtechlabs/unthread-discord-bot/issues/18) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
+4. 🗣 Commented on [#15](https://github.com/wgtechlabs/unthread-discord-bot/issues/15#issuecomment-2780829710) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
+5. 🔒 Closed issue [#15](https://github.com/wgtechlabs/unthread-discord-bot/issues/15) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
 <!--END_SECTION:activity-->
 
 </details>
