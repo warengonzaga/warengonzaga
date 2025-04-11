@@ -74,11 +74,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14](https://github.com/gitroll-dev/gitroll-profile-card/issues/14#issuecomment-2784289366) in [gitroll-dev/gitroll-profile-card](https://github.com/gitroll-dev/gitroll-profile-card)
-2. 🗣 Commented on [#1849](https://github.com/animate-css/animate.css/pull/1849#issuecomment-2783320571) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
-3. ❗ Opened issue [#14](https://github.com/gitroll-dev/gitroll-profile-card/issues/14) in [gitroll-dev/gitroll-profile-card](https://github.com/gitroll-dev/gitroll-profile-card)
-4. ❗ Opened issue [#18](https://github.com/wgtechlabs/unthread-discord-bot/issues/18) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
-5. 🗣 Commented on [#15](https://github.com/wgtechlabs/unthread-discord-bot/issues/15#issuecomment-2780829710) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
+1. ❗ Opened issue [#22](https://github.com/wgtechlabs/unthread-discord-bot/issues/22) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
+2. 🗣 Commented on [#14](https://github.com/gitroll-dev/gitroll-profile-card/issues/14#issuecomment-2784289366) in [gitroll-dev/gitroll-profile-card](https://github.com/gitroll-dev/gitroll-profile-card)
+3. 🗣 Commented on [#1849](https://github.com/animate-css/animate.css/pull/1849#issuecomment-2783320571) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+4. ❗ Opened issue [#14](https://github.com/gitroll-dev/gitroll-profile-card/issues/14) in [gitroll-dev/gitroll-profile-card](https://github.com/gitroll-dev/gitroll-profile-card)
+5. ❗ Opened issue [#18](https://github.com/wgtechlabs/unthread-discord-bot/issues/18) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
 <!--END_SECTION:activity-->
 
 </details>
