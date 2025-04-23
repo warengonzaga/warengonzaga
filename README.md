@@ -74,11 +74,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/warengonzaga/wrn-cleaner/issues/4#issuecomment-2818100207) in [warengonzaga/wrn-cleaner](https://github.com/warengonzaga/wrn-cleaner)
-2. 🗣 Commented on [#28](https://github.com/warengonzaga/wrn-cleaner/issues/28#issuecomment-2818099082) in [warengonzaga/wrn-cleaner](https://github.com/warengonzaga/wrn-cleaner)
-3. 🔒 Closed issue [#28](https://github.com/warengonzaga/wrn-cleaner/issues/28) in [warengonzaga/wrn-cleaner](https://github.com/warengonzaga/wrn-cleaner)
-4. 🔒 Closed issue [#22](https://github.com/wgtechlabs/unthread-discord-bot/issues/22) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
-5. 🗣 Commented on [#22](https://github.com/wgtechlabs/unthread-discord-bot/issues/22#issuecomment-2795958962) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
+1. 🚀 Published release [v0.2.0-beta.5](https://github.com/wgtechlabs/unthread-discord-bot/releases/tag/0.2.0-beta.5) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
+2. 🗣 Commented on [#4](https://github.com/warengonzaga/wrn-cleaner/issues/4#issuecomment-2818100207) in [warengonzaga/wrn-cleaner](https://github.com/warengonzaga/wrn-cleaner)
+3. 🗣 Commented on [#28](https://github.com/warengonzaga/wrn-cleaner/issues/28#issuecomment-2818099082) in [warengonzaga/wrn-cleaner](https://github.com/warengonzaga/wrn-cleaner)
+4. 🔒 Closed issue [#28](https://github.com/warengonzaga/wrn-cleaner/issues/28) in [warengonzaga/wrn-cleaner](https://github.com/warengonzaga/wrn-cleaner)
+5. 🔒 Closed issue [#22](https://github.com/wgtechlabs/unthread-discord-bot/issues/22) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
 <!--END_SECTION:activity-->
 
 </details>
