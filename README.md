@@ -26,7 +26,7 @@ A multi-talented Filipino self-taught software engineer, open-source maintainer/
 - 😎 Co-Founder @ [Web3 Philippines](https://web3philippines.org)
 -->
 
-## 🧑‍💻 Talk is Cheap, Here's My Code
+## 🧑‍💻 Talk is Cheap, Here's How I Code 👇
 
 <!-- markdownlint-disable MD033 -->
 <a href="https://gitroll.io/profile/utE73x4NTn3S4a883PO02c93s5Db2" target="_blank">
