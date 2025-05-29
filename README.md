@@ -74,11 +74,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.1](https://github.com/wgtechlabs/log-engine/releases/tag/1.0.1) in [wgtechlabs/log-engine](https://github.com/wgtechlabs/log-engine)
-2. 🗣 Commented on [#25](https://github.com/wgtechlabs/unthread-discord-bot/issues/25#issuecomment-2906756683) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
-3. 🔒 Closed issue [#25](https://github.com/wgtechlabs/unthread-discord-bot/issues/25) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
-4. 🗣 Commented on [#24](https://github.com/wgtechlabs/unthread-discord-bot/issues/24#issuecomment-2906756373) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
-5. 🎉 Merged PR [#14](https://github.com/warengonzaga/ipfs-support-extension/pull/14) in [warengonzaga/ipfs-support-extension](https://github.com/warengonzaga/ipfs-support-extension)
+1. 🚀 Published release [v1.0.2](https://github.com/wgtechlabs/log-engine/releases/tag/1.0.2) in [wgtechlabs/log-engine](https://github.com/wgtechlabs/log-engine)
+2. 🚀 Published release [v1.0.1](https://github.com/wgtechlabs/log-engine/releases/tag/1.0.1) in [wgtechlabs/log-engine](https://github.com/wgtechlabs/log-engine)
+3. 🗣 Commented on [#25](https://github.com/wgtechlabs/unthread-discord-bot/issues/25#issuecomment-2906756683) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
+4. 🔒 Closed issue [#25](https://github.com/wgtechlabs/unthread-discord-bot/issues/25) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
+5. 🗣 Commented on [#24](https://github.com/wgtechlabs/unthread-discord-bot/issues/24#issuecomment-2906756373) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
 <!--END_SECTION:activity-->
 
 </details>
