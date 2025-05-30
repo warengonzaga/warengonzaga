@@ -74,11 +74,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2](https://github.com/wgtechlabs/log-engine/issues/2) in [wgtechlabs/log-engine](https://github.com/wgtechlabs/log-engine)
-2. ❗ Opened issue [#1](https://github.com/wgtechlabs/log-engine/issues/1) in [wgtechlabs/log-engine](https://github.com/wgtechlabs/log-engine)
-3. 🚀 Published release [v1.0.2](https://github.com/wgtechlabs/log-engine/releases/tag/1.0.2) in [wgtechlabs/log-engine](https://github.com/wgtechlabs/log-engine)
-4. 🚀 Published release [v1.0.1](https://github.com/wgtechlabs/log-engine/releases/tag/1.0.1) in [wgtechlabs/log-engine](https://github.com/wgtechlabs/log-engine)
-5. 🗣 Commented on [#25](https://github.com/wgtechlabs/unthread-discord-bot/issues/25#issuecomment-2906756683) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
+1. 🚀 Published release [v1.0.3](https://github.com/wgtechlabs/log-engine/releases/tag/1.0.3) in [wgtechlabs/log-engine](https://github.com/wgtechlabs/log-engine)
+2. ❗ Opened issue [#2](https://github.com/wgtechlabs/log-engine/issues/2) in [wgtechlabs/log-engine](https://github.com/wgtechlabs/log-engine)
+3. ❗ Opened issue [#1](https://github.com/wgtechlabs/log-engine/issues/1) in [wgtechlabs/log-engine](https://github.com/wgtechlabs/log-engine)
+4. 🚀 Published release [v1.0.2](https://github.com/wgtechlabs/log-engine/releases/tag/1.0.2) in [wgtechlabs/log-engine](https://github.com/wgtechlabs/log-engine)
+5. 🚀 Published release [v1.0.1](https://github.com/wgtechlabs/log-engine/releases/tag/1.0.1) in [wgtechlabs/log-engine](https://github.com/wgtechlabs/log-engine)
 <!--END_SECTION:activity-->
 
 </details>
