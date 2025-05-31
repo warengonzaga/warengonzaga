@@ -74,11 +74,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/wgtechlabs/log-engine/pull/3) in [wgtechlabs/log-engine](https://github.com/wgtechlabs/log-engine)
-2. 💪 Opened PR [#3](https://github.com/wgtechlabs/log-engine/pull/3) in [wgtechlabs/log-engine](https://github.com/wgtechlabs/log-engine)
-3. 🚀 Published release [v1.0.3](https://github.com/wgtechlabs/log-engine/releases/tag/1.0.3) in [wgtechlabs/log-engine](https://github.com/wgtechlabs/log-engine)
-4. ❗ Opened issue [#2](https://github.com/wgtechlabs/log-engine/issues/2) in [wgtechlabs/log-engine](https://github.com/wgtechlabs/log-engine)
-5. ❗ Opened issue [#1](https://github.com/wgtechlabs/log-engine/issues/1) in [wgtechlabs/log-engine](https://github.com/wgtechlabs/log-engine)
+1. 🚀 Published release [v1.2.0](https://github.com/wgtechlabs/log-engine/releases/tag/1.2.0) in [wgtechlabs/log-engine](https://github.com/wgtechlabs/log-engine)
+2. 🎉 Merged PR [#3](https://github.com/wgtechlabs/log-engine/pull/3) in [wgtechlabs/log-engine](https://github.com/wgtechlabs/log-engine)
+3. 💪 Opened PR [#3](https://github.com/wgtechlabs/log-engine/pull/3) in [wgtechlabs/log-engine](https://github.com/wgtechlabs/log-engine)
+4. 🚀 Published release [v1.0.3](https://github.com/wgtechlabs/log-engine/releases/tag/1.0.3) in [wgtechlabs/log-engine](https://github.com/wgtechlabs/log-engine)
+5. ❗ Opened issue [#2](https://github.com/wgtechlabs/log-engine/issues/2) in [wgtechlabs/log-engine](https://github.com/wgtechlabs/log-engine)
 <!--END_SECTION:activity-->
 
 </details>
