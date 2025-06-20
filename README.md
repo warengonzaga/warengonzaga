@@ -74,11 +74,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/thirdweb-example/marketplace-v3/issues/3#issuecomment-2989680992) in [thirdweb-example/marketplace-v3](https://github.com/thirdweb-example/marketplace-v3)
-2. 🔒 Closed issue [#3](https://github.com/thirdweb-example/marketplace-v3/issues/3) in [thirdweb-example/marketplace-v3](https://github.com/thirdweb-example/marketplace-v3)
-3. 🎉 Merged PR [#18](https://github.com/wgtechlabs/unthread-telegram-bot/pull/18) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
-4. 💪 Opened PR [#17](https://github.com/wgtechlabs/unthread-telegram-bot/pull/17) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
-5. 🎉 Merged PR [#16](https://github.com/wgtechlabs/unthread-telegram-bot/pull/16) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
+1. 🎉 Merged PR [#17](https://github.com/wgtechlabs/unthread-telegram-bot/pull/17) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
+2. 🗣 Commented on [#3](https://github.com/thirdweb-example/marketplace-v3/issues/3#issuecomment-2989680992) in [thirdweb-example/marketplace-v3](https://github.com/thirdweb-example/marketplace-v3)
+3. 🔒 Closed issue [#3](https://github.com/thirdweb-example/marketplace-v3/issues/3) in [thirdweb-example/marketplace-v3](https://github.com/thirdweb-example/marketplace-v3)
+4. 🎉 Merged PR [#18](https://github.com/wgtechlabs/unthread-telegram-bot/pull/18) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
+5. 💪 Opened PR [#17](https://github.com/wgtechlabs/unthread-telegram-bot/pull/17) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
 <!--END_SECTION:activity-->
 
 </details>
