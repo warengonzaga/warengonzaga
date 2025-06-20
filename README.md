@@ -74,11 +74,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13](https://github.com/wgtechlabs/unthread-telegram-bot/pull/13#issuecomment-2989528053) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
-2. 🚀 Published release [v0.1.0-beta](https://github.com/wgtechlabs/unthread-telegram-bot/releases/tag/v0.1.0-beta) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
-3. 🔒 Closed issue [#5](https://github.com/wgtechlabs/unthread-telegram-bot/issues/5) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
-4. 🎉 Merged PR [#7](https://github.com/wgtechlabs/unthread-telegram-bot/pull/7) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
-5. ❗ Opened issue [#12](https://github.com/wgtechlabs/unthread-telegram-bot/issues/12) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
+1. 💪 Opened PR [#17](https://github.com/wgtechlabs/unthread-telegram-bot/pull/17) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
+2. 🎉 Merged PR [#16](https://github.com/wgtechlabs/unthread-telegram-bot/pull/16) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
+3. 🗣 Commented on [#16](https://github.com/wgtechlabs/unthread-telegram-bot/pull/16#issuecomment-2989574604) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
+4. 🎉 Merged PR [#15](https://github.com/wgtechlabs/unthread-telegram-bot/pull/15) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
+5. 🎉 Merged PR [#14](https://github.com/wgtechlabs/unthread-telegram-bot/pull/14) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
 <!--END_SECTION:activity-->
 
 </details>
