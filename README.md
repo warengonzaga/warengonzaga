@@ -74,11 +74,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/wgtechlabs/log-engine/issues/4#issuecomment-2987127757) in [wgtechlabs/log-engine](https://github.com/wgtechlabs/log-engine)
-2. 🔒 Closed issue [#4](https://github.com/wgtechlabs/log-engine/issues/4) in [wgtechlabs/log-engine](https://github.com/wgtechlabs/log-engine)
-3. 🗣 Commented on [#6](https://github.com/wgtechlabs/unthread-telegram-bot/issues/6#issuecomment-2987061156) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
-4. 🚀 Published release [v1.3.0](https://github.com/wgtechlabs/log-engine/releases/tag/1.3.0) in [wgtechlabs/log-engine](https://github.com/wgtechlabs/log-engine)
-5. 🎉 Merged PR [#10](https://github.com/wgtechlabs/log-engine/pull/10) in [wgtechlabs/log-engine](https://github.com/wgtechlabs/log-engine)
+1. 🎉 Merged PR [#8](https://github.com/wgtechlabs/unthread-telegram-bot/pull/8) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
+2. 🗣 Commented on [#4](https://github.com/wgtechlabs/log-engine/issues/4#issuecomment-2987127757) in [wgtechlabs/log-engine](https://github.com/wgtechlabs/log-engine)
+3. 🔒 Closed issue [#4](https://github.com/wgtechlabs/log-engine/issues/4) in [wgtechlabs/log-engine](https://github.com/wgtechlabs/log-engine)
+4. 🗣 Commented on [#6](https://github.com/wgtechlabs/unthread-telegram-bot/issues/6#issuecomment-2987061156) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
+5. 🚀 Published release [v1.3.0](https://github.com/wgtechlabs/log-engine/releases/tag/1.3.0) in [wgtechlabs/log-engine](https://github.com/wgtechlabs/log-engine)
 <!--END_SECTION:activity-->
 
 </details>
