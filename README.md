@@ -74,11 +74,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#24](https://github.com/wgtechlabs/unthread-telegram-bot/pull/24) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
-2. 🎉 Merged PR [#22](https://github.com/wgtechlabs/unthread-telegram-bot/pull/22) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
-3. 🗣 Commented on [#22](https://github.com/wgtechlabs/unthread-telegram-bot/pull/22#issuecomment-2993458096) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
-4. 🎉 Merged PR [#23](https://github.com/wgtechlabs/unthread-telegram-bot/pull/23) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
-5. 🗣 Commented on [#22](https://github.com/wgtechlabs/unthread-telegram-bot/pull/22#issuecomment-2993445380) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
+1. 💪 Opened PR [#4](https://github.com/wgtechlabs/unthread-webhook-server/pull/4) in [wgtechlabs/unthread-webhook-server](https://github.com/wgtechlabs/unthread-webhook-server)
+2. 🎉 Merged PR [#3](https://github.com/wgtechlabs/unthread-webhook-server/pull/3) in [wgtechlabs/unthread-webhook-server](https://github.com/wgtechlabs/unthread-webhook-server)
+3. 🗣 Commented on [#1](https://github.com/wgtechlabs/unthread-webhook-server/issues/1#issuecomment-2993490866) in [wgtechlabs/unthread-webhook-server](https://github.com/wgtechlabs/unthread-webhook-server)
+4. 🔒 Closed issue [#1](https://github.com/wgtechlabs/unthread-webhook-server/issues/1) in [wgtechlabs/unthread-webhook-server](https://github.com/wgtechlabs/unthread-webhook-server)
+5. 🚀 Published release [v1.0.0-beta.1](https://github.com/wgtechlabs/unthread-webhook-server/releases/tag/v1.0.0-beta.1) in [wgtechlabs/unthread-webhook-server](https://github.com/wgtechlabs/unthread-webhook-server)
 <!--END_SECTION:activity-->
 
 </details>
