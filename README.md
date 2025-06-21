@@ -74,11 +74,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#19](https://github.com/wgtechlabs/unthread-telegram-bot/issues/19) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
-2. ❗ Opened issue [#26](https://github.com/wgtechlabs/unthread-discord-bot/issues/26) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
-3. ❗ Opened issue [#13](https://github.com/wgtechlabs/log-engine/issues/13) in [wgtechlabs/log-engine](https://github.com/wgtechlabs/log-engine)
-4. ❗ Opened issue [#1](https://github.com/wgtechlabs/unthread-webhook-server/issues/1) in [wgtechlabs/unthread-webhook-server](https://github.com/wgtechlabs/unthread-webhook-server)
-5. 🔒 Closed issue [#12](https://github.com/wgtechlabs/unthread-telegram-bot/issues/12) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
+1. 🗣 Commented on [#20](https://github.com/wgtechlabs/unthread-telegram-bot/pull/20#issuecomment-2991255626) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
+2. 🗣 Commented on [#27](https://github.com/wgtechlabs/unthread-discord-bot/pull/27#issuecomment-2991249802) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
+3. 🗣 Commented on [#14](https://github.com/wgtechlabs/log-engine/pull/14#issuecomment-2991228634) in [wgtechlabs/log-engine](https://github.com/wgtechlabs/log-engine)
+4. 🗣 Commented on [#2](https://github.com/wgtechlabs/unthread-webhook-server/pull/2#issuecomment-2991216913) in [wgtechlabs/unthread-webhook-server](https://github.com/wgtechlabs/unthread-webhook-server)
+5. 🗣 Commented on [#14](https://github.com/wgtechlabs/log-engine/pull/14#issuecomment-2991202031) in [wgtechlabs/log-engine](https://github.com/wgtechlabs/log-engine)
 <!--END_SECTION:activity-->
 
 </details>
