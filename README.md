@@ -74,11 +74,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.0-beta.2](https://github.com/wgtechlabs/unthread-webhook-server/releases/tag/v1.0.0-beta.2) in [wgtechlabs/unthread-webhook-server](https://github.com/wgtechlabs/unthread-webhook-server)
-2. 🎉 Merged PR [#4](https://github.com/wgtechlabs/unthread-webhook-server/pull/4) in [wgtechlabs/unthread-webhook-server](https://github.com/wgtechlabs/unthread-webhook-server)
-3. 💪 Opened PR [#4](https://github.com/wgtechlabs/unthread-webhook-server/pull/4) in [wgtechlabs/unthread-webhook-server](https://github.com/wgtechlabs/unthread-webhook-server)
-4. 🎉 Merged PR [#3](https://github.com/wgtechlabs/unthread-webhook-server/pull/3) in [wgtechlabs/unthread-webhook-server](https://github.com/wgtechlabs/unthread-webhook-server)
-5. 🗣 Commented on [#1](https://github.com/wgtechlabs/unthread-webhook-server/issues/1#issuecomment-2993490866) in [wgtechlabs/unthread-webhook-server](https://github.com/wgtechlabs/unthread-webhook-server)
+1. 🚀 Published release [v1.0.0-beta.4](https://github.com/wgtechlabs/unthread-webhook-server/releases/tag/v1.0.0-beta.4) in [wgtechlabs/unthread-webhook-server](https://github.com/wgtechlabs/unthread-webhook-server)
+2. 🎉 Merged PR [#6](https://github.com/wgtechlabs/unthread-webhook-server/pull/6) in [wgtechlabs/unthread-webhook-server](https://github.com/wgtechlabs/unthread-webhook-server)
+3. 💪 Opened PR [#6](https://github.com/wgtechlabs/unthread-webhook-server/pull/6) in [wgtechlabs/unthread-webhook-server](https://github.com/wgtechlabs/unthread-webhook-server)
+4. 🚀 Published release [v1.0.0-beta.3](https://github.com/wgtechlabs/unthread-webhook-server/releases/tag/v1.0.0-beta.3) in [wgtechlabs/unthread-webhook-server](https://github.com/wgtechlabs/unthread-webhook-server)
+5. 🎉 Merged PR [#5](https://github.com/wgtechlabs/unthread-webhook-server/pull/5) in [wgtechlabs/unthread-webhook-server](https://github.com/wgtechlabs/unthread-webhook-server)
 <!--END_SECTION:activity-->
 
 </details>
