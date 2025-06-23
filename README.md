@@ -74,11 +74,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.0-beta.4](https://github.com/wgtechlabs/unthread-telegram-bot/releases/tag/v1.0.0-beta.4) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
-2. 🎉 Merged PR [#26](https://github.com/wgtechlabs/unthread-telegram-bot/pull/26) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
-3. 💪 Opened PR [#26](https://github.com/wgtechlabs/unthread-telegram-bot/pull/26) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
-4. 🚀 Published release [v1.0.0-beta.5](https://github.com/wgtechlabs/unthread-webhook-server/releases/tag/v1.0.0-beta.5) in [wgtechlabs/unthread-webhook-server](https://github.com/wgtechlabs/unthread-webhook-server)
-5. 🎉 Merged PR [#7](https://github.com/wgtechlabs/unthread-webhook-server/pull/7) in [wgtechlabs/unthread-webhook-server](https://github.com/wgtechlabs/unthread-webhook-server)
+1. 🗣 Commented on [#234](https://github.com/briehq/brie-extension/pull/234#issuecomment-2994679158) in [briehq/brie-extension](https://github.com/briehq/brie-extension)
+2. 💪 Opened PR [#234](https://github.com/briehq/brie-extension/pull/234) in [briehq/brie-extension](https://github.com/briehq/brie-extension)
+3. 🚀 Published release [v1.0.0-beta.4](https://github.com/wgtechlabs/unthread-telegram-bot/releases/tag/v1.0.0-beta.4) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
+4. 🎉 Merged PR [#26](https://github.com/wgtechlabs/unthread-telegram-bot/pull/26) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
+5. 💪 Opened PR [#26](https://github.com/wgtechlabs/unthread-telegram-bot/pull/26) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
 <!--END_SECTION:activity-->
 
 </details>
