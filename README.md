@@ -74,11 +74,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#28](https://github.com/wgtechlabs/unthread-discord-bot/pull/28) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
-2. 💪 Opened PR [#28](https://github.com/wgtechlabs/unthread-discord-bot/pull/28) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
-3. 🗣 Commented on [#26](https://github.com/warengonzaga/magic-commit/issues/26#issuecomment-2999459428) in [warengonzaga/magic-commit](https://github.com/warengonzaga/magic-commit)
-4. 💪 Opened PR [#27](https://github.com/wgtechlabs/unthread-telegram-bot/pull/27) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
-5. 🗣 Commented on [#234](https://github.com/briehq/brie-extension/pull/234#issuecomment-2994679158) in [briehq/brie-extension](https://github.com/briehq/brie-extension)
+1. 🚀 Published release [v1.0.0-beta.5.1](https://github.com/wgtechlabs/unthread-webhook-server/releases/tag/v1.0.0-beta.5.1) in [wgtechlabs/unthread-webhook-server](https://github.com/wgtechlabs/unthread-webhook-server)
+2. 🚀 Published release [v1.0.0-beta.4.1](https://github.com/wgtechlabs/unthread-telegram-bot/releases/tag/v1.0.0-beta.4.1) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
+3. 🎉 Merged PR [#28](https://github.com/wgtechlabs/unthread-discord-bot/pull/28) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
+4. 💪 Opened PR [#28](https://github.com/wgtechlabs/unthread-discord-bot/pull/28) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
+5. 🗣 Commented on [#26](https://github.com/warengonzaga/magic-commit/issues/26#issuecomment-2999459428) in [warengonzaga/magic-commit](https://github.com/warengonzaga/magic-commit)
 <!--END_SECTION:activity-->
 
 </details>
