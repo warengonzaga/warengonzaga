@@ -74,11 +74,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#32](https://github.com/wgtechlabs/unthread-discord-bot/pull/32) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
-2. 💪 Opened PR [#31](https://github.com/wgtechlabs/unthread-discord-bot/pull/31) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
-3. 💪 Opened PR [#30](https://github.com/wgtechlabs/unthread-discord-bot/pull/30) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
-4. 💪 Opened PR [#29](https://github.com/wgtechlabs/unthread-discord-bot/pull/29) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
-5. 🚀 Published release [v2.1.0](https://github.com/wgtechlabs/log-engine/releases/tag/v2.1.0) in [wgtechlabs/log-engine](https://github.com/wgtechlabs/log-engine)
+1. 🎉 Merged PR [#19](https://github.com/wgtechlabs/log-engine/pull/19) in [wgtechlabs/log-engine](https://github.com/wgtechlabs/log-engine)
+2. 💪 Opened PR [#32](https://github.com/warengonzaga/magic-commit/pull/32) in [warengonzaga/magic-commit](https://github.com/warengonzaga/magic-commit)
+3. 💪 Opened PR [#31](https://github.com/warengonzaga/magic-commit/pull/31) in [warengonzaga/magic-commit](https://github.com/warengonzaga/magic-commit)
+4. 💪 Opened PR [#30](https://github.com/warengonzaga/magic-commit/pull/30) in [warengonzaga/magic-commit](https://github.com/warengonzaga/magic-commit)
+5. 💪 Opened PR [#29](https://github.com/warengonzaga/magic-commit/pull/29) in [warengonzaga/magic-commit](https://github.com/warengonzaga/magic-commit)
 <!--END_SECTION:activity-->
 
 </details>
