@@ -74,11 +74,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v2.1.0](https://github.com/wgtechlabs/log-engine/releases/tag/v2.1.0) in [wgtechlabs/log-engine](https://github.com/wgtechlabs/log-engine)
-2. 🎉 Merged PR [#16](https://github.com/wgtechlabs/log-engine/pull/16) in [wgtechlabs/log-engine](https://github.com/wgtechlabs/log-engine)
-3. 🗣 Commented on [#16](https://github.com/wgtechlabs/log-engine/pull/16#issuecomment-3016801748) in [wgtechlabs/log-engine](https://github.com/wgtechlabs/log-engine)
-4. 🗣 Commented on [#16](https://github.com/wgtechlabs/log-engine/pull/16#issuecomment-3016795263) in [wgtechlabs/log-engine](https://github.com/wgtechlabs/log-engine)
-5. ❗ Opened issue [#18](https://github.com/wgtechlabs/log-engine/issues/18) in [wgtechlabs/log-engine](https://github.com/wgtechlabs/log-engine)
+1. 💪 Opened PR [#32](https://github.com/wgtechlabs/unthread-discord-bot/pull/32) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
+2. 💪 Opened PR [#31](https://github.com/wgtechlabs/unthread-discord-bot/pull/31) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
+3. 💪 Opened PR [#30](https://github.com/wgtechlabs/unthread-discord-bot/pull/30) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
+4. 💪 Opened PR [#29](https://github.com/wgtechlabs/unthread-discord-bot/pull/29) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
+5. 🚀 Published release [v2.1.0](https://github.com/wgtechlabs/log-engine/releases/tag/v2.1.0) in [wgtechlabs/log-engine](https://github.com/wgtechlabs/log-engine)
 <!--END_SECTION:activity-->
 
 </details>
