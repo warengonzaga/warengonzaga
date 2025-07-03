@@ -74,11 +74,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#30](https://github.com/wgtechlabs/unthread-telegram-bot/issues/30) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
-2. 🚀 Published release [v1.0.0-beta.5.1](https://github.com/wgtechlabs/unthread-telegram-bot/releases/tag/v1.0.0-beta.5.1) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
-3. 🎉 Merged PR [#28](https://github.com/wgtechlabs/unthread-telegram-bot/pull/28) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
-4. 🎉 Merged PR [#29](https://github.com/wgtechlabs/unthread-telegram-bot/pull/29) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
-5. 💪 Opened PR [#28](https://github.com/wgtechlabs/unthread-telegram-bot/pull/28) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
+1. 💪 Opened PR [#1](https://github.com/warengonzaga/magic-release/pull/1) in [warengonzaga/magic-release](https://github.com/warengonzaga/magic-release)
+2. 🗣 Commented on [#30](https://github.com/wgtechlabs/unthread-telegram-bot/issues/30#issuecomment-3028416797) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
+3. ❗ Opened issue [#30](https://github.com/wgtechlabs/unthread-telegram-bot/issues/30) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
+4. 🚀 Published release [v1.0.0-beta.5.1](https://github.com/wgtechlabs/unthread-telegram-bot/releases/tag/v1.0.0-beta.5.1) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
+5. 🎉 Merged PR [#28](https://github.com/wgtechlabs/unthread-telegram-bot/pull/28) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
 <!--END_SECTION:activity-->
 
 </details>
