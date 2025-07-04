@@ -74,11 +74,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#42](https://github.com/wgtechlabs/unthread-telegram-bot/issues/42) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
-2. ❗ Opened issue [#41](https://github.com/wgtechlabs/unthread-telegram-bot/issues/41) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
-3. ❗ Opened issue [#40](https://github.com/wgtechlabs/unthread-telegram-bot/issues/40) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
-4. ❗ Opened issue [#39](https://github.com/wgtechlabs/unthread-telegram-bot/issues/39) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
-5. ❗ Opened issue [#38](https://github.com/wgtechlabs/unthread-telegram-bot/issues/38) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
+1. ❗ Opened issue [#43](https://github.com/wgtechlabs/unthread-telegram-bot/issues/43) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
+2. ❗ Opened issue [#42](https://github.com/wgtechlabs/unthread-telegram-bot/issues/42) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
+3. ❗ Opened issue [#41](https://github.com/wgtechlabs/unthread-telegram-bot/issues/41) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
+4. ❗ Opened issue [#40](https://github.com/wgtechlabs/unthread-telegram-bot/issues/40) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
+5. ❗ Opened issue [#39](https://github.com/wgtechlabs/unthread-telegram-bot/issues/39) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
 <!--END_SECTION:activity-->
 
 </details>
