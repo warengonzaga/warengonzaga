@@ -74,11 +74,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#33](https://github.com/wgtechlabs/unthread-discord-bot/issues/33) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
-2. ❗ Opened issue [#44](https://github.com/wgtechlabs/unthread-telegram-bot/issues/44) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
-3. 🗣 Commented on [#24](https://github.com/wgtechlabs/unthread-discord-bot/issues/24#issuecomment-3038114656) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
-4. 🗣 Commented on [#18](https://github.com/wgtechlabs/unthread-discord-bot/issues/18#issuecomment-3038103595) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
-5. 🔒 Closed issue [#18](https://github.com/wgtechlabs/unthread-discord-bot/issues/18) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
+1. 🗣 Commented on [#24](https://github.com/wgtechlabs/unthread-discord-bot/issues/24#issuecomment-3038333093) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
+2. 🔒 Closed issue [#24](https://github.com/wgtechlabs/unthread-discord-bot/issues/24) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
+3. ❗ Opened issue [#33](https://github.com/wgtechlabs/unthread-discord-bot/issues/33) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
+4. ❗ Opened issue [#44](https://github.com/wgtechlabs/unthread-telegram-bot/issues/44) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
+5. 🗣 Commented on [#24](https://github.com/wgtechlabs/unthread-discord-bot/issues/24#issuecomment-3038114656) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
 <!--END_SECTION:activity-->
 
 </details>
