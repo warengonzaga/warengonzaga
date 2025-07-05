@@ -74,11 +74,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#24](https://github.com/wgtechlabs/unthread-discord-bot/issues/24#issuecomment-3038333093) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
-2. 🔒 Closed issue [#24](https://github.com/wgtechlabs/unthread-discord-bot/issues/24) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
-3. ❗ Opened issue [#33](https://github.com/wgtechlabs/unthread-discord-bot/issues/33) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
-4. ❗ Opened issue [#44](https://github.com/wgtechlabs/unthread-telegram-bot/issues/44) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
-5. 🗣 Commented on [#24](https://github.com/wgtechlabs/unthread-discord-bot/issues/24#issuecomment-3038114656) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
+1. 🗣 Commented on [#30](https://github.com/wgtechlabs/unthread-discord-bot/pull/30#issuecomment-3038357936) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
+2. 🎉 Merged PR [#29](https://github.com/wgtechlabs/unthread-discord-bot/pull/29) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
+3. 🗣 Commented on [#31](https://github.com/wgtechlabs/unthread-discord-bot/pull/31#issuecomment-3038356418) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
+4. 🎉 Merged PR [#32](https://github.com/wgtechlabs/unthread-discord-bot/pull/32) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
+5. 🗣 Commented on [#24](https://github.com/wgtechlabs/unthread-discord-bot/issues/24#issuecomment-3038333093) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
 <!--END_SECTION:activity-->
 
 </details>
