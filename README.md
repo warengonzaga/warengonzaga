@@ -74,11 +74,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#41](https://github.com/wgtechlabs/unthread-telegram-bot/issues/41#issuecomment-3042208993) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
-2. 🗣 Commented on [#41](https://github.com/wgtechlabs/unthread-telegram-bot/issues/41#issuecomment-3042208562) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
-3. 🗣 Commented on [#30](https://github.com/wgtechlabs/unthread-discord-bot/pull/30#issuecomment-3038357936) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
-4. 🎉 Merged PR [#29](https://github.com/wgtechlabs/unthread-discord-bot/pull/29) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
-5. 🗣 Commented on [#31](https://github.com/wgtechlabs/unthread-discord-bot/pull/31#issuecomment-3038356418) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
+1. 🎉 Merged PR [#31](https://github.com/wgtechlabs/unthread-discord-bot/pull/31) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
+2. 🎉 Merged PR [#30](https://github.com/wgtechlabs/unthread-discord-bot/pull/30) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
+3. 🎉 Merged PR [#35](https://github.com/wgtechlabs/unthread-discord-bot/pull/35) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
+4. 🎉 Merged PR [#34](https://github.com/wgtechlabs/unthread-discord-bot/pull/34) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
+5. 🗣 Commented on [#41](https://github.com/wgtechlabs/unthread-telegram-bot/issues/41#issuecomment-3042208993) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
 <!--END_SECTION:activity-->
 
 </details>
