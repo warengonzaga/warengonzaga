@@ -74,11 +74,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#42](https://github.com/wgtechlabs/unthread-telegram-bot/issues/42#issuecomment-3043305385) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
-2. 🗣 Commented on [#42](https://github.com/wgtechlabs/unthread-telegram-bot/issues/42#issuecomment-3043305029) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
-3. 🎉 Merged PR [#31](https://github.com/wgtechlabs/unthread-discord-bot/pull/31) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
-4. 🎉 Merged PR [#30](https://github.com/wgtechlabs/unthread-discord-bot/pull/30) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
-5. 🎉 Merged PR [#35](https://github.com/wgtechlabs/unthread-discord-bot/pull/35) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
+1. 🗣 Commented on [#35](https://github.com/wgtechlabs/unthread-telegram-bot/issues/35#issuecomment-3043406112) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
+2. 🗣 Commented on [#44](https://github.com/wgtechlabs/unthread-telegram-bot/issues/44#issuecomment-3043405082) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
+3. 🗣 Commented on [#42](https://github.com/wgtechlabs/unthread-telegram-bot/issues/42#issuecomment-3043305385) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
+4. 🗣 Commented on [#42](https://github.com/wgtechlabs/unthread-telegram-bot/issues/42#issuecomment-3043305029) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
+5. 🎉 Merged PR [#31](https://github.com/wgtechlabs/unthread-discord-bot/pull/31) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
 <!--END_SECTION:activity-->
 
 </details>
