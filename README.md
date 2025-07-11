@@ -74,11 +74,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.0-beta.7](https://github.com/wgtechlabs/unthread-telegram-bot/releases/tag/v1.0.0-beta.7) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
-2. 🔒 Closed issue [#51](https://github.com/wgtechlabs/unthread-telegram-bot/issues/51) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
-3. 🎉 Merged PR [#52](https://github.com/wgtechlabs/unthread-telegram-bot/pull/52) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
-4. 🗣 Commented on [#50](https://github.com/wgtechlabs/unthread-telegram-bot/pull/50#issuecomment-3053487956) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
-5. 💪 Opened PR [#50](https://github.com/wgtechlabs/unthread-telegram-bot/pull/50) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
+1. 🗣 Commented on [#38](https://github.com/wgtechlabs/unthread-discord-bot/issues/38#issuecomment-3060247762) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
+2. 🔒 Closed issue [#38](https://github.com/wgtechlabs/unthread-discord-bot/issues/38) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
+3. 🚀 Published release [v1.0.0-beta.5.2](https://github.com/wgtechlabs/unthread-webhook-server/releases/tag/v1.0.0-beta.5.2) in [wgtechlabs/unthread-webhook-server](https://github.com/wgtechlabs/unthread-webhook-server)
+4. 🔒 Closed issue [#8](https://github.com/wgtechlabs/unthread-webhook-server/issues/8) in [wgtechlabs/unthread-webhook-server](https://github.com/wgtechlabs/unthread-webhook-server)
+5. 🎉 Merged PR [#9](https://github.com/wgtechlabs/unthread-webhook-server/pull/9) in [wgtechlabs/unthread-webhook-server](https://github.com/wgtechlabs/unthread-webhook-server)
 <!--END_SECTION:activity-->
 
 </details>
