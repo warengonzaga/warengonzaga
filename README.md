@@ -74,11 +74,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#50](https://github.com/wgtechlabs/unthread-telegram-bot/pull/50#issuecomment-3053487956) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
-2. 💪 Opened PR [#50](https://github.com/wgtechlabs/unthread-telegram-bot/pull/50) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
-3. 🔒 Closed issue [#36](https://github.com/wgtechlabs/unthread-telegram-bot/issues/36) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
-4. 🔒 Closed issue [#47](https://github.com/wgtechlabs/unthread-telegram-bot/issues/47) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
-5. 🔒 Closed issue [#45](https://github.com/wgtechlabs/unthread-telegram-bot/issues/45) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
+1. 🚀 Published release [v1.0.0-beta.7](https://github.com/wgtechlabs/unthread-telegram-bot/releases/tag/v1.0.0-beta.7) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
+2. 🔒 Closed issue [#51](https://github.com/wgtechlabs/unthread-telegram-bot/issues/51) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
+3. 🎉 Merged PR [#52](https://github.com/wgtechlabs/unthread-telegram-bot/pull/52) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
+4. 🗣 Commented on [#50](https://github.com/wgtechlabs/unthread-telegram-bot/pull/50#issuecomment-3053487956) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
+5. 💪 Opened PR [#50](https://github.com/wgtechlabs/unthread-telegram-bot/pull/50) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
 <!--END_SECTION:activity-->
 
 </details>
