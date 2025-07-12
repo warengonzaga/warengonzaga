@@ -74,11 +74,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#41](https://github.com/wgtechlabs/unthread-telegram-bot/issues/41#issuecomment-3060332650) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
-2. 🗣 Commented on [#38](https://github.com/wgtechlabs/unthread-discord-bot/issues/38#issuecomment-3060247762) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
-3. 🔒 Closed issue [#38](https://github.com/wgtechlabs/unthread-discord-bot/issues/38) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
-4. 🚀 Published release [v1.0.0-beta.5.2](https://github.com/wgtechlabs/unthread-webhook-server/releases/tag/v1.0.0-beta.5.2) in [wgtechlabs/unthread-webhook-server](https://github.com/wgtechlabs/unthread-webhook-server)
-5. 🔒 Closed issue [#8](https://github.com/wgtechlabs/unthread-webhook-server/issues/8) in [wgtechlabs/unthread-webhook-server](https://github.com/wgtechlabs/unthread-webhook-server)
+1. 🗣 Commented on [#42](https://github.com/wgtechlabs/unthread-telegram-bot/issues/42#issuecomment-3063250624) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
+2. 🗣 Commented on [#41](https://github.com/wgtechlabs/unthread-telegram-bot/issues/41#issuecomment-3063241743) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
+3. 🗣 Commented on [#41](https://github.com/wgtechlabs/unthread-telegram-bot/issues/41#issuecomment-3060332650) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
+4. 🗣 Commented on [#38](https://github.com/wgtechlabs/unthread-discord-bot/issues/38#issuecomment-3060247762) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
+5. 🔒 Closed issue [#38](https://github.com/wgtechlabs/unthread-discord-bot/issues/38) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
 <!--END_SECTION:activity-->
 
 </details>
