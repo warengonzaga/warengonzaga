@@ -74,11 +74,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#21](https://github.com/wgtechlabs/log-engine/pull/21#issuecomment-3065142360) in [wgtechlabs/log-engine](https://github.com/wgtechlabs/log-engine)
-2. 🎉 Merged PR [#22](https://github.com/wgtechlabs/log-engine/pull/22) in [wgtechlabs/log-engine](https://github.com/wgtechlabs/log-engine)
-3. 🗣 Commented on [#22](https://github.com/wgtechlabs/log-engine/pull/22#issuecomment-3064928813) in [wgtechlabs/log-engine](https://github.com/wgtechlabs/log-engine)
-4. 🗣 Commented on [#22](https://github.com/wgtechlabs/log-engine/pull/22#issuecomment-3064905253) in [wgtechlabs/log-engine](https://github.com/wgtechlabs/log-engine)
-5. 🗣 Commented on [#21](https://github.com/wgtechlabs/log-engine/pull/21#issuecomment-3064897064) in [wgtechlabs/log-engine](https://github.com/wgtechlabs/log-engine)
+1. 🚀 Published release [v2.2.1](https://github.com/wgtechlabs/log-engine/releases/tag/v2.2.1) in [wgtechlabs/log-engine](https://github.com/wgtechlabs/log-engine)
+2. 🎉 Merged PR [#21](https://github.com/wgtechlabs/log-engine/pull/21) in [wgtechlabs/log-engine](https://github.com/wgtechlabs/log-engine)
+3. 🗣 Commented on [#21](https://github.com/wgtechlabs/log-engine/pull/21#issuecomment-3065142360) in [wgtechlabs/log-engine](https://github.com/wgtechlabs/log-engine)
+4. 🎉 Merged PR [#22](https://github.com/wgtechlabs/log-engine/pull/22) in [wgtechlabs/log-engine](https://github.com/wgtechlabs/log-engine)
+5. 🗣 Commented on [#22](https://github.com/wgtechlabs/log-engine/pull/22#issuecomment-3064928813) in [wgtechlabs/log-engine](https://github.com/wgtechlabs/log-engine)
 <!--END_SECTION:activity-->
 
 </details>
