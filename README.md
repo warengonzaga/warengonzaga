@@ -74,11 +74,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#34](https://github.com/warengonzaga/magic-commit/pull/34#issuecomment-3066561871) in [warengonzaga/magic-commit](https://github.com/warengonzaga/magic-commit)
-2. 🗣 Commented on [#27](https://github.com/wgtechlabs/unthread-discord-bot/pull/27#issuecomment-3066519492) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
-3. 🎉 Merged PR [#2](https://github.com/wgtechlabs/github-copilot-chatmodes/pull/2) in [wgtechlabs/github-copilot-chatmodes](https://github.com/wgtechlabs/github-copilot-chatmodes)
-4. 🎉 Merged PR [#23](https://github.com/warengonzaga/magic-commit/pull/23) in [warengonzaga/magic-commit](https://github.com/warengonzaga/magic-commit)
-5. 🗣 Commented on [#23](https://github.com/warengonzaga/magic-commit/pull/23#issuecomment-3066452394) in [warengonzaga/magic-commit](https://github.com/warengonzaga/magic-commit)
+1. ❌ Closed PR [#27](https://github.com/wgtechlabs/unthread-discord-bot/pull/27) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
+2. 🗣 Commented on [#27](https://github.com/wgtechlabs/unthread-discord-bot/pull/27#issuecomment-3066613402) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
+3. 🗣 Commented on [#34](https://github.com/warengonzaga/magic-commit/pull/34#issuecomment-3066561871) in [warengonzaga/magic-commit](https://github.com/warengonzaga/magic-commit)
+4. 🗣 Commented on [#27](https://github.com/wgtechlabs/unthread-discord-bot/pull/27#issuecomment-3066519492) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
+5. 🎉 Merged PR [#2](https://github.com/wgtechlabs/github-copilot-chatmodes/pull/2) in [wgtechlabs/github-copilot-chatmodes](https://github.com/wgtechlabs/github-copilot-chatmodes)
 <!--END_SECTION:activity-->
 
 </details>
