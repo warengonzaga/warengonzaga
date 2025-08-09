@@ -74,11 +74,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#11](https://github.com/wgtechlabs/unthread-webhook-server/pull/11) in [wgtechlabs/unthread-webhook-server](https://github.com/wgtechlabs/unthread-webhook-server)
-2. 🎉 Merged PR [#10](https://github.com/wgtechlabs/unthread-webhook-server/pull/10) in [wgtechlabs/unthread-webhook-server](https://github.com/wgtechlabs/unthread-webhook-server)
-3. 🚀 Published release [v0.2.0-beta.6.14](https://github.com/wgtechlabs/unthread-discord-bot/releases/tag/v0.2.0-beta.6.14) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
-4. 🚀 Published release [v0.2.0-beta.6.5](https://github.com/wgtechlabs/unthread-discord-bot/releases/tag/v0.2.0-beta.6.5) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
-5. 🎉 Merged PR [#40](https://github.com/wgtechlabs/unthread-discord-bot/pull/40) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
+1. 🚀 Published release [v1.0.0-beta.6](https://github.com/wgtechlabs/unthread-webhook-server/releases/tag/v1.0.0-beta.6) in [wgtechlabs/unthread-webhook-server](https://github.com/wgtechlabs/unthread-webhook-server)
+2. 🎉 Merged PR [#11](https://github.com/wgtechlabs/unthread-webhook-server/pull/11) in [wgtechlabs/unthread-webhook-server](https://github.com/wgtechlabs/unthread-webhook-server)
+3. 💪 Opened PR [#11](https://github.com/wgtechlabs/unthread-webhook-server/pull/11) in [wgtechlabs/unthread-webhook-server](https://github.com/wgtechlabs/unthread-webhook-server)
+4. 🎉 Merged PR [#10](https://github.com/wgtechlabs/unthread-webhook-server/pull/10) in [wgtechlabs/unthread-webhook-server](https://github.com/wgtechlabs/unthread-webhook-server)
+5. 🚀 Published release [v0.2.0-beta.6.14](https://github.com/wgtechlabs/unthread-discord-bot/releases/tag/v0.2.0-beta.6.14) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
 <!--END_SECTION:activity-->
 
 </details>
