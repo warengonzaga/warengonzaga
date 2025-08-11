@@ -74,11 +74,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#64](https://github.com/wgtechlabs/unthread-telegram-bot/pull/64#issuecomment-3173959040) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
-2. 🚀 Published release [v1.0.0-rc2](https://github.com/wgtechlabs/unthread-telegram-bot/releases/tag/v1.0.0-rc2) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
-3. 🔒 Closed issue [#61](https://github.com/wgtechlabs/unthread-telegram-bot/issues/61) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
-4. 🎉 Merged PR [#62](https://github.com/wgtechlabs/unthread-telegram-bot/pull/62) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
-5. 🔒 Closed issue [#40](https://github.com/wgtechlabs/unthread-telegram-bot/issues/40) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
+1. 🗣 Commented on [#64](https://github.com/wgtechlabs/unthread-telegram-bot/pull/64#issuecomment-3174723947) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
+2. 🗣 Commented on [#64](https://github.com/wgtechlabs/unthread-telegram-bot/pull/64#issuecomment-3173959040) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
+3. 🚀 Published release [v1.0.0-rc2](https://github.com/wgtechlabs/unthread-telegram-bot/releases/tag/v1.0.0-rc2) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
+4. 🔒 Closed issue [#61](https://github.com/wgtechlabs/unthread-telegram-bot/issues/61) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
+5. 🎉 Merged PR [#62](https://github.com/wgtechlabs/unthread-telegram-bot/pull/62) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
 <!--END_SECTION:activity-->
 
 </details>
