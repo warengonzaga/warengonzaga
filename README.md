@@ -74,11 +74,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#67](https://github.com/wgtechlabs/unthread-telegram-bot/pull/67#issuecomment-3177690284) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
-2. 🗣 Commented on [#68](https://github.com/wgtechlabs/unthread-telegram-bot/pull/68#issuecomment-3177552726) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
-3. 🗣 Commented on [#67](https://github.com/wgtechlabs/unthread-telegram-bot/pull/67#issuecomment-3177532229) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
-4. 🗣 Commented on [#67](https://github.com/wgtechlabs/unthread-telegram-bot/pull/67#issuecomment-3177514278) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
-5. 🔒 Closed issue [#43](https://github.com/wgtechlabs/unthread-telegram-bot/issues/43) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
+1. 🗣 Commented on [#43](https://github.com/wgtechlabs/unthread-discord-bot/pull/43#issuecomment-3209845809) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
+2. 🗣 Commented on [#67](https://github.com/wgtechlabs/unthread-telegram-bot/pull/67#issuecomment-3177690284) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
+3. 🗣 Commented on [#68](https://github.com/wgtechlabs/unthread-telegram-bot/pull/68#issuecomment-3177552726) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
+4. 🗣 Commented on [#67](https://github.com/wgtechlabs/unthread-telegram-bot/pull/67#issuecomment-3177532229) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
+5. 🗣 Commented on [#67](https://github.com/wgtechlabs/unthread-telegram-bot/pull/67#issuecomment-3177514278) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
 <!--END_SECTION:activity-->
 
 </details>
