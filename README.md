@@ -74,11 +74,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#49](https://github.com/wgtechlabs/unthread-discord-bot/pull/49) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
-2. 🎉 Merged PR [#48](https://github.com/wgtechlabs/unthread-discord-bot/pull/48) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
-3. 🗣 Commented on [#49](https://github.com/wgtechlabs/unthread-discord-bot/pull/49#issuecomment-3217221943) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
-4. 🗣 Commented on [#48](https://github.com/wgtechlabs/unthread-discord-bot/pull/48#issuecomment-3217212977) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
-5. 🎉 Merged PR [#47](https://github.com/wgtechlabs/unthread-discord-bot/pull/47) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
+1. 🎉 Merged PR [#6](https://github.com/wgtechlabs/forum-support-discord-bot/pull/6) in [wgtechlabs/forum-support-discord-bot](https://github.com/wgtechlabs/forum-support-discord-bot)
+2. 🎉 Merged PR [#5](https://github.com/wgtechlabs/forum-support-discord-bot/pull/5) in [wgtechlabs/forum-support-discord-bot](https://github.com/wgtechlabs/forum-support-discord-bot)
+3. 🎉 Merged PR [#49](https://github.com/wgtechlabs/unthread-discord-bot/pull/49) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
+4. 🎉 Merged PR [#48](https://github.com/wgtechlabs/unthread-discord-bot/pull/48) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
+5. 🗣 Commented on [#49](https://github.com/wgtechlabs/unthread-discord-bot/pull/49#issuecomment-3217221943) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
 <!--END_SECTION:activity-->
 
 </details>
