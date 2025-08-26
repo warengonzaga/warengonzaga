@@ -74,11 +74,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/wgtechlabs/forum-support-discord-bot/pull/9#issuecomment-3221309621) in [wgtechlabs/forum-support-discord-bot](https://github.com/wgtechlabs/forum-support-discord-bot)
-2. ❌ Closed PR [#9](https://github.com/wgtechlabs/forum-support-discord-bot/pull/9) in [wgtechlabs/forum-support-discord-bot](https://github.com/wgtechlabs/forum-support-discord-bot)
-3. 🎉 Merged PR [#52](https://github.com/wgtechlabs/unthread-discord-bot/pull/52) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
-4. 🗣 Commented on [#51](https://github.com/wgtechlabs/unthread-discord-bot/pull/51#issuecomment-3220444665) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
-5. ❌ Closed PR [#51](https://github.com/wgtechlabs/unthread-discord-bot/pull/51) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
+1. 🗣 Commented on [#7](https://github.com/wgtechlabs/forum-support-discord-bot/issues/7#issuecomment-3221373822) in [wgtechlabs/forum-support-discord-bot](https://github.com/wgtechlabs/forum-support-discord-bot)
+2. 🔒 Closed issue [#7](https://github.com/wgtechlabs/forum-support-discord-bot/issues/7) in [wgtechlabs/forum-support-discord-bot](https://github.com/wgtechlabs/forum-support-discord-bot)
+3. 🎉 Merged PR [#8](https://github.com/wgtechlabs/forum-support-discord-bot/pull/8) in [wgtechlabs/forum-support-discord-bot](https://github.com/wgtechlabs/forum-support-discord-bot)
+4. 🗣 Commented on [#9](https://github.com/wgtechlabs/forum-support-discord-bot/pull/9#issuecomment-3221309621) in [wgtechlabs/forum-support-discord-bot](https://github.com/wgtechlabs/forum-support-discord-bot)
+5. ❌ Closed PR [#9](https://github.com/wgtechlabs/forum-support-discord-bot/pull/9) in [wgtechlabs/forum-support-discord-bot](https://github.com/wgtechlabs/forum-support-discord-bot)
 <!--END_SECTION:activity-->
 
 </details>
