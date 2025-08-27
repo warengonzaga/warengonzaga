@@ -74,11 +74,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#53](https://github.com/wgtechlabs/unthread-discord-bot/pull/53#issuecomment-3226682207) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
-2. ❌ Closed PR [#53](https://github.com/wgtechlabs/unthread-discord-bot/pull/53) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
-3. ❗ Opened issue [#10](https://github.com/wgtechlabs/forum-support-discord-bot/issues/10) in [wgtechlabs/forum-support-discord-bot](https://github.com/wgtechlabs/forum-support-discord-bot)
-4. 🗣 Commented on [#7](https://github.com/wgtechlabs/forum-support-discord-bot/issues/7#issuecomment-3221373822) in [wgtechlabs/forum-support-discord-bot](https://github.com/wgtechlabs/forum-support-discord-bot)
-5. 🔒 Closed issue [#7](https://github.com/wgtechlabs/forum-support-discord-bot/issues/7) in [wgtechlabs/forum-support-discord-bot](https://github.com/wgtechlabs/forum-support-discord-bot)
+1. 💪 Opened PR [#6](https://github.com/warengonzaga/magic-release/pull/6) in [warengonzaga/magic-release](https://github.com/warengonzaga/magic-release)
+2. 💪 Opened PR [#5](https://github.com/warengonzaga/magic-release/pull/5) in [warengonzaga/magic-release](https://github.com/warengonzaga/magic-release)
+3. 🗣 Commented on [#53](https://github.com/wgtechlabs/unthread-discord-bot/pull/53#issuecomment-3226682207) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
+4. ❌ Closed PR [#53](https://github.com/wgtechlabs/unthread-discord-bot/pull/53) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
+5. ❗ Opened issue [#10](https://github.com/wgtechlabs/forum-support-discord-bot/issues/10) in [wgtechlabs/forum-support-discord-bot](https://github.com/wgtechlabs/forum-support-discord-bot)
 <!--END_SECTION:activity-->
 
 </details>
