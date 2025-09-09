@@ -74,11 +74,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#62](https://github.com/wgtechlabs/unthread-discord-bot/pull/62) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
-2. 🎉 Merged PR [#61](https://github.com/wgtechlabs/unthread-discord-bot/pull/61) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
-3. 🗣 Commented on [#11](https://github.com/wgtechlabs/forum-support-discord-bot/issues/11#issuecomment-3242331818) in [wgtechlabs/forum-support-discord-bot](https://github.com/wgtechlabs/forum-support-discord-bot)
-4. 🚀 Published release [v1.0.0-rc1](https://github.com/wgtechlabs/unthread-discord-bot/releases/tag/v1.0.0-rc1) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
-5. 🎉 Merged PR [#45](https://github.com/wgtechlabs/unthread-discord-bot/pull/45) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
+1. 🗣 Commented on [#62](https://github.com/wgtechlabs/unthread-discord-bot/pull/62#issuecomment-3270578639) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
+2. 🎉 Merged PR [#64](https://github.com/wgtechlabs/unthread-discord-bot/pull/64) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
+3. 💪 Opened PR [#62](https://github.com/wgtechlabs/unthread-discord-bot/pull/62) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
+4. 🎉 Merged PR [#61](https://github.com/wgtechlabs/unthread-discord-bot/pull/61) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
+5. 🗣 Commented on [#11](https://github.com/wgtechlabs/forum-support-discord-bot/issues/11#issuecomment-3242331818) in [wgtechlabs/forum-support-discord-bot](https://github.com/wgtechlabs/forum-support-discord-bot)
 <!--END_SECTION:activity-->
 
 </details>
