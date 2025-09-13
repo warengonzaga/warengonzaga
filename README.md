@@ -74,11 +74,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#62](https://github.com/wgtechlabs/unthread-discord-bot/pull/62#issuecomment-3270578639) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
-2. 🎉 Merged PR [#64](https://github.com/wgtechlabs/unthread-discord-bot/pull/64) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
-3. 💪 Opened PR [#62](https://github.com/wgtechlabs/unthread-discord-bot/pull/62) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
-4. 🎉 Merged PR [#61](https://github.com/wgtechlabs/unthread-discord-bot/pull/61) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
-5. 🗣 Commented on [#11](https://github.com/wgtechlabs/forum-support-discord-bot/issues/11#issuecomment-3242331818) in [wgtechlabs/forum-support-discord-bot](https://github.com/wgtechlabs/forum-support-discord-bot)
+1. ❗ Opened issue [#70](https://github.com/wgtechlabs/unthread-discord-bot/issues/70) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
+2. ❗ Opened issue [#69](https://github.com/wgtechlabs/unthread-discord-bot/issues/69) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
+3. ❗ Opened issue [#68](https://github.com/wgtechlabs/unthread-discord-bot/issues/68) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
+4. 🗣 Commented on [#62](https://github.com/wgtechlabs/unthread-discord-bot/pull/62#issuecomment-3270578639) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
+5. 🎉 Merged PR [#64](https://github.com/wgtechlabs/unthread-discord-bot/pull/64) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
 <!--END_SECTION:activity-->
 
 </details>
