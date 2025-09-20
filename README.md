@@ -74,11 +74,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#74](https://github.com/bettergovph/bettergov/pull/74#issuecomment-3314903802) in [bettergovph/bettergov](https://github.com/bettergovph/bettergov)
-2. 🗣 Commented on [#41](https://github.com/bettergovph/bettergov/issues/41#issuecomment-3314887486) in [bettergovph/bettergov](https://github.com/bettergovph/bettergov)
-3. 🗣 Commented on [#74](https://github.com/bettergovph/bettergov/pull/74#issuecomment-3314883384) in [bettergovph/bettergov](https://github.com/bettergovph/bettergov)
-4. 🗣 Commented on [#73](https://github.com/bettergovph/bettergov/pull/73#issuecomment-3314883083) in [bettergovph/bettergov](https://github.com/bettergovph/bettergov)
-5. 🗣 Commented on [#74](https://github.com/bettergovph/bettergov/pull/74#issuecomment-3314882746) in [bettergovph/bettergov](https://github.com/bettergovph/bettergov)
+1. 🗣 Commented on [#76](https://github.com/bettergovph/bettergov/pull/76#issuecomment-3314913233) in [bettergovph/bettergov](https://github.com/bettergovph/bettergov)
+2. 💪 Opened PR [#76](https://github.com/bettergovph/bettergov/pull/76) in [bettergovph/bettergov](https://github.com/bettergovph/bettergov)
+3. 🗣 Commented on [#74](https://github.com/bettergovph/bettergov/pull/74#issuecomment-3314910626) in [bettergovph/bettergov](https://github.com/bettergovph/bettergov)
+4. ❌ Closed PR [#74](https://github.com/bettergovph/bettergov/pull/74) in [bettergovph/bettergov](https://github.com/bettergovph/bettergov)
+5. 🗣 Commented on [#74](https://github.com/bettergovph/bettergov/pull/74#issuecomment-3314903802) in [bettergovph/bettergov](https://github.com/bettergovph/bettergov)
 <!--END_SECTION:activity-->
 
 </details>
