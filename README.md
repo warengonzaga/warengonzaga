@@ -74,11 +74,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#79](https://github.com/wgtechlabs/unthread-discord-bot/pull/79#issuecomment-3314836095) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
-2. 🗣 Commented on [#79](https://github.com/wgtechlabs/unthread-discord-bot/pull/79#issuecomment-3314817352) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
-3. 🎉 Merged PR [#78](https://github.com/wgtechlabs/unthread-discord-bot/pull/78) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
-4. 🗣 Commented on [#78](https://github.com/wgtechlabs/unthread-discord-bot/pull/78#issuecomment-3314794056) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
-5. 🎉 Merged PR [#76](https://github.com/wgtechlabs/unthread-discord-bot/pull/76) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
+1. 💪 Opened PR [#73](https://github.com/bettergovph/bettergov/pull/73) in [bettergovph/bettergov](https://github.com/bettergovph/bettergov)
+2. 🗣 Commented on [#70](https://github.com/bettergovph/bettergov/pull/70#issuecomment-3314873899) in [bettergovph/bettergov](https://github.com/bettergovph/bettergov)
+3. 🗣 Commented on [#70](https://github.com/bettergovph/bettergov/pull/70#issuecomment-3314872609) in [bettergovph/bettergov](https://github.com/bettergovph/bettergov)
+4. 🗣 Commented on [#70](https://github.com/bettergovph/bettergov/pull/70#issuecomment-3314870142) in [bettergovph/bettergov](https://github.com/bettergovph/bettergov)
+5. 🗣 Commented on [#70](https://github.com/bettergovph/bettergov/pull/70#issuecomment-3314868531) in [bettergovph/bettergov](https://github.com/bettergovph/bettergov)
 <!--END_SECTION:activity-->
 
 </details>
