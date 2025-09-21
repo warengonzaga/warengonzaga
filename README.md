@@ -74,11 +74,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#62](https://github.com/wgtechlabs/unthread-discord-bot/pull/62) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
-2. 🗣 Commented on [#5](https://github.com/warengonzaga/magic-release/pull/5#issuecomment-3316060525) in [warengonzaga/magic-release](https://github.com/warengonzaga/magic-release)
-3. ❌ Closed PR [#5](https://github.com/warengonzaga/magic-release/pull/5) in [warengonzaga/magic-release](https://github.com/warengonzaga/magic-release)
-4. 🗣 Commented on [#6](https://github.com/warengonzaga/magic-release/pull/6#issuecomment-3316060262) in [warengonzaga/magic-release](https://github.com/warengonzaga/magic-release)
-5. ❌ Closed PR [#6](https://github.com/warengonzaga/magic-release/pull/6) in [warengonzaga/magic-release](https://github.com/warengonzaga/magic-release)
+1. 🚀 Published release [v0.1.1-beta](https://github.com/warengonzaga/magic-release/releases/tag/v0.1.1-beta) in [warengonzaga/magic-release](https://github.com/warengonzaga/magic-release)
+2. 🎉 Merged PR [#1](https://github.com/warengonzaga/magic-release/pull/1) in [warengonzaga/magic-release](https://github.com/warengonzaga/magic-release)
+3. 🔒 Closed issue [#8](https://github.com/warengonzaga/magic-release/issues/8) in [warengonzaga/magic-release](https://github.com/warengonzaga/magic-release)
+4. 🔒 Closed issue [#7](https://github.com/warengonzaga/magic-release/issues/7) in [warengonzaga/magic-release](https://github.com/warengonzaga/magic-release)
+5. 🎉 Merged PR [#62](https://github.com/wgtechlabs/unthread-discord-bot/pull/62) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
 <!--END_SECTION:activity-->
 
 </details>
