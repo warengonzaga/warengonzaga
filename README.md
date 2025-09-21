@@ -74,11 +74,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#70](https://github.com/wgtechlabs/unthread-discord-bot/issues/70#issuecomment-3315940446) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
-2. 🔒 Closed issue [#70](https://github.com/wgtechlabs/unthread-discord-bot/issues/70) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
-3. 🗣 Commented on [#89](https://github.com/bettergovph/bettergov/pull/89#issuecomment-3315912390) in [bettergovph/bettergov](https://github.com/bettergovph/bettergov)
-4. 🎉 Merged PR [#80](https://github.com/wgtechlabs/unthread-discord-bot/pull/80) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
-5. 🗣 Commented on [#80](https://github.com/wgtechlabs/unthread-discord-bot/pull/80#issuecomment-3315765804) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
+1. 🎉 Merged PR [#62](https://github.com/wgtechlabs/unthread-discord-bot/pull/62) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
+2. 🗣 Commented on [#5](https://github.com/warengonzaga/magic-release/pull/5#issuecomment-3316060525) in [warengonzaga/magic-release](https://github.com/warengonzaga/magic-release)
+3. ❌ Closed PR [#5](https://github.com/warengonzaga/magic-release/pull/5) in [warengonzaga/magic-release](https://github.com/warengonzaga/magic-release)
+4. 🗣 Commented on [#6](https://github.com/warengonzaga/magic-release/pull/6#issuecomment-3316060262) in [warengonzaga/magic-release](https://github.com/warengonzaga/magic-release)
+5. ❌ Closed PR [#6](https://github.com/warengonzaga/magic-release/pull/6) in [warengonzaga/magic-release](https://github.com/warengonzaga/magic-release)
 <!--END_SECTION:activity-->
 
 </details>
