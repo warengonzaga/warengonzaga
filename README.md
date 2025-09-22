@@ -74,11 +74,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#82](https://github.com/wgtechlabs/unthread-discord-bot/issues/82) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
-2. ❗ Opened issue [#9](https://github.com/warengonzaga/magic-release/issues/9) in [warengonzaga/magic-release](https://github.com/warengonzaga/magic-release)
-3. 🗣 Commented on [#89](https://github.com/bettergovph/bettergov/pull/89#issuecomment-3317004571) in [bettergovph/bettergov](https://github.com/bettergovph/bettergov)
-4. 💪 Opened PR [#81](https://github.com/wgtechlabs/unthread-discord-bot/pull/81) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
-5. 🚀 Published release [v1.0.0](https://github.com/wgtechlabs/unthread-discord-bot/releases/tag/v1.0.0) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
+1. 🗣 Commented on [#191](https://github.com/bettergovph/bettergov/issues/191#issuecomment-3319065208) in [bettergovph/bettergov](https://github.com/bettergovph/bettergov)
+2. ❗ Opened issue [#82](https://github.com/wgtechlabs/unthread-discord-bot/issues/82) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
+3. ❗ Opened issue [#9](https://github.com/warengonzaga/magic-release/issues/9) in [warengonzaga/magic-release](https://github.com/warengonzaga/magic-release)
+4. 🗣 Commented on [#89](https://github.com/bettergovph/bettergov/pull/89#issuecomment-3317004571) in [bettergovph/bettergov](https://github.com/bettergovph/bettergov)
+5. 💪 Opened PR [#81](https://github.com/wgtechlabs/unthread-discord-bot/pull/81) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
 <!--END_SECTION:activity-->
 
 </details>
