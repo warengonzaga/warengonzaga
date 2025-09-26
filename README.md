@@ -74,11 +74,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#84](https://github.com/wgtechlabs/unthread-discord-bot/issues/84) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
-2. 🚀 Published release [v1.0.3](https://github.com/wgtechlabs/unthread-discord-bot/releases/tag/v1.0.3) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
-3. ❗ Opened issue [#83](https://github.com/wgtechlabs/unthread-discord-bot/issues/83) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
-4. 🚀 Published release [v1.0.2](https://github.com/wgtechlabs/unthread-discord-bot/releases/tag/v1.0.2) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
-5. 🚀 Published release [v1.0.1](https://github.com/wgtechlabs/unthread-discord-bot/releases/tag/v1.0.1) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
+1. 🗣 Commented on [#86](https://github.com/wgtechlabs/unthread-discord-bot/pull/86#issuecomment-3338485752) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
+2. ❗ Opened issue [#84](https://github.com/wgtechlabs/unthread-discord-bot/issues/84) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
+3. 🚀 Published release [v1.0.3](https://github.com/wgtechlabs/unthread-discord-bot/releases/tag/v1.0.3) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
+4. ❗ Opened issue [#83](https://github.com/wgtechlabs/unthread-discord-bot/issues/83) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
+5. 🚀 Published release [v1.0.2](https://github.com/wgtechlabs/unthread-discord-bot/releases/tag/v1.0.2) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
 <!--END_SECTION:activity-->
 
 </details>
