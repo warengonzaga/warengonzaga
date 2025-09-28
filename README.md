@@ -74,11 +74,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#65](https://github.com/wgtechlabs/unthread-discord-bot/issues/65) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
-2. 🗣 Commented on [#65](https://github.com/wgtechlabs/unthread-discord-bot/issues/65#issuecomment-3343538089) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
-3. 🎉 Merged PR [#93](https://github.com/wgtechlabs/unthread-discord-bot/pull/93) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
-4. 🗣 Commented on [#93](https://github.com/wgtechlabs/unthread-discord-bot/pull/93#issuecomment-3343360379) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
-5. 🗣 Commented on [#93](https://github.com/wgtechlabs/unthread-discord-bot/pull/93#issuecomment-3343357482) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
+1. 🗣 Commented on [#81](https://github.com/wgtechlabs/unthread-discord-bot/pull/81#issuecomment-3343690188) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
+2. 🔒 Closed issue [#65](https://github.com/wgtechlabs/unthread-discord-bot/issues/65) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
+3. 🗣 Commented on [#65](https://github.com/wgtechlabs/unthread-discord-bot/issues/65#issuecomment-3343538089) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
+4. 🎉 Merged PR [#93](https://github.com/wgtechlabs/unthread-discord-bot/pull/93) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
+5. 🗣 Commented on [#93](https://github.com/wgtechlabs/unthread-discord-bot/pull/93#issuecomment-3343360379) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
 <!--END_SECTION:activity-->
 
 </details>
