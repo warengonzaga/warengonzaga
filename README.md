@@ -74,11 +74,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14](https://github.com/wgtechlabs/unthread-webhook-server/pull/14#issuecomment-3363533854) in [wgtechlabs/unthread-webhook-server](https://github.com/wgtechlabs/unthread-webhook-server)
-2. 🚀 Published release [v1.0.0-beta.7-patch.1](https://github.com/wgtechlabs/unthread-webhook-server/releases/tag/v1.0.0-beta.7-patch.1) in [wgtechlabs/unthread-webhook-server](https://github.com/wgtechlabs/unthread-webhook-server)
-3. 🎉 Merged PR [#13](https://github.com/wgtechlabs/unthread-webhook-server/pull/13) in [wgtechlabs/unthread-webhook-server](https://github.com/wgtechlabs/unthread-webhook-server)
-4. 🗣 Commented on [#12](https://github.com/wgtechlabs/unthread-webhook-server/pull/12#issuecomment-3362973522) in [wgtechlabs/unthread-webhook-server](https://github.com/wgtechlabs/unthread-webhook-server)
-5. ❌ Closed PR [#12](https://github.com/wgtechlabs/unthread-webhook-server/pull/12) in [wgtechlabs/unthread-webhook-server](https://github.com/wgtechlabs/unthread-webhook-server)
+1. 💪 Opened PR [#18](https://github.com/wgtechlabs/unthread-webhook-server/pull/18) in [wgtechlabs/unthread-webhook-server](https://github.com/wgtechlabs/unthread-webhook-server)
+2. 🎉 Merged PR [#14](https://github.com/wgtechlabs/unthread-webhook-server/pull/14) in [wgtechlabs/unthread-webhook-server](https://github.com/wgtechlabs/unthread-webhook-server)
+3. 🗣 Commented on [#14](https://github.com/wgtechlabs/unthread-webhook-server/pull/14#issuecomment-3363533854) in [wgtechlabs/unthread-webhook-server](https://github.com/wgtechlabs/unthread-webhook-server)
+4. 🚀 Published release [v1.0.0-beta.7-patch.1](https://github.com/wgtechlabs/unthread-webhook-server/releases/tag/v1.0.0-beta.7-patch.1) in [wgtechlabs/unthread-webhook-server](https://github.com/wgtechlabs/unthread-webhook-server)
+5. 🎉 Merged PR [#13](https://github.com/wgtechlabs/unthread-webhook-server/pull/13) in [wgtechlabs/unthread-webhook-server](https://github.com/wgtechlabs/unthread-webhook-server)
 <!--END_SECTION:activity-->
 
 </details>
