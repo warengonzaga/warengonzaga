@@ -74,11 +74,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#78](https://github.com/wgtechlabs/unthread-telegram-bot/pull/78) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
-2. 🗣 Commented on [#78](https://github.com/wgtechlabs/unthread-telegram-bot/pull/78#issuecomment-3395699356) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
-3. 🗣 Commented on [#79](https://github.com/wgtechlabs/unthread-telegram-bot/pull/79#issuecomment-3395699058) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
-4. ❌ Closed PR [#79](https://github.com/wgtechlabs/unthread-telegram-bot/pull/79) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
-5. 🎉 Merged PR [#77](https://github.com/wgtechlabs/unthread-telegram-bot/pull/77) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
+1. 🎉 Merged PR [#80](https://github.com/wgtechlabs/unthread-telegram-bot/pull/80) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
+2. ❌ Closed PR [#78](https://github.com/wgtechlabs/unthread-telegram-bot/pull/78) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
+3. 🗣 Commented on [#78](https://github.com/wgtechlabs/unthread-telegram-bot/pull/78#issuecomment-3395699356) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
+4. 🗣 Commented on [#79](https://github.com/wgtechlabs/unthread-telegram-bot/pull/79#issuecomment-3395699058) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
+5. ❌ Closed PR [#79](https://github.com/wgtechlabs/unthread-telegram-bot/pull/79) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
 <!--END_SECTION:activity-->
 
 </details>
