@@ -75,7 +75,7 @@ Wanna have chat with me? Join my tech communities!
 
 <!--START_SECTION:activity-->
 1. 🚀 Published release [v1.1.1](https://github.com/wgtechlabs/unthread-discord-bot/releases/tag/v1.1.1) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
-2. ❌ Labeled PR [#102](undefined) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
+2. 🚀 Published release [v1.0.1](https://github.com/wgtechlabs/unthread-telegram-bot/releases/tag/v1.0.1) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
 3. ❌ Labeled PR [#102](undefined) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
 4. ❌ Labeled PR [#102](undefined) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
 5. ❌ Labeled PR [#102](undefined) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
