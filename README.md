@@ -74,10 +74,10 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#12](undefined) in [warengonzaga/magic-release](https://github.com/warengonzaga/magic-release)
-2. ❌ Assigned PR [#20](undefined) in [wgtechlabs/unthread-webhook-server](https://github.com/wgtechlabs/unthread-webhook-server)
-3. ❌ Labeled PR [#102](undefined) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
-4. ❌ Labeled PR [#102](undefined) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
+1. ❌ Closed PR [#21](undefined) in [wgtechlabs/unthread-webhook-server](https://github.com/wgtechlabs/unthread-webhook-server)
+2. 🗣 Commented on [#21](https://github.com/wgtechlabs/unthread-webhook-server/pull/21#issuecomment-3575175671) in [wgtechlabs/unthread-webhook-server](https://github.com/wgtechlabs/unthread-webhook-server)
+3. 💪 Opened PR [#12](undefined) in [warengonzaga/magic-release](https://github.com/warengonzaga/magic-release)
+4. ❌ Assigned PR [#20](undefined) in [wgtechlabs/unthread-webhook-server](https://github.com/wgtechlabs/unthread-webhook-server)
 5. ❌ Labeled PR [#102](undefined) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
 <!--END_SECTION:activity-->
 
