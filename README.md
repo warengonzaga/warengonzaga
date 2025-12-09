@@ -74,11 +74,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1.  Assigned issue [#2](https://github.com/wgtechlabs/container-build-flow-action/issues/2) in [wgtechlabs/container-build-flow-action](https://github.com/wgtechlabs/container-build-flow-action)
-2. ❗ Opened issue [#2](https://github.com/wgtechlabs/container-build-flow-action/issues/2) in [wgtechlabs/container-build-flow-action](https://github.com/wgtechlabs/container-build-flow-action)
-3. 🗣 Commented on [#17](https://github.com/wgtechlabs/unthread-webhook-server/pull/17#issuecomment-3631979133) in [wgtechlabs/unthread-webhook-server](https://github.com/wgtechlabs/unthread-webhook-server)
-4. 🗣 Commented on [#17](https://github.com/wgtechlabs/unthread-webhook-server/pull/17#issuecomment-3631899025) in [wgtechlabs/unthread-webhook-server](https://github.com/wgtechlabs/unthread-webhook-server)
-5. 🚀 Published release [v1.0.1](https://github.com/wgtechlabs/container-build-flow-action/releases/tag/v1.0.1) in [wgtechlabs/container-build-flow-action](https://github.com/wgtechlabs/container-build-flow-action)
+1. 🚀 Published release [v1.0.2](https://github.com/wgtechlabs/container-build-flow-action/releases/tag/v1.0.2) in [wgtechlabs/container-build-flow-action](https://github.com/wgtechlabs/container-build-flow-action)
+2. 🔒 Closed issue [#2](https://github.com/wgtechlabs/container-build-flow-action/issues/2) in [wgtechlabs/container-build-flow-action](https://github.com/wgtechlabs/container-build-flow-action)
+3.  Assigned issue [#2](https://github.com/wgtechlabs/container-build-flow-action/issues/2) in [wgtechlabs/container-build-flow-action](https://github.com/wgtechlabs/container-build-flow-action)
+4. ❗ Opened issue [#2](https://github.com/wgtechlabs/container-build-flow-action/issues/2) in [wgtechlabs/container-build-flow-action](https://github.com/wgtechlabs/container-build-flow-action)
+5. 🗣 Commented on [#17](https://github.com/wgtechlabs/unthread-webhook-server/pull/17#issuecomment-3631979133) in [wgtechlabs/unthread-webhook-server](https://github.com/wgtechlabs/unthread-webhook-server)
 <!--END_SECTION:activity-->
 
 </details>
