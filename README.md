@@ -74,11 +74,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.3](https://github.com/wgtechlabs/container-build-flow-action/releases/tag/v1.0.3) in [wgtechlabs/container-build-flow-action](https://github.com/wgtechlabs/container-build-flow-action)
-2. 🚀 Published release [v1.0.2](https://github.com/wgtechlabs/container-build-flow-action/releases/tag/v1.0.2) in [wgtechlabs/container-build-flow-action](https://github.com/wgtechlabs/container-build-flow-action)
-3. 🔒 Closed issue [#2](https://github.com/wgtechlabs/container-build-flow-action/issues/2) in [wgtechlabs/container-build-flow-action](https://github.com/wgtechlabs/container-build-flow-action)
-4.  Assigned issue [#2](https://github.com/wgtechlabs/container-build-flow-action/issues/2) in [wgtechlabs/container-build-flow-action](https://github.com/wgtechlabs/container-build-flow-action)
-5. ❗ Opened issue [#2](https://github.com/wgtechlabs/container-build-flow-action/issues/2) in [wgtechlabs/container-build-flow-action](https://github.com/wgtechlabs/container-build-flow-action)
+1. ❗ Opened issue [#4](https://github.com/wgtechlabs/container-build-flow-action/issues/4) in [wgtechlabs/container-build-flow-action](https://github.com/wgtechlabs/container-build-flow-action)
+2. 🚀 Published release [v1.0.3](https://github.com/wgtechlabs/container-build-flow-action/releases/tag/v1.0.3) in [wgtechlabs/container-build-flow-action](https://github.com/wgtechlabs/container-build-flow-action)
+3. 🚀 Published release [v1.0.2](https://github.com/wgtechlabs/container-build-flow-action/releases/tag/v1.0.2) in [wgtechlabs/container-build-flow-action](https://github.com/wgtechlabs/container-build-flow-action)
+4. 🔒 Closed issue [#2](https://github.com/wgtechlabs/container-build-flow-action/issues/2) in [wgtechlabs/container-build-flow-action](https://github.com/wgtechlabs/container-build-flow-action)
+5.  Assigned issue [#2](https://github.com/wgtechlabs/container-build-flow-action/issues/2) in [wgtechlabs/container-build-flow-action](https://github.com/wgtechlabs/container-build-flow-action)
 <!--END_SECTION:activity-->
 
 </details>
