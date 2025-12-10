@@ -74,11 +74,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.4](https://github.com/wgtechlabs/container-build-flow-action/releases/tag/v1.0.4) in [wgtechlabs/container-build-flow-action](https://github.com/wgtechlabs/container-build-flow-action)
-2. 🔒 Closed issue [#4](https://github.com/wgtechlabs/container-build-flow-action/issues/4) in [wgtechlabs/container-build-flow-action](https://github.com/wgtechlabs/container-build-flow-action)
-3.  Assigned issue [#4](https://github.com/wgtechlabs/container-build-flow-action/issues/4) in [wgtechlabs/container-build-flow-action](https://github.com/wgtechlabs/container-build-flow-action)
-4. ❗ Opened issue [#4](https://github.com/wgtechlabs/container-build-flow-action/issues/4) in [wgtechlabs/container-build-flow-action](https://github.com/wgtechlabs/container-build-flow-action)
-5. 🚀 Published release [v1.0.3](https://github.com/wgtechlabs/container-build-flow-action/releases/tag/v1.0.3) in [wgtechlabs/container-build-flow-action](https://github.com/wgtechlabs/container-build-flow-action)
+1. 🚀 Published release [v1.0.0](https://github.com/wgtechlabs/unthread-webhook-server/releases/tag/v1.0.0) in [wgtechlabs/unthread-webhook-server](https://github.com/wgtechlabs/unthread-webhook-server)
+2. ❌ Merged PR [#18](undefined) in [wgtechlabs/unthread-webhook-server](https://github.com/wgtechlabs/unthread-webhook-server)
+3. 🚀 Published release [v1.0.4](https://github.com/wgtechlabs/container-build-flow-action/releases/tag/v1.0.4) in [wgtechlabs/container-build-flow-action](https://github.com/wgtechlabs/container-build-flow-action)
+4. 🔒 Closed issue [#4](https://github.com/wgtechlabs/container-build-flow-action/issues/4) in [wgtechlabs/container-build-flow-action](https://github.com/wgtechlabs/container-build-flow-action)
+5.  Assigned issue [#4](https://github.com/wgtechlabs/container-build-flow-action/issues/4) in [wgtechlabs/container-build-flow-action](https://github.com/wgtechlabs/container-build-flow-action)
 <!--END_SECTION:activity-->
 
 </details>
