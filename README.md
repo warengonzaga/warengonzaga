@@ -74,11 +74,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1.  Assigned issue [#5](https://github.com/wgtechlabs/container-build-flow-action/issues/5) in [wgtechlabs/container-build-flow-action](https://github.com/wgtechlabs/container-build-flow-action)
-2. 🗣 Commented on [#5](https://github.com/wgtechlabs/container-build-flow-action/issues/5#issuecomment-3637167318) in [wgtechlabs/container-build-flow-action](https://github.com/wgtechlabs/container-build-flow-action)
-3. ❗ Opened issue [#5](https://github.com/wgtechlabs/container-build-flow-action/issues/5) in [wgtechlabs/container-build-flow-action](https://github.com/wgtechlabs/container-build-flow-action)
-4. 🚀 Published release [v1.0.4](https://github.com/wgtechlabs/unthread-telegram-bot/releases/tag/v1.0.4) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
-5. ❌ Merged PR [#82](undefined) in [wgtechlabs/unthread-telegram-bot](https://github.com/wgtechlabs/unthread-telegram-bot)
+1. 🗣 Commented on [#103](https://github.com/wgtechlabs/unthread-discord-bot/pull/103#issuecomment-3642350442) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
+2. 🚀 Published release [v1.0.5](https://github.com/wgtechlabs/container-build-flow-action/releases/tag/v1.0.5) in [wgtechlabs/container-build-flow-action](https://github.com/wgtechlabs/container-build-flow-action)
+3. 🔒 Closed issue [#5](https://github.com/wgtechlabs/container-build-flow-action/issues/5) in [wgtechlabs/container-build-flow-action](https://github.com/wgtechlabs/container-build-flow-action)
+4.  Assigned issue [#5](https://github.com/wgtechlabs/container-build-flow-action/issues/5) in [wgtechlabs/container-build-flow-action](https://github.com/wgtechlabs/container-build-flow-action)
+5. 🗣 Commented on [#5](https://github.com/wgtechlabs/container-build-flow-action/issues/5#issuecomment-3637167318) in [wgtechlabs/container-build-flow-action](https://github.com/wgtechlabs/container-build-flow-action)
 <!--END_SECTION:activity-->
 
 </details>
