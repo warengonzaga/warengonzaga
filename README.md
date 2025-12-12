@@ -74,11 +74,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#104](https://github.com/wgtechlabs/unthread-discord-bot/pull/104#issuecomment-3645914521) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
-2. ❌ Labeled PR [#106](undefined) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
-3. ❌ Labeled PR [#106](undefined) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
-4. ❌ Labeled PR [#106](undefined) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
-5. 🗣 Commented on [#2](https://github.com/warengonzaga/relay-protocol-mcp-server/pull/2#issuecomment-3644386973) in [warengonzaga/relay-protocol-mcp-server](https://github.com/warengonzaga/relay-protocol-mcp-server)
+1.  Labeled issue [#108](https://github.com/wgtechlabs/unthread-discord-bot/issues/108) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
+2.  Labeled issue [#108](https://github.com/wgtechlabs/unthread-discord-bot/issues/108) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
+3. ❗ Opened issue [#108](https://github.com/wgtechlabs/unthread-discord-bot/issues/108) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
+4. 🗣 Commented on [#7](https://github.com/wgtechlabs/container-build-flow-action/pull/7#issuecomment-3646015398) in [wgtechlabs/container-build-flow-action](https://github.com/wgtechlabs/container-build-flow-action)
+5. ❌ Labeled PR [#7](undefined) in [wgtechlabs/container-build-flow-action](https://github.com/wgtechlabs/container-build-flow-action)
 <!--END_SECTION:activity-->
 
 </details>
