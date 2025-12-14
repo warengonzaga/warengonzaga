@@ -74,11 +74,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10](https://github.com/wgtechlabs/nuvex/pull/10#issuecomment-3651249875) in [wgtechlabs/nuvex](https://github.com/wgtechlabs/nuvex)
-2. 🔒 Closed issue [#8](https://github.com/wgtechlabs/nuvex/issues/8) in [wgtechlabs/nuvex](https://github.com/wgtechlabs/nuvex)
-3. ❌ Labeled PR [#10](undefined) in [wgtechlabs/nuvex](https://github.com/wgtechlabs/nuvex)
-4. ❌ Labeled PR [#10](undefined) in [wgtechlabs/nuvex](https://github.com/wgtechlabs/nuvex)
-5. ❌ Labeled PR [#6](undefined) in [wgtechlabs/nuvex](https://github.com/wgtechlabs/nuvex)
+1. 🔒 Closed issue [#9](https://github.com/wgtechlabs/nuvex/issues/9) in [wgtechlabs/nuvex](https://github.com/wgtechlabs/nuvex)
+2. 🗣 Commented on [#6](https://github.com/wgtechlabs/nuvex/pull/6#issuecomment-3651297398) in [wgtechlabs/nuvex](https://github.com/wgtechlabs/nuvex)
+3. 🗣 Commented on [#10](https://github.com/wgtechlabs/nuvex/pull/10#issuecomment-3651249875) in [wgtechlabs/nuvex](https://github.com/wgtechlabs/nuvex)
+4. 🔒 Closed issue [#8](https://github.com/wgtechlabs/nuvex/issues/8) in [wgtechlabs/nuvex](https://github.com/wgtechlabs/nuvex)
+5. ❌ Labeled PR [#10](undefined) in [wgtechlabs/nuvex](https://github.com/wgtechlabs/nuvex)
 <!--END_SECTION:activity-->
 
 </details>
