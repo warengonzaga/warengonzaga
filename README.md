@@ -74,11 +74,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#110](https://github.com/wgtechlabs/unthread-discord-bot/issues/110) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
-2. 🔓 Reopened issue [#110](https://github.com/wgtechlabs/unthread-discord-bot/issues/110) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
-3. 🔒 Closed issue [#110](https://github.com/wgtechlabs/unthread-discord-bot/issues/110) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
-4. ❌ Labeled PR [#23](undefined) in [wgtechlabs/unthread-webhook-server](https://github.com/wgtechlabs/unthread-webhook-server)
-5. ❌ Labeled PR [#23](undefined) in [wgtechlabs/unthread-webhook-server](https://github.com/wgtechlabs/unthread-webhook-server)
+1.  Labeled issue [#8](https://github.com/wgtechlabs/nuvex/issues/8) in [wgtechlabs/nuvex](https://github.com/wgtechlabs/nuvex)
+2.  Labeled issue [#8](https://github.com/wgtechlabs/nuvex/issues/8) in [wgtechlabs/nuvex](https://github.com/wgtechlabs/nuvex)
+3.  Assigned issue [#8](https://github.com/wgtechlabs/nuvex/issues/8) in [wgtechlabs/nuvex](https://github.com/wgtechlabs/nuvex)
+4. ❗ Opened issue [#8](https://github.com/wgtechlabs/nuvex/issues/8) in [wgtechlabs/nuvex](https://github.com/wgtechlabs/nuvex)
+5. 🔒 Closed issue [#110](https://github.com/wgtechlabs/unthread-discord-bot/issues/110) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
 <!--END_SECTION:activity-->
 
 </details>
