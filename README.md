@@ -74,11 +74,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#4](https://github.com/wgtechlabs/nuvex/issues/4) in [wgtechlabs/nuvex](https://github.com/wgtechlabs/nuvex)
-2.  Labeled issue [#110](https://github.com/wgtechlabs/unthread-discord-bot/issues/110) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
-3.  Labeled issue [#110](https://github.com/wgtechlabs/unthread-discord-bot/issues/110) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
-4. ❌ Labeled PR [#109](undefined) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
-5. ❌ Labeled PR [#109](undefined) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
+1. 🔒 Closed issue [#110](https://github.com/wgtechlabs/unthread-discord-bot/issues/110) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
+2. 🔓 Reopened issue [#110](https://github.com/wgtechlabs/unthread-discord-bot/issues/110) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
+3. 🔒 Closed issue [#110](https://github.com/wgtechlabs/unthread-discord-bot/issues/110) in [wgtechlabs/unthread-discord-bot](https://github.com/wgtechlabs/unthread-discord-bot)
+4. ❌ Labeled PR [#23](undefined) in [wgtechlabs/unthread-webhook-server](https://github.com/wgtechlabs/unthread-webhook-server)
+5. ❌ Labeled PR [#23](undefined) in [wgtechlabs/unthread-webhook-server](https://github.com/wgtechlabs/unthread-webhook-server)
 <!--END_SECTION:activity-->
 
 </details>
