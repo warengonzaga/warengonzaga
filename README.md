@@ -74,11 +74,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❌ Labeled PR [#13](undefined) in [wgtechlabs/nuvex](https://github.com/wgtechlabs/nuvex)
-2. 🗣 Commented on [#13](https://github.com/wgtechlabs/nuvex/pull/13#issuecomment-3655810280) in [wgtechlabs/nuvex](https://github.com/wgtechlabs/nuvex)
-3. 🔒 Closed issue [#2](https://github.com/wgtechlabs/nuvex/issues/2) in [wgtechlabs/nuvex](https://github.com/wgtechlabs/nuvex)
-4. 🗣 Commented on [#13](https://github.com/wgtechlabs/nuvex/pull/13#issuecomment-3655383207) in [wgtechlabs/nuvex](https://github.com/wgtechlabs/nuvex)
-5. 🗣 Commented on [#12](https://github.com/wgtechlabs/nuvex/pull/12#issuecomment-3655329680) in [wgtechlabs/nuvex](https://github.com/wgtechlabs/nuvex)
+1. 🗣 Commented on [#2](https://github.com/wgtechlabs/clean-commit/pull/2#issuecomment-3659585926) in [wgtechlabs/clean-commit](https://github.com/wgtechlabs/clean-commit)
+2.  Labeled issue [#3](https://github.com/wgtechlabs/clean-commit/issues/3) in [wgtechlabs/clean-commit](https://github.com/wgtechlabs/clean-commit)
+3. ❗ Opened issue [#3](https://github.com/wgtechlabs/clean-commit/issues/3) in [wgtechlabs/clean-commit](https://github.com/wgtechlabs/clean-commit)
+4. ❌ Labeled PR [#13](undefined) in [wgtechlabs/nuvex](https://github.com/wgtechlabs/nuvex)
+5. 🗣 Commented on [#13](https://github.com/wgtechlabs/nuvex/pull/13#issuecomment-3655810280) in [wgtechlabs/nuvex](https://github.com/wgtechlabs/nuvex)
 <!--END_SECTION:activity-->
 
 </details>
