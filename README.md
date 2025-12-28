@@ -74,11 +74,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#13](undefined) in [warengonzaga/magic-release](https://github.com/warengonzaga/magic-release)
-2. 💪 Opened PR [#13](undefined) in [warengonzaga/magic-release](https://github.com/warengonzaga/magic-release)
-3.  Assigned issue [#4](https://github.com/wgtechlabs/clean-commit/issues/4) in [wgtechlabs/clean-commit](https://github.com/wgtechlabs/clean-commit)
-4. ❗ Opened issue [#4](https://github.com/wgtechlabs/clean-commit/issues/4) in [wgtechlabs/clean-commit](https://github.com/wgtechlabs/clean-commit)
-5. 🗣 Commented on [#2](https://github.com/wgtechlabs/clean-commit/pull/2#issuecomment-3659585926) in [wgtechlabs/clean-commit](https://github.com/wgtechlabs/clean-commit)
+1. 🗣 Commented on [#91](https://github.com/bettergovph/bettergov/issues/91#issuecomment-3694354920) in [bettergovph/bettergov](https://github.com/bettergovph/bettergov)
+2. ❌ Merged PR [#13](undefined) in [warengonzaga/magic-release](https://github.com/warengonzaga/magic-release)
+3. 💪 Opened PR [#13](undefined) in [warengonzaga/magic-release](https://github.com/warengonzaga/magic-release)
+4.  Assigned issue [#4](https://github.com/wgtechlabs/clean-commit/issues/4) in [wgtechlabs/clean-commit](https://github.com/wgtechlabs/clean-commit)
+5. ❗ Opened issue [#4](https://github.com/wgtechlabs/clean-commit/issues/4) in [wgtechlabs/clean-commit](https://github.com/wgtechlabs/clean-commit)
 <!--END_SECTION:activity-->
 
 </details>
