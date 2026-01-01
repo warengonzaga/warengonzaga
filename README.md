@@ -76,9 +76,9 @@ Wanna have chat with me? Join my tech communities!
 <!--START_SECTION:activity-->
 1. 🔒 Closed issue [#15](https://github.com/wgtechlabs/container-build-flow-action/issues/15) in [wgtechlabs/container-build-flow-action](https://github.com/wgtechlabs/container-build-flow-action)
 2. 🗣 Commented on [#91](https://github.com/bettergovph/bettergov/issues/91#issuecomment-3694354920) in [bettergovph/bettergov](https://github.com/bettergovph/bettergov)
-3. ❌ Merged PR [#13](undefined) in [warengonzaga/magic-release](https://github.com/warengonzaga/magic-release)
-4. 💪 Opened PR [#13](undefined) in [warengonzaga/magic-release](https://github.com/warengonzaga/magic-release)
-5.  Assigned issue [#4](https://github.com/wgtechlabs/clean-commit/issues/4) in [wgtechlabs/clean-commit](https://github.com/wgtechlabs/clean-commit)
+3. 🎉 Merged PR [#13](https://github.com/warengonzaga/magic-release/pull/13) in [warengonzaga/magic-release](https://github.com/warengonzaga/magic-release)
+4. 💪 Opened PR [#13](https://github.com/warengonzaga/magic-release/pull/13) in [warengonzaga/magic-release](https://github.com/warengonzaga/magic-release)
+5. ℹ️ Assigned issue [#4](https://github.com/wgtechlabs/clean-commit/issues/4) in [wgtechlabs/clean-commit](https://github.com/wgtechlabs/clean-commit)
 <!--END_SECTION:activity-->
 
 </details>
