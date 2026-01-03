@@ -74,11 +74,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10](https://github.com/warengonzaga/magic-release/pull/10#issuecomment-3705599673) in [warengonzaga/magic-release](https://github.com/warengonzaga/magic-release)
-2. 🔒 Closed issue [#16](https://github.com/wgtechlabs/container-build-flow-action/issues/16) in [wgtechlabs/container-build-flow-action](https://github.com/wgtechlabs/container-build-flow-action)
-3. 🗣 Commented on [#17](https://github.com/wgtechlabs/container-build-flow-action/pull/17#issuecomment-3705591817) in [wgtechlabs/container-build-flow-action](https://github.com/wgtechlabs/container-build-flow-action)
-4. 🔒 Closed issue [#4](https://github.com/wgtechlabs/clean-commit/issues/4) in [wgtechlabs/clean-commit](https://github.com/wgtechlabs/clean-commit)
-5. 🗣 Commented on [#17](https://github.com/wgtechlabs/container-build-flow-action/pull/17#issuecomment-3705585146) in [wgtechlabs/container-build-flow-action](https://github.com/wgtechlabs/container-build-flow-action)
+1. 🎉 Merged PR [#12](https://github.com/warengonzaga/magic-release/pull/12) in [warengonzaga/magic-release](https://github.com/warengonzaga/magic-release)
+2. 🎉 Merged PR [#10](https://github.com/warengonzaga/magic-release/pull/10) in [warengonzaga/magic-release](https://github.com/warengonzaga/magic-release)
+3. 🗣 Commented on [#10](https://github.com/warengonzaga/magic-release/pull/10#issuecomment-3705599673) in [warengonzaga/magic-release](https://github.com/warengonzaga/magic-release)
+4. 🔒 Closed issue [#16](https://github.com/wgtechlabs/container-build-flow-action/issues/16) in [wgtechlabs/container-build-flow-action](https://github.com/wgtechlabs/container-build-flow-action)
+5. 🗣 Commented on [#17](https://github.com/wgtechlabs/container-build-flow-action/pull/17#issuecomment-3705591817) in [wgtechlabs/container-build-flow-action](https://github.com/wgtechlabs/container-build-flow-action)
 <!--END_SECTION:activity-->
 
 </details>
