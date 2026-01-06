@@ -74,11 +74,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/warengonzaga/relay-protocol-mcp-server/pull/4#issuecomment-3715255193) in [warengonzaga/relay-protocol-mcp-server](https://github.com/warengonzaga/relay-protocol-mcp-server)
-2. 💪 Opened PR [#4](https://github.com/warengonzaga/relay-protocol-mcp-server/pull/4) in [warengonzaga/relay-protocol-mcp-server](https://github.com/warengonzaga/relay-protocol-mcp-server)
-3. ℹ️ Assigned PR [#4](https://github.com/warengonzaga/relay-protocol-mcp-server/pull/4) in [warengonzaga/relay-protocol-mcp-server](https://github.com/warengonzaga/relay-protocol-mcp-server)
-4. 🎉 Merged PR [#12](https://github.com/warengonzaga/magic-release/pull/12) in [warengonzaga/magic-release](https://github.com/warengonzaga/magic-release)
-5. 🎉 Merged PR [#10](https://github.com/warengonzaga/magic-release/pull/10) in [warengonzaga/magic-release](https://github.com/warengonzaga/magic-release)
+1. 🎉 Merged PR [#4](https://github.com/warengonzaga/relay-protocol-mcp-server/pull/4) in [warengonzaga/relay-protocol-mcp-server](https://github.com/warengonzaga/relay-protocol-mcp-server)
+2. 🗣 Commented on [#4](https://github.com/warengonzaga/relay-protocol-mcp-server/pull/4#issuecomment-3715255193) in [warengonzaga/relay-protocol-mcp-server](https://github.com/warengonzaga/relay-protocol-mcp-server)
+3. 💪 Opened PR [#4](https://github.com/warengonzaga/relay-protocol-mcp-server/pull/4) in [warengonzaga/relay-protocol-mcp-server](https://github.com/warengonzaga/relay-protocol-mcp-server)
+4. ℹ️ Assigned PR [#4](https://github.com/warengonzaga/relay-protocol-mcp-server/pull/4) in [warengonzaga/relay-protocol-mcp-server](https://github.com/warengonzaga/relay-protocol-mcp-server)
+5. 🎉 Merged PR [#12](https://github.com/warengonzaga/magic-release/pull/12) in [warengonzaga/magic-release](https://github.com/warengonzaga/magic-release)
 <!--END_SECTION:activity-->
 
 </details>
