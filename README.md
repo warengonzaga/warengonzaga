@@ -74,11 +74,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned issue [#6](https://github.com/wgtechlabs/clean-commit/issues/6) in [wgtechlabs/clean-commit](https://github.com/wgtechlabs/clean-commit)
+1. 🔒 Closed issue [#6](https://github.com/wgtechlabs/clean-commit/issues/6) in [wgtechlabs/clean-commit](https://github.com/wgtechlabs/clean-commit)
 2. ℹ️ Assigned issue [#6](https://github.com/wgtechlabs/clean-commit/issues/6) in [wgtechlabs/clean-commit](https://github.com/wgtechlabs/clean-commit)
-3. ℹ️ Labeled issue [#6](https://github.com/wgtechlabs/clean-commit/issues/6) in [wgtechlabs/clean-commit](https://github.com/wgtechlabs/clean-commit)
-4. ❗ Opened issue [#6](https://github.com/wgtechlabs/clean-commit/issues/6) in [wgtechlabs/clean-commit](https://github.com/wgtechlabs/clean-commit)
-5. 🗣 Commented on [#33](https://github.com/warengonzaga/fork-corner/pull/33#issuecomment-3734395960) in [warengonzaga/fork-corner](https://github.com/warengonzaga/fork-corner)
+3. ℹ️ Assigned issue [#6](https://github.com/wgtechlabs/clean-commit/issues/6) in [wgtechlabs/clean-commit](https://github.com/wgtechlabs/clean-commit)
+4. ℹ️ Labeled issue [#6](https://github.com/wgtechlabs/clean-commit/issues/6) in [wgtechlabs/clean-commit](https://github.com/wgtechlabs/clean-commit)
+5. ❗ Opened issue [#6](https://github.com/wgtechlabs/clean-commit/issues/6) in [wgtechlabs/clean-commit](https://github.com/wgtechlabs/clean-commit)
 <!--END_SECTION:activity-->
 
 </details>
