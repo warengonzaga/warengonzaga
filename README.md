@@ -74,11 +74,11 @@ Wanna have chat with me? Join my tech communities!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/warengonzaga/relay-protocol-stats/pull/2) in [warengonzaga/relay-protocol-stats](https://github.com/warengonzaga/relay-protocol-stats)
-2. ℹ️ Assigned PR [#2](https://github.com/warengonzaga/relay-protocol-stats/pull/2) in [warengonzaga/relay-protocol-stats](https://github.com/warengonzaga/relay-protocol-stats)
-3. 💪 Opened PR [#2](https://github.com/warengonzaga/relay-protocol-stats/pull/2) in [warengonzaga/relay-protocol-stats](https://github.com/warengonzaga/relay-protocol-stats)
-4. 🎉 Merged PR [#1](https://github.com/warengonzaga/relay-protocol-stats/pull/1) in [warengonzaga/relay-protocol-stats](https://github.com/warengonzaga/relay-protocol-stats)
-5. ℹ️ Assigned PR [#1](https://github.com/warengonzaga/relay-protocol-stats/pull/1) in [warengonzaga/relay-protocol-stats](https://github.com/warengonzaga/relay-protocol-stats)
+1. ❗ Opened issue [#17](https://github.com/czl9707/gh-space-shooter/issues/17) in [czl9707/gh-space-shooter](https://github.com/czl9707/gh-space-shooter)
+2. 🎉 Merged PR [#2](https://github.com/warengonzaga/relay-protocol-stats/pull/2) in [warengonzaga/relay-protocol-stats](https://github.com/warengonzaga/relay-protocol-stats)
+3. ℹ️ Assigned PR [#2](https://github.com/warengonzaga/relay-protocol-stats/pull/2) in [warengonzaga/relay-protocol-stats](https://github.com/warengonzaga/relay-protocol-stats)
+4. 💪 Opened PR [#2](https://github.com/warengonzaga/relay-protocol-stats/pull/2) in [warengonzaga/relay-protocol-stats](https://github.com/warengonzaga/relay-protocol-stats)
+5. 🎉 Merged PR [#1](https://github.com/warengonzaga/relay-protocol-stats/pull/1) in [warengonzaga/relay-protocol-stats](https://github.com/warengonzaga/relay-protocol-stats)
 <!--END_SECTION:activity-->
 
 </details>
