@@ -1,12 +1,13 @@
 # Hello, I'm Waren Gonzaga (💻💖☕) 👋
 
-<!-- markdownlint-disable MD033 -->
-<img src="https://readme-typing-svg.demolab.com?font=Roboto&size=25&pause=1000&color=FFFFFF&width=435&lines=AI+Engineer;Blockchain+Developer;Open+Source+Maintainer;Security+Researcher;Product+Builder" alt="Typing SVG" style="margin-bottom: -25px;" />
-<!-- markdownlint-enable MD033 -->
-
 Self-taught software engineer building products in AI, blockchain, and open source. 💻💖☕
 
 - 🌱 **Founder** @ [WG Technology Labs](https://wgtechlabs.com)
+- 💜 **CS Engineer** @ [Relay Protocol](https://relay.link)
+- 🩷 **Prev. CS Engineer** @ [thirdweb](https://thirdweb.com)
+
+## 👨‍💻 About Me
+
 - 🤖 **AI-first developer**, building tools that save hours of manual work
 - 🚀 **50+ projects shipped**, solving real problems for developers worldwide
 - 🔏 **Security researcher**, bug bounty hunter on Bugcrowd & HackerOne, skills sharpened on Hack The Box
