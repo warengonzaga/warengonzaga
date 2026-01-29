@@ -1,20 +1,18 @@
 # Hello, I'm Waren Gonzaga (💻💖☕) 👋
 
 <!-- markdownlint-disable MD033 -->
-<div style="margin-bottom: 10px;">
-    <p style="display: inline; font-size: 25px;">Your Friendly </p> <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=25&pause=1000&color=FFFFFF&width=435&lines=AI+Engineer;Blockchain+Developer;Open+Source+Maintainer;Security+Researcher;Product+Builder" alt="Typing SVG" style="margin-bottom: -25px;" />
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Roboto&size=25&pause=1000&color=FFFFFF&width=435&lines=AI+Engineer;Blockchain+Developer;Open+Source+Maintainer;Security+Researcher;Product+Builder" alt="Typing SVG" style="margin-bottom: -25px;" />
 <!-- markdownlint-enable MD033 -->
 
 Self-taught software engineer building products in AI, blockchain, and open source. 💻💖☕
 
-— 🌱 **Founder** @ [WG Technology Labs](https://wgtechlabs.com)
-— 🤖 **AI-first developer**, building tools that save hours of manual work
-— 🚀 **50+ projects shipped**, solving real problems for developers worldwide
-— 🔏 **Security researcher**, bug bounty hunter on Bugcrowd & HackerOne, skills sharpened on Hack The Box
-— 🎯 **2026 mission**, shipping 1 AI-focused project every 2 weeks
-— 🤫 **Philosophy**, silent builder who learns by shipping, not studying
-— 🦾 **Hobby**, building robots, electronics, and producing music
+- 🌱 **Founder** @ [WG Technology Labs](https://wgtechlabs.com)
+- 🤖 **AI-first developer**, building tools that save hours of manual work
+- 🚀 **50+ projects shipped**, solving real problems for developers worldwide
+- 🔏 **Security researcher**, bug bounty hunter on Bugcrowd & HackerOne, skills sharpened on Hack The Box
+- 🎯 **2026 mission**, shipping 1 AI-focused project every 2 weeks
+- 🤫 **Philosophy**, silent builder who learns by shipping, not studying
+- 🦾 **Hobby**, building robots, electronics, and producing music
 
 ## 🚀 Current Projects
 
@@ -71,17 +69,17 @@ Self-taught software engineer building products in AI, blockchain, and open sour
 
 ## 🏆 Recognition
 
-— **Top 100 Brightest Minds in the Philippines** (Under 30) → StellarPH, [2024](https://stellarph.io/programs/ph100/2024) & [2025](https://stellarph.io/programs/ph100/2025)
-— **Featured in HackSpace Magazine** → Page 73, [Issue 6](https://magazine.raspberrypi.com/hackspace/issues/6), 2018
-— **Hall of Fame** → LastPass Bug Bounty Program, Bugcrowd
+- **Top 100 Brightest Minds in the Philippines** (Under 30) → StellarPH, [2024](https://stellarph.io/programs/ph100/2024) & [2025](https://stellarph.io/programs/ph100/2025)
+- **Featured in HackSpace Magazine** → Page 73, [Issue 6](https://magazine.raspberrypi.com/hackspace/issues/6), 2018
+- **Hall of Fame** → LastPass Bug Bounty Program, Bugcrowd
 
 ## 🔥 What I'm Doing
 
-— Building AI tools and products at scale (one shipped every 2 weeks)
-— Shipping blockchain tools and web3 projects
-— Building robots and electronics projects
-— Producing AI music about love ([Siren of the Stars](https://open.spotify.com/artist/0Nft5GHQxrmcV2lRQsaZ8t?si=IpCVmk6NTkqTmk-XfxsxVg) & [The Robot City](https://open.spotify.com/artist/6JWGzR60rVwRLPl3ezwAGP?si=Ic75C7zZSsKlNBP5XJ53BQ))
-— Making modern christian music for God ([Barangay Kuwago](https://open.spotify.com/artist/3NRtowhLfgcA9ZvdT5oPwe?si=-ILd2jWpQWS620WYEazpbg))
+- Building AI tools and products at scale (one shipped every 2 weeks)
+- Shipping blockchain tools and web3 projects
+- Building robots and electronics projects
+- Producing AI music about love ([Siren of the Stars](https://open.spotify.com/artist/0Nft5GHQxrmcV2lRQsaZ8t?si=IpCVmk6NTkqTmk-XfxsxVg) & [The Robot City](https://open.spotify.com/artist/6JWGzR60rVwRLPl3ezwAGP?si=Ic75C7zZSsKlNBP5XJ53BQ))
+- Making modern christian music for God ([Barangay Kuwago](https://open.spotify.com/artist/3NRtowhLfgcA9ZvdT5oPwe?si=-ILd2jWpQWS620WYEazpbg))
 
 ## 💭 Philosophy
 
