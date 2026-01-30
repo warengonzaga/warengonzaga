@@ -12,7 +12,7 @@ Self-taught software engineer building products in AI, blockchain, and open sour
 - 🚀 **50+ projects shipped**, solving real problems for developers worldwide
 - 🔏 **Security researcher**, bug bounty hunter on Bugcrowd & HackerOne, skills sharpened on Hack The Box
 - 🎯 **2026 mission**, shipping 1 AI-focused project every 2 weeks
-- 🤫 **Philosophy**, silent builder who learns by shipping, not studying
+- 🤫 **Philosophy**, Silent builder who learns by shipping, turning problems into solutions.
 - 🦾 **Hobby**, building robots, electronics, and producing music
 
 ## 🚀 Current Projects
