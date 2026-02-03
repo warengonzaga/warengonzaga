@@ -1,4 +1,5 @@
-# Hello, I'm Waren Gonzaga (💻💖☕) 👋
+![GitHub Repo Banner](https://ghrb.waren.build/banner?header=I%27m+Waren+%F0%9F%91%8B&subheader=The+man+who+wastes+his+time+to+save+yours%21+%E2%9C%8C%EF%B8%8F%F0%9F%98%84&bg=00000000&color=FFFFFF&headerfont=Permanent+Marker&subheaderfont=Inter&watermarkpos=top-right)
+<!-- Created with GitHub Repo Banner by Waren Gonzaga: https://ghrb.waren.build -->
 
 Self-taught software engineer building products in AI, blockchain, and open source. 💻💖☕
 
