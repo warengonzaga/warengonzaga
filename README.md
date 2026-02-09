@@ -25,6 +25,7 @@ Self-taught software engineer building products in AI, blockchain, and open sour
 | --------------------------------------------------------------------- | --------------------------------------- | ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 🤖 **[Magic Commit](https://github.com/warengonzaga/magic-commit)**   | AI-powered Git commit message generator | AI/CLI | [![star](https://img.shields.io/github/stars/warengonzaga/magic-commit.svg?&logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/warengonzaga/magic-commit/stargazers)   |
 | 🚀 **[Magic Release](https://github.com/warengonzaga/magic-release)** | AI-powered release notes generator      | AI/CLI | [![star](https://img.shields.io/github/stars/warengonzaga/magic-release.svg?&logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/warengonzaga/magic-release/stargazers) |
+| 🐜 **[TinyClaw](https://github.com/warengonzaga/tinyclaw)**           | Ultra-minimal AI companion that learns  | AI     | [![star](https://img.shields.io/github/stars/warengonzaga/tinyclaw.svg?&logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/warengonzaga/tinyclaw/stargazers)           |
 
 ## 🌟 Side Projects
 
