@@ -27,6 +27,7 @@ Self-taught software engineer building products in AI, blockchain, and open sour
 | 🚀 **[Magic Release](https://github.com/warengonzaga/magic-release)** | AI-powered release notes generator      | AI/CLI | [![star](https://img.shields.io/github/stars/warengonzaga/magic-release.svg?&logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/warengonzaga/magic-release/stargazers) |
 | 🐜 **[TinyClaw](https://github.com/warengonzaga/tinyclaw)**           | Ultra-minimal AI companion that learns  | AI     | [![star](https://img.shields.io/github/stars/warengonzaga/tinyclaw.svg?&logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/warengonzaga/tinyclaw/stargazers)           |
 | 🐙 **[Open Tentacles](https://github.com/warengonzaga/opententacles)** | GitHub-native AI agent framework for OSS maintainers | AI/Bun | [![star](https://img.shields.io/github/stars/warengonzaga/opententacles.svg?&logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/warengonzaga/opententacles/stargazers) |
+| 🔄 **[Contribute Now](https://github.com/warengonzaga/contribute-now)** | AI-powered git workflow automation CLI | AI/CLI | [![star](https://img.shields.io/github/stars/warengonzaga/contribute-now.svg?&logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/warengonzaga/contribute-now/stargazers) |
 
 ## 🌟 Side Projects
 
@@ -76,7 +77,6 @@ Self-taught software engineer building products in AI, blockchain, and open sour
 | 🔗 **[ExpandURL CLI](https://github.com/warengonzaga/expandurl-cli)**                         | CLI tool to expand shortened URLs         | CLI            | [![star](https://img.shields.io/github/stars/warengonzaga/expandurl-cli.svg?&logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/warengonzaga/expandurl-cli/stargazers)                         |
 | 🏷️ **[GitHub Labels Template](https://github.com/warengonzaga/github-labels-template)**      | Apply curated GitHub labels               | CLI            | [![star](https://img.shields.io/github/stars/warengonzaga/github-labels-template.svg?&logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/warengonzaga/github-labels-template/stargazers)      |
 | 🛍️ **[Gumroad TS](https://github.com/warengonzaga/gumroad-ts)**                              | Gumroad TypeScript SDK                    | TypeScript     | [![star](https://img.shields.io/github/stars/warengonzaga/gumroad-ts.svg?&logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/warengonzaga/gumroad-ts/stargazers)                               |
-| 🔄 **[Contribute Now](https://github.com/warengonzaga/contribute-now)**                       | Git workflow automation CLI               | CLI            | [![star](https://img.shields.io/github/stars/warengonzaga/contribute-now.svg?&logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/warengonzaga/contribute-now/stargazers)                       |
 
 ## 📜 Legacy Work
 
