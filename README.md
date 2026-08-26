@@ -3,7 +3,7 @@
 
 Self-taught software engineer building products in AI, blockchain, and open source. 💻💖☕
 
-- 🌱 **Founder** @ [WG Technology Labs](https://wgtechlabs.com)
+- 🌱 **Founder** @ [WG Tech Labs](https://wgtechlabs.com) & [Amihan Tech](https://amihantech.com)
 - 💜 **CS Engineer** @ [Relay Protocol](https://relay.link)
 - 🩷 **Prev. CS Engineer** @ [thirdweb](https://thirdweb.com)
 
