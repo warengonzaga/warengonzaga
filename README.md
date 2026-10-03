@@ -1,113 +1,148 @@
-# Hi, I'm Waren Gonzaga (:coffee::computer::bulb::heart:)
+![GitHub Repo Banner](https://ghrb.waren.build/banner?header=I%27m+Waren+%F0%9F%91%8B&subheader=The+man+who+wastes+his+time+to+save+yours%21+%E2%9C%8C%EF%B8%8F%F0%9F%98%84&bg=00000000&color=FFFFFF&headerfont=Permanent+Marker&subheaderfont=Inter&watermarkpos=top-right)
+<!-- Created with GitHub Repo Banner by Waren Gonzaga: https://ghrb.waren.build -->
 
-📢 Nominate ([@WarenGonzaga](https://warengonzaga.com)) as **[GitHub Star](https://stars.github.com/nominate)**. If you appreciate his hardwork and dedication to open source.
+Self-taught software engineer building products in AI, blockchain, and open source. 💻💖☕
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/warengonzagaofficial) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/warengonzaga) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/warengonzagaofficial) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/warengonzaga) [![DEV](https://img.shields.io/badge/DEV-%23000000.svg?&style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/warengonzaga) [![BMC](https://img.shields.io/badge/BuyMeaCoffee-%23FFDD00.svg?&style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://bmc.xyz/warengonzaga)
+- 🌱 **Founder** @ [WG Tech Labs](https://wgtechlabs.com) & [Amihan Tech](https://amihantech.com)
+- 💜 **CS Engineer** @ [Relay Protocol](https://relay.link)
+- 🩷 **Prev. CS Engineer** @ [thirdweb](https://thirdweb.com)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Filipino+Software+Engineer;Open-Source+Developer+Advocate;Cybersecurity+Researcher;and+Technopreneur!;Nice+to+meet+you...)](https://git.io/typing-svg)
+## 👨‍💻 About Me
 
-I'm a Filipino freelance software engineer, opensource developer advocate, cybersecurity researcher, and technopreneur from the Philippines. Kumusta ka!
+- 🤖 **AI-first developer**, building tools that save hours of manual work
+- 🚀 **50+ projects shipped**, solving real problems for developers worldwide
+- 🔏 **Security researcher**, bug bounty hunter on Bugcrowd & HackerOne, skills sharpened on Hack The Box
+- 🎯 **2026 mission**, shipping 1 AI-focused project every 2 weeks
+- 🤫 **Philosophy**, Silent builder who learns by shipping, turning problems into solutions.
+- 🦾 **Hobby**, building robots, electronics, and producing music
+
+## 🚀 Current Projects
+
+> [!IMPORTANT]
+> **2026 Goal:** Shipping 1 AI-focused project every 2 weeks! Building tools that solve real problems. 💪🎯
+
+| Product                                                               | Description                             | Tech   | Stars                                                                                                                                                                                                 |
+| --------------------------------------------------------------------- | --------------------------------------- | ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 💬 **[Devin Discord Bot](https://github.com/wgtechlabs/devin-discord-bot)** | Deploy Devin, your friendly AI software engineer, directly into Discord | AI/Bot | [![star](https://img.shields.io/github/stars/wgtechlabs/devin-discord-bot.svg?&logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/wgtechlabs/devin-discord-bot/stargazers) |
+| 📱 **[Devin Telegram Bot](https://github.com/wgtechlabs/devin-telegram-bot)** | Self-hosted Telegram bot integration for Devin AI | AI/Bot | [![star](https://img.shields.io/github/stars/wgtechlabs/devin-telegram-bot.svg?&logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/wgtechlabs/devin-telegram-bot/stargazers) |
+| 🤖 **[Magic Commit](https://github.com/warengonzaga/magic-commit)**   | AI-powered Git commit message generator | AI/CLI | [![star](https://img.shields.io/github/stars/warengonzaga/magic-commit.svg?&logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/warengonzaga/magic-commit/stargazers)   |
+| 🚀 **[Magic Release](https://github.com/warengonzaga/magic-release)** | AI-powered release notes generator      | AI/CLI | [![star](https://img.shields.io/github/stars/warengonzaga/magic-release.svg?&logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/warengonzaga/magic-release/stargazers) |
+| 🐜 **[TinyClaw](https://github.com/warengonzaga/tinyclaw)**           | Ultra-minimal AI companion that learns  | AI     | [![star](https://img.shields.io/github/stars/warengonzaga/tinyclaw.svg?&logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/warengonzaga/tinyclaw/stargazers)           |
+| 🐙 **[Open Tentacles](https://github.com/warengonzaga/opententacles)** | GitHub-native AI agent framework for OSS maintainers | AI/Bun | [![star](https://img.shields.io/github/stars/warengonzaga/opententacles.svg?&logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/warengonzaga/opententacles/stargazers) |
+| 🔄 **[Contribute Now](https://github.com/warengonzaga/contribute-now)** | AI-powered Git workflow automation CLI | AI/CLI | [![star](https://img.shields.io/github/stars/warengonzaga/contribute-now.svg?&logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/warengonzaga/contribute-now/stargazers) |
+| 🤖 **[Rove](https://github.com/wgtechlabs/rove)** | Self-hosted company AI agent | AI/TypeScript | [![star](https://img.shields.io/github/stars/wgtechlabs/rove.svg?&logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/wgtechlabs/rove/stargazers) |
+| 🧩 **[Anytype MCP Plugin](https://github.com/wgtechlabs/anytype-mcp-plugin)** | Authenticated Anytype MCP integration for Codex and ChatGPT | AI/MCP | [![star](https://img.shields.io/github/stars/wgtechlabs/anytype-mcp-plugin.svg?&logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/wgtechlabs/anytype-mcp-plugin/stargazers) |
+| 🔄 **[Clean Workflow](https://github.com/wgtechlabs/clean-workflow)** | Workflow and skills conventions for AI agents | AI/Skill | [![star](https://img.shields.io/github/stars/wgtechlabs/clean-workflow.svg?&logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/wgtechlabs/clean-workflow/stargazers) |
+| 📖 **[Clean README](https://github.com/wgtechlabs/clean-readme)** | Planned AI-assisted README skill | AI/Skill | [![star](https://img.shields.io/github/stars/wgtechlabs/clean-readme.svg?&logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/wgtechlabs/clean-readme/stargazers) |
+| 🔍 **[Clean Code Review](https://github.com/wgtechlabs/clean-code-review)** | AI-agent skill for evidence-backed code and PR reviews | AI/Skill | [![star](https://img.shields.io/github/stars/wgtechlabs/clean-code-review.svg?&logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/wgtechlabs/clean-code-review/stargazers) |
+| 🛠️ **[Clean Coding](https://github.com/wgtechlabs/clean-coding)** | AI-agent skill for implementation, fixes, and refactoring | AI/Skill | [![star](https://img.shields.io/github/stars/wgtechlabs/clean-coding.svg?&logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/wgtechlabs/clean-coding/stargazers) |
+| 🚂 **[OpenDots Railway](https://github.com/warengonzaga/opendots-railway)** | Railway deployment template for CopilotKit OpenDots | AI/Railway | [![star](https://img.shields.io/github/stars/warengonzaga/opendots-railway.svg?&logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/warengonzaga/opendots-railway/stargazers) |
+
+## 🌟 Side Projects
+
+| Project                                                                                         | Organization                                           | Description                                | Stars                                                                                                                                                                                                                         |
+| ----------------------------------------------------------------------------------------------- | ------------------------------------------------------ | ------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 🧠 **[GitHub Copilot Chat Modes](https://github.com/wgtechlabs/github-copilot-chatmodes)**      | [WG Tech Labs](https://github.com/wgtechlabs)          | AI agents for smarter open-source projects | [![star](https://img.shields.io/github/stars/wgtechlabs/github-copilot-chatmodes.svg?&logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/wgtechlabs/github-copilot-chatmodes/stargazers)       |
+| 📝 **[Clean Commit](https://github.com/wgtechlabs/clean-commit)**                               | [WG Tech Labs](https://github.com/wgtechlabs)          | Clean code deserves clean commits          | [![star](https://img.shields.io/github/stars/wgtechlabs/clean-commit.svg?&logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/wgtechlabs/clean-commit/stargazers)                               |
+| 💬 **[Forum Support Discord Bot](https://github.com/wgtechlabs/forum-support-discord-bot)**     | [WG Tech Labs](https://github.com/wgtechlabs)          | Forum-based support bot                    | [![star](https://img.shields.io/github/stars/wgtechlabs/forum-support-discord-bot.svg?&logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/wgtechlabs/forum-support-discord-bot/stargazers)     |
+| 🤖 **[Unthread Discord Bot](https://github.com/wgtechlabs/unthread-discord-bot)**               | [WG Tech Labs](https://github.com/wgtechlabs)          | Unthread ticketing for Discord             | [![star](https://img.shields.io/github/stars/wgtechlabs/unthread-discord-bot.svg?&logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/wgtechlabs/unthread-discord-bot/stargazers)               |
+| 🔍 **[Log Engine](https://github.com/wgtechlabs/log-engine)**                                   | [WG Tech Labs](https://github.com/wgtechlabs)          | Node.js logging solution                   | [![star](https://img.shields.io/github/stars/wgtechlabs/log-engine.svg?&logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/wgtechlabs/log-engine/stargazers)                                   |
+| 🔐 **[Secrets Engine](https://github.com/wgtechlabs/secrets-engine)**                           | [WG Tech Labs](https://github.com/wgtechlabs)          | TypeScript secure secret storage SDK       | [![star](https://img.shields.io/github/stars/wgtechlabs/secrets-engine.svg?&logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/wgtechlabs/secrets-engine/stargazers)                           |
+| ⚙️ **[Config Engine](https://github.com/wgtechlabs/config-engine)**                             | [WG Tech Labs](https://github.com/wgtechlabs)          | Fast, Bun-first configuration SDK          | [![star](https://img.shields.io/github/stars/wgtechlabs/config-engine.svg?&logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/wgtechlabs/config-engine/stargazers)                             |
+| 📚 **[MDD Engine](https://github.com/wgtechlabs/mdd-engine)** | [WG Tech Labs](https://github.com/wgtechlabs) | Headless Markdown documentation engine (specification stage) | [![star](https://img.shields.io/github/stars/wgtechlabs/mdd-engine.svg?&logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/wgtechlabs/mdd-engine/stargazers) |
+| 📱 **[Unthread Telegram Bot](https://github.com/wgtechlabs/unthread-telegram-bot)**             | [WG Tech Labs](https://github.com/wgtechlabs)          | Telegram to support tickets                | [![star](https://img.shields.io/github/stars/wgtechlabs/unthread-telegram-bot.svg?&logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/wgtechlabs/unthread-telegram-bot/stargazers)             |
+| 💬 **[Unthread WhatsApp Bot](https://github.com/wgtechlabs/unthread-whatsapp-bot)**             | [WG Tech Labs](https://github.com/wgtechlabs)          | WhatsApp to support tickets                | [![star](https://img.shields.io/github/stars/wgtechlabs/unthread-whatsapp-bot.svg?&logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/wgtechlabs/unthread-whatsapp-bot/stargazers)             |
+| 🔄 **[Build Flow Action](https://github.com/wgtechlabs/build-flow-action)**                      | [WG Tech Labs](https://github.com/wgtechlabs)          | One workflow for CI, security, packaging, containers, and releases | [![star](https://img.shields.io/github/stars/wgtechlabs/build-flow-action.svg?&logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/wgtechlabs/build-flow-action/stargazers) |
+| 🧹 **[Clean Flow](https://github.com/wgtechlabs/clean-flow)**                                    | [WG Tech Labs](https://github.com/wgtechlabs)          | Ship through dev, keep main clean          | [![star](https://img.shields.io/github/stars/wgtechlabs/clean-flow.svg?&logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/wgtechlabs/clean-flow/stargazers)                                     |
+| 🐳 **[Container Build Flow](https://github.com/wgtechlabs/container-build-flow-action)** | [WG Tech Labs](https://github.com/wgtechlabs)          | Docker container build automation          | [![star](https://img.shields.io/github/stars/wgtechlabs/container-build-flow-action.svg?&logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/wgtechlabs/container-build-flow-action/stargazers) |
+| 📦 **[Package Build Flow](https://github.com/wgtechlabs/package-build-flow-action)**     | [WG Tech Labs](https://github.com/wgtechlabs)          | NPM package build automation               | [![star](https://img.shields.io/github/stars/wgtechlabs/package-build-flow-action.svg?&logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/wgtechlabs/package-build-flow-action/stargazers)     |
+| 🚀 **[Release Build Flow](https://github.com/wgtechlabs/release-build-flow-action)**     | [WG Tech Labs](https://github.com/wgtechlabs)          | Automated release creation                 | [![star](https://img.shields.io/github/stars/wgtechlabs/release-build-flow-action.svg?&logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/wgtechlabs/release-build-flow-action/stargazers)     |
+| 🪝 **[Unthread Webhook Server](https://github.com/wgtechlabs/unthread-webhook-server)**         | [WG Tech Labs](https://github.com/wgtechlabs)          | Unthread webhook server                    | [![star](https://img.shields.io/github/stars/wgtechlabs/unthread-webhook-server.svg?&logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/wgtechlabs/unthread-webhook-server/stargazers)         |
+| 🗄️ **[Nuvex](https://github.com/wgtechlabs/nuvex)**                                             | [WG Tech Labs](https://github.com/wgtechlabs)          | Structured memory SDK                      | [![star](https://img.shields.io/github/stars/wgtechlabs/nuvex.svg?&logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/wgtechlabs/nuvex/stargazers)                                             |
+| 📦 **[Unthread Webhook SDK](https://github.com/wgtechlabs/unthread-webhook-sdk)**               | [WG Tech Labs](https://github.com/wgtechlabs)          | Unthread webhook SDK                       | [![star](https://img.shields.io/github/stars/wgtechlabs/unthread-webhook-sdk.svg?&logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/wgtechlabs/unthread-webhook-sdk/stargazers)               |
+| 🚂 **[Is Railway](https://github.com/wgtechlabs/is-railway)**                                   | [WG Tech Labs](https://github.com/wgtechlabs)          | Railway platform detector                  | [![star](https://img.shields.io/github/stars/wgtechlabs/is-railway.svg?&logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/wgtechlabs/is-railway/stargazers)                                   |
+| 🎁 **[OSV Framework](https://github.com/wgtechlabs/osv-framework)**                             | [WG Tech Labs](https://github.com/wgtechlabs)          | Open Sponsor Value Framework               | [![star](https://img.shields.io/github/stars/wgtechlabs/osv-framework.svg?&logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/wgtechlabs/osv-framework/stargazers)                             |
+| 🛡️ **[Zentrynel](https://github.com/wgtechlabs/zentrynel)**                                     | [WG Tech Labs](https://github.com/wgtechlabs)          | Discord moderation bot                     | [![star](https://img.shields.io/github/stars/wgtechlabs/zentrynel.svg?&logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/wgtechlabs/zentrynel/stargazers)                                     |
+| 🦠 **[COVID-19 Tracker CLI](https://github.com/OSSPhilippines/covid19-tracker-cli)**            | [OSS Philippines](https://github.com/OSSPhilippines)   | COVID-19 terminal tracker                  | [![star](https://img.shields.io/github/stars/OSSPhilippines/covid19-tracker-cli.svg?&logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/OSSPhilippines/covid19-tracker-cli/stargazers)         |
+| 💜 **[Matuto](https://github.com/Web3Philippines/matuto)**                                      | [Web3 Philippines](https://github.com/Web3Philippines) | Web3 browser extension                     | [![star](https://img.shields.io/github/stars/Web3Philippines/matuto.svg?&logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/Web3Philippines/matuto/stargazers)                                 |
+
+## 🫣 Other Projects
+
+| Project                                                                                       | Description                               | Tech           | Stars                                                                                                                                                                                                                         |
+| --------------------------------------------------------------------------------------------- | ----------------------------------------- | -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 🎨 **[CSS Text Portrait Builder](https://github.com/warengonzaga/css-text-portrait-builder)** | Pure CSS portrait builder                 | CSS/JavaScript | [![star](https://img.shields.io/github/stars/warengonzaga/css-text-portrait-builder.svg?&logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/warengonzaga/css-text-portrait-builder/stargazers) |
+| 🖼️ **[GitHub Repo Banner](https://github.com/warengonzaga/github-repo-banner)**               | Customizable GitHub repository banners    | TypeScript     | [![star](https://img.shields.io/github/stars/warengonzaga/github-repo-banner.svg?&logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/warengonzaga/github-repo-banner/stargazers)               |
+| 🌄 **[GitHub Repo OpenGraph](https://github.com/warengonzaga/github-repo-opengraph)**         | Customizable Open Graph images for GitHub repositories | Open Graph    | [![star](https://img.shields.io/github/stars/warengonzaga/github-repo-opengraph.svg?&logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/warengonzaga/github-repo-opengraph/stargazers)         |
+| 📶 **[WiFi Passview](https://github.com/warengonzaga/wifi-passview)**                         | WiFi password viewer for Windows          | Batch          | [![star](https://img.shields.io/github/stars/warengonzaga/wifi-passview.svg?&logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/warengonzaga/wifi-passview/stargazers)                         |
+| 🧹 **[WRN Cleaner](https://github.com/warengonzaga/wrn-cleaner)**                             | Windows maintenance and cleanup tool      | Batch          | [![star](https://img.shields.io/github/stars/warengonzaga/wrn-cleaner.svg?&logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/warengonzaga/wrn-cleaner/stargazers)                             |
+| ☕ **[Buy Me a Coffee.js](https://github.com/warengonzaga/buymeacoffee.js)**                  | Buy Me a Coffee SDK                       | TypeScript     | [![star](https://img.shields.io/github/stars/warengonzaga/buymeacoffee.js.svg?&logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/warengonzaga/buymeacoffee.js/stargazers)                     |
+| 🕹️ **[Gather Town.js](https://github.com/warengonzaga/gathertown.js)**                        | Gather Town SDK                           | TypeScript     | [![star](https://img.shields.io/github/stars/warengonzaga/gathertown.js.svg?&logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/warengonzaga/gathertown.js/stargazers)                         |
+| ✨ **[Daisy.js](https://github.com/warengonzaga/daisy.js)**                                   | Web animation plugin for particle systems | JavaScript     | [![star](https://img.shields.io/github/stars/warengonzaga/daisy.js.svg?&logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/warengonzaga/daisy.js/stargazers)                                   |
+| 🍴 **[Fork Corner](https://github.com/warengonzaga/fork-corner)**                             | GitHub/GitLab fork corner label           | SCSS           | [![star](https://img.shields.io/github/stars/warengonzaga/fork-corner.svg?&logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/warengonzaga/fork-corner/stargazers)                             |
+| 💌 **[Love Cards](https://github.com/warengonzaga/love-cards)**                               | Interactive love cards web app            | CSS            | [![star](https://img.shields.io/github/stars/warengonzaga/love-cards.svg?&logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/warengonzaga/love-cards/stargazers)                               |
+| 🧩 **[thirdweb WP](https://github.com/warengonzaga/thirdweb-wp)**                             | thirdweb WordPress plugin                 | PHP            | [![star](https://img.shields.io/github/stars/warengonzaga/thirdweb-wp.svg?&logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/warengonzaga/thirdweb-wp/stargazers)                             |
+| 📦 **[IPFS Support Extension](https://github.com/warengonzaga/ipfs-support-extension)**       | IPFS browser extension                    | HTML           | [![star](https://img.shields.io/github/stars/warengonzaga/ipfs-support-extension.svg?&logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/warengonzaga/ipfs-support-extension/stargazers)       |
+| 🌊 **[Arweave Support Extension](https://github.com/warengonzaga/arweave-support-extension)** | Arweave browser extension                 | HTML           | [![star](https://img.shields.io/github/stars/warengonzaga/arweave-support-extension.svg?&logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/warengonzaga/arweave-support-extension/stargazers) |
+| 🔎 **[Is It Relay](https://github.com/warengonzaga/is-it-relay)**                             | Relay Protocol detector                   | TypeScript     | [![star](https://img.shields.io/github/stars/warengonzaga/is-it-relay.svg?&logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/warengonzaga/is-it-relay/stargazers)                             |
+| 📚 **[Relay Protocol Indexer App](https://github.com/warengonzaga/relay-protocol-indexer-app)** | Relay Protocol data indexer application | TypeScript | [![star](https://img.shields.io/github/stars/warengonzaga/relay-protocol-indexer-app.svg?&logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/warengonzaga/relay-protocol-indexer-app/stargazers) |
+| 📊 **[Relay Protocol Stats](https://github.com/warengonzaga/relay-protocol-stats)**           | Relay Protocol analytics dashboard        | TypeScript     | [![star](https://img.shields.io/github/stars/warengonzaga/relay-protocol-stats.svg?&logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/warengonzaga/relay-protocol-stats/stargazers)           |
+| 🌐 **[Relay World / Relay City](https://github.com/warengonzaga/relay-world)** | Three.js crosschain activity visualization | JavaScript/Three.js | [![star](https://img.shields.io/github/stars/warengonzaga/relay-world.svg?&logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/warengonzaga/relay-world/stargazers) |
+| 🎰 **[PCSO 2D Lotto Generator](https://github.com/warengonzaga/pcso-2d-lotto-generator)**     | PCSO 2D lotto number generator            | JavaScript     | [![star](https://img.shields.io/github/stars/warengonzaga/pcso-2d-lotto-generator.svg?&logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/warengonzaga/pcso-2d-lotto-generator/stargazers)     |
+| 🔗 **[ExpandURL CLI](https://github.com/warengonzaga/expandurl-cli)**                         | CLI tool to expand shortened URLs         | CLI            | [![star](https://img.shields.io/github/stars/warengonzaga/expandurl-cli.svg?&logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/warengonzaga/expandurl-cli/stargazers)                         |
+| 🏷️ **[GitHub Labels Template](https://github.com/warengonzaga/github-labels-template)**      | Apply curated GitHub labels               | CLI            | [![star](https://img.shields.io/github/stars/warengonzaga/github-labels-template.svg?&logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/warengonzaga/github-labels-template/stargazers)      |
+| 🛍️ **[Gumroad TS](https://github.com/warengonzaga/gumroad-ts)**                              | Gumroad TypeScript SDK                    | TypeScript     | [![star](https://img.shields.io/github/stars/warengonzaga/gumroad-ts.svg?&logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/warengonzaga/gumroad-ts/stargazers)                               |
+
+## 📜 Legacy Work
+
+| Project                                                          | Description                               | Tech | Stars                                                                                                                                                                                           |
+| ---------------------------------------------------------------- | ----------------------------------------- | ---- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 🎨 **[Animate.css](https://github.com/animate-css/animate.css)** | A cross-browser library of CSS animations | CSS  | [![star](https://img.shields.io/github/stars/animate-css/animate.css.svg?&logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/animate-css/animate.css/stargazers) |
+
+## 🏆 Recognition
+
+- **Top 100 Brightest Minds in the Philippines** (Under 30) → StellarPH, [2024](https://stellarph.io/programs/ph100/2024), [2025](https://stellarph.io/programs/ph100/2025) & [2026](https://stellarph.io/programs/ph100/2026) — three consecutive editions
+- **Featured in HackSpace Magazine** → Page 73, [Issue 6](https://magazine.raspberrypi.com/hackspace/issues/6), 2018
+- **Hall of Fame** → LastPass Bug Bounty Program, Bugcrowd
+
+## 🔥 What I'm Doing
+
+- Building AI tools and products at scale (one shipped every 2 weeks)
+- Shipping blockchain tools and web3 projects
+- Building robots and electronics projects
+- Producing AI music about love ([Siren of the Stars](https://open.spotify.com/artist/0Nft5GHQxrmcV2lRQsaZ8t?si=IpCVmk6NTkqTmk-XfxsxVg) & [The Robot City](https://open.spotify.com/artist/6JWGzR60rVwRLPl3ezwAGP?si=Ic75C7zZSsKlNBP5XJ53BQ))
+- Making modern christian music for God ([Barangay Kuwago](https://open.spotify.com/artist/3NRtowhLfgcA9ZvdT5oPwe?si=-ILd2jWpQWS620WYEazpbg))
+
+## 💭 Philosophy
+
+> "Build fast, learn faster. Every project is a lesson, every bug is wisdom."
+
+I'm a silent builder. While others announce what they'll build, I'm already shipping. No hype, no grand launches. Just real tools solving real problems. I learn by shipping, not studying. Every project starts as my own problem, then becomes your solution. As a self-taught engineer, code is my teacher and shipping is my curriculum. The work speaks louder than any pitch deck.
+
+## 🤔 How I Code
 
 <!-- markdownlint-disable MD033 -->
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/warengonzaga/warengonzaga/blob/main/devcard.svg" width="250" align="right" alt="Waren Gonzaga's Dev Card"/></a>
+<a href="https://gitroll.io/profile/utE73x4NTn3S4a883PO02c93s5Db2" target="_blank">
+    <img src="https://gitroll.io/api/badges/profiles/v1/utE73x4NTn3S4a883PO02c93s5Db2?theme=dark" 
+             width="600px"
+             alt="GitRoll Profile Badge"/>
+</a>
 <!-- markdownlint-enable MD033 -->
 
-🎙 [Recent Tech Talks](https://work.warengonzaga.com/warengonzaga/collections/1284) • 📦 [Open Source Updates](https://work.warengonzaga.com/warengonzaga/collections/1194)
+## 🌐 Connect
 
-- 💪 Currently working as a freelance software engineer.
-- 🔏 Bug bounty hunter in free time.
-- 💝 Author of multiple open source projects (~40 to date).
-- 💼 Founder and CEO, [WG Co.](https://github.com/wgcompanyhq), a start-up MSP for start-ups and MSMEs.
-- 👨‍🔬 Founder and CEO, [Amihan Tecchnologies](https://github.com/amihantech), a tech start-up.
-- 🖥️ Founder and Lead Developer of [Wareneutron Developers](https://github.com/wareneutron), popular pinoy open-source dev team.
-- 💞 Executive Director, [Algo Filipino](https://github.com/algofilipino), non-profit organization for language and technology.
-- ☕ Coffee lover, turning it into code, [you can buy me a coffee](https://buymeacoff.ee/warengonzaga)!
-- 🏆 2021 Goals:
-  - Become part of GitHub Stars.
-  - Contribute and publish more open source projects.
-  - Publish my first SaaS project.
-  - ~~Improve and expand my freelancing business.~~
-- 🎯 Wasting my time to save other people's time.
-- 💡 [Learn more about me](https://bio.link/warengonzaga).
-
-## 🎧 Spotify Playing
-
-[![Christian Pop Music](https://img.shields.io/badge/Christian%20Pop%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/0eufhXK7WPSiiwPcaz3Jq7?si=839465c918394657) [![Programming Music](https://img.shields.io/badge/Programming%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/1FWq5Cu05LmtSHgFEXRnZO?si=FozGJF9nRXq2wTv_JpN2wQ) [![KPOP Music](https://img.shields.io/badge/KPOP%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/2DFExFNWYOwQMZy6wUeCxX?si=s1Ndgj8hTg-r8zLlvRgv1Q) [![PPOP Music](https://img.shields.io/badge/PPOP%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/58bZKfJFpUl2CwWET1QJ3X?si=259YV8_VRS-IKHsFZMmPTQ)
-
-[![Spotify](https://readme-spotify.warengonzaga.com/api/spotify)](https://open.spotify.com/user/vmt7lpqdatuelp2chw7ur2p2l)
-
-## 🔧 Technologies
-
-![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS3](https://img.icons8.com/color/30/css3.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)![NodeJS](https://img.icons8.com/color/30/nodejs.png)![PHP](https://img.icons8.com/color/30/php.png)![WordPress](https://img.icons8.com/color/30/wordpress.png)![SASS](https://img.icons8.com/color/30/sass.png)![NPM](https://img.icons8.com/color/30/npm.png)![Github](https://img.icons8.com/material-outlined/30/github.png)![Bitbucket](https://img.icons8.com/color/30/bitbucket.png)![Gitlab](https://img.icons8.com/color/30/gitlab.png)![Git](https://img.icons8.com/color/30/git.png)![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)![VueJS](https://img.icons8.com/color/30/vue-js.png)![Flutter](https://img.icons8.com/color/30/flutter.png)![ReactJS](https://img.icons8.com/color/30/react-native.png)![AngularJS](https://img.icons8.com/color/30/angularjs.png)![Windows](https://img.icons8.com/color/30/windows-10.png)![Ubuntu](https://img.icons8.com/color/30/ubuntu--v1.png)![Linux](https://img.icons8.com/color/30/linux.png)![Kali Linux](https://img.icons8.com/color/30/kali-linux.png)![Console](https://img.icons8.com/color/30/console.png)
-
-## 🌏 My Community
-
-Wanna see some of my future projects? Join today!
-
-[![Community](https://discordapp.com/api/guilds/659684980137656340/widget.png?style=banner2)](https://wrngnz.ga/discord) [![Community](https://discordapp.com/api/guilds/694612151444439081/widget.png?style=banner2)](https://wareneutron.com/discord)
-
-## 🍀 Sponsors and Supporters
-
-[![BuyMeaCoffee](https://img.shields.io/badge/Buymeacoffee-%23FFDD00.svg?&style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoff.ee/warengonzaga) [![Vercel](https://img.shields.io/badge/Vercel-%23000.svg?&style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com) [![CircleCI](https://img.shields.io/badge/CircleCI-%23000.svg?&style=for-the-badge&logo=CircleCI&logoColor=white)](https://vercel.com) [![GitBook](https://img.shields.io/badge/GitBook-%233884FF.svg?&style=for-the-badge&logo=gitbook&logoColor=white)](https://gitbook.io) [![Digital Ocean](https://img.shields.io/badge/Digital%20Ocean-%230080ff.svg?&style=for-the-badge&logo=digitalocean&logoColor=white)](https://digitalocean.com) [![Deepware](https://img.shields.io/badge/deepware-%23cb2653.svg?&style=for-the-badge&logoColor=white)](https://deepware.ai/) [![NOWPayments](https://img.shields.io/badge/NOWPayments-%2364ACFF.svg?&style=for-the-badge&logoColor=white)](https://nowpayments.io) [![StackHawk](https://img.shields.io/badge/Stackhawk-%2300CBC6.svg?&style=for-the-badge&logoColor=white)](https://stackhawk.com)
-
-and **you**... [buy me a coffee](https://bmc.xyz/warengonzaga) if you love what I do!
+Follow **@warengonzaga** on [X (formerly Twitter)](https://x.com/warengonzaga) - [GitHub](https://github.com/warengonzaga) - [LinkedIn](https://linkedin.com/in/warengonzaga)
 
 ---
 
-<!-- markdownlint-disable MD033 -->
+💻💖☕ by [Waren Gonzaga](https://warengonzaga.com) | [YHWH](https://www.youtube.com/watch?v=VOZbswniA-g) 🙏 - Without _Him_, none of this exists, _even me_.
 
-<details>
-    <summary>&#128240 <b>Latest Blogs Posts</b></summary><br/>
-
-<!-- BLOG-POST-LIST:START -->
-- [Create CSS Text Portrait In Less Than 3 Minutes](https://blog.warengonzaga.com/create-css-text-portrait-in-less-than-3-minutes)
-- [My Experience as Maintainer for Hacktoberfest 2021](https://dev.to/warengonzaga/my-experience-as-maintainer-for-hacktoberfest-2021-4opm)
-- [7 Helpful GitHub Repositories for Developers](https://dev.to/warengonzaga/7-helpful-github-repositories-for-developers-2kkm)
-- [GitHub Codespaces](https://dev.to/warengonzaga/github-codespaces-1i8k)
-- [Animate.css v4 Update!](https://dev.to/warengonzaga/animate-css-v4-update-18m8)
-<!-- BLOG-POST-LIST:END -->
-
-</details>
-
-<details>
-    <summary>&#128187 <b>GitHub Activities</b></summary><br/>
-
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/WarenGonzaga/css-text-portrait-builder/issues/9) in [WarenGonzaga/css-text-portrait-builder](https://github.com/WarenGonzaga/css-text-portrait-builder)
-2. 🎉 Merged PR [#43](https://github.com/WarenGonzaga/css-text-portrait-builder/pull/43) in [WarenGonzaga/css-text-portrait-builder](https://github.com/WarenGonzaga/css-text-portrait-builder)
-3. 🗣 Commented on [#43](https://github.com/WarenGonzaga/css-text-portrait-builder/issues/43) in [WarenGonzaga/css-text-portrait-builder](https://github.com/WarenGonzaga/css-text-portrait-builder)
-4. ❗️ Opened issue [#14](https://github.com/WarenGonzaga/waren-discord-bot/issues/14) in [WarenGonzaga/waren-discord-bot](https://github.com/WarenGonzaga/waren-discord-bot)
-5. 🗣 Commented on [#34](https://github.com/WarenGonzaga/css-text-portrait-builder/issues/34) in [WarenGonzaga/css-text-portrait-builder](https://github.com/WarenGonzaga/css-text-portrait-builder)
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
-    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
-
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=warengonzaga)
-
-</details>
-
-<details>
-    <summary>&#9889 <b>GitHub Stats</b></summary><br/>
-
-[![Waren Gonzaga Github Stats](https://readme-stats.warengonzaga.com/api?username=warengonzaga&show_icons=true&count_private=true)](https://github.com/warengonzaga/github-readme-stats) [![Top Language](https://readme-stats.warengonzaga.com/api/top-langs?username=warengonzaga&layout=compact)](https://github.com/warengonzaga/github-readme-stats)
-
-</details>
-
-<!-- markdownlint-enable MD033 -->
-
-![metrics](https://github.com/warengonzaga/warengonzaga/blob/main/github-metrics.svg)
-
----
-
-:computer: Made with :heart: by **Waren Gonzaga** with **YHWH** :pray: | **[Citizen of Heaven](https://youtu.be/GwirdlbkUD8?t=150)** ▶️
-
+<!--
 [personal website]: https://warengonzaga.com
-[business website]: https://wgcompanyhq.com
+[business website]: https://wgtechlabs.com
 [biolink]: https://bio.link/warengonzaga
 [facebook]: https://facebook.com/warengonzagaofficial
-[twitter]: https://twitter.com/warengonzaga
 [instagram]: https://instagram.com/warengonzagaofficial
+[twitter]: https://twitter.com/warengonzaga
 [youtube]: https://youtube.com/warengonzaga
+[github]: https://github.com/warengonzaga
+-->
