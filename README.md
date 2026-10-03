@@ -100,7 +100,7 @@ Self-taught software engineer building products in AI, blockchain, and open sour
 
 ## 🏆 Recognition
 
-- **Top 100 Brightest Minds in the Philippines** (Under 30) → StellarPH, [2024](https://stellarph.io/programs/ph100/2024) & [2025](https://stellarph.io/programs/ph100/2025)
+- **Top 100 Brightest Minds in the Philippines** (Under 30) → StellarPH, [2024](https://stellarph.io/programs/ph100/2024), [2025](https://stellarph.io/programs/ph100/2025) & [2026](https://stellarph.io/programs/ph100/2026) — three consecutive editions
 - **Featured in HackSpace Magazine** → Page 73, [Issue 6](https://magazine.raspberrypi.com/hackspace/issues/6), 2018
 - **Hall of Fame** → LastPass Bug Bounty Program, Bugcrowd
 
