@@ -77,8 +77,6 @@ Self-taught software engineer building products in AI, blockchain, and open sour
 - **[thirdweb WP](https://github.com/warengonzaga/thirdweb-wp)** — thirdweb WordPress plugin · PHP
 - **[IPFS Support Extension](https://github.com/warengonzaga/ipfs-support-extension)** — IPFS browser extension · HTML
 - **[Arweave Support Extension](https://github.com/warengonzaga/arweave-support-extension)** — Arweave browser extension · HTML
-- **[Relay Protocol Indexer App](https://github.com/warengonzaga/relay-protocol-indexer-app)** — Relay Protocol data indexer application · TypeScript
-- **[Relay World / Relay City](https://github.com/warengonzaga/relay-world)** — Three.js crosschain activity visualization · JavaScript/Three.js
 - **[PCSO 2D Lotto Generator](https://github.com/warengonzaga/pcso-2d-lotto-generator)** — PCSO 2D lotto number generator · JavaScript
 - **[ExpandURL CLI](https://github.com/warengonzaga/expandurl-cli)** — CLI tool to expand shortened URLs · CLI
 - **[GitHub Labels Template](https://github.com/warengonzaga/github-labels-template)** — Apply curated GitHub labels · CLI
@@ -89,6 +87,8 @@ Self-taught software engineer building products in AI, blockchain, and open sour
 - **[Animate.css](https://github.com/animate-css/animate.css)** — A cross-browser library of CSS animations · CSS
 - **[Is It Relay](https://github.com/warengonzaga/is-it-relay)** — Relay Protocol detector · TypeScript
 - **[Relay Protocol Stats](https://github.com/warengonzaga/relay-protocol-stats)** — Relay Protocol analytics dashboard · TypeScript
+- **[Relay Protocol Indexer App](https://github.com/warengonzaga/relay-protocol-indexer-app)** — Relay Protocol data indexer application · TypeScript
+- **[Relay World / Relay City](https://github.com/warengonzaga/relay-world)** — Three.js crosschain activity visualization · JavaScript/Three.js
 
 ## 🏆 Recognition
 
