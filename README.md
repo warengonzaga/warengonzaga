@@ -89,6 +89,7 @@ Self-taught software engineer building products in AI, blockchain, and open sour
 - **[Relay Protocol Stats](https://github.com/warengonzaga/relay-protocol-stats)** — Relay Protocol analytics dashboard · TypeScript
 - **[Relay Protocol Indexer App](https://github.com/warengonzaga/relay-protocol-indexer-app)** — Relay Protocol data indexer application · TypeScript
 - **[Relay World / Relay City](https://github.com/warengonzaga/relay-world)** — Three.js crosschain activity visualization · JavaScript/Three.js
+- **[Relay Protocol MCP Server](https://github.com/warengonzaga/relay-protocol-mcp-server)** — Model Context Protocol server for the Relay Protocol REST API · TypeScript
 
 ## 🏆 Recognition
 
